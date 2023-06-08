@@ -1,1 +1,1 @@
-"# CE-s-Minerals-More" 
+# Source Code for "CE's Minerals & More"
