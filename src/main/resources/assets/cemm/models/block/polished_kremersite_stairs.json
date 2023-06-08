@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:blocks/polished_kremersite",
+    "top": "cemm:blocks/polished_kremersite",
+    "side": "cemm:blocks/polished_kremersite"
+  },
+  "render_type": "solid"
+}

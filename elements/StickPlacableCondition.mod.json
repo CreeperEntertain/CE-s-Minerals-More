@@ -1,0 +1,93 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.GRASS_PATH"
+      },
+      {
+        "value": "Blocks.MYCELIUM"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "Blocks.FARMLAND"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "stick_placable_condition",
+    "namespace": "forge"
+  }
+}

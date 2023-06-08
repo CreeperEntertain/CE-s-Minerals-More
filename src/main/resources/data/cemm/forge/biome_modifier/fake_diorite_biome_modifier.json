@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:diorite_cave",
+    "cemm:chlorophyl"
+  ],
+  "features": "cemm:fake_diorite",
+  "step": "underground_ores"
+}

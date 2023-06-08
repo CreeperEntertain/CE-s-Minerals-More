@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:warning_tape"
+    },
+    "1": {
+      "item": "cemm:warning_tape"
+    },
+    "2": {
+      "item": "cemm:warning_tape"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    },
+    "5": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:warning_sign",
+    "count": 3
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:copper_wire"
+    },
+    "4": {
+      "item": "cemm:antimony_ingot"
+    },
+    "5": {
+      "item": "cemm:copper_wire"
+    },
+    "6": {
+      "item": "cemm:plastic_sheets"
+    },
+    "7": {
+      "item": "cemm:tantalum_ingot"
+    },
+    "8": {
+      "item": "cemm:plastic_sheets"
+    }
+  },
+  "result": {
+    "item": "cemm:resistor",
+    "count": 2
+  }
+}

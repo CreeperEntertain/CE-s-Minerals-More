@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Ores & Deposits",
+    "icon": {
+      "value": "CUSTOM:SulfurOre"
+    },
+    "showSearch": false
+  }
+}

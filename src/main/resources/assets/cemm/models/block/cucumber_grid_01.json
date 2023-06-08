@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/cucumber_grid_01",
+  "textures": {
+    "all": "cemm:blocks/thread_grid",
+    "particle": "cemm:blocks/thread_grid",
+    "cucumber": "cemm:blocks/cucumber_plant",
+    "thread_grid": "cemm:blocks/thread_grid",
+    "vine": "cemm:blocks/plant_vine"
+  },
+  "render_type": "cutout_mipped"
+}

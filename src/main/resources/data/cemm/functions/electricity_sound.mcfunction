@@ -1,0 +1,1 @@
+playsound cemm:block.electricity block @a ~ ~ ~ 1 1 0

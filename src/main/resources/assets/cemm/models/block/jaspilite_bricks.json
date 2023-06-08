@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/jaspilite_bricks",
+    "particle": "cemm:blocks/jaspilite_bricks"
+  },
+  "render_type": "solid"
+}

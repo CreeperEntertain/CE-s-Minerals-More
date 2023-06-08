@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/battery",
+    "particle": "cemm:blocks/battery"
+  },
+  "render_type": "solid"
+}

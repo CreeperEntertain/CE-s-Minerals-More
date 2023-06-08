@@ -1,0 +1,99 @@
+{
+  "_fv": 39,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "shiftgrass",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "shiftgrass",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "staticPlantGenerationType": "Grass",
+    "suspiciousStewEffect": "STRENGTH",
+    "suspiciousStewDuration": 0,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Shiftgrass",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:Nyline"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 3,
+    "spawnWorldTypes": [
+      "CUSTOM:TheVoid"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:VoidBarrens"
+      }
+    ],
+    "patchSize": 10,
+    "generateAtAnyHeight": true
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/bastnaesite_deposit",
+    "particle": "cemm:blocks/bastnaesite_deposit"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:chalk_mountains",
+    "cemm:chalk_steppes"
+  ],
+  "features": "cemm:chalk_diorite_feature",
+  "step": "surface_structures"
+}

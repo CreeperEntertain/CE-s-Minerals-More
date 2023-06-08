@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_olivine",
+    "top": "cemm:blocks/polished_olivine",
+    "side": "cemm:blocks/polished_olivine"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/sanded_jaspilite",
+    "top": "cemm:blocks/sanded_jaspilite",
+    "side": "cemm:blocks/sanded_jaspilite"
+  },
+  "render_type": "solid"
+}

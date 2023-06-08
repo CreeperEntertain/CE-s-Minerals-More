@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/murdochite",
+    "particle": "cemm:blocks/murdochite"
+  },
+  "render_type": "solid"
+}

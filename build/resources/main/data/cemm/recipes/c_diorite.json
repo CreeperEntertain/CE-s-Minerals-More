@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "cemm:mountain_quartz"
+    },
+    "2": {
+      "item": "cemm:mountain_quartz"
+    },
+    "3": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "minecraft:diorite",
+    "count": 2
+  }
+}

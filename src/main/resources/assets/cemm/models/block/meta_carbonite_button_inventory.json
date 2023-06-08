@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "cemm:blocks/meta_carbonite"
+  },
+  "render_type": "solid"
+}

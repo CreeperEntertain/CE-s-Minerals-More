@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/hornfels_top",
+    "top": "cemm:blocks/hornfels_top",
+    "side": "cemm:blocks/hornfels"
+  },
+  "render_type": "solid"
+}

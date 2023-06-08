@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/todorokite_top",
+    "up": "cemm:blocks/todorokite_top",
+    "north": "cemm:blocks/todorokite",
+    "east": "cemm:blocks/todorokite",
+    "south": "cemm:blocks/todorokite",
+    "west": "cemm:blocks/todorokite",
+    "particle": "cemm:blocks/todorokite_top"
+  },
+  "render_type": "solid"
+}

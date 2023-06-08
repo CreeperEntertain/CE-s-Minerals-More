@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChlorowoodDoor"
+    },
+    "name": "c_chlorowood_door",
+    "namespace": "mod"
+  }
+}

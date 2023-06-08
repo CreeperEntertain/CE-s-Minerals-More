@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/pietersite",
+    "top": "cemm:blocks/pietersite",
+    "side": "cemm:blocks/pietersite"
+  },
+  "render_type": "solid"
+}

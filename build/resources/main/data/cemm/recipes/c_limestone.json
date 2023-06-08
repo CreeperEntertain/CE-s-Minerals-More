@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:limestone_pieces"
+    },
+    "1": {
+      "item": "cemm:limestone_pieces"
+    },
+    "2": {
+      "item": "cemm:limestone_pieces"
+    },
+    "3": {
+      "item": "cemm:limestone_pieces"
+    }
+  },
+  "result": {
+    "item": "cemm:limestone",
+    "count": 1
+  }
+}

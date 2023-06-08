@@ -1,0 +1,1139 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 200,
+    "height": 37,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_energy_level_energy",
+          "text": {
+            "fixedValue": "Energy Level:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 121,
+          "y": 110
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar.png",
+          "use1Xscale": false,
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_1.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay1"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_2.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay2"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_3.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay3"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_4.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay4"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_5.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay5"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_6.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay6"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_7.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay7"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_8.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay8"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_9.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay9"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_10.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay10"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_11.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay11"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_12.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay12"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_13.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay13"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_14.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay14"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_15.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay15"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_16.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay16"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_17.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay17"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_18.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay18"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_19.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay19"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay20.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay20"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay21.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay21"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay22.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay22"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay23.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay23"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay24.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay24"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay25.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay25"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay26.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay26"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay27.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay27"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay28.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay28"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay29.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay29"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay30.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay30"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay31.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay31"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay32.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay32"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay33.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay33"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay34.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay34"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay35.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay35"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay36.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay36"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay37.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay37"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay38.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay38"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay39.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay39"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay40.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay40"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay41.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay41"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay42.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay42"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay43.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay43"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay44.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay44"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay45.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay45"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay46.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay46"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay47.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay47"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay48.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay48"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay49.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay49"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay50.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay50"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay51.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay51"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay52.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay52"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay53.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay53"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay54.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay54"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay55.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay55"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay56.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay56"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay57.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay57"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay58.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay58"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay59.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay59"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay60.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay60"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay61.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay61"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay62.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay62"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay63.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay63"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay64.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay64"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay65.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay65"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay66.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay66"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay67.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay67"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay68.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay68"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay69.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay69"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay70.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay70"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay71.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay71"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay72.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay72"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay73.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay73"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay74.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay74"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay75.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay75"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay76.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay76"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay77.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overay77"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay78.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay78"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay79.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay79"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay80.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay80"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay81.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay81"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay82.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay82"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay83.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay83"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay84.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay84"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay85.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay85"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay86.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay86"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay87.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay87"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay88.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay88"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay89.png",
+          "use1Xscale": false,
+          "displayCondition": {
+            "name": "Overlay89"
+          },
+          "x": 121,
+          "y": 126
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bar_overlay_top.png",
+          "use1Xscale": false,
+          "x": 120,
+          "y": 126
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty",
+          "text": {
+            "fixedValue": "",
+            "name": "EnergyValue"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 193,
+          "y": 110
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 10,
+      "sy": 10,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

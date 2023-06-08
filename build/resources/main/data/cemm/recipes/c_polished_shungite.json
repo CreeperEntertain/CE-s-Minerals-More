@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shungite"
+    },
+    "1": {
+      "item": "cemm:shungite"
+    },
+    "2": {
+      "item": "cemm:shungite"
+    },
+    "3": {
+      "item": "cemm:shungite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_shungite",
+    "count": 4
+  }
+}

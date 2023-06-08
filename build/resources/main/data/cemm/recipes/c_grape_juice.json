@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    " 3"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glass_bottle"
+    },
+    "1": {
+      "item": "cemm:grapes"
+    },
+    "3": {
+      "item": "cemm:grapes"
+    }
+  },
+  "result": {
+    "item": "cemm:grape_juice",
+    "count": 1
+  }
+}

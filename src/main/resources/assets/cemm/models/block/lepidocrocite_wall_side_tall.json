@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:blocks/lepidocrocite",
+    "particle": "cemm:blocks/lepidocrocite"
+  },
+  "render_type": "solid"
+}

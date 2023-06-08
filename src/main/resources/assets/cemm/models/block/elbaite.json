@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/elbaite_top",
+    "up": "cemm:blocks/elbaite_top",
+    "north": "cemm:blocks/elbaite",
+    "east": "cemm:blocks/elbaite",
+    "south": "cemm:blocks/elbaite",
+    "west": "cemm:blocks/elbaite",
+    "particle": "cemm:blocks/elbaite_top"
+  },
+  "render_type": "solid"
+}

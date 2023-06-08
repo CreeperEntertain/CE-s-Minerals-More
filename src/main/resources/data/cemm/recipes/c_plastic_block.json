@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "cemm:plastic_sheets"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:plastic_sheets"
+    },
+    "4": {
+      "item": "cemm:plastic_sheets"
+    },
+    "5": {
+      "item": "cemm:plastic_sheets"
+    },
+    "6": {
+      "item": "cemm:plastic_sheets"
+    },
+    "7": {
+      "item": "cemm:plastic_sheets"
+    },
+    "8": {
+      "item": "cemm:plastic_sheets"
+    }
+  },
+  "result": {
+    "item": "cemm:plastic_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalBlock"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalBlock"
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalBlock"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalBlock"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BuddingChronocrystal"
+    },
+    "name": "c_budding_chronocrystal",
+    "namespace": "mod"
+  }
+}

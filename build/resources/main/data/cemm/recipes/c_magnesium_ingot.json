@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:magnesium_crystals"
+    },
+    "1": {
+      "item": "cemm:magnesium_crystals"
+    },
+    "2": {
+      "item": "cemm:magnesium_crystals"
+    },
+    "3": {
+      "item": "cemm:magnesium_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:magnesium_ingot",
+    "count": 1
+  }
+}

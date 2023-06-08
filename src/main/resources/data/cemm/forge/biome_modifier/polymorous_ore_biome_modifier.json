@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:void_flats",
+    "cemm:void_pits",
+    "cemm:void_forest",
+    "cemm:chlorophyl",
+    "cemm:void_pillars"
+  ],
+  "features": "cemm:polymorous_ore",
+  "step": "underground_ores"
+}

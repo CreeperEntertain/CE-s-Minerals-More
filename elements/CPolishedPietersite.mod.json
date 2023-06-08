@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Pietersite"
+      },
+      {
+        "value": "CUSTOM:Pietersite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Pietersite"
+      },
+      {
+        "value": "CUSTOM:Pietersite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedPietersite"
+    },
+    "name": "c_polished_pietersite",
+    "namespace": "mod"
+  }
+}

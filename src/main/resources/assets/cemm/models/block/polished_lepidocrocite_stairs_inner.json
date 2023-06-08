@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/polished_lepidocrocite",
+    "top": "cemm:blocks/polished_lepidocrocite",
+    "side": "cemm:blocks/polished_lepidocrocite"
+  },
+  "render_type": "solid"
+}

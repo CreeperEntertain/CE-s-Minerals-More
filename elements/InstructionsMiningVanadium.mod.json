@@ -1,0 +1,44 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 400,
+    "height": 212,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "z_screen_vanadium.png",
+          "use1Xscale": false,
+          "x": 14,
+          "y": 14
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 40,
+      "sy": 56,
+      "ox": 27,
+      "oy": 27,
+      "snapOnGrid": false
+    }
+  }
+}

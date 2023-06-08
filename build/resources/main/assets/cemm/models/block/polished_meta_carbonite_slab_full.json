@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_meta_carbonite",
+    "top": "cemm:blocks/polished_meta_carbonite",
+    "side": "cemm:blocks/polished_meta_carbonite"
+  },
+  "render_type": "solid"
+}

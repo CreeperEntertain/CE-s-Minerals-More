@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/shungite_new",
+    "top": "cemm:blocks/shungite_new",
+    "side": "cemm:blocks/shungite_new"
+  },
+  "render_type": "solid"
+}

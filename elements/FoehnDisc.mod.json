@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Foehn",
+    "texture": "foehn",
+    "description": "Esoots - Foehn",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.foehn"
+    },
+    "lengthInTicks": 3620,
+    "analogOutput": 15
+  }
+}

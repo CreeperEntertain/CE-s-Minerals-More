@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/grape_grid_03",
+  "textures": {
+    "all": "cemm:blocks/thread_grid",
+    "particle": "cemm:blocks/thread_grid",
+    "cucumber": "cemm:blocks/grapes_plant",
+    "thread_grid": "cemm:blocks/thread_grid",
+    "vine": "cemm:blocks/grape_vine"
+  },
+  "render_type": "cutout_mipped"
+}

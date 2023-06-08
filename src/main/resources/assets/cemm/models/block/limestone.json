@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/limestone_top",
+    "up": "cemm:blocks/limestone_top",
+    "north": "cemm:blocks/limestone",
+    "east": "cemm:blocks/limestone",
+    "south": "cemm:blocks/limestone",
+    "west": "cemm:blocks/limestone",
+    "particle": "cemm:blocks/limestone_top"
+  },
+  "render_type": "solid"
+}

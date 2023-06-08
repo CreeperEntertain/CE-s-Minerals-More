@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:cave_air",
+    "minecraft:command_block",
+    "minecraft:chain_command_block",
+    "cemm:laser",
+    "minecraft:water",
+    "minecraft:obsidian",
+    "minecraft:structure_void",
+    "minecraft:end_portal_frame",
+    "minecraft:observer",
+    "minecraft:barrier",
+    "minecraft:bedrock",
+    "minecraft:structure_block",
+    "minecraft:void_air",
+    "minecraft:repeating_command_block",
+    "minecraft:end_portal",
+    "cemm:acid",
+    "minecraft:crying_obsidian",
+    "minecraft:air",
+    "minecraft:end_gateway",
+    "minecraft:bubble_column",
+    "minecraft:lava",
+    "cemm:tungsten_block",
+    "minecraft:light",
+    "minecraft:jigsaw"
+  ]
+}

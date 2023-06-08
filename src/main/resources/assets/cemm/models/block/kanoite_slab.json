@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/kanoite",
+    "top": "cemm:blocks/kanoite",
+    "side": "cemm:blocks/kanoite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:blocks/chlorovines",
+    "particle": "cemm:blocks/chlorovines"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "cemm:blocks/ebony_planks",
+    "particle": "cemm:blocks/ebony_planks"
+  },
+  "render_type": "solid"
+}

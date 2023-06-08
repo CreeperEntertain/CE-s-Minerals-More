@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "cemm:blocks/ebony_planks"
+  },
+  "render_type": "solid"
+}

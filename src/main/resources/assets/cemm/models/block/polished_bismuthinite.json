@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/polished_bismuthinite",
+    "particle": "cemm:blocks/polished_bismuthinite"
+  },
+  "render_type": "solid"
+}

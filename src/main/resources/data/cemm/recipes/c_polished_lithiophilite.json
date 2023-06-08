@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lithiophilite"
+    },
+    "1": {
+      "item": "cemm:lithiophilite"
+    },
+    "2": {
+      "item": "cemm:lithiophilite"
+    },
+    "3": {
+      "item": "cemm:lithiophilite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_lithiophilite",
+    "count": 4
+  }
+}

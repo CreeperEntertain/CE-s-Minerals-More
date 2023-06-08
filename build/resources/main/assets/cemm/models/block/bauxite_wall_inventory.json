@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:blocks/bauxite_block_new",
+    "particle": "cemm:blocks/bauxite_block_new"
+  },
+  "render_type": "solid"
+}

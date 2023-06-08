@@ -1,0 +1,9 @@
+{
+  "_fv": 39,
+  "_type": "function",
+  "definition": {
+    "code": "playsound cemm:block.electricity block @a ~ ~ ~ 1 1 0",
+    "name": "electricity_sound",
+    "namespace": "mod"
+  }
+}

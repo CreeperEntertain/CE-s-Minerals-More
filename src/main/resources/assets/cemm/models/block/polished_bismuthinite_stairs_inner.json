@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/polished_bismuthinite",
+    "top": "cemm:blocks/polished_bismuthinite",
+    "side": "cemm:blocks/polished_bismuthinite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:limestone_pieces"
+    },
+    "1": {
+      "item": "cemm:limestone_pieces"
+    },
+    "2": {
+      "item": "cemm:limestone_pieces"
+    },
+    "3": {
+      "item": "cemm:limestone_pieces"
+    },
+    "4": {
+      "item": "minecraft:gray_dye"
+    },
+    "5": {
+      "item": "cemm:limestone_pieces"
+    },
+    "6": {
+      "item": "cemm:limestone_pieces"
+    },
+    "7": {
+      "item": "cemm:limestone_pieces"
+    },
+    "8": {
+      "item": "cemm:limestone_pieces"
+    }
+  },
+  "result": {
+    "item": "minecraft:gray_concrete",
+    "count": 2
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:blocks/aerinite",
+    "particle": "cemm:blocks/aerinite"
+  },
+  "render_type": "solid"
+}

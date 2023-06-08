@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/polished_breccia",
+    "top": "cemm:blocks/polished_breccia",
+    "side": "cemm:blocks/polished_breccia"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/bauxite_block_new",
+    "top": "cemm:blocks/bauxite_block_new",
+    "side": "cemm:blocks/bauxite_block_new"
+  },
+  "render_type": "solid"
+}

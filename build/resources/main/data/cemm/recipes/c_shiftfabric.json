@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shiftlace"
+    },
+    "1": {
+      "item": "cemm:shiftlace"
+    },
+    "2": {
+      "item": "cemm:shiftlace"
+    },
+    "3": {
+      "item": "cemm:shiftlace"
+    },
+    "4": {
+      "item": "cemm:shiftlace"
+    },
+    "5": {
+      "item": "cemm:shiftlace"
+    },
+    "6": {
+      "item": "cemm:shiftlace"
+    },
+    "7": {
+      "item": "cemm:shiftlace"
+    },
+    "8": {
+      "item": "cemm:shiftlace"
+    }
+  },
+  "result": {
+    "item": "cemm:shiftfabric",
+    "count": 1
+  }
+}

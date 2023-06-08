@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/magnetite",
+    "top": "cemm:blocks/magnetite",
+    "side": "cemm:blocks/magnetite"
+  },
+  "render_type": "solid"
+}

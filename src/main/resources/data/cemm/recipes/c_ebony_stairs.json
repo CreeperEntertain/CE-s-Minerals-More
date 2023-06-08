@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ebony_planks"
+    },
+    "3": {
+      "item": "cemm:ebony_planks"
+    },
+    "4": {
+      "item": "cemm:ebony_planks"
+    },
+    "6": {
+      "item": "cemm:ebony_planks"
+    },
+    "7": {
+      "item": "cemm:ebony_planks"
+    },
+    "8": {
+      "item": "cemm:ebony_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:ebony_stairs",
+    "count": 4
+  }
+}

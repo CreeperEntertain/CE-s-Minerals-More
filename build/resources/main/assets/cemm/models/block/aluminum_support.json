@@ -1,0 +1,12 @@
+{
+  "parent": "cemm:custom/aluminumsupport",
+  "textures": {
+    "all": "cemm:blocks/aluminum_grid",
+    "particle": "cemm:blocks/aluminum_grid",
+    "Side": "cemm:blocks/aluminum_support_side",
+    "Top": "cemm:blocks/aluminum_grid",
+    "Front": "cemm:blocks/aluminum_stairs_top",
+    "Back": "cemm:blocks/aluminum_scaffolding"
+  },
+  "render_type": "cutout_mipped"
+}

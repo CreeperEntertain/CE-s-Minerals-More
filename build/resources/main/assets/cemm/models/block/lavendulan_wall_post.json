@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:blocks/lavendulan",
+    "particle": "cemm:blocks/lavendulan"
+  },
+  "render_type": "solid"
+}

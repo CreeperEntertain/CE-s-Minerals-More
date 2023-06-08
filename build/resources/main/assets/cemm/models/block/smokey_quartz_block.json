@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/smokey_quartz_block_bottom",
+    "up": "cemm:blocks/smokey_quartz_block_top",
+    "north": "cemm:blocks/smokey_quartz_block_side",
+    "east": "cemm:blocks/smokey_quartz_block_side",
+    "south": "cemm:blocks/smokey_quartz_block_side",
+    "west": "cemm:blocks/smokey_quartz_block_side",
+    "particle": "cemm:blocks/smokey_quartz_block_bottom"
+  },
+  "render_type": "solid"
+}

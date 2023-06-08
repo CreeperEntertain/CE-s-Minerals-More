@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/tinakisite",
+    "top": "cemm:blocks/tinakisite",
+    "side": "cemm:blocks/tinakisite"
+  },
+  "render_type": "solid"
+}

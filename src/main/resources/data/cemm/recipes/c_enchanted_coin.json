@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:magic_dust"
+    },
+    "1": {
+      "item": "cemm:cobalt_coin"
+    },
+    "2": {
+      "item": "cemm:magic_dust"
+    },
+    "3": {
+      "item": "cemm:cobalt_coin"
+    },
+    "4": {
+      "item": "cemm:magic_dust"
+    },
+    "5": {
+      "item": "cemm:cobalt_coin"
+    },
+    "6": {
+      "item": "cemm:magic_dust"
+    },
+    "7": {
+      "item": "cemm:cobalt_coin"
+    },
+    "8": {
+      "item": "cemm:magic_dust"
+    }
+  },
+  "result": {
+    "item": "cemm:enchanted_coin",
+    "count": 1
+  }
+}

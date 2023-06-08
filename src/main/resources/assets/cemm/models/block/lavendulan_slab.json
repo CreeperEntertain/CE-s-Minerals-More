@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/lavendulan",
+    "top": "cemm:blocks/lavendulan",
+    "side": "cemm:blocks/lavendulan"
+  },
+  "render_type": "solid"
+}

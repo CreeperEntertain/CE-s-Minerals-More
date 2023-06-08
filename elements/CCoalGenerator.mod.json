@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "Blocks.BLAST_FURNACE"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "Blocks.STONE"
+      },
+      {
+        "value": "CUSTOM:CopperWire"
+      },
+      {
+        "value": "Blocks.STONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoalGenerator"
+    },
+    "name": "c_coal_generator",
+    "namespace": "mod"
+  }
+}

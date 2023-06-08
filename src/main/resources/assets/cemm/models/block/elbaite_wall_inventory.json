@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:blocks/elbaite_top",
+    "particle": "cemm:blocks/elbaite_top"
+  },
+  "render_type": "solid"
+}

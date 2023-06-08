@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:BismuthiniteCrystal"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:BismuthiniteCrystal"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Bismuthinite"
+    },
+    "name": "c_bismuthinite",
+    "namespace": "mod"
+  }
+}

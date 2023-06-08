@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/komatiite",
+    "top": "cemm:blocks/komatiite",
+    "side": "cemm:blocks/komatiite"
+  },
+  "render_type": "solid"
+}

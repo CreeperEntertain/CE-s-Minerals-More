@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/tomato_bottom_01",
+  "textures": {
+    "all": "cemm:blocks/tomato_01",
+    "particle": "cemm:blocks/tomato_01",
+    "plants": "cemm:blocks/tomato_01",
+    "missing": "cemm:blocks/tomato_01",
+    "stick": "cemm:blocks/placed_stick"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/antimony_ore",
+    "particle": "cemm:blocks/antimony_ore"
+  },
+  "render_type": "solid"
+}

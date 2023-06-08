@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is77diagonal2",
+  "textures": {
+    "all": "cemm:blocks/info_sign_empty",
+    "particle": "cemm:blocks/info_sign_empty",
+    "Front": "cemm:blocks/info_sign_diagonal_2",
+    "Back": "cemm:blocks/info_sign_empty"
+  },
+  "render_type": "solid"
+}

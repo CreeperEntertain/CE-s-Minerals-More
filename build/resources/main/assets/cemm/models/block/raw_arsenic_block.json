@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/raw_arsenic_block",
+    "particle": "cemm:blocks/raw_arsenic_block"
+  },
+  "render_type": "solid"
+}

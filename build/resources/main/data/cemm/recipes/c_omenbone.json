@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chronodust"
+    },
+    "1": {
+      "item": "cemm:polymorous_drops"
+    },
+    "2": {
+      "item": "cemm:chronodust"
+    },
+    "3": {
+      "item": "cemm:polymorous_drops"
+    },
+    "4": {
+      "item": "minecraft:bone"
+    },
+    "5": {
+      "item": "cemm:polymorous_drops"
+    },
+    "6": {
+      "item": "cemm:chronodust"
+    },
+    "7": {
+      "item": "cemm:polymorous_drops"
+    },
+    "8": {
+      "item": "cemm:chronodust"
+    }
+  },
+  "result": {
+    "item": "cemm:omenbone",
+    "count": 1
+  }
+}

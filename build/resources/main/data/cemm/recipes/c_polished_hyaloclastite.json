@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hyaloclastite"
+    },
+    "1": {
+      "item": "cemm:hyaloclastite"
+    },
+    "2": {
+      "item": "cemm:hyaloclastite"
+    },
+    "3": {
+      "item": "cemm:hyaloclastite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_hyaloclastite",
+    "count": 4
+  }
+}

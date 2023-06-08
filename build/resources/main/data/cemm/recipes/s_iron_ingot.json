@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "experience": 2,
+  "cookingtime": 300,
+  "ingredient": {
+    "item": "cemm:hematite"
+  },
+  "result": "minecraft:iron_ingot"
+}

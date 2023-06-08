@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aerinite"
+    },
+    "1": {
+      "item": "cemm:aerinite"
+    },
+    "2": {
+      "item": "cemm:aerinite"
+    },
+    "3": {
+      "item": "cemm:aerinite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_aerinite",
+    "count": 4
+  }
+}

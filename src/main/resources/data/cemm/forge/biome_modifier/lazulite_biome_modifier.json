@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "mushroom_fields",
+  "features": "cemm:lazulite",
+  "step": "underground_ores"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/vanadinite_deposit",
+    "particle": "cemm:blocks/vanadinite_deposit"
+  },
+  "render_type": "solid"
+}

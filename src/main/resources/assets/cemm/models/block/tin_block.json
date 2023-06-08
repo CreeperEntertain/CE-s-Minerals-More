@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/tin_block",
+    "particle": "cemm:blocks/tin_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cemm:chalk_diorite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:chalk"
+    },
+    "state": {
+      "Name": "minecraft:diorite"
+    },
+    "radius": 4
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "nightaxe",
+    "customModelName": "Normal",
+    "name": "Nightaxe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 6.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 22,
+    "damageVsEntity": 9.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

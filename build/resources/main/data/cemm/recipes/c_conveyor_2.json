@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "cemm:plastic_sheets"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:coated_aluminum_bar"
+    },
+    "5": {
+      "item": "cemm:coated_aluminum_bar"
+    },
+    "6": {
+      "item": "cemm:plastic_sheets"
+    },
+    "7": {
+      "item": "cemm:plastic_sheets"
+    },
+    "8": {
+      "item": "cemm:plastic_sheets"
+    }
+  },
+  "result": {
+    "item": "cemm:conveyor_bottom",
+    "count": 1
+  }
+}

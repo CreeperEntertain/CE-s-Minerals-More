@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/scoria",
+    "particle": "cemm:blocks/scoria"
+  },
+  "render_type": "solid"
+}

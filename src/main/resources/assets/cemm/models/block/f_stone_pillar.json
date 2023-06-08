@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/stonepillar",
+  "textures": {
+    "all": "cemm:blocks/stone",
+    "particle": "cemm:blocks/stone",
+    "Warning Stripe": "cemm:blocks/warning_stripe",
+    "Stone": "cemm:blocks/stone"
+  },
+  "render_type": "solid"
+}

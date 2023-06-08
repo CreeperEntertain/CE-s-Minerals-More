@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/tuff",
+    "up": "cemm:blocks/chlorograss_block_top",
+    "north": "cemm:blocks/chlorograss_block_side_tuff",
+    "east": "cemm:blocks/chlorograss_block_side_tuff",
+    "south": "cemm:blocks/chlorograss_block_side_tuff",
+    "west": "cemm:blocks/chlorograss_block_side_tuff",
+    "particle": "cemm:blocks/tuff"
+  },
+  "render_type": "solid"
+}

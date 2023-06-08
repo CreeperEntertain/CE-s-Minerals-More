@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/polished_lepidocrocite",
+    "particle": "cemm:blocks/polished_lepidocrocite"
+  },
+  "render_type": "solid"
+}

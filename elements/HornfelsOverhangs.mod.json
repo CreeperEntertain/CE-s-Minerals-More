@@ -1,0 +1,130 @@
+{
+  "_fv": 39,
+  "_type": "biome",
+  "definition": {
+    "name": "Hornfels Overhangs",
+    "groundBlock": {
+      "value": "CUSTOM:Hornfels"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Hornfels"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:Hornfels"
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.hireth"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.9,
+    "temperature": -0.7,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -1.7999999999999998,
+      "max": 0.20000000000000007
+    },
+    "genHumidity": {
+      "min": -0.19999999999999996,
+      "max": 1.8
+    },
+    "genContinentalness": {
+      "min": 0.48,
+      "max": 2.0
+    },
+    "genErosion": {
+      "min": -1.5,
+      "max": 0.5
+    },
+    "genWeirdness": {
+      "min": -0.5705320724911918,
+      "max": 1.4294679275088082
+    },
+    "grassPerChunk": 0,
+    "seagrassPerChunk": 0,
+    "flowersPerChunk": 0,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPatchesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "MOUNTAIN",
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "TaigaRocks"
+    ],
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityHusk"
+        },
+        "minGroup": 1,
+        "maxGroup": 3,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityGoat"
+        },
+        "minGroup": 2,
+        "maxGroup": 6,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

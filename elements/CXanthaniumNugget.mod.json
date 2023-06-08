@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:XanthaniumNugget"
+    },
+    "name": "c_xanthanium_nugget",
+    "namespace": "mod"
+  }
+}

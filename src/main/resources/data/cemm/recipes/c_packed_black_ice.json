@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:black_ice"
+    },
+    "1": {
+      "item": "cemm:black_ice"
+    },
+    "2": {
+      "item": "cemm:black_ice"
+    },
+    "3": {
+      "item": "cemm:black_ice"
+    },
+    "4": {
+      "item": "cemm:black_ice"
+    },
+    "5": {
+      "item": "cemm:black_ice"
+    },
+    "6": {
+      "item": "cemm:black_ice"
+    },
+    "7": {
+      "item": "cemm:black_ice"
+    },
+    "8": {
+      "item": "cemm:black_ice"
+    }
+  },
+  "result": {
+    "item": "cemm:packed_black_ice",
+    "count": 1
+  }
+}

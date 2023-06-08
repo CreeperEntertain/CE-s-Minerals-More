@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tellurium_bit"
+    },
+    "1": {
+      "item": "cemm:tellurium_bit"
+    },
+    "2": {
+      "item": "cemm:tellurium_bit"
+    }
+  },
+  "result": {
+    "item": "cemm:tellurium_pellet",
+    "count": 1
+  }
+}

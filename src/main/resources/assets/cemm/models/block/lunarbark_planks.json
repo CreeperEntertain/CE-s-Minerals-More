@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/lunarbark_planks",
+    "particle": "cemm:blocks/lunarbark_planks"
+  },
+  "render_type": "solid"
+}

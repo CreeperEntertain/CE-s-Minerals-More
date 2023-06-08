@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/polished_schorl_top",
+    "top": "cemm:blocks/polished_schorl_top",
+    "side": "cemm:blocks/polished_schorl"
+  },
+  "render_type": "solid"
+}

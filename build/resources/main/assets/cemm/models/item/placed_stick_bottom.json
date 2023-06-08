@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:items/placed_stick"
+  },
+  "render_type": "translucent"
+}

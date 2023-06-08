@@ -1,0 +1,30 @@
+{
+  "_fv": 39,
+  "_type": "structure",
+  "definition": {
+    "structure": "bauxite_acid_aquifer",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 16,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -3,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BauxiteBlock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BauxiteSteppes"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

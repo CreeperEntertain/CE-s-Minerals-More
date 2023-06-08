@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "cemm:copper_wire"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:board"
+    },
+    "4": {
+      "item": "minecraft:dispenser"
+    },
+    "5": {
+      "item": "cemm:magnet"
+    },
+    "6": {
+      "item": "cemm:plastic_sheets"
+    },
+    "7": {
+      "item": "cemm:zinc_ingot"
+    },
+    "8": {
+      "item": "cemm:plastic_sheets"
+    }
+  },
+  "result": {
+    "item": "cemm:block_placer",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "cemm:blocks/chlorowood_planks"
+  },
+  "render_type": "solid"
+}

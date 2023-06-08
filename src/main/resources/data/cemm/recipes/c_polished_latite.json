@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:latite"
+    },
+    "1": {
+      "item": "cemm:latite"
+    },
+    "2": {
+      "item": "cemm:latite"
+    },
+    "3": {
+      "item": "cemm:latite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_latite",
+    "count": 4
+  }
+}

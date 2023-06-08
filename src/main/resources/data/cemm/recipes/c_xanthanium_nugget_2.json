@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:xanthanium_nugget",
+    "count": 9
+  }
+}

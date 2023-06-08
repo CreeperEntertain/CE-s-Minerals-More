@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/polished_limestone_top",
+    "up": "cemm:blocks/polished_limestone_top",
+    "north": "cemm:blocks/polishedlimestone",
+    "east": "cemm:blocks/polishedlimestone",
+    "south": "cemm:blocks/polishedlimestone",
+    "west": "cemm:blocks/polishedlimestone",
+    "particle": "cemm:blocks/polished_limestone_top"
+  },
+  "render_type": "solid"
+}

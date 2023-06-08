@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/diorite",
+    "particle": "cemm:blocks/diorite"
+  },
+  "render_type": "solid"
+}

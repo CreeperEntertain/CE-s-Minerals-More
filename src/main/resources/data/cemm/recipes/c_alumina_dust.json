@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:alumina"
+    }
+  },
+  "result": {
+    "item": "cemm:alumina_dust",
+    "count": 1
+  }
+}

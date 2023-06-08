@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cemm:chlorowood_log"
+    },
+    {
+      "item": "minecraft:iron_axe"
+    }
+  ],
+  "result": {
+    "item": "cemm:stripped_chlorowood_log",
+    "count": 1
+  }
+}

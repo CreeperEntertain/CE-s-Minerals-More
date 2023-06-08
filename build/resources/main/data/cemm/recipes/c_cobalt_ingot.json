@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cobalt_pieces"
+    },
+    "1": {
+      "item": "cemm:cobalt_pieces"
+    },
+    "2": {
+      "item": "cemm:cobalt_pieces"
+    },
+    "3": {
+      "item": "cemm:cobalt_pieces"
+    }
+  },
+  "result": {
+    "item": "cemm:cobalt_ingot",
+    "count": 1
+  }
+}

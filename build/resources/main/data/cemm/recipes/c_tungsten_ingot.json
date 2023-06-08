@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tungsten_bits"
+    },
+    "1": {
+      "item": "cemm:tungsten_bits"
+    },
+    "2": {
+      "item": "cemm:tungsten_bits"
+    },
+    "3": {
+      "item": "cemm:tungsten_bits"
+    },
+    "4": {
+      "item": "cemm:tungsten_bits"
+    },
+    "5": {
+      "item": "cemm:tungsten_bits"
+    },
+    "6": {
+      "item": "cemm:tungsten_bits"
+    },
+    "7": {
+      "item": "cemm:tungsten_bits"
+    },
+    "8": {
+      "item": "cemm:tungsten_bits"
+    }
+  },
+  "result": {
+    "item": "cemm:tungsten_ingot",
+    "count": 1
+  }
+}

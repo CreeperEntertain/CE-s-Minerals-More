@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LeadScrap"
+      },
+      {
+        "value": "CUSTOM:LeadScrap"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LeadScrap"
+      },
+      {
+        "value": "CUSTOM:LeadScrap"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LeadIngot"
+    },
+    "name": "c_lead_ingot",
+    "namespace": "mod"
+  }
+}

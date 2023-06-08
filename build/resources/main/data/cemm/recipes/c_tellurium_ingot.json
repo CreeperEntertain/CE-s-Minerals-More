@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tellurium_pellet"
+    },
+    "1": {
+      "item": "cemm:tellurium_pellet"
+    },
+    "2": {
+      "item": "cemm:tellurium_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:tellurium_ingot",
+    "count": 1
+  }
+}

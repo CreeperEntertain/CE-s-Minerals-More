@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/vacuumizer_bottom",
+    "up": "cemm:blocks/vacuumizer_top",
+    "north": "cemm:blocks/vacuumizer_side",
+    "east": "cemm:blocks/vacuumizer_side",
+    "south": "cemm:blocks/vacuumizer_side",
+    "west": "cemm:blocks/vacuumizer_side",
+    "particle": "cemm:blocks/vacuumizer_bottom"
+  },
+  "render_type": "solid"
+}

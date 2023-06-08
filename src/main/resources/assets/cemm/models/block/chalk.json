@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/chalk",
+    "particle": "cemm:blocks/chalk"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PolishedMetaCarbonite"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarbonite"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarbonite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMetaCarboniteSlab"
+    },
+    "name": "c_polished_meta_carbonite_slab",
+    "namespace": "mod"
+  }
+}

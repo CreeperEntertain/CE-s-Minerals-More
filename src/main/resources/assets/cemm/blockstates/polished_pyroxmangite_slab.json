@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/polished_pyroxmangite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/polished_pyroxmangite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/polished_pyroxmangite_slab_full"
+    }
+  }
+}

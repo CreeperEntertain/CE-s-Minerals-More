@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/aluminumfence",
+  "textures": {
+    "all": "cemm:blocks/aluminum_fence",
+    "particle": "cemm:blocks/aluminum_fence",
+    "Top": "cemm:blocks/aluminum_fence_top",
+    "Front": "cemm:blocks/aluminum_fence"
+  },
+  "render_type": "cutout_mipped"
+}

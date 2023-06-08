@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/red_shale",
+    "particle": "cemm:blocks/red_shale"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/minium",
+    "top": "cemm:blocks/minium",
+    "side": "cemm:blocks/minium"
+  },
+  "render_type": "solid"
+}

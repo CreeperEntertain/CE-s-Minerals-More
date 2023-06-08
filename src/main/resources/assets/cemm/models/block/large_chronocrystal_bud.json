@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:blocks/large_chronocrystal_bud",
+    "particle": "cemm:blocks/large_chronocrystal_bud"
+  },
+  "render_type": "cutout_mipped"
+}

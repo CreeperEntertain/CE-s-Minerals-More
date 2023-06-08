@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/chlorowood_planks",
+    "top": "cemm:blocks/chlorowood_planks",
+    "side": "cemm:blocks/chlorowood_planks"
+  },
+  "render_type": "solid"
+}

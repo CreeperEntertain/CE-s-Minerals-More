@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/refinery_bottom",
+    "up": "cemm:blocks/refinery_top",
+    "north": "cemm:blocks/refinery_side",
+    "east": "cemm:blocks/refinery_side",
+    "south": "cemm:blocks/refinery_side",
+    "west": "cemm:blocks/refinery_side",
+    "particle": "cemm:blocks/refinery_bottom"
+  },
+  "render_type": "solid"
+}

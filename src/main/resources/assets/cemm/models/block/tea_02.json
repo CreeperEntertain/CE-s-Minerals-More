@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "cemm:blocks/tea_02",
+    "particle": "cemm:blocks/tea_02"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/placed_stick_top",
+  "textures": {
+    "all": "cemm:blocks/placed_stick",
+    "particle": "cemm:blocks/placed_stick",
+    "0": "cemm:blocks/placed_stick"
+  },
+  "render_type": "cutout_mipped"
+}

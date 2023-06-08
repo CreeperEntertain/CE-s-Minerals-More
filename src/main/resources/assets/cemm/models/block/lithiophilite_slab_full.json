@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/lithiophilite",
+    "top": "cemm:blocks/lithiophilite",
+    "side": "cemm:blocks/lithiophilite"
+  },
+  "render_type": "solid"
+}

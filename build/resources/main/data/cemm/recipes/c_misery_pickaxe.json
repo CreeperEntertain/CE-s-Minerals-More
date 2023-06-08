@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "1": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "2": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "4": {
+      "item": "cemm:nightrod"
+    },
+    "7": {
+      "item": "cemm:nightrod"
+    }
+  },
+  "result": {
+    "item": "cemm:misery_pickaxe",
+    "count": 1
+  }
+}

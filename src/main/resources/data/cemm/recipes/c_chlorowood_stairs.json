@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chlorowood_planks"
+    },
+    "3": {
+      "item": "cemm:chlorowood_planks"
+    },
+    "4": {
+      "item": "cemm:chlorowood_planks"
+    },
+    "6": {
+      "item": "cemm:chlorowood_planks"
+    },
+    "7": {
+      "item": "cemm:chlorowood_planks"
+    },
+    "8": {
+      "item": "cemm:chlorowood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:chlorowood_stairs",
+    "count": 4
+  }
+}

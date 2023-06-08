@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/kenhsuite",
+    "top": "cemm:blocks/kenhsuite",
+    "side": "cemm:blocks/kenhsuite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,123 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AluminumBlock"
+      },
+      {
+        "value": "CUSTOM:AntimonyBlock"
+      },
+      {
+        "value": "CUSTOM:ArsenicBlock"
+      },
+      {
+        "value": "CUSTOM:BerylliumBlock"
+      },
+      {
+        "value": "CUSTOM:BismuthBlock"
+      },
+      {
+        "value": "CUSTOM:CesiumBlock"
+      },
+      {
+        "value": "CUSTOM:ChromiumBlock"
+      },
+      {
+        "value": "CUSTOM:CobaltBlock"
+      },
+      {
+        "value": "CUSTOM:EuropiumBlock"
+      },
+      {
+        "value": "CUSTOM:LanthanumBlock"
+      },
+      {
+        "value": "CUSTOM:LeadBlock"
+      },
+      {
+        "value": "CUSTOM:ZirconiumBlock"
+      },
+      {
+        "value": "CUSTOM:HafniumBlock"
+      },
+      {
+        "value": "CUSTOM:IndiumBlock"
+      },
+      {
+        "value": "CUSTOM:ZincBlock"
+      },
+      {
+        "value": "CUSTOM:LithiumBlock"
+      },
+      {
+        "value": "CUSTOM:MagnesiumBlock"
+      },
+      {
+        "value": "CUSTOM:ManganeseBlock"
+      },
+      {
+        "value": "CUSTOM:NeodymiumBlock"
+      },
+      {
+        "value": "CUSTOM:NiobiumBlock"
+      },
+      {
+        "value": "CUSTOM:PlatinumBlock"
+      },
+      {
+        "value": "CUSTOM:OsmiumBlock"
+      },
+      {
+        "value": "CUSTOM:ScandiumBlock"
+      },
+      {
+        "value": "CUSTOM:TantalumBlock"
+      },
+      {
+        "value": "CUSTOM:TinBlock"
+      },
+      {
+        "value": "CUSTOM:TelluriumBlock"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "CUSTOM:VanadiumBlock"
+      },
+      {
+        "value": "CUSTOM:YtterbiumBlock"
+      },
+      {
+        "value": "CUSTOM:XanthaniumBlock"
+      },
+      {
+        "value": "CUSTOM:ChlorophylBlock"
+      },
+      {
+        "value": "Blocks.NETHERITE_BLOCK"
+      },
+      {
+        "value": "Blocks.IRON_BLOCK"
+      },
+      {
+        "value": "Blocks.GOLD_BLOCK"
+      },
+      {
+        "value": "Blocks.DIAMOND_BLOCK"
+      },
+      {
+        "value": "Blocks.EMERALD_BLOCK"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "beacon_base_blocks",
+    "namespace": "minecraft"
+  }
+}

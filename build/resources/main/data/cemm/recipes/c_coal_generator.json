@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stone"
+    },
+    "1": {
+      "item": "cemm:copper_wire"
+    },
+    "2": {
+      "tag": "forge:stone"
+    },
+    "3": {
+      "item": "cemm:copper_wire"
+    },
+    "4": {
+      "item": "minecraft:blast_furnace"
+    },
+    "5": {
+      "item": "cemm:copper_wire"
+    },
+    "6": {
+      "tag": "forge:stone"
+    },
+    "7": {
+      "item": "cemm:copper_wire"
+    },
+    "8": {
+      "tag": "forge:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:coal_generator",
+    "count": 1
+  }
+}

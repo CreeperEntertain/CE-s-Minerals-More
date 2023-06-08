@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/metatorbernite_top",
+    "top": "cemm:blocks/metatorbernite_top",
+    "side": "cemm:blocks/metatorbernite"
+  },
+  "render_type": "solid"
+}

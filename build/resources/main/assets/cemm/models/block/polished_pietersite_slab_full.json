@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_pietersite",
+    "top": "cemm:blocks/polished_pietersite",
+    "side": "cemm:blocks/polished_pietersite"
+  },
+  "render_type": "solid"
+}

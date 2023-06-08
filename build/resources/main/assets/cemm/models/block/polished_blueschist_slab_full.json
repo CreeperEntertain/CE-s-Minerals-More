@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_blueschist",
+    "top": "cemm:blocks/polished_blueschist",
+    "side": "cemm:blocks/polished_blueschist"
+  },
+  "render_type": "solid"
+}

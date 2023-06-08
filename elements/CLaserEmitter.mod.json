@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:ClearCrystal"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "Blocks.REDSTONE_LAMP"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:ZincIngot"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LaserEmitter"
+    },
+    "name": "c_laser_emitter",
+    "namespace": "mod"
+  }
+}

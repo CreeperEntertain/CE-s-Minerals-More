@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:olivine"
+    },
+    "1": {
+      "item": "cemm:olivine"
+    },
+    "2": {
+      "item": "cemm:olivine"
+    },
+    "3": {
+      "item": "cemm:olivine"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_olivine",
+    "count": 4
+  }
+}

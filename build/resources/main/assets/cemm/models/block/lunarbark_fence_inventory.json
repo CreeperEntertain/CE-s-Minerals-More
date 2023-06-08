@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "cemm:blocks/lunarbark_planks",
+    "particle": "cemm:blocks/lunarbark_planks"
+  },
+  "render_type": "solid"
+}

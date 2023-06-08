@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:jasper"
+    },
+    "1": {
+      "item": "cemm:jasper"
+    },
+    "2": {
+      "item": "cemm:jasper"
+    },
+    "3": {
+      "item": "cemm:jasper"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_jasper",
+    "count": 4
+  }
+}

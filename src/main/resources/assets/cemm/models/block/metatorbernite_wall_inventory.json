@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:blocks/metatorbernite_top",
+    "particle": "cemm:blocks/metatorbernite_top"
+  },
+  "render_type": "solid"
+}

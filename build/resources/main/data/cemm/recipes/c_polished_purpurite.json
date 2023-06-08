@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:purpurite"
+    },
+    "1": {
+      "item": "cemm:purpurite"
+    },
+    "2": {
+      "item": "cemm:purpurite"
+    },
+    "3": {
+      "item": "cemm:purpurite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_purpurite",
+    "count": 4
+  }
+}

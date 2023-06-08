@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:coated_aluminum_bar"
+    },
+    "2": {
+      "item": "cemm:coated_aluminum_bar"
+    },
+    "3": {
+      "item": "cemm:light_dust"
+    },
+    "4": {
+      "item": "cemm:light_dust"
+    },
+    "5": {
+      "item": "cemm:light_dust"
+    }
+  },
+  "result": {
+    "item": "cemm:ceiling_light",
+    "count": 2
+  }
+}

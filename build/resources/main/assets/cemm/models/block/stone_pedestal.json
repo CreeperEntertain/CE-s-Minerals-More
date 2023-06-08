@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/stone_pedestal_top",
+    "up": "cemm:blocks/stone_pedestal_top",
+    "north": "cemm:blocks/stone_pedestal_side",
+    "east": "cemm:blocks/stone_pedestal_side",
+    "south": "cemm:blocks/stone_pedestal_side",
+    "west": "cemm:blocks/stone_pedestal_side",
+    "particle": "cemm:blocks/stone_pedestal_top"
+  },
+  "render_type": "solid"
+}

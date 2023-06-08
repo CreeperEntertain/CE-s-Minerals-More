@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/electrolyzer_bottom_back",
+    "up": "cemm:blocks/electrolyzer_top",
+    "north": "cemm:blocks/electrolyzer_front",
+    "east": "cemm:blocks/electrolyzer_sides",
+    "south": "cemm:blocks/electrolyzer_bottom_back",
+    "west": "cemm:blocks/electrolyzer_sides",
+    "particle": "cemm:blocks/electrolyzer_bottom_back"
+  },
+  "render_type": "solid"
+}

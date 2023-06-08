@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:blocks/komatiite",
+    "particle": "cemm:blocks/komatiite"
+  },
+  "render_type": "solid"
+}

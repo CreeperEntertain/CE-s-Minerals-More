@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/tokyoite",
+    "top": "cemm:blocks/tokyoite",
+    "side": "cemm:blocks/tokyoite"
+  },
+  "render_type": "solid"
+}

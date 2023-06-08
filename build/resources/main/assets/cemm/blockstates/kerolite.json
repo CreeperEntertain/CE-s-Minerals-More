@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/kerolite",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/kerolite"
+    },
+    "axis=z": {
+      "model": "cemm:block/kerolite",
+      "x": 90
+    }
+  }
+}

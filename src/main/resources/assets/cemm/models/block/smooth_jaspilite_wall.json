@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:blocks/jaspilite_top_new",
+    "particle": "cemm:blocks/jaspilite_top_new"
+  },
+  "render_type": "solid"
+}

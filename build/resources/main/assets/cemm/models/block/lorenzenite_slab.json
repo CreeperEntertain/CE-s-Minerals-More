@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/lorenzenite",
+    "top": "cemm:blocks/lorenzenite",
+    "side": "cemm:blocks/lorenzenite"
+  },
+  "render_type": "solid"
+}

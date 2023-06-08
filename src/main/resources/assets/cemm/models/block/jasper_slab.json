@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/jasper",
+    "top": "cemm:blocks/jasper",
+    "side": "cemm:blocks/jasper"
+  },
+  "render_type": "solid"
+}

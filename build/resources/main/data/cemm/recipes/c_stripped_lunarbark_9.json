@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cemm:lunarbark_stem"
+    },
+    {
+      "item": "cemm:meta_carbonite_axe"
+    }
+  ],
+  "result": {
+    "item": "cemm:stripped_lunarbark_stem",
+    "count": 1
+  }
+}

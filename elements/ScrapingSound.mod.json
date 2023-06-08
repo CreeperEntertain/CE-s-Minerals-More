@@ -1,0 +1,9 @@
+{
+  "_fv": 39,
+  "_type": "function",
+  "definition": {
+    "code": "playsound minecraft:block.grindstone.use block @a ~ ~ ~ 1 1 0",
+    "name": "scraping_sound",
+    "namespace": "mod"
+  }
+}

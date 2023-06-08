@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/polished_elbaite_top",
+    "up": "cemm:blocks/polished_elbaite_top",
+    "north": "cemm:blocks/polished_elbaite",
+    "east": "cemm:blocks/polished_elbaite",
+    "south": "cemm:blocks/polished_elbaite",
+    "west": "cemm:blocks/polished_elbaite",
+    "particle": "cemm:blocks/polished_elbaite_top"
+  },
+  "render_type": "solid"
+}

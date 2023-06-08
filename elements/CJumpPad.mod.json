@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Items.PHANTOM_MEMBRANE"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Items.PHANTOM_MEMBRANE"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "Blocks.STICKY_PISTON"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:ZincIngot"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:JumpPad"
+    },
+    "name": "c_jump_pad",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "1": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "2": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "3": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "5": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "6": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "7": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "8": {
+      "item": "cemm:processed_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_scaffolding",
+    "count": 2
+  }
+}

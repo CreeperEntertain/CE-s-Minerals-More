@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/lunarbark_planks",
+    "top": "cemm:blocks/lunarbark_planks",
+    "side": "cemm:blocks/lunarbark_planks"
+  },
+  "render_type": "solid"
+}

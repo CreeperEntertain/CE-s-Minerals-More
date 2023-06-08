@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/purifier",
+  "textures": {
+    "all": "cemm:blocks/purifier_side",
+    "particle": "cemm:blocks/purifier_side",
+    "side": "cemm:blocks/purifier_side",
+    "top": "cemm:blocks/purifier_top",
+    "tailored": "cemm:blocks/tailored_stone"
+  },
+  "render_type": "cutout"
+}

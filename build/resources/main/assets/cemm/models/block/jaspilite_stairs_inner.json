@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/jaspilite_top_new",
+    "top": "cemm:blocks/jaspilite_top_new",
+    "side": "cemm:blocks/jaspilite_new"
+  },
+  "render_type": "solid"
+}

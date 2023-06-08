@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:grapes"
+    }
+  },
+  "result": {
+    "item": "cemm:grape_seeds",
+    "count": 1
+  }
+}

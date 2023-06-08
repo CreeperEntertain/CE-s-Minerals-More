@@ -1,0 +1,13 @@
+{
+  "parent": "cemm:custom/thermalgenerator",
+  "textures": {
+    "all": "cemm:blocks/jump_pad_bottom",
+    "particle": "cemm:blocks/jump_pad_bottom",
+    "Side": "cemm:blocks/thermal_generator_side",
+    "Top": "cemm:blocks/thermal_generator_top",
+    "Bottom": "cemm:blocks/jump_pad_bottom",
+    "Top Outer": "cemm:blocks/thermal_pipes_outer_top",
+    "Outer Side": "cemm:blocks/aluminum_scaffolding"
+  },
+  "render_type": "cutout_mipped"
+}

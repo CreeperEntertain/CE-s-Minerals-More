@@ -1,0 +1,55 @@
+{
+  "_fv": 39,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "deep_cold_ocean"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "frozen_peaks"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "snowy_slopes"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_block_pile\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:BlackIce</field></block></value></block></value><next><block type=\"placement_block_predicate_filter\"><value name=\"condition\"><block type=\"block_predicate_any_of\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"3\"></mutation><value name=\"condition0\"><block type=\"block_predicate_matching_blocks\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field><value name=\"blockSet\"><block type=\"block_holderset_tag\"><field name=\"tag\">ice_or_snow</field></block></value></block></value><value name=\"condition1\"><block type=\"block_predicate_solid\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field></block></value><value name=\"condition2\"><block type=\"block_predicate_not\"><value name=\"condition\"><block type=\"block_predicate_matching_blocks\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field><value name=\"blockSet\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"3\"></mutation><field name=\"block0\">Blocks.AIR</field><field name=\"block1\">Blocks.VOID_AIR</field><field name=\"block2\">Blocks.CAVE_AIR</field></block></value></block></value></block></value></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">MOTION_BLOCKING_NO_LEAVES</field><next><block type=\"placement_rarity\"><field name=\"rarity\">6</field></block></next></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Gypsum"
+      },
+      {
+        "value": "Items.DYE#13"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.WATER_BUCKET"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CONCRETE#2"
+    },
+    "name": "c_magenta_concrete",
+    "namespace": "mod"
+  }
+}

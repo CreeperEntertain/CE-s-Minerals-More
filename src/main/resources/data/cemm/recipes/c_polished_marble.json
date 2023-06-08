@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:marble"
+    },
+    "1": {
+      "item": "cemm:marble"
+    },
+    "2": {
+      "item": "cemm:marble"
+    },
+    "3": {
+      "item": "cemm:marble"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_marble",
+    "count": 4
+  }
+}

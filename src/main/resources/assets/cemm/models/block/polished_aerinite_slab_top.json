@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_aerinite",
+    "top": "cemm:blocks/polished_aerinite",
+    "side": "cemm:blocks/polished_aerinite"
+  },
+  "render_type": "solid"
+}

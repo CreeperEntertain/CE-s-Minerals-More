@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:blocks/olivine_new",
+    "top": "cemm:blocks/olivine_new",
+    "side": "cemm:blocks/olivine_new"
+  },
+  "render_type": "solid"
+}

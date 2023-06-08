@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:praseodymium_pieces"
+    },
+    "1": {
+      "item": "cemm:praseodymium_pieces"
+    },
+    "2": {
+      "item": "cemm:praseodymium_pieces"
+    },
+    "3": {
+      "item": "cemm:praseodymium_pieces"
+    }
+  },
+  "result": {
+    "item": "cemm:praseodymium_lump",
+    "count": 1
+  }
+}

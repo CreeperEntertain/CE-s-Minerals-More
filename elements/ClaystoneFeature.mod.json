@@ -1,0 +1,16 @@
+{
+  "_fv": 39,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_DECORATION",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ClaystoneMountains"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_replace_sphere\"><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.STONE#0</field></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Claystone</field></block></value><value name=\"radius\"><block type=\"int_provider_constant\"><field name=\"value\">12</field></block></value></block></value><next><block type=\"placement_height_uniform\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">0</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">128</field></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">1</field></block></next></block></next></block></xml>"
+  }
+}

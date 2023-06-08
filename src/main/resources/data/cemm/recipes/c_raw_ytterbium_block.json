@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "1": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "2": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "3": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "4": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "5": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "6": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "7": {
+      "item": "cemm:raw_ytterbium"
+    },
+    "8": {
+      "item": "cemm:raw_ytterbium"
+    }
+  },
+  "result": {
+    "item": "cemm:raw_ytterbium_block",
+    "count": 1
+  }
+}

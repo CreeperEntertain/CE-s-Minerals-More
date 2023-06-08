@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/mariposite",
+    "top": "cemm:blocks/mariposite",
+    "side": "cemm:blocks/mariposite"
+  },
+  "render_type": "solid"
+}

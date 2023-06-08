@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:kanoite"
+    },
+    "1": {
+      "item": "cemm:kanoite"
+    },
+    "2": {
+      "item": "cemm:kanoite"
+    },
+    "3": {
+      "item": "cemm:kanoite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_kanoite",
+    "count": 4
+  }
+}

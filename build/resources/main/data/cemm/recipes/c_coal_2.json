@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lignite"
+    },
+    "1": {
+      "item": "cemm:lignite"
+    },
+    "2": {
+      "item": "cemm:lignite"
+    },
+    "3": {
+      "item": "cemm:lignite"
+    }
+  },
+  "result": {
+    "item": "minecraft:coal",
+    "count": 1
+  }
+}

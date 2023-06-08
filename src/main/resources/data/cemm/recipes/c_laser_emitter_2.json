@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    },
+    "1": {
+      "item": "cemm:clear_crystal"
+    },
+    "2": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    },
+    "3": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    },
+    "4": {
+      "item": "minecraft:redstone_lamp"
+    },
+    "5": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    },
+    "6": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    },
+    "7": {
+      "item": "cemm:zinc_ingot"
+    },
+    "8": {
+      "item": "cemm:processed_aluminum_scaffolding"
+    }
+  },
+  "result": {
+    "item": "cemm:laser_emitter",
+    "count": 1
+  }
+}

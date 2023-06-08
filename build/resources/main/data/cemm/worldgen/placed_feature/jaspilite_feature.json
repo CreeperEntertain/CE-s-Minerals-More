@@ -1,0 +1,21 @@
+{
+  "feature": "cemm:jaspilite_feature",
+  "placement": [
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 0
+        },
+        "max_inclusive": {
+          "absolute": 128
+        }
+      }
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 1
+    }
+  ]
+}

@@ -1,0 +1,871 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 430,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_antimony.png",
+          "use1Xscale": false,
+          "x": 332,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_arsenic.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_baryte.png",
+          "use1Xscale": false,
+          "x": 92,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_bastnaesite.png",
+          "use1Xscale": false,
+          "x": 92,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_bauxite.png",
+          "use1Xscale": false,
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_beryl.png",
+          "use1Xscale": false,
+          "x": 132,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_bismuth.png",
+          "use1Xscale": false,
+          "x": 172,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_cassiterite.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_cesium.png",
+          "use1Xscale": false,
+          "x": 92,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_chlorophyl.png",
+          "use1Xscale": false,
+          "x": 212,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_chrome.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_cinnabar.png",
+          "use1Xscale": false,
+          "x": 252,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_cobalt.png",
+          "use1Xscale": false,
+          "x": 12,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_columbite.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_dolomite.png",
+          "use1Xscale": false,
+          "x": 372,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_fluorite.png",
+          "use1Xscale": false,
+          "x": 372,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_graphite.png",
+          "use1Xscale": false,
+          "x": 252,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_iridosmine.png",
+          "use1Xscale": false,
+          "x": 132,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_lignite.png",
+          "use1Xscale": false,
+          "x": 292,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_limestone.png",
+          "use1Xscale": false,
+          "x": 332,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_magnetite.png",
+          "use1Xscale": false,
+          "x": 172,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_malachite.png",
+          "use1Xscale": false,
+          "x": 132,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_minium.png",
+          "use1Xscale": false,
+          "x": 212,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_misery_drops.png",
+          "use1Xscale": false,
+          "x": 332,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_monazite.png",
+          "use1Xscale": false,
+          "x": 252,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_mountain_quartz.png",
+          "use1Xscale": false,
+          "x": 372,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_niter.png",
+          "use1Xscale": false,
+          "x": 212,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_platinum.png",
+          "use1Xscale": false,
+          "x": 252,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_polymorous.png",
+          "use1Xscale": false,
+          "x": 172,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_pyrolusite.png",
+          "use1Xscale": false,
+          "x": 12,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_smokey_quartz.png",
+          "use1Xscale": false,
+          "x": 12,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_spodumene.png",
+          "use1Xscale": false,
+          "x": 292,
+          "y": 64
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_sulfur.png",
+          "use1Xscale": false,
+          "x": 292,
+          "y": 120
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_vanadinite.png",
+          "use1Xscale": false,
+          "x": 92,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_wolframite.png",
+          "use1Xscale": false,
+          "x": 132,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_xenotime.png",
+          "use1Xscale": false,
+          "x": 172,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_ytterbium.png",
+          "use1Xscale": false,
+          "x": 212,
+          "y": 176
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "card_zircon.png",
+          "use1Xscale": false,
+          "x": 292,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIAl"
+          },
+          "x": 12,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover1",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIAs"
+          },
+          "x": 52,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover2",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIBASO4"
+          },
+          "x": 92,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover3",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIBe"
+          },
+          "x": 132,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover4",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIBi"
+          },
+          "x": 172,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover5",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIClP"
+          },
+          "x": 212,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover6",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIC"
+          },
+          "x": 252,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover7",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICP"
+          },
+          "x": 292,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover8",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICa"
+          },
+          "x": 332,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover9",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICaF2"
+          },
+          "x": 372,
+          "y": 8
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover10",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICo"
+          },
+          "x": 12,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover11",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICr"
+          },
+          "x": 52,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover12",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICs"
+          },
+          "x": 92,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover13",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMICu"
+          },
+          "x": 132,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover14",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIFe"
+          },
+          "x": 172,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover15",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIKNO3"
+          },
+          "x": 212,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover16",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMILa"
+          },
+          "x": 252,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover17",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMILi"
+          },
+          "x": 292,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover18",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIMd"
+          },
+          "x": 332,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover19",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIMg"
+          },
+          "x": 372,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover20",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIMn"
+          },
+          "x": 12,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover21",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMINb"
+          },
+          "x": 52,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover22",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMINd"
+          },
+          "x": 92,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover23",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIOs"
+          },
+          "x": 132,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover24",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIPm"
+          },
+          "x": 172,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover25",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIPb"
+          },
+          "x": 212,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover26",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIPt"
+          },
+          "x": 252,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover27",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIS"
+          },
+          "x": 292,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover28",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMISb"
+          },
+          "x": 332,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover29",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMISiO2"
+          },
+          "x": 372,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover30",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMISiO2P"
+          },
+          "x": 12,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover31",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMISn"
+          },
+          "x": 52,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover32",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIV"
+          },
+          "x": 92,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover33",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIW"
+          },
+          "x": 132,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover34",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIY"
+          },
+          "x": 172,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover35",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIYb"
+          },
+          "x": 212,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover36",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIZn"
+          },
+          "x": 252,
+          "y": 176
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_card_select_hover37",
+          "image": "card_select_hover.png",
+          "hoveredImage": "card_select.png",
+          "onClick": {
+            "name": "OMIZr"
+          },
+          "x": 292,
+          "y": 176
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 40,
+      "sy": 56,
+      "ox": 22,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

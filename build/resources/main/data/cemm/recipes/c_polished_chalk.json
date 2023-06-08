@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chalk"
+    },
+    "1": {
+      "item": "cemm:chalk"
+    },
+    "2": {
+      "item": "cemm:chalk"
+    },
+    "3": {
+      "item": "cemm:chalk"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_chalk",
+    "count": 4
+  }
+}

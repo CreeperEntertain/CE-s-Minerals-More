@@ -1,0 +1,31 @@
+{
+  "_fv": 39,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "xanthanium_axe",
+    "customModelName": "Normal",
+    "name": "Misery Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 5,
+    "efficiency": 16.0,
+    "attackSpeed": 1.2000000000000002,
+    "enchantability": 22,
+    "damageVsEntity": 11.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:minium"
+    },
+    "1": {
+      "item": "cemm:minium"
+    },
+    "2": {
+      "item": "cemm:minium"
+    },
+    "3": {
+      "item": "cemm:minium"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_minium",
+    "count": 4
+  }
+}

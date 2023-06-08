@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/jumppad",
+  "textures": {
+    "all": "cemm:blocks/jump_pad_top",
+    "particle": "cemm:blocks/jump_pad_top",
+    "Side": "cemm:blocks/jump_pad_side",
+    "Top": "cemm:blocks/jump_pad_top",
+    "Bottom": "cemm:blocks/jump_pad_bottom"
+  },
+  "render_type": "solid"
+}

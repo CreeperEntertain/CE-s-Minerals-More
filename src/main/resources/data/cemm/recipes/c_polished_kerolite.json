@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:kerolite"
+    },
+    "1": {
+      "item": "cemm:kerolite"
+    },
+    "2": {
+      "item": "cemm:kerolite"
+    },
+    "3": {
+      "item": "cemm:kerolite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_kerolite",
+    "count": 4
+  }
+}

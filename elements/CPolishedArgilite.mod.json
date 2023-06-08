@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Argilite"
+      },
+      {
+        "value": "CUSTOM:Argilite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Argilite"
+      },
+      {
+        "value": "CUSTOM:Argilite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedArgilite"
+    },
+    "name": "c_polished_argilite",
+    "namespace": "mod"
+  }
+}

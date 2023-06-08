@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:schorl_spike",
+  "step": "underground_structures"
+}

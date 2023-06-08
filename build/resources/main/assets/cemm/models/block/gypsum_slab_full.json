@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/gypsum",
+    "top": "cemm:blocks/gypsum",
+    "side": "cemm:blocks/gypsum"
+  },
+  "render_type": "solid"
+}

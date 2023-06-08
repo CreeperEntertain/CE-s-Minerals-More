@@ -1,0 +1,11 @@
+{
+  "_fv": 39,
+  "_type": "tab",
+  "definition": {
+    "name": "Void",
+    "icon": {
+      "value": "CUSTOM:LunarbarkStem"
+    },
+    "showSearch": false
+  }
+}

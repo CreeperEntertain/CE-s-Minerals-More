@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/conveyorbottom",
+  "textures": {
+    "all": "cemm:blocks/conveyor_top",
+    "particle": "cemm:blocks/conveyor_top",
+    "Side": "cemm:blocks/conveyor_side",
+    "Top": "cemm:blocks/conveyor_top"
+  },
+  "render_type": "solid"
+}

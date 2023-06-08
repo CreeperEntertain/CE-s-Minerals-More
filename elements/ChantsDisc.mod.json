@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Chants",
+    "texture": "chants",
+    "description": "Esoots - Chants",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.chants"
+    },
+    "lengthInTicks": 2140,
+    "analogOutput": 15
+  }
+}

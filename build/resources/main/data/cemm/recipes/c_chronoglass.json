@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chronocrystal_shard"
+    },
+    "1": {
+      "item": "cemm:chronocrystal_shard"
+    },
+    "2": {
+      "item": "cemm:chronocrystal_shard"
+    },
+    "3": {
+      "item": "cemm:chronocrystal_shard"
+    }
+  },
+  "result": {
+    "item": "cemm:chronoglass",
+    "count": 1
+  }
+}

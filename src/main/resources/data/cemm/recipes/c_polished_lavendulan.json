@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lavendulan"
+    },
+    "1": {
+      "item": "cemm:lavendulan"
+    },
+    "2": {
+      "item": "cemm:lavendulan"
+    },
+    "3": {
+      "item": "cemm:lavendulan"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_lavendulan",
+    "count": 4
+  }
+}

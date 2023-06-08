@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/thread_grid",
+  "textures": {
+    "all": "cemm:blocks/thread_grid",
+    "particle": "cemm:blocks/thread_grid",
+    "thread_grid": "cemm:blocks/thread_grid"
+  },
+  "render_type": "cutout_mipped"
+}

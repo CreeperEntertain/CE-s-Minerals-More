@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/polished_aegirine_top",
+    "up": "cemm:blocks/polished_aegirine_top",
+    "north": "cemm:blocks/polished_aegirine",
+    "east": "cemm:blocks/polished_aegirine",
+    "south": "cemm:blocks/polished_aegirine",
+    "west": "cemm:blocks/polished_aegirine",
+    "particle": "cemm:blocks/polished_aegirine_top"
+  },
+  "render_type": "solid"
+}

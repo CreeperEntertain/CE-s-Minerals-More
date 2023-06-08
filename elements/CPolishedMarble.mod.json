@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 4,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMarble"
+    },
+    "name": "c_polished_marble",
+    "namespace": "mod"
+  }
+}

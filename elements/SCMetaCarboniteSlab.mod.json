@@ -1,0 +1,20 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:MetaCarbonite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:MetaCarboniteSlab"
+    },
+    "name": "sc_meta_carbonite_slab",
+    "namespace": "mod"
+  }
+}

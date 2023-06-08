@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "minecraft:piston"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:plastic_sheets"
+    },
+    "5": {
+      "item": "cemm:plastic_sheets"
+    },
+    "6": {
+      "item": "cemm:plastic_sheets"
+    },
+    "7": {
+      "item": "minecraft:piston"
+    },
+    "8": {
+      "item": "cemm:plastic_sheets"
+    }
+  },
+  "result": {
+    "item": "cemm:pressurizer",
+    "count": 1
+  }
+}

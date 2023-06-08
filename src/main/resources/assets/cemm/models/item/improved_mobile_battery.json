@@ -1,0 +1,8 @@
+{
+  "parent": "cemm:custom/improvedmobilebattery",
+  "textures": {
+    "missing": "cemm:blocks/improved_mobile_battery",
+    "Main": "cemm:blocks/improved_mobile_battery",
+    "particle": "cemm:items/improved_mobile_battery"
+  }
+}

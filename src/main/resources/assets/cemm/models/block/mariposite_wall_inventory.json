@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:blocks/mariposite",
+    "particle": "cemm:blocks/mariposite"
+  },
+  "render_type": "solid"
+}

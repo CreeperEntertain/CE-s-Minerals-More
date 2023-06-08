@@ -1,0 +1,20 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "xpReward": 1.0,
+    "cookingTime": 100,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Magnetite"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.RAW_IRON"
+    },
+    "name": "s_raw_iron",
+    "namespace": "mod"
+  }
+}

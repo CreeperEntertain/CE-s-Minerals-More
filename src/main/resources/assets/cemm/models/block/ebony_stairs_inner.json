@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/ebony_planks",
+    "top": "cemm:blocks/ebony_planks",
+    "side": "cemm:blocks/ebony_planks"
+  },
+  "render_type": "solid"
+}

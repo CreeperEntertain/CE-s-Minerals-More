@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/pyroxmangite",
+    "top": "cemm:blocks/pyroxmangite",
+    "side": "cemm:blocks/pyroxmangite"
+  },
+  "render_type": "solid"
+}

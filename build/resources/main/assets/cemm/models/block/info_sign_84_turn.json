@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is84turn",
+  "textures": {
+    "all": "cemm:blocks/info_sign_empty",
+    "particle": "cemm:blocks/info_sign_empty",
+    "Front": "cemm:blocks/info_sign_turn",
+    "Back": "cemm:blocks/info_sign_empty"
+  },
+  "render_type": "solid"
+}

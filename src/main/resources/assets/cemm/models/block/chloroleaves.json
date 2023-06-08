@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/chloroleaves",
+  "textures": {
+    "all": "cemm:blocks/chloroleaves",
+    "particle": "cemm:blocks/chloroleaves",
+    "Main": "cemm:blocks/chloroleaves"
+  },
+  "render_type": "cutout_mipped"
+}

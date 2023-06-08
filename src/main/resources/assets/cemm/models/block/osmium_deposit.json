@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/osmium_deposit",
+    "particle": "cemm:blocks/osmium_deposit"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/metatorbernite_top",
+    "up": "cemm:blocks/metatorbernite_top",
+    "north": "cemm:blocks/metatorbernite",
+    "east": "cemm:blocks/metatorbernite",
+    "south": "cemm:blocks/metatorbernite",
+    "west": "cemm:blocks/metatorbernite",
+    "particle": "cemm:blocks/metatorbernite_top"
+  },
+  "render_type": "solid"
+}

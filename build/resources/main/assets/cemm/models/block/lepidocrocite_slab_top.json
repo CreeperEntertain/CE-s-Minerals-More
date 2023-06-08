@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/lepidocrocite",
+    "top": "cemm:blocks/lepidocrocite",
+    "side": "cemm:blocks/lepidocrocite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/chalcopyrite",
+    "top": "cemm:blocks/chalcopyrite",
+    "side": "cemm:blocks/chalcopyrite"
+  },
+  "render_type": "solid"
+}

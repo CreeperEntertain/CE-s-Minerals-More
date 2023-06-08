@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:fourmarierite"
+    },
+    "1": {
+      "item": "cemm:fourmarierite"
+    },
+    "2": {
+      "item": "cemm:fourmarierite"
+    },
+    "3": {
+      "item": "cemm:fourmarierite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_fourmarierite",
+    "count": 4
+  }
+}

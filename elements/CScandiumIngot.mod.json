@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      },
+      {
+        "value": "CUSTOM:ScandiumBits"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ScandiumIngot"
+    },
+    "name": "c_scandium_ingot",
+    "namespace": "mod"
+  }
+}

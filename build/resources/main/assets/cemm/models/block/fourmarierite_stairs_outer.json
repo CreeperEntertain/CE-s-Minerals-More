@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/fourmarierite",
+    "top": "cemm:blocks/fourmarierite",
+    "side": "cemm:blocks/fourmarierite"
+  },
+  "render_type": "solid"
+}

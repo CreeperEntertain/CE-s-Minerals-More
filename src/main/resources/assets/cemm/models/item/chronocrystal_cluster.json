@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:items/chronocrystal_cluster"
+  },
+  "render_type": "translucent"
+}

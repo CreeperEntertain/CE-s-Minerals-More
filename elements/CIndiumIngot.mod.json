@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:IndiumScrap"
+      },
+      {
+        "value": "CUSTOM:IndiumScrap"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:IndiumScrap"
+      },
+      {
+        "value": "CUSTOM:IndiumScrap"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IndiumIngot"
+    },
+    "name": "c_indium_ingot",
+    "namespace": "mod"
+  }
+}

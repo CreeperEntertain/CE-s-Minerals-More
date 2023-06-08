@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:claystone_mountains",
+    "cemm:blueschist_formations"
+  ],
+  "features": "cemm:aegirine",
+  "step": "underground_ores"
+}

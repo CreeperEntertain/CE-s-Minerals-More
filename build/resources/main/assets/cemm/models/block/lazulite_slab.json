@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/lazulite",
+    "top": "cemm:blocks/lazulite",
+    "side": "cemm:blocks/lazulite"
+  },
+  "render_type": "solid"
+}

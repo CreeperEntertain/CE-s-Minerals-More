@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:blocks/chlorostalk",
+    "particle": "cemm:blocks/chlorostalk"
+  },
+  "render_type": "cutout_mipped"
+}

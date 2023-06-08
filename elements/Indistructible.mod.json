@@ -1,0 +1,105 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "Blocks.VOID_AIR"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      },
+      {
+        "value": "CUSTOM:Laser"
+      },
+      {
+        "value": "Blocks.BEDROCK"
+      },
+      {
+        "value": "Blocks.FLOWING_WATER"
+      },
+      {
+        "value": "Blocks.WATER"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
+      },
+      {
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "CUSTOM:Acid"
+      },
+      {
+        "value": "Blocks.BUBBLE_COLUMN"
+      },
+      {
+        "value": "Blocks.LIGHT"
+      },
+      {
+        "value": "Blocks.COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.REPEATING_COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.CHAIN_COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.END_PORTAL"
+      },
+      {
+        "value": "Blocks.END_PORTAL_FRAME"
+      },
+      {
+        "value": "Blocks.END_GATEWAY"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.STRUCTURE_VOID"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#1"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#2"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#3"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#4"
+      },
+      {
+        "value": "Blocks.JIGSAW"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSERVER"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "indistructible",
+    "namespace": "mod"
+  }
+}

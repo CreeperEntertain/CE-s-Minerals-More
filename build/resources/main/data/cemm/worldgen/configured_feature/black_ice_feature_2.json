@@ -1,0 +1,12 @@
+{
+  "type": "cemm:black_ice_feature_2",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:black_ice"
+    },
+    "radius": 5
+  }
+}

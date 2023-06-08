@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is62diagonallines1",
+  "textures": {
+    "all": "cemm:blocks/info_sign_empty",
+    "particle": "cemm:blocks/info_sign_empty",
+    "Front": "cemm:blocks/info_sign_diagonal_lines_1",
+    "Back": "cemm:blocks/info_sign_empty"
+  },
+  "render_type": "solid"
+}

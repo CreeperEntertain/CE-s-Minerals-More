@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_masuyite",
+    "top": "cemm:blocks/polished_masuyite",
+    "side": "cemm:blocks/polished_masuyite"
+  },
+  "render_type": "solid"
+}

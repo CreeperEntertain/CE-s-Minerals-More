@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/comparer_lit",
+  "textures": {
+    "all": "cemm:blocks/comparer_side_lit",
+    "particle": "cemm:blocks/comparer_side_lit",
+    "side": "cemm:blocks/comparer_side_lit",
+    "back": "cemm:blocks/comparer_back_lit",
+    "front": "cemm:blocks/comparer_front_lit"
+  },
+  "render_type": "solid"
+}

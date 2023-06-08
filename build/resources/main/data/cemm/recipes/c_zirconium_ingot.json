@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:zirconium_scrap"
+    },
+    "1": {
+      "item": "cemm:zirconium_scrap"
+    },
+    "2": {
+      "item": "cemm:zirconium_scrap"
+    },
+    "3": {
+      "item": "cemm:zirconium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:zirconium_ingot",
+    "count": 1
+  }
+}

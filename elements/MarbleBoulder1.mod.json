@@ -1,0 +1,152 @@
+{
+  "_fv": 39,
+  "_type": "structure",
+  "definition": {
+    "structure": "marble_boulder_1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 250,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "warped_forest"
+      },
+      {
+        "value": "taiga_hills"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "mutated_swampland"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_plains"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "mutated_jungle"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "mangrove_swamp"
+      },
+      {
+        "value": "lush_caves"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "grove"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "dripstone_caves"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "crimson_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "badlands"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

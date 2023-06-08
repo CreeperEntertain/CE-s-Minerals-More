@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:misery_armor_chestplate"
+    },
+    "title": {
+      "translate": "advancements.the_minds_speak.title"
+    },
+    "description": {
+      "translate": "advancements.the_minds_speak.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_minds_speak": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:the_minds_emerge"
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 39,
+  "_type": "structure",
+  "definition": {
+    "structure": "limestone_step",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 5,
+    "maxCountPerChunk": 5,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -12,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Limestone"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:LimestoneSteppes"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

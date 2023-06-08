@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ProcessedAluminumGrid"
+    },
+    "name": "c_processed_aluminum_grid",
+    "namespace": "mod"
+  }
+}

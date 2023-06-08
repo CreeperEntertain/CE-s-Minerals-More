@@ -1,0 +1,7 @@
+{
+  "_fv": 39,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"-737\" y=\"19\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"block_replace\"><field name=\"state\">TRUE</field><field name=\"nbt\">FALSE</field><value name=\"x\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignX</field></block></value></block></value><value name=\"y\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignY</field></block></value></block></value><value name=\"z\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignZ</field></block></value></block></value><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:InfoSign68PointUp</field></block></value><next><block type=\"entity_close_gui\"><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></next></block></next></block></xml>"
+  }
+}

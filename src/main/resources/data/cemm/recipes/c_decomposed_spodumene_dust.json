@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cemm:spodumene_crystal"
+    },
+    {
+      "item": "cemm:acid_bucket"
+    }
+  ],
+  "result": {
+    "item": "cemm:decomposed_spodumene_dust",
+    "count": 2
+  }
+}

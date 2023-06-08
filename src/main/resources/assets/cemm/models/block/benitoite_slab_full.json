@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/benitoite",
+    "top": "cemm:blocks/benitoite",
+    "side": "cemm:blocks/benitoite"
+  },
+  "render_type": "solid"
+}

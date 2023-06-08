@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/mariposite",
+    "top": "cemm:blocks/mariposite",
+    "side": "cemm:blocks/mariposite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/bismuthinite",
+    "top": "cemm:blocks/bismuthinite",
+    "side": "cemm:blocks/bismuthinite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:smokey_quartz"
+    },
+    "1": {
+      "item": "cemm:smokey_quartz"
+    },
+    "2": {
+      "item": "cemm:smokey_quartz"
+    },
+    "3": {
+      "item": "cemm:smokey_quartz"
+    }
+  },
+  "result": {
+    "item": "cemm:smokey_quartz_block",
+    "count": 1
+  }
+}

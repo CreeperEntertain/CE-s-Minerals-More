@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "deep_cold_ocean",
+    "frozen_ocean",
+    "frozen_river",
+    "ice_spikes",
+    "windswept_hills",
+    "snowy_plains",
+    "snowy_slopes",
+    "cold_ocean",
+    "frozen_peaks",
+    "snowy_taiga",
+    "deep_frozen_ocean",
+    "snowy_beach"
+  ],
+  "features": "cemm:packed_black_ice_feature",
+  "step": "surface_structures"
+}

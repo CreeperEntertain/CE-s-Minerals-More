@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/hafnium_block",
+    "particle": "cemm:blocks/hafnium_block"
+  },
+  "render_type": "solid"
+}

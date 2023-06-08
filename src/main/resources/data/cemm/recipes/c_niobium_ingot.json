@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:niobium_crystals"
+    },
+    "1": {
+      "item": "cemm:niobium_crystals"
+    },
+    "2": {
+      "item": "cemm:niobium_crystals"
+    },
+    "3": {
+      "item": "cemm:niobium_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:niobium_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "block.silence": {
+    "category": "block",
+    "sounds": [
+      {
+        "name": "cemm:silence",
+        "stream": false
+      }
+    ]
+  },
+  "mood.void": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "cemm:01",
+        "stream": false
+      },
+      {
+        "name": "cemm:02",
+        "stream": false
+      },
+      {
+        "name": "cemm:03",
+        "stream": false
+      },
+      {
+        "name": "cemm:07",
+        "stream": false
+      },
+      {
+        "name": "cemm:08",
+        "stream": false
+      },
+      {
+        "name": "cemm:09",
+        "stream": false
+      },
+      {
+        "name": "cemm:10",
+        "stream": false
+      },
+      {
+        "name": "cemm:13",
+        "stream": false
+      },
+      {
+        "name": "cemm:14",
+        "stream": false
+      },
+      {
+        "name": "cemm:15",
+        "stream": false
+      },
+      {
+        "name": "cemm:16",
+        "stream": false
+      },
+      {
+        "name": "cemm:19",
+        "stream": false
+      },
+      {
+        "name": "cemm:21",
+        "stream": false
+      },
+      {
+        "name": "cemm:22",
+        "stream": false
+      },
+      {
+        "name": "cemm:23",
+        "stream": false
+      },
+      {
+        "name": "cemm:24",
+        "stream": false
+      },
+      {
+        "name": "cemm:25",
+        "stream": false
+      }
+    ]
+  },
+  "mood.cave": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "cemm:04",
+        "stream": false
+      },
+      {
+        "name": "cemm:05",
+        "stream": false
+      },
+      {
+        "name": "cemm:06",
+        "stream": false
+      },
+      {
+        "name": "cemm:11",
+        "stream": false
+      },
+      {
+        "name": "cemm:12",
+        "stream": false
+      },
+      {
+        "name": "cemm:17",
+        "stream": false
+      },
+      {
+        "name": "cemm:18",
+        "stream": false
+      },
+      {
+        "name": "cemm:20",
+        "stream": false
+      },
+      {
+        "name": "cemm:26",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_1": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "cemm:void_wind_1",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_2": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "cemm:void_wind_2",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_0": {
+    "category": "ambient",
+    "sounds": [
+      {
+        "name": "cemm:void_wind_0",
+        "stream": false
+      }
+    ]
+  },
+  "disc.bliss": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:bliss_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.chalk": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:chalk_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.chants": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:chants_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.foehn": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:foehn_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.heptagonal": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:heptagonal_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hireth": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:hireth_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.machine": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:machine_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.warped_framework": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:warped_framework_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hush": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "cemm:hush_mono",
+        "stream": true
+      }
+    ]
+  },
+  "music.bliss": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:bliss",
+        "stream": true
+      }
+    ]
+  },
+  "music.chalk": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:chalk",
+        "stream": true
+      }
+    ]
+  },
+  "music.chants": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:chants",
+        "stream": true
+      }
+    ]
+  },
+  "music.foehn": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:foehn",
+        "stream": true
+      }
+    ]
+  },
+  "music.heptagonal": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:heptagonal",
+        "stream": true
+      }
+    ]
+  },
+  "music.hireth": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:hireth",
+        "stream": true
+      }
+    ]
+  },
+  "music.hush": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:hush",
+        "stream": true
+      }
+    ]
+  },
+  "music.machine": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:machine",
+        "stream": true
+      }
+    ]
+  },
+  "music.warped_framework": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "cemm:warped_framework",
+        "stream": true
+      }
+    ]
+  },
+  "block.electricity": {
+    "category": "block",
+    "subtitle": "subtitles.block.electricity",
+    "sounds": [
+      {
+        "name": "cemm:electricity",
+        "stream": false
+      }
+    ]
+  }
+}

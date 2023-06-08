@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:blocks/polished_breccia",
+    "particle": "cemm:blocks/polished_breccia"
+  },
+  "render_type": "solid"
+}

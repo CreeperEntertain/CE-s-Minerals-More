@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:blueschist"
+    },
+    "1": {
+      "item": "cemm:blueschist"
+    },
+    "2": {
+      "item": "cemm:blueschist"
+    },
+    "3": {
+      "item": "cemm:blueschist"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_blueschist",
+    "count": 4
+  }
+}

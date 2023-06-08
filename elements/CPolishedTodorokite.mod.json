@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Todorokite"
+      },
+      {
+        "value": "CUSTOM:Todorokite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Todorokite"
+      },
+      {
+        "value": "CUSTOM:Todorokite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedTodorokite"
+    },
+    "name": "c_polished_todorokite",
+    "namespace": "mod"
+  }
+}

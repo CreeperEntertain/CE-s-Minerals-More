@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aluminum_ingot"
+    },
+    "1": {
+      "item": "cemm:aluminum_ingot"
+    },
+    "2": {
+      "item": "cemm:aluminum_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_bar",
+    "count": 3
+  }
+}

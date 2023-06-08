@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "cemm:ebony_log"
+    },
+    {
+      "item": "cemm:misery_axe"
+    }
+  ],
+  "result": {
+    "item": "cemm:stripped_ebony_log",
+    "count": 1
+  }
+}

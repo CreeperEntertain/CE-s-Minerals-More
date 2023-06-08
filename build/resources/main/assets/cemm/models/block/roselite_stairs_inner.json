@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/roselite",
+    "top": "cemm:blocks/roselite",
+    "side": "cemm:blocks/roselite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,23 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:GrapeJuice"
+    },
+    "brewingIngredientStack": {
+      "value": "Blocks.RED_MUSHROOM"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:WineFlask"
+    },
+    "name": "b_wine_flask",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/trondhjemite_top",
+    "up": "cemm:blocks/trondhjemite_top",
+    "north": "cemm:blocks/trondhjemite",
+    "east": "cemm:blocks/trondhjemite",
+    "south": "cemm:blocks/trondhjemite",
+    "west": "cemm:blocks/trondhjemite",
+    "particle": "cemm:blocks/trondhjemite_top"
+  },
+  "render_type": "solid"
+}

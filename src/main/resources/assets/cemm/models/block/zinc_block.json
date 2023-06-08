@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/zinc_block",
+    "particle": "cemm:blocks/zinc_block"
+  },
+  "render_type": "solid"
+}

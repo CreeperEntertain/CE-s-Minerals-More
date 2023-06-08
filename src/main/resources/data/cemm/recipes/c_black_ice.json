@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "tag": "black_ice_ingredient"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    },
+    {
+      "item": "minecraft:ice"
+    }
+  ],
+  "result": {
+    "item": "cemm:black_ice",
+    "count": 8
+  }
+}

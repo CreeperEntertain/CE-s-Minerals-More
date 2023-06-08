@@ -1,0 +1,54 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:LunarbarkFence"
+      },
+      {
+        "value": "Blocks.OAK_FENCE"
+      },
+      {
+        "value": "Blocks.SPRUCE_FENCE"
+      },
+      {
+        "value": "Blocks.BIRCH_FENCE"
+      },
+      {
+        "value": "Blocks.JUNGLE_FENCE"
+      },
+      {
+        "value": "Blocks.ACACIA_FENCE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_FENCE"
+      },
+      {
+        "value": "Blocks.CRIMSON_FENCE"
+      },
+      {
+        "value": "Blocks.WARPED_FENCE"
+      },
+      {
+        "value": "Blocks.MANGROVE_FENCE"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_FENCE"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodFence"
+      },
+      {
+        "value": "CUSTOM:EbonyFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_fences",
+    "namespace": "minecraft"
+  }
+}

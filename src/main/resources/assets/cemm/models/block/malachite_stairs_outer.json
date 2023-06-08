@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/malachite",
+    "top": "cemm:blocks/malachite",
+    "side": "cemm:blocks/malachite"
+  },
+  "render_type": "solid"
+}

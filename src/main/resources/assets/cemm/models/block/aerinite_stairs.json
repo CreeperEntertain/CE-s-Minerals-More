@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:blocks/aerinite",
+    "top": "cemm:blocks/aerinite",
+    "side": "cemm:blocks/aerinite"
+  },
+  "render_type": "solid"
+}

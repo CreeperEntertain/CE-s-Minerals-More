@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:Resistor"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:Capacitor"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:Resistor"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Microchip"
+    },
+    "name": "c_microchip",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:blocks/kerolite_top",
+    "particle": "cemm:blocks/kerolite_top"
+  },
+  "render_type": "solid"
+}

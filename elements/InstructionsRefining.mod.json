@@ -1,0 +1,443 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 430,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_beryllium_ingot",
+          "image": "button_beryllium_ingot.png",
+          "hoveredImage": "button_beryllium_ingot_hover.png",
+          "onClick": {
+            "name": "RIButton1Execute"
+          },
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_clear_crystal",
+          "image": "button_clear_crystal.png",
+          "hoveredImage": "button_clear_crystal_hover.png",
+          "onClick": {
+            "name": "RIButton2Execute"
+          },
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_cobalt_pieces",
+          "image": "button_cobalt_pieces.png",
+          "hoveredImage": "button_cobalt_pieces_hover.png",
+          "onClick": {
+            "name": "RIButton3Execute"
+          },
+          "x": 1,
+          "y": 33
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_galvanized_steel_ingot",
+          "image": "button_galvanized_steel_ingot.png",
+          "hoveredImage": "button_galvanized_steel_ingot_hover.png",
+          "onClick": {
+            "name": "RIButton5Execute"
+          },
+          "x": 1,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_decomposed_spodumene",
+          "image": "button_decomposed_spodumene.png",
+          "hoveredImage": "button_decomposed_spodumene_hover.png",
+          "onClick": {
+            "name": "RIButton4Execute"
+          },
+          "x": 1,
+          "y": 49
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_magnesium_niobium_ingot",
+          "image": "button_magnesium_niobium_ingot.png",
+          "hoveredImage": "button_magnesium_niobium_ingot_hover.png",
+          "onClick": {
+            "name": "RIButton7Execute"
+          },
+          "x": 1,
+          "y": 97
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_manganese_iron_chunk",
+          "image": "button_manganese_iron_chunk.png",
+          "hoveredImage": "button_manganese_iron_chunk_hover.png",
+          "onClick": {
+            "name": "RIButton8Execute"
+          },
+          "x": 1,
+          "y": 113
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_plastic_granules",
+          "image": "button_plastic_granules.png",
+          "hoveredImage": "button_plastic_granules_hover.png",
+          "onClick": {
+            "name": "RIButton10Execute"
+          },
+          "x": 1,
+          "y": 145
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_ruthenium_bits",
+          "image": "button_ruthenium_bits.png",
+          "hoveredImage": "button_ruthenium_bits_hover.png",
+          "onClick": {
+            "name": "RIButton11Execute"
+          },
+          "x": 1,
+          "y": 161
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_osmium_powder",
+          "image": "button_osmium_powder.png",
+          "hoveredImage": "button_osmium_powder_hover.png",
+          "onClick": {
+            "name": "RIButton9Execute"
+          },
+          "x": 1,
+          "y": 129
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_steel_ingot",
+          "image": "button_steel_ingot.png",
+          "hoveredImage": "button_steel_ingot_hover.png",
+          "onClick": {
+            "name": "RIButton12Execute"
+          },
+          "x": 1,
+          "y": 177
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_vanadium_crystals",
+          "image": "button_vanadium_crystals.png",
+          "hoveredImage": "button_vanadium_crystals_hover.png",
+          "onClick": {
+            "name": "RIButton13Execute"
+          },
+          "x": 1,
+          "y": 193
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_yttrium_iron_garnet",
+          "image": "button_yttrium_iron_garnet.png",
+          "hoveredImage": "button_yttrium_iron_garnet_hover.png",
+          "onClick": {
+            "name": "RIButton14Execute"
+          },
+          "x": 1,
+          "y": 209
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_zirconium_scrap",
+          "image": "button_zirconium_scrap.png",
+          "hoveredImage": "button_zirconium_scrap_hover.png",
+          "onClick": {
+            "name": "RIButton15Execute"
+          },
+          "x": 1,
+          "y": 225
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_225px.png",
+          "use1Xscale": false,
+          "x": 161,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "refinery.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_refinery",
+          "text": {
+            "fixedValue": "Refinery"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 188,
+          "y": 12
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_beryllium_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayBerylliumIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_clear_crystal.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayClearCrystal"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_cobalt_pieces.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayCobaltPieces"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_decomposed_spodumene.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayDecomposedSpodumene"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_galvanized_steel.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayGalvanizedSteelIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_lithium_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayLithiumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_magnesium_niobium_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayMagnesiumNiobiumIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_manganese_iron_chunk.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayManganeseIronChunk"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_osmium_powder.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayOsmiumPowder"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_plastic_granules.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayPlasticGranules"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_ruthenium_bits.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayRutheniumBits"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_steel_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplaySteelIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_vanadium_crystal.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayVanadiumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_yttrium_iron_garnet.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayYttriumIronGarnet"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_zirconium_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayZirconiumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_lithium_scrap",
+          "image": "button_lithium_scrap.png",
+          "hoveredImage": "button_lithium_scrap_hover.png",
+          "onClick": {
+            "name": "RIButton6Execute"
+          },
+          "x": 1,
+          "y": 81
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 1,
+      "oy": 1,
+      "snapOnGrid": true
+    }
+  }
+}

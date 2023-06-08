@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorophylPaste"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorophylPaste"
+      },
+      {
+        "value": "CUSTOM:GalvanizedSteelIngot"
+      },
+      {
+        "value": "CUSTOM:ChlorophylPaste"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorophylPaste"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChlorophylIngot"
+    },
+    "name": "c_chlorophyl_ingot_2",
+    "namespace": "mod"
+  }
+}

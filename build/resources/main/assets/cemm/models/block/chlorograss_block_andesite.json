@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:blocks/andesite",
+    "up": "cemm:blocks/chlorograss_block_top",
+    "north": "cemm:blocks/chlorograss_block_side_andesite",
+    "east": "cemm:blocks/chlorograss_block_side_andesite",
+    "south": "cemm:blocks/chlorograss_block_side_andesite",
+    "west": "cemm:blocks/chlorograss_block_side_andesite",
+    "particle": "cemm:blocks/andesite"
+  },
+  "render_type": "solid"
+}

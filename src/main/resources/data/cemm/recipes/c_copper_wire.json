@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:copper_ingot"
+    },
+    "1": {
+      "item": "minecraft:copper_ingot"
+    },
+    "2": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:copper_wire",
+    "count": 9
+  }
+}

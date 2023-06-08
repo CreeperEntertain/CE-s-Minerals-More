@@ -1,0 +1,46 @@
+{
+  "_fv": 39,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "Items.BONE"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Omenbone"
+    },
+    "name": "c_omenbone",
+    "namespace": "mod"
+  }
+}

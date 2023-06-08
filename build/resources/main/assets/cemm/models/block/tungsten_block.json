@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/tungsten_block",
+    "particle": "cemm:blocks/tungsten_block"
+  },
+  "render_type": "solid"
+}

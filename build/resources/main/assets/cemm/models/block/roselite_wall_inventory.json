@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:blocks/roselite",
+    "particle": "cemm:blocks/roselite"
+  },
+  "render_type": "solid"
+}

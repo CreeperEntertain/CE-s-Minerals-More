@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/strawberry_03",
+  "textures": {
+    "all": "cemm:blocks/strawberries_03",
+    "particle": "cemm:blocks/strawberries_03",
+    "strawberry": "cemm:blocks/strawberries_03"
+  },
+  "render_type": "cutout_mipped"
+}

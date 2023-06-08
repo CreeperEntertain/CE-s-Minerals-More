@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:osmium_crystal"
+    },
+    "1": {
+      "item": "cemm:osmium_crystal"
+    },
+    "2": {
+      "item": "cemm:osmium_crystal"
+    },
+    "3": {
+      "item": "cemm:osmium_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:osmium_ingot",
+    "count": 1
+  }
+}

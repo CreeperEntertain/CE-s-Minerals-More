@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:zinc_block"
+    }
+  },
+  "result": {
+    "item": "cemm:zinc_ingot",
+    "count": 9
+  }
+}

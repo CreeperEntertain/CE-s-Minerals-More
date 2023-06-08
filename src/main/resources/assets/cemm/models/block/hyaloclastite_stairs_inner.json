@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/hyaloclastite",
+    "top": "cemm:blocks/hyaloclastite",
+    "side": "cemm:blocks/hyaloclastite"
+  },
+  "render_type": "solid"
+}

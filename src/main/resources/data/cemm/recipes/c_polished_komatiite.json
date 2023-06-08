@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:komatiite"
+    },
+    "1": {
+      "item": "cemm:komatiite"
+    },
+    "2": {
+      "item": "cemm:komatiite"
+    },
+    "3": {
+      "item": "cemm:komatiite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_komatiite",
+    "count": 4
+  }
+}

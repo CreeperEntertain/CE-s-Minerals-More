@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_hyaloclastite",
+    "top": "cemm:blocks/polished_hyaloclastite",
+    "side": "cemm:blocks/polished_hyaloclastite"
+  },
+  "render_type": "solid"
+}

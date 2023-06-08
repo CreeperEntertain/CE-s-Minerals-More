@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ytterbium_crystals"
+    },
+    "1": {
+      "item": "cemm:ytterbium_crystals"
+    },
+    "2": {
+      "item": "cemm:ytterbium_crystals"
+    },
+    "3": {
+      "item": "cemm:ytterbium_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:ytterbium_ingot",
+    "count": 1
+  }
+}

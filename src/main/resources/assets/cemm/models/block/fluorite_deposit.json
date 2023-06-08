@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/fluorite_deposit",
+    "particle": "cemm:blocks/fluorite_deposit"
+  },
+  "render_type": "solid"
+}

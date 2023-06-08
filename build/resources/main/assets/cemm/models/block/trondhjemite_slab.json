@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/trondhjemite_top",
+    "top": "cemm:blocks/trondhjemite_top",
+    "side": "cemm:blocks/trondhjemite"
+  },
+  "render_type": "solid"
+}

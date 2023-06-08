@@ -1,0 +1,13 @@
+{
+  "type": "cemm:shungite_deltalike_feature",
+  "config": {
+    "contents": {
+      "Name": "cemm:graphite_block"
+    },
+    "rim": {
+      "Name": "cemm:shungite"
+    },
+    "size": 5,
+    "rim_size": 2
+  }
+}

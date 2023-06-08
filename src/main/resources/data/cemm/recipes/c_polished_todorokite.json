@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:todorokite"
+    },
+    "1": {
+      "item": "cemm:todorokite"
+    },
+    "2": {
+      "item": "cemm:todorokite"
+    },
+    "3": {
+      "item": "cemm:todorokite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_todorokite",
+    "count": 3
+  }
+}

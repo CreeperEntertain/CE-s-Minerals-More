@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "3": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "4": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "6": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "7": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "8": {
+      "item": "cemm:jaspilite_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:jaspilite_brick_stairs",
+    "count": 4
+  }
+}

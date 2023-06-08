@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "1": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "2": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "3": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "4": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "5": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "6": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "7": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "8": {
+      "item": "cemm:tellurium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:tellurium_block",
+    "count": 1
+  }
+}

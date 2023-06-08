@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:items/flowerless_cactus"
+  }
+}

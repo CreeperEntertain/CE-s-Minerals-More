@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is11a",
+  "textures": {
+    "all": "cemm:blocks/info_sign_empty",
+    "particle": "cemm:blocks/info_sign_empty",
+    "Front": "cemm:blocks/info_sign_a",
+    "Back": "cemm:blocks/info_sign_empty"
+  },
+  "render_type": "solid"
+}

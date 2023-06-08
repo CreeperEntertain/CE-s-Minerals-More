@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/elbaite_top",
+    "top": "cemm:blocks/elbaite_top",
+    "side": "cemm:blocks/elbaite"
+  },
+  "render_type": "solid"
+}

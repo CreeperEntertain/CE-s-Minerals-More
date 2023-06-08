@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:blocks/ytterbium_block",
+    "particle": "cemm:blocks/ytterbium_block"
+  },
+  "render_type": "solid"
+}

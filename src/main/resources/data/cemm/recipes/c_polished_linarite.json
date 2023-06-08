@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:linarite"
+    },
+    "1": {
+      "item": "cemm:linarite"
+    },
+    "2": {
+      "item": "cemm:linarite"
+    },
+    "3": {
+      "item": "cemm:linarite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_linarite",
+    "count": 4
+  }
+}

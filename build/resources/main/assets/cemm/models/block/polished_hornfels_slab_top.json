@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_hornfels_top",
+    "top": "cemm:blocks/polished_hornfels_top",
+    "side": "cemm:blocks/polished_hornfels"
+  },
+  "render_type": "solid"
+}

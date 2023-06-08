@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:blocks/lunarbark_planks",
+    "top": "cemm:blocks/lunarbark_planks",
+    "side": "cemm:blocks/lunarbark_planks"
+  },
+  "render_type": "solid"
+}

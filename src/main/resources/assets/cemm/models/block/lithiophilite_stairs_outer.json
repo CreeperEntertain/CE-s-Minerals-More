@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/lithiophilite",
+    "top": "cemm:blocks/lithiophilite",
+    "side": "cemm:blocks/lithiophilite"
+  },
+  "render_type": "solid"
+}

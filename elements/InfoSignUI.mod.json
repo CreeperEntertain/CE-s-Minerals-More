@@ -1,0 +1,1318 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 232,
+    "height": 192,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "info_sign_background.png",
+          "use1Xscale": false,
+          "x": 96,
+          "y": 24
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_00",
+          "image": "00.png",
+          "hoveredImage": "00h.png",
+          "onClick": {
+            "name": "ISDesign00"
+          },
+          "x": 103,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_01",
+          "image": "01.png",
+          "hoveredImage": "01h.png",
+          "onClick": {
+            "name": "ISDesign01"
+          },
+          "x": 103,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_02",
+          "image": "02.png",
+          "hoveredImage": "02h.png",
+          "onClick": {
+            "name": "ISDesign02"
+          },
+          "x": 103,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_03",
+          "image": "03.png",
+          "hoveredImage": "03h.png",
+          "onClick": {
+            "name": "ISDesign03"
+          },
+          "x": 103,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_04",
+          "image": "04.png",
+          "hoveredImage": "04h.png",
+          "onClick": {
+            "name": "ISDesign04"
+          },
+          "x": 103,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_05",
+          "image": "05.png",
+          "hoveredImage": "05h.png",
+          "onClick": {
+            "name": "ISDesign05"
+          },
+          "x": 103,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_06",
+          "image": "06.png",
+          "hoveredImage": "06h.png",
+          "onClick": {
+            "name": "ISDesign06"
+          },
+          "x": 103,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_07",
+          "image": "07.png",
+          "hoveredImage": "07h.png",
+          "onClick": {
+            "name": "ISDesign07"
+          },
+          "x": 103,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_08",
+          "image": "08.png",
+          "hoveredImage": "08h.png",
+          "onClick": {
+            "name": "ISDesign08"
+          },
+          "x": 103,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_09",
+          "image": "09.png",
+          "hoveredImage": "09h.png",
+          "onClick": {
+            "name": "ISDesign09"
+          },
+          "x": 123,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_10",
+          "image": "10.png",
+          "hoveredImage": "10h.png",
+          "onClick": {
+            "name": "ISDesign10"
+          },
+          "x": 123,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_11",
+          "image": "11.png",
+          "hoveredImage": "11h.png",
+          "onClick": {
+            "name": "ISDesign11"
+          },
+          "x": 123,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_12",
+          "image": "12.png",
+          "hoveredImage": "12h.png",
+          "onClick": {
+            "name": "ISDesign12"
+          },
+          "x": 123,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_13",
+          "image": "13.png",
+          "hoveredImage": "13h.png",
+          "onClick": {
+            "name": "ISDesign13"
+          },
+          "x": 123,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_14",
+          "image": "14.png",
+          "hoveredImage": "14h.png",
+          "onClick": {
+            "name": "ISDesign14"
+          },
+          "x": 123,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_15",
+          "image": "15.png",
+          "hoveredImage": "15h.png",
+          "onClick": {
+            "name": "ISDesign15"
+          },
+          "x": 123,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_16",
+          "image": "16.png",
+          "hoveredImage": "16h.png",
+          "onClick": {
+            "name": "ISDesign16"
+          },
+          "x": 123,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_17",
+          "image": "17.png",
+          "hoveredImage": "17h.png",
+          "onClick": {
+            "name": "ISDesign17"
+          },
+          "x": 123,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_18",
+          "image": "18.png",
+          "hoveredImage": "18h.png",
+          "onClick": {
+            "name": "ISDesign18"
+          },
+          "x": 143,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_19",
+          "image": "19.png",
+          "hoveredImage": "19h.png",
+          "onClick": {
+            "name": "ISDesign19"
+          },
+          "x": 143,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_20",
+          "image": "20.png",
+          "hoveredImage": "20h.png",
+          "onClick": {
+            "name": "ISDesign20"
+          },
+          "x": 143,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_21",
+          "image": "21.png",
+          "hoveredImage": "21h.png",
+          "onClick": {
+            "name": "ISDesign21"
+          },
+          "x": 143,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_22",
+          "image": "22.png",
+          "hoveredImage": "22h.png",
+          "onClick": {
+            "name": "ISDesign22"
+          },
+          "x": 143,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_23",
+          "image": "23.png",
+          "hoveredImage": "23h.png",
+          "onClick": {
+            "name": "ISDesign23"
+          },
+          "x": 143,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_24",
+          "image": "24.png",
+          "hoveredImage": "24h.png",
+          "onClick": {
+            "name": "ISDesign24"
+          },
+          "x": 143,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_25",
+          "image": "25.png",
+          "hoveredImage": "25h.png",
+          "onClick": {
+            "name": "ISDesign25"
+          },
+          "x": 143,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_26",
+          "image": "26.png",
+          "hoveredImage": "26h.png",
+          "onClick": {
+            "name": "ISDesign26"
+          },
+          "x": 143,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_27",
+          "image": "27.png",
+          "hoveredImage": "27h.png",
+          "onClick": {
+            "name": "ISDesign27"
+          },
+          "x": 163,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_28",
+          "image": "28.png",
+          "hoveredImage": "28h.png",
+          "onClick": {
+            "name": "ISDesign28"
+          },
+          "x": 163,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_29",
+          "image": "29.png",
+          "hoveredImage": "29h.png",
+          "onClick": {
+            "name": "ISDesign29"
+          },
+          "x": 163,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_30",
+          "image": "30.png",
+          "hoveredImage": "30h.png",
+          "onClick": {
+            "name": "ISDesign30"
+          },
+          "x": 163,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_31",
+          "image": "31.png",
+          "hoveredImage": "31h.png",
+          "onClick": {
+            "name": "ISDesign31"
+          },
+          "x": 163,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_32",
+          "image": "32.png",
+          "hoveredImage": "32h.png",
+          "onClick": {
+            "name": "ISDesign32"
+          },
+          "x": 163,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_33",
+          "image": "33.png",
+          "hoveredImage": "33h.png",
+          "onClick": {
+            "name": "ISDesign33"
+          },
+          "x": 163,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_34",
+          "image": "34.png",
+          "hoveredImage": "34h.png",
+          "onClick": {
+            "name": "ISDesign34"
+          },
+          "x": 163,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_35",
+          "image": "35.png",
+          "hoveredImage": "35h.png",
+          "onClick": {
+            "name": "ISDesign35"
+          },
+          "x": 163,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_36",
+          "image": "36.png",
+          "hoveredImage": "36h.png",
+          "onClick": {
+            "name": "ISDesign36"
+          },
+          "x": 183,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_37",
+          "image": "37.png",
+          "hoveredImage": "37h.png",
+          "onClick": {
+            "name": "ISDesign37"
+          },
+          "x": 183,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_38",
+          "image": "38.png",
+          "hoveredImage": "38h.png",
+          "onClick": {
+            "name": "ISDesign38"
+          },
+          "x": 183,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_39",
+          "image": "39.png",
+          "hoveredImage": "39h.png",
+          "onClick": {
+            "name": "ISDesign39"
+          },
+          "x": 183,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_40",
+          "image": "40.png",
+          "hoveredImage": "40h.png",
+          "onClick": {
+            "name": "ISDesign40"
+          },
+          "x": 183,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_41",
+          "image": "41.png",
+          "hoveredImage": "41h.png",
+          "onClick": {
+            "name": "ISDesign41"
+          },
+          "x": 183,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_42",
+          "image": "42.png",
+          "hoveredImage": "42h.png",
+          "onClick": {
+            "name": "ISDesign42"
+          },
+          "x": 183,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_43",
+          "image": "43.png",
+          "hoveredImage": "43h.png",
+          "onClick": {
+            "name": "ISDesign43"
+          },
+          "x": 183,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_44",
+          "image": "44.png",
+          "hoveredImage": "44h.png",
+          "onClick": {
+            "name": "ISDesign44"
+          },
+          "x": 183,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_45",
+          "image": "45.png",
+          "hoveredImage": "45h.png",
+          "onClick": {
+            "name": "ISDesign45"
+          },
+          "x": 203,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_46",
+          "image": "46.png",
+          "hoveredImage": "46h.png",
+          "onClick": {
+            "name": "ISDesign46"
+          },
+          "x": 203,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_47",
+          "image": "47.png",
+          "hoveredImage": "47h.png",
+          "onClick": {
+            "name": "ISDesign47"
+          },
+          "x": 203,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_48",
+          "image": "48.png",
+          "hoveredImage": "48h.png",
+          "onClick": {
+            "name": "ISDesign48"
+          },
+          "x": 203,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_49",
+          "image": "49.png",
+          "hoveredImage": "49h.png",
+          "onClick": {
+            "name": "ISDesign49"
+          },
+          "x": 203,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_50",
+          "image": "50.png",
+          "hoveredImage": "50h.png",
+          "onClick": {
+            "name": "ISDesign50"
+          },
+          "x": 203,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_51",
+          "image": "51.png",
+          "hoveredImage": "51h.png",
+          "onClick": {
+            "name": "ISDesign51"
+          },
+          "x": 203,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_52",
+          "image": "52.png",
+          "hoveredImage": "52h.png",
+          "onClick": {
+            "name": "ISDesign52"
+          },
+          "x": 203,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_53",
+          "image": "53.png",
+          "hoveredImage": "53h.png",
+          "onClick": {
+            "name": "ISDesign53"
+          },
+          "x": 203,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_54",
+          "image": "54.png",
+          "hoveredImage": "54h.png",
+          "onClick": {
+            "name": "ISDesign54"
+          },
+          "x": 223,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_55",
+          "image": "55.png",
+          "hoveredImage": "55h.png",
+          "onClick": {
+            "name": "ISDesign55"
+          },
+          "x": 223,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_56",
+          "image": "56.png",
+          "hoveredImage": "56h.png",
+          "onClick": {
+            "name": "ISDesign56"
+          },
+          "x": 223,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_57",
+          "image": "57.png",
+          "hoveredImage": "57h.png",
+          "onClick": {
+            "name": "ISDesign57"
+          },
+          "x": 223,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_58",
+          "image": "58.png",
+          "hoveredImage": "58h.png",
+          "onClick": {
+            "name": "ISDesign58"
+          },
+          "x": 223,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_59",
+          "image": "59.png",
+          "hoveredImage": "59h.png",
+          "onClick": {
+            "name": "ISDesign59"
+          },
+          "x": 223,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_60",
+          "image": "60.png",
+          "hoveredImage": "60h.png",
+          "onClick": {
+            "name": "ISDesign60"
+          },
+          "x": 223,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_61",
+          "image": "61.png",
+          "hoveredImage": "61h.png",
+          "onClick": {
+            "name": "ISDesign61"
+          },
+          "x": 223,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_62",
+          "image": "62.png",
+          "hoveredImage": "62h.png",
+          "onClick": {
+            "name": "ISDesign62"
+          },
+          "x": 223,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_63",
+          "image": "63.png",
+          "hoveredImage": "63h.png",
+          "onClick": {
+            "name": "ISDesign63"
+          },
+          "x": 243,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_64",
+          "image": "64.png",
+          "hoveredImage": "64h.png",
+          "onClick": {
+            "name": "ISDesign64"
+          },
+          "x": 243,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_65",
+          "image": "65.png",
+          "hoveredImage": "65h.png",
+          "onClick": {
+            "name": "ISDesign65"
+          },
+          "x": 243,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_66",
+          "image": "66.png",
+          "hoveredImage": "66h.png",
+          "onClick": {
+            "name": "ISDesign66"
+          },
+          "x": 243,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_67",
+          "image": "67.png",
+          "hoveredImage": "67h.png",
+          "onClick": {
+            "name": "ISDesign67"
+          },
+          "x": 243,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_68",
+          "image": "68.png",
+          "hoveredImage": "68h.png",
+          "onClick": {
+            "name": "ISDesign68"
+          },
+          "x": 243,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_69",
+          "image": "69.png",
+          "hoveredImage": "69h.png",
+          "onClick": {
+            "name": "ISDesign69"
+          },
+          "x": 243,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_70",
+          "image": "70.png",
+          "hoveredImage": "70h.png",
+          "onClick": {
+            "name": "ISDesign70"
+          },
+          "x": 243,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_71",
+          "image": "71.png",
+          "hoveredImage": "71h.png",
+          "onClick": {
+            "name": "ISDesign71"
+          },
+          "x": 243,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_72",
+          "image": "72.png",
+          "hoveredImage": "72h.png",
+          "onClick": {
+            "name": "ISDesign72"
+          },
+          "x": 263,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_73",
+          "image": "73.png",
+          "hoveredImage": "73h.png",
+          "onClick": {
+            "name": "ISDesign73"
+          },
+          "x": 263,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_74",
+          "image": "74.png",
+          "hoveredImage": "74h.png",
+          "onClick": {
+            "name": "ISDesign74"
+          },
+          "x": 263,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_75",
+          "image": "75.png",
+          "hoveredImage": "75h.png",
+          "onClick": {
+            "name": "ISDesign75"
+          },
+          "x": 263,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_76",
+          "image": "76.png",
+          "hoveredImage": "76h.png",
+          "onClick": {
+            "name": "ISDesign76"
+          },
+          "x": 263,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_77",
+          "image": "77.png",
+          "hoveredImage": "77h.png",
+          "onClick": {
+            "name": "ISDesign77"
+          },
+          "x": 263,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_78",
+          "image": "78.png",
+          "hoveredImage": "78h.png",
+          "onClick": {
+            "name": "ISDesign78"
+          },
+          "x": 263,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_79",
+          "image": "79.png",
+          "hoveredImage": "79h.png",
+          "onClick": {
+            "name": "ISDesign79"
+          },
+          "x": 263,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_80",
+          "image": "80.png",
+          "hoveredImage": "80h.png",
+          "onClick": {
+            "name": "ISDesign80"
+          },
+          "x": 263,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_81",
+          "image": "81.png",
+          "hoveredImage": "81h.png",
+          "onClick": {
+            "name": "ISDesign81"
+          },
+          "x": 283,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_82",
+          "image": "82.png",
+          "hoveredImage": "82h.png",
+          "onClick": {
+            "name": "ISDesign82"
+          },
+          "x": 283,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_83",
+          "image": "83.png",
+          "hoveredImage": "83h.png",
+          "onClick": {
+            "name": "ISDesign83"
+          },
+          "x": 283,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_84",
+          "image": "84.png",
+          "hoveredImage": "84h.png",
+          "onClick": {
+            "name": "ISDesign84"
+          },
+          "x": 283,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_85",
+          "image": "85.png",
+          "hoveredImage": "85h.png",
+          "onClick": {
+            "name": "ISDesign85"
+          },
+          "x": 283,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_86",
+          "image": "86.png",
+          "hoveredImage": "86h.png",
+          "onClick": {
+            "name": "ISDesign86"
+          },
+          "x": 283,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_87",
+          "image": "87.png",
+          "hoveredImage": "87h.png",
+          "onClick": {
+            "name": "ISDesign87"
+          },
+          "x": 283,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_88",
+          "image": "88.png",
+          "hoveredImage": "88h.png",
+          "onClick": {
+            "name": "ISDesign88"
+          },
+          "x": 283,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_89",
+          "image": "89.png",
+          "hoveredImage": "89h.png",
+          "onClick": {
+            "name": "ISDesign89"
+          },
+          "x": 283,
+          "y": 190
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_90",
+          "image": "90.png",
+          "hoveredImage": "90h.png",
+          "onClick": {
+            "name": "ISDesign90"
+          },
+          "x": 303,
+          "y": 30
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_91",
+          "image": "91.png",
+          "hoveredImage": "91h.png",
+          "onClick": {
+            "name": "ISDesign91"
+          },
+          "x": 303,
+          "y": 50
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_92",
+          "image": "92.png",
+          "hoveredImage": "92h.png",
+          "onClick": {
+            "name": "ISDesign92"
+          },
+          "x": 303,
+          "y": 70
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_93",
+          "image": "93.png",
+          "hoveredImage": "93h.png",
+          "onClick": {
+            "name": "ISDesign93"
+          },
+          "x": 303,
+          "y": 90
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_94",
+          "image": "94.png",
+          "hoveredImage": "94h.png",
+          "onClick": {
+            "name": "ISDesign94"
+          },
+          "x": 303,
+          "y": 110
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_95",
+          "image": "95.png",
+          "hoveredImage": "95h.png",
+          "onClick": {
+            "name": "ISDesign95"
+          },
+          "x": 303,
+          "y": 130
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_96",
+          "image": "96.png",
+          "hoveredImage": "96h.png",
+          "onClick": {
+            "name": "ISDesign96"
+          },
+          "x": 303,
+          "y": 150
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_97",
+          "image": "97.png",
+          "hoveredImage": "97h.png",
+          "onClick": {
+            "name": "ISDesign97"
+          },
+          "x": 303,
+          "y": 170
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_98",
+          "image": "98.png",
+          "hoveredImage": "98h.png",
+          "onClick": {
+            "name": "ISDesign98"
+          },
+          "x": 303,
+          "y": 190
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 20,
+      "sy": 20,
+      "ox": 5,
+      "oy": 19,
+      "snapOnGrid": false
+    }
+  }
+}

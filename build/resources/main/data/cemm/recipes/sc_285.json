@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_malachite"
+  },
+  "result": "cemm:polished_malachite_slab"
+}

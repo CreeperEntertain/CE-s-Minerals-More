@@ -1,0 +1,75 @@
+{
+  "_fv": 39,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChlorowoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedChlorowoodLog"
+      },
+      {
+        "value": "Blocks.LOG"
+      },
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#2"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.LOG2"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": "Blocks.MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_OAK_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_SPRUCE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_BIRCH_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_JUNGLE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_DARK_OAK_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_MANGROVE_LOG"
+      },
+      {
+        "value": "CUSTOM:EbonyLog"
+      },
+      {
+        "value": "CUSTOM:StrippedEbonyLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:mariposite"
+  },
+  "result": "cemm:polished_mariposite_slab"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:argilite"
+    },
+    "1": {
+      "item": "cemm:argilite"
+    },
+    "2": {
+      "item": "cemm:argilite"
+    },
+    "3": {
+      "item": "cemm:argilite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_argilite",
+    "count": 4
+  }
+}

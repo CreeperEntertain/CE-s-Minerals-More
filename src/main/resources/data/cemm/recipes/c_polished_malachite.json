@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:malachite"
+    },
+    "1": {
+      "item": "cemm:malachite"
+    },
+    "2": {
+      "item": "cemm:malachite"
+    },
+    "3": {
+      "item": "cemm:malachite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_malachite",
+    "count": 4
+  }
+}

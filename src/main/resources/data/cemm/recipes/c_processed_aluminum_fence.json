@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "1": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "2": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "3": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "4": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "5": {
+      "item": "cemm:processed_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_fence",
+    "count": 2
+  }
+}

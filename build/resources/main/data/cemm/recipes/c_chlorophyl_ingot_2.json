@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "cemm:chlorophyl_paste"
+    },
+    "3": {
+      "item": "cemm:chlorophyl_paste"
+    },
+    "4": {
+      "item": "cemm:galvanized_steel_ingot"
+    },
+    "5": {
+      "item": "cemm:chlorophyl_paste"
+    },
+    "7": {
+      "item": "cemm:chlorophyl_paste"
+    }
+  },
+  "result": {
+    "item": "cemm:chlorophyl_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:roselite"
+    },
+    "1": {
+      "item": "cemm:roselite"
+    },
+    "2": {
+      "item": "cemm:roselite"
+    },
+    "3": {
+      "item": "cemm:roselite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_roselite",
+    "count": 4
+  }
+}

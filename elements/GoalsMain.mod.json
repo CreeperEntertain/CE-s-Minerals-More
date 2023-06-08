@@ -1,0 +1,410 @@
+{
+  "_fv": 39,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 425,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Write goals here",
+          "name": "goalsetter",
+          "width": 120,
+          "height": 20,
+          "x": 125,
+          "y": 8
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_add",
+          "text": "ADD",
+          "onClick": {
+            "name": "ObjectiveAddButtonExecute"
+          },
+          "displayCondition": {
+            "name": "AddCheckCondition"
+          },
+          "width": 40,
+          "height": 20,
+          "x": 261,
+          "y": 8
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry1"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck1"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 37
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove1",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry2"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck2"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 57
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove2",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry3"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck3"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 77
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove3",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry4"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck4"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 97
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove4",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry5"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck5"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 117
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove5",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry6"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck6"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 137
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove6",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry7"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck7"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 157
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove7",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry8"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck8"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 177
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove8",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry9"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck9"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 197
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_remove9",
+          "text": "Remove",
+          "onClick": {
+            "name": "GoalArrayRemoveEntry10"
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck10"
+          },
+          "width": 56,
+          "height": 20,
+          "x": 3,
+          "y": 217
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck1"
+          },
+          "x": 63,
+          "y": 42
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template1",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck2"
+          },
+          "x": 63,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template2",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText3"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck3"
+          },
+          "x": 63,
+          "y": 82
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template3",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText4"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck4"
+          },
+          "x": 63,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template4",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText5"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck5"
+          },
+          "x": 63,
+          "y": 122
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template5",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText6"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck6"
+          },
+          "x": 63,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template6",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText7"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck7"
+          },
+          "x": 63,
+          "y": 162
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template7",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText8"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck8"
+          },
+          "x": 63,
+          "y": 182
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template8",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText9"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck9"
+          },
+          "x": 63,
+          "y": 202
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_template9",
+          "text": {
+            "fixedValue": "Template",
+            "name": "GoalCheckText10"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "GoalElementDisplayCheck10"
+          },
+          "x": 63,
+          "y": 222
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

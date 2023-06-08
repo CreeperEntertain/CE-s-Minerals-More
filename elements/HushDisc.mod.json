@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Hush",
+    "texture": "hush",
+    "description": "Esoots - Hush",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.hush"
+    },
+    "lengthInTicks": 3940,
+    "analogOutput": 15
+  }
+}

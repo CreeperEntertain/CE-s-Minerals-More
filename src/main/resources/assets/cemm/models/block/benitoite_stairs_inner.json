@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/benitoite",
+    "top": "cemm:blocks/benitoite",
+    "side": "cemm:blocks/benitoite"
+  },
+  "render_type": "solid"
+}

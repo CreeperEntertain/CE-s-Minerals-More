@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tinakisite"
+    },
+    "1": {
+      "item": "cemm:tinakisite"
+    },
+    "2": {
+      "item": "cemm:tinakisite"
+    },
+    "3": {
+      "item": "cemm:tinakisite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_tinakisite",
+    "count": 4
+  }
+}

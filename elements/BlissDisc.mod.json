@@ -1,0 +1,19 @@
+{
+  "_fv": 39,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Bliss",
+    "texture": "bliss",
+    "description": "Esoots - Bliss",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.bliss"
+    },
+    "lengthInTicks": 2800,
+    "analogOutput": 15
+  }
+}

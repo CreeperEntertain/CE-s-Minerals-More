@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:bismuthinite"
+    },
+    "1": {
+      "item": "cemm:bismuthinite"
+    },
+    "2": {
+      "item": "cemm:bismuthinite"
+    },
+    "3": {
+      "item": "cemm:bismuthinite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_bismuthinite",
+    "count": 4
+  }
+}

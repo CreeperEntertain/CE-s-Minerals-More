@@ -1,0 +1,14 @@
+{
+  "type": "cemm:anthracite_feature",
+  "config": {
+    "state_provider": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "cemm:anthracite",
+        "Properties": {
+          "axis": "y"
+        }
+      }
+    }
+  }
+}

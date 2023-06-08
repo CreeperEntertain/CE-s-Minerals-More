@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/platinumpellet",
+  "textures": {
+    "all": "cemm:blocks/platinum_bit",
+    "particle": "cemm:blocks/platinum_bit",
+    "0": "cemm:blocks/platinum_bit"
+  },
+  "render_type": "cutout"
+}

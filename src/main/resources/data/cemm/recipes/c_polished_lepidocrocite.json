@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lepidocrocite"
+    },
+    "1": {
+      "item": "cemm:lepidocrocite"
+    },
+    "2": {
+      "item": "cemm:lepidocrocite"
+    },
+    "3": {
+      "item": "cemm:lepidocrocite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_lepidocrocite",
+    "count": 4
+  }
+}

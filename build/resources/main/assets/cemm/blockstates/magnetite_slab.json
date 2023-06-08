@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/magnetite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/magnetite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/magnetite_slab_full"
+    }
+  }
+}

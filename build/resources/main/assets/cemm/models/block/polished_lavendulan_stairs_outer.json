@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:blocks/polished_lavendulan",
+    "top": "cemm:blocks/polished_lavendulan",
+    "side": "cemm:blocks/polished_lavendulan"
+  },
+  "render_type": "solid"
+}

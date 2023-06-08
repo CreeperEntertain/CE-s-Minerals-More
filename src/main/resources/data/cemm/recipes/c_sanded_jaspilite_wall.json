@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:sanded_jaspilite"
+    },
+    "1": {
+      "item": "cemm:sanded_jaspilite"
+    },
+    "2": {
+      "item": "cemm:sanded_jaspilite"
+    },
+    "3": {
+      "item": "cemm:sanded_jaspilite"
+    },
+    "4": {
+      "item": "cemm:sanded_jaspilite"
+    },
+    "5": {
+      "item": "cemm:sanded_jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:sanded_jaspilite_wall",
+    "count": 6
+  }
+}

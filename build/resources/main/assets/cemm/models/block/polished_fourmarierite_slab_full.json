@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:blocks/polished_fourmarierite",
+    "top": "cemm:blocks/polished_fourmarierite",
+    "side": "cemm:blocks/polished_fourmarierite"
+  },
+  "render_type": "solid"
+}

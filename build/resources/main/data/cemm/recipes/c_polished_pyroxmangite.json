@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:pyroxmangite"
+    },
+    "1": {
+      "item": "cemm:pyroxmangite"
+    },
+    "2": {
+      "item": "cemm:pyroxmangite"
+    },
+    "3": {
+      "item": "cemm:pyroxmangite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_pyroxmangite",
+    "count": 4
+  }
+}

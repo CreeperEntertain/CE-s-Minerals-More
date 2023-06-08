@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "1": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "2": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "3": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "4": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "5": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "6": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "7": {
+      "item": "cemm:lanthanum_lump"
+    },
+    "8": {
+      "item": "cemm:lanthanum_lump"
+    }
+  },
+  "result": {
+    "item": "cemm:lanthanum_block",
+    "count": 1
+  }
+}

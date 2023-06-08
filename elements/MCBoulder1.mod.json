@@ -1,0 +1,36 @@
+{
+  "_fv": 39,
+  "_type": "structure",
+  "definition": {
+    "structure": "meta_carbonite_boulder_1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": -1,
+    "spawnXOffset": -1,
+    "spawnZOffset": -1,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Chlorophyl"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}
