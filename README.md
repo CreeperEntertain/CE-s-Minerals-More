@@ -5,3 +5,5 @@ The files seen here are the full MCreator project for the "CE's Minerals & More"
 **[CurseForge](https://www.curseforge.com/minecraft/mc-mods/ces-minerals-more)**
 
 **[Modrinth](https://modrinth.com/mod/cemm)**
+
+**[MCreator](https://mcreator.net/modification/97656/ces-minerals-more)**
