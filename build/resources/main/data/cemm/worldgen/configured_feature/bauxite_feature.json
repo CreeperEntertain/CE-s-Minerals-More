@@ -1,0 +1,12 @@
+{
+  "type": "cemm:bauxite_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:bauxite_block"
+    },
+    "radius": 5
+  }
+}

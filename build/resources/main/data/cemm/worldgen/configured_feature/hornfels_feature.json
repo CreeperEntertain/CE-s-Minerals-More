@@ -1,0 +1,15 @@
+{
+  "type": "cemm:hornfels_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:hornfels",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": 12
+  }
+}

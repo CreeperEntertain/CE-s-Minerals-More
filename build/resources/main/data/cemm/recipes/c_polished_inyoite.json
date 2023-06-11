@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:inyoite"
+    },
+    "1": {
+      "item": "cemm:inyoite"
+    },
+    "2": {
+      "item": "cemm:inyoite"
+    },
+    "3": {
+      "item": "cemm:inyoite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_inyoite",
+    "count": 4
+  }
+}

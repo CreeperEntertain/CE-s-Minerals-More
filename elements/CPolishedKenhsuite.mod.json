@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Kenhsuite"
+      },
+      {
+        "value": "CUSTOM:Kenhsuite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Kenhsuite"
+      },
+      {
+        "value": "CUSTOM:Kenhsuite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedKenhsuite"
+    },
+    "name": "c_polished_kenhsuite",
+    "namespace": "mod"
+  }
+}

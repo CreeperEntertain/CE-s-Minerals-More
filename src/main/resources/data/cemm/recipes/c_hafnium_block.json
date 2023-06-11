@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "1": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "2": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "3": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "4": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "5": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "6": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "7": {
+      "item": "cemm:hafnium_ingot"
+    },
+    "8": {
+      "item": "cemm:hafnium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:hafnium_block",
+    "count": 1
+  }
+}

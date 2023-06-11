@@ -1,0 +1,64 @@
+{
+  "_fv": 43,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:MonaziteDesert"
+      },
+      {
+        "value": "CUSTOM:ZirconianDesert"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "desert_hills"
+      },
+      {
+        "value": "mutated_desert"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "badlands_plateau"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "mutated_mesa_clear_rock"
+      },
+      {
+        "value": "mutated_mesa_rock"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "CUSTOM:BauxiteSteppes"
+      },
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_block_pile\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.RED_SANDSTONE#0</field></block></value></block></value><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">100</field></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">WORLD_SURFACE_WG</field><next><block type=\"placement_height_range\"><value name=\"height\"><block type=\"height_provider_trapezoid\"><field name=\"plateau\">16</field><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">32</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">96</field></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_rarity\"><field name=\"rarity\">20</field></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

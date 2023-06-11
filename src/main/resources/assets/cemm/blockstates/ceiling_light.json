@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/ceiling_light"
+    },
+    "facing=east": {
+      "model": "cemm:block/ceiling_light",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/ceiling_light",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/ceiling_light",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ProcessedAluminumGrid"
+    },
+    "name": "c_processed_aluminum_grid",
+    "namespace": "mod"
+  }
+}

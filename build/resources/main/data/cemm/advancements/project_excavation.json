@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:meta_carbonite_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.project_excavation.title"
+    },
+    "description": {
+      "translate": "advancements.project_excavation.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "project_excavation": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:fresh_start"
+}

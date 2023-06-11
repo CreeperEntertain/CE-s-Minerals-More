@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/purpurite_top",
+    "top": "cemm:block/purpurite_top",
+    "side": "cemm:block/purpurite"
+  },
+  "render_type": "solid"
+}

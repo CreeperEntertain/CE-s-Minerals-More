@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:minium"
+  },
+  "result": "cemm:polished_minium_stairs"
+}

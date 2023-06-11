@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:lignite_flats",
+    "cemm:hornfels_overhangs"
+  ],
+  "features": "cemm:todorokite",
+  "step": "underground_ores"
+}

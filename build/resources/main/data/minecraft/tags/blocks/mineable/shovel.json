@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:monazite_sand",
+    "cemm:zircon_sand",
+    "cemm:arsenic_deposit",
+    "cemm:chlorograss_block_dirt",
+    "cemm:firegrass_block_dirt"
+  ]
+}

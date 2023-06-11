@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_ocean",
+    "deep_cold_ocean",
+    "ice_spikes",
+    "windswept_hills",
+    "snowy_plains",
+    "frozen_peaks",
+    "cold_ocean",
+    "snowy_taiga",
+    "deep_frozen_ocean",
+    "snowy_beach"
+  ],
+  "features": "cemm:deepslate_dolomite_deposit",
+  "step": "underground_ores"
+}

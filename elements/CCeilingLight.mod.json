@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:CoatedAluminumBar"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:CoatedAluminumBar"
+      },
+      {
+        "value": "CUSTOM:LightDust"
+      },
+      {
+        "value": "CUSTOM:LightDust"
+      },
+      {
+        "value": "CUSTOM:LightDust"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CeilingLight"
+    },
+    "name": "c_ceiling_light",
+    "namespace": "mod"
+  }
+}

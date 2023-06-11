@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lunarbark_stick"
+    },
+    "1": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "2": {
+      "item": "cemm:lunarbark_stick"
+    },
+    "3": {
+      "item": "cemm:lunarbark_stick"
+    },
+    "4": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "5": {
+      "item": "cemm:lunarbark_stick"
+    }
+  },
+  "result": {
+    "item": "cemm:lunarbark_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "type": "cemm:bastnaesite_deposit",
+  "config": {
+    "size": 15,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:limestone",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:claystone"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dripstone_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:cobblestone"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        },
+        "state": {
+          "Name": "cemm:bastnaesite_deposit"
+        }
+      }
+    ]
+  }
+}

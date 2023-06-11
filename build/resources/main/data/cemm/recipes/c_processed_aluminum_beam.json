@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "1": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "2": {
+      "item": "cemm:processed_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_beam",
+    "count": 1
+  }
+}

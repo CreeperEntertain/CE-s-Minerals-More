@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/dripstone_niter_deposit",
+    "particle": "cemm:block/dripstone_niter_deposit"
+  },
+  "render_type": "solid"
+}

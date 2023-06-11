@@ -1,0 +1,51 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Tomato00Top"
+      },
+      {
+        "value": "CUSTOM:Tomato01Top"
+      },
+      {
+        "value": "CUSTOM:Tomato02Top"
+      },
+      {
+        "value": "CUSTOM:Tomato03Top"
+      },
+      {
+        "value": "CUSTOM:Tomato04Top"
+      },
+      {
+        "value": "CUSTOM:Tomato05Top"
+      },
+      {
+        "value": "CUSTOM:Tomato06Top"
+      },
+      {
+        "value": "CUSTOM:Tomato07Top"
+      },
+      {
+        "value": "CUSTOM:Tomato08Top"
+      },
+      {
+        "value": "CUSTOM:Tomato09Top"
+      },
+      {
+        "value": "CUSTOM:Tomato10Top"
+      },
+      {
+        "value": "CUSTOM:Tomato11Top"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tomato_plant_top",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ruthenium_crystal"
+    },
+    "1": {
+      "item": "cemm:ruthenium_crystal"
+    },
+    "2": {
+      "item": "cemm:ruthenium_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:ruthenium_pellet",
+    "count": 1
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:schorl"
+    },
+    "1": {
+      "item": "cemm:schorl"
+    },
+    "2": {
+      "item": "cemm:schorl"
+    },
+    "3": {
+      "item": "cemm:schorl"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_schorl",
+    "count": 4
+  }
+}

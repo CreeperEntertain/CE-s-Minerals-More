@@ -1,0 +1,29 @@
+{
+  "feature": "cemm:obsidian_feature",
+  "placement": [
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "WORLD_SURFACE_WG"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 32
+        },
+        "max_inclusive": {
+          "absolute": 96
+        },
+        "plateau": 16
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 500
+    }
+  ]
+}

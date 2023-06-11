@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Inyoite"
+      },
+      {
+        "value": "CUSTOM:Inyoite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Inyoite"
+      },
+      {
+        "value": "CUSTOM:Inyoite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedInyoite"
+    },
+    "name": "c_polished_inyoite",
+    "namespace": "mod"
+  }
+}

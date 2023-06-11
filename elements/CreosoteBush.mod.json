@@ -1,0 +1,219 @@
+{
+  "_fv": 43,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "creosote_bush",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "creosote_bush",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "staticPlantGenerationType": "Grass",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "doublePlantGenerationType": "Flower",
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 5.5,
+        "my": 0.0,
+        "mz": 5.5,
+        "Mx": 10.5,
+        "My": 8.0,
+        "Mz": 10.5,
+        "subtract": false
+      }
+    ],
+    "name": "Creosote Bush",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "DECORATIONS"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "Blocks.MYCELIUM"
+      },
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": "CUSTOM:Jaspilite"
+      },
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:RedShale"
+      },
+      {
+        "value": "CUSTOM:Orpiment"
+      },
+      {
+        "value": "Blocks.SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 4,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "patchSize": 20,
+    "generateAtAnyHeight": false
+  }
+}

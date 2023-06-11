@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/blueschist_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/blueschist_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/blueschist_slab_full"
+    }
+  }
+}

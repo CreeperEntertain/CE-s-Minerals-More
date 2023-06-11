@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:diamond_shard"
+    },
+    "1": {
+      "item": "cemm:diamond_shard"
+    },
+    "2": {
+      "item": "cemm:diamond_shard"
+    },
+    "3": {
+      "item": "cemm:diamond_shard"
+    },
+    "4": {
+      "item": "cemm:diamond_shard"
+    },
+    "5": {
+      "item": "cemm:diamond_shard"
+    },
+    "6": {
+      "item": "cemm:diamond_shard"
+    },
+    "7": {
+      "item": "cemm:diamond_shard"
+    },
+    "8": {
+      "item": "cemm:diamond_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

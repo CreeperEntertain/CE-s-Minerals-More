@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      },
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      },
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      },
+      {
+        "value": "CUSTOM:SandedJaspilite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SandedJaspiliteStairs"
+    },
+    "name": "c_sanded_jaspilite_stairs",
+    "namespace": "mod"
+  }
+}

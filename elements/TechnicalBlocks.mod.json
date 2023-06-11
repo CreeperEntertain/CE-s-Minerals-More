@@ -1,0 +1,11 @@
+{
+  "_fv": 43,
+  "_type": "tab",
+  "definition": {
+    "name": "Technical",
+    "icon": {
+      "value": "CUSTOM:MobileBattery"
+    },
+    "showSearch": false
+  }
+}

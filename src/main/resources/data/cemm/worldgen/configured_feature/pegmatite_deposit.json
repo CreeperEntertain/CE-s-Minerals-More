@@ -1,0 +1,70 @@
+{
+  "type": "cemm:pegmatite_deposit",
+  "config": {
+    "size": 8,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:marble"
+          }
+        },
+        "state": {
+          "Name": "cemm:pegmatite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:limestone",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:pegmatite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chalk"
+          }
+        },
+        "state": {
+          "Name": "cemm:pegmatite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:hornfels",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:pegmatite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:pegmatite_deposit"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 43,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Nature's Breath",
+    "achievementDescription": "Enter a chlorophyl biome.",
+    "achievementIcon": {
+      "value": "CUSTOM:ChlorograssBlockGranite"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 100,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:WelcomeToTheGame"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"biome_entered\" x=\"39\" y=\"55\"><field name=\"biome\">CUSTOM:Chlorophyl</field><next><block type=\"advancement_trigger\" deletable=\"false\"></block></next></block></xml>"
+  }
+}

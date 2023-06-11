@@ -1,0 +1,15 @@
+{
+  "_fv": 43,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:Lignite"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 400.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

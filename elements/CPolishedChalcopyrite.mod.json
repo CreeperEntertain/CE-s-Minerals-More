@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Chalcopyrite"
+      },
+      {
+        "value": "CUSTOM:Chalcopyrite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Chalcopyrite"
+      },
+      {
+        "value": "CUSTOM:Chalcopyrite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedChalcopyrite"
+    },
+    "name": "c_polished_chalcopyrite",
+    "namespace": "mod"
+  }
+}

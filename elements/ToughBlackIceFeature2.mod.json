@@ -1,0 +1,55 @@
+{
+  "_fv": 43,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "frozen_peaks"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "snowy_slopes"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "snowy_mountains"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "mutated_taiga_cold"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "deep_cold_ocean"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_replace_sphere\"><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.STONE#0</field></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:ToughBlackIce</field></block></value><value name=\"radius\"><block type=\"int_provider_constant\"><field name=\"value\">1</field></block></value></block></value><next><block type=\"placement_height_uniform\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">-4</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">128</field></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">2</field></block></next></block></next></block></xml>"
+  }
+}

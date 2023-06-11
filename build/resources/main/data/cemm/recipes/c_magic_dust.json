@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "1": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "2": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "cemm:magic_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MetaCarboniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarboniteWall"
+      },
+      {
+        "value": "CUSTOM:AegirineWall"
+      },
+      {
+        "value": "CUSTOM:PolishedAegirineWall"
+      },
+      {
+        "value": "CUSTOM:AeriniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedAeriniteWall"
+      },
+      {
+        "value": "CUSTOM:ArgliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedArgiliteWall"
+      },
+      {
+        "value": "CUSTOM:BauxiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBauxiteWall"
+      },
+      {
+        "value": "CUSTOM:BenitoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBenitoiteWall"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBismuthiniteWall"
+      },
+      {
+        "value": "CUSTOM:BlueschistWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBlueschistWall"
+      },
+      {
+        "value": "CUSTOM:BrecciaWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBrecciaWall"
+      },
+      {
+        "value": "CUSTOM:ChalcopyriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalcopyriteWall"
+      },
+      {
+        "value": "CUSTOM:ChalkWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalkWall"
+      },
+      {
+        "value": "CUSTOM:ClaystoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedClaystoneWall"
+      },
+      {
+        "value": "CUSTOM:ElbaiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedElbaiteWall"
+      },
+      {
+        "value": "CUSTOM:FourmarieriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedFourmarieriteWall"
+      },
+      {
+        "value": "CUSTOM:GraphiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedGraphiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedGypsumWall"
+      },
+      {
+        "value": "CUSTOM:GypsumWall"
+      },
+      {
+        "value": "CUSTOM:HornfelsWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHornfelsWall"
+      },
+      {
+        "value": "CUSTOM:HyaloclastiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHyaloclastiteWall"
+      },
+      {
+        "value": "CUSTOM:InyoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedInyoiteWall"
+      },
+      {
+        "value": "CUSTOM:JasperWall"
+      },
+      {
+        "value": "CUSTOM:PolishedJasperWall"
+      },
+      {
+        "value": "CUSTOM:KanoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKanoiteWall"
+      },
+      {
+        "value": "CUSTOM:KenhsuiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKenhsuiteWall"
+      },
+      {
+        "value": "CUSTOM:KeroliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKeroliteWall"
+      },
+      {
+        "value": "CUSTOM:KomatiiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKomatiiteWall"
+      },
+      {
+        "value": "CUSTOM:KremersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKremersiteWall"
+      },
+      {
+        "value": "CUSTOM:LatiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLatiteWall"
+      },
+      {
+        "value": "CUSTOM:LavendulanWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLavendulanWall"
+      },
+      {
+        "value": "CUSTOM:LazuliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLazuliteWall"
+      },
+      {
+        "value": "CUSTOM:LepidocrociteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLepidocrociteWall"
+      },
+      {
+        "value": "CUSTOM:LimestoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneWall"
+      },
+      {
+        "value": "CUSTOM:LinariteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLinariteWall"
+      },
+      {
+        "value": "CUSTOM:LithiophiliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLithiophiliteWall"
+      },
+      {
+        "value": "CUSTOM:LorenzeniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLorenzeniteWall"
+      },
+      {
+        "value": "CUSTOM:MagnetiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMagnetiteWall"
+      },
+      {
+        "value": "CUSTOM:MalachiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMalachiteWall"
+      },
+      {
+        "value": "CUSTOM:MaripositeWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMaripositeWall"
+      },
+      {
+        "value": "CUSTOM:MasuyiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMasuyiteWall"
+      },
+      {
+        "value": "CUSTOM:MetatorberniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMetatorberniteWall"
+      },
+      {
+        "value": "CUSTOM:MiniumWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMiniumWall"
+      },
+      {
+        "value": "CUSTOM:OlivineWall"
+      },
+      {
+        "value": "CUSTOM:PolishedOlivineWall"
+      },
+      {
+        "value": "CUSTOM:PietersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPietersiteWall"
+      },
+      {
+        "value": "CUSTOM:PurpuriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPurpuriteWall"
+      },
+      {
+        "value": "CUSTOM:PyroxmangiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPyroxmangiteWall"
+      },
+      {
+        "value": "CUSTOM:RoseliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedRoseliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSchorlWall"
+      },
+      {
+        "value": "CUSTOM:SchorlWall"
+      },
+      {
+        "value": "CUSTOM:PolishedShungiteWall"
+      },
+      {
+        "value": "CUSTOM:ShungiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTinakisiteWall"
+      },
+      {
+        "value": "CUSTOM:TinakisiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTodorokiteWall"
+      },
+      {
+        "value": "CUSTOM:TodorokiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTokyoiteWall"
+      },
+      {
+        "value": "CUSTOM:TokyoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTrondhjemiteWall"
+      },
+      {
+        "value": "CUSTOM:TrondhjemiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleWall"
+      },
+      {
+        "value": "CUSTOM:MarbleWall"
+      },
+      {
+        "value": "CUSTOM:JaspiliteBrickWall"
+      },
+      {
+        "value": "CUSTOM:SandedJaspiliteWall"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspiliteWall"
+      },
+      {
+        "value": "Blocks.GRANITE_WALL"
+      },
+      {
+        "value": "Blocks.DIORITE_WALL"
+      },
+      {
+        "value": "Blocks.ANDESITE_WALL"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MUD_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.BRICK_WALL"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.RED_NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#0"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#1"
+      },
+      {
+        "value": "Blocks.PRISMARINE_WALL"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "walls",
+    "namespace": "minecraft"
+  }
+}

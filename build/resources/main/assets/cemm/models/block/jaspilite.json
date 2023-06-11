@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/jaspilite_top_new",
+    "up": "cemm:block/jaspilite_top_new",
+    "north": "cemm:block/jaspilite_new",
+    "east": "cemm:block/jaspilite_new",
+    "south": "cemm:block/jaspilite_new",
+    "west": "cemm:block/jaspilite_new",
+    "particle": "cemm:block/jaspilite_top_new"
+  },
+  "render_type": "solid"
+}

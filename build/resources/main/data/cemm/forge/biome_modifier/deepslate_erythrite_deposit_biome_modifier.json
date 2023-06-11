@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "sparse_jungle",
+    "jungle"
+  ],
+  "features": "cemm:deepslate_erythrite_deposit",
+  "step": "underground_ores"
+}

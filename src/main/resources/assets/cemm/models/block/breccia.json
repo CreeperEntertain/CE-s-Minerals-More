@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/breccia",
+    "particle": "cemm:block/breccia"
+  },
+  "render_type": "solid"
+}

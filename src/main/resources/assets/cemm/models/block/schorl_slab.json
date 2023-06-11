@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/schorl_top",
+    "top": "cemm:block/schorl_top",
+    "side": "cemm:block/schorl"
+  },
+  "render_type": "solid"
+}

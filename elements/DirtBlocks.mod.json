@@ -1,0 +1,78 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "dirt",
+    "namespace": "minecraft"
+  }
+}

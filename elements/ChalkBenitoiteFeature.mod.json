@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ChalkSteppes"
+      },
+      {
+        "value": "CUSTOM:ChalkMountains"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_replace_sphere\"><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Chalk</field></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Benitoite</field></block></value><value name=\"radius\"><block type=\"int_provider_constant\"><field name=\"value\">2</field></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">1</field><next><block type=\"placement_in_square\"><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">32</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">128</field></block></value></block></next></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "_fv": 43,
+  "_type": "structure",
+  "definition": {
+    "structure": "shungite_boulder_2",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 250000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Shungite"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ShungiteMines"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

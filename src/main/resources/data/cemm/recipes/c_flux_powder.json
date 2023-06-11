@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:fluorite_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:flux_powder",
+    "count": 2
+  }
+}

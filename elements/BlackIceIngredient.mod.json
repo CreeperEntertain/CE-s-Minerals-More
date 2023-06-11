@@ -1,0 +1,39 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:PureCarbon"
+      },
+      {
+        "value": "CUSTOM:LigniteBlock"
+      },
+      {
+        "value": "CUSTOM:Graphite"
+      },
+      {
+        "value": "CUSTOM:HafniumCarbidePowder"
+      },
+      {
+        "value": "CUSTOM:Shungite"
+      },
+      {
+        "value": "Items.DYE#0"
+      },
+      {
+        "value": "Items.COAL#0"
+      },
+      {
+        "value": "Items.COAL#1"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "black_ice_ingredient",
+    "namespace": "mod"
+  }
+}

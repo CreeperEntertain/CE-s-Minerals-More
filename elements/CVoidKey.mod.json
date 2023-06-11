@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TheVoid"
+    },
+    "name": "c_void_key",
+    "namespace": "mod"
+  }
+}

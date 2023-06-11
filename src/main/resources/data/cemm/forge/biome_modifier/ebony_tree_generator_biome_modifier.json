@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:red_wastes",
+  "features": "cemm:ebony_tree_generator",
+  "step": "surface_structures"
+}
