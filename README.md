@@ -3,6 +3,7 @@ The files seen here are the full MCreator project for the "CE's Minerals & More"
 
 ## Different Versions
 For each version of this mod, a new branch will be created. The name system for those is ``MinecraftVersion-ModVersion``.
+
 **Example:** 1.19.4-1.10.31
 This is to make it easier to work with MCreator's own git management system, and to sort for updates.
 
