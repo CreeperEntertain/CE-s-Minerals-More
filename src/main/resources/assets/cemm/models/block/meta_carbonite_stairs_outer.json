@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/meta_carbonite",
+    "top": "cemm:block/meta_carbonite",
+    "side": "cemm:block/meta_carbonite"
+  },
+  "render_type": "solid"
+}

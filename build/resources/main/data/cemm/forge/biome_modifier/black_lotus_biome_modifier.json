@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river",
+    "desert",
+    "mangrove_swamp",
+    "swamp",
+    "cemm:chlorophyl"
+  ],
+  "features": "cemm:black_lotus",
+  "step": "vegetal_decoration"
+}

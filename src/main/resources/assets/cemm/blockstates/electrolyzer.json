@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/electrolyzer"
+    },
+    "facing=east": {
+      "model": "cemm:block/electrolyzer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/electrolyzer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/electrolyzer",
+      "y": 270
+    }
+  }
+}

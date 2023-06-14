@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/tinakisite",
+    "top": "cemm:block/tinakisite",
+    "side": "cemm:block/tinakisite"
+  },
+  "render_type": "solid"
+}

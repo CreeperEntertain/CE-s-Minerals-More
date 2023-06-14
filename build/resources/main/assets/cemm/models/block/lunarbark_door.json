@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_bottom",
+  "textures": {
+    "texture": "cemm:blocks/lunarbark_trapdoor",
+    "particle": "cemm:blocks/lunarbark_trapdoor"
+  },
+  "render_type": "solid"
+}

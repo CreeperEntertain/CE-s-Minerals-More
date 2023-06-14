@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Front": "info_sign_arrow_left",
+        "Back": "info_sign_empty"
+      },
+      "name": "default"
+    }
+  }
+}

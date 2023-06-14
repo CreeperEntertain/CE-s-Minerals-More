@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Warped Framework",
+    "texture": "wared_framework",
+    "description": "Esoots - Warped Framework",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.warped_framework"
+    },
+    "lengthInTicks": 5240,
+    "analogOutput": 15
+  }
+}

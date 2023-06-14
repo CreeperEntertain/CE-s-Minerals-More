@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/todorokite_top",
+    "particle": "cemm:block/todorokite_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gabbro"
+    },
+    "1": {
+      "item": "cemm:gabbro"
+    },
+    "2": {
+      "item": "cemm:gabbro"
+    }
+  },
+  "result": {
+    "item": "cemm:gabbro_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:void_forest",
+  "features": "cemm:mc_floating_island_13",
+  "step": "raw_generation"
+}

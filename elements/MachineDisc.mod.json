@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Machine",
+    "texture": "machine",
+    "description": "Esoots - Machine",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.machine"
+    },
+    "lengthInTicks": 10400,
+    "analogOutput": 15
+  }
+}

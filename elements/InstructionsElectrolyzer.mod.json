@@ -1,0 +1,443 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 430,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_aluminum_scrap",
+          "image": "button_aluminum_scrap.png",
+          "hoveredImage": "button_aluminum_scrap_hover.png",
+          "onClick": {
+            "name": "EIButton1Execute"
+          },
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_calcium_crystals",
+          "image": "button_calcium_crystals.png",
+          "hoveredImage": "button_calcium_crystals_hover.png",
+          "onClick": {
+            "name": "EIButton2Execute"
+          },
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_chromium_crystal",
+          "image": "button_chromium_crystal.png",
+          "hoveredImage": "button_chromium_crystal_hover.png",
+          "onClick": {
+            "name": "EIButton3Execute"
+          },
+          "x": 1,
+          "y": 32
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_copper_ingot",
+          "image": "button_copper_ingot.png",
+          "hoveredImage": "button_copper_ingot_hover.png",
+          "onClick": {
+            "name": "EIButton4Execute"
+          },
+          "x": 1,
+          "y": 49
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_lanthanum_lump",
+          "image": "button_lanthanum_lump.png",
+          "hoveredImage": "button_lanthanum_lump_hover.png",
+          "onClick": {
+            "name": "EIButton6Execute"
+          },
+          "x": 1,
+          "y": 81
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_praseodymium_pieces",
+          "image": "button_praseodymium_pieces.png",
+          "hoveredImage": "button_praseodymium_pieces_hover.png",
+          "onClick": {
+            "name": "EIButton12Execute"
+          },
+          "x": 1,
+          "y": 177
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_europium_oxide",
+          "image": "button_europium_oxide.png",
+          "hoveredImage": "button_europium_oxide_hover.png",
+          "onClick": {
+            "name": "EIButton5Execute"
+          },
+          "x": 1,
+          "y": 64
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_magnesium_crystals",
+          "image": "button_magnesium_crystals.png",
+          "hoveredImage": "button_magnesium_crystals_hover.png",
+          "onClick": {
+            "name": "EIButton8Execute"
+          },
+          "x": 1,
+          "y": 113
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_manganese_chunk",
+          "image": "button_manganese_chunk.png",
+          "hoveredImage": "button_manganese_chunk_hover.png",
+          "onClick": {
+            "name": "EIButton9Execute"
+          },
+          "x": 1,
+          "y": 129
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_neodymium_scrap",
+          "image": "button_neodymium_scrap.png",
+          "hoveredImage": "button_neodymium_scrap_hover.png",
+          "onClick": {
+            "name": "EIButton10Execute"
+          },
+          "x": 1,
+          "y": 145
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_niobium_crystals",
+          "image": "button_niobium_crystals.png",
+          "hoveredImage": "button_niobium_crystals_hover.png",
+          "onClick": {
+            "name": "EIButton11Execute"
+          },
+          "x": 1,
+          "y": 161
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_ytterbium_crystals",
+          "image": "button_ytterbium_crystals.png",
+          "hoveredImage": "button_ytterbium_crystals_hover.png",
+          "onClick": {
+            "name": "EIButton13Execute"
+          },
+          "x": 1,
+          "y": 193
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_lanthanum_scrap",
+          "image": "button_lanthanum_scrap.png",
+          "hoveredImage": "button_lanthanum_scrap_hover.png",
+          "onClick": {
+            "name": "EIButton7Execute"
+          },
+          "x": 1,
+          "y": 97
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_ytterbium_lanthanum_ingot",
+          "image": "button_ytterbium_lanthanum_ingot.png",
+          "hoveredImage": "button_ytterbium_lanthanum_ingot_hover.png",
+          "onClick": {
+            "name": "EIButton14Execute"
+          },
+          "x": 1,
+          "y": 209
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_yttrium_fluorite_crystal",
+          "image": "button_yttrium_fluorite_crystal.png",
+          "hoveredImage": "button_yttrium_fluorite_crystal_hover.png",
+          "onClick": {
+            "name": "EIButton15Execute"
+          },
+          "x": 1,
+          "y": 225
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_225px.png",
+          "use1Xscale": false,
+          "x": 161,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "electrolyzer.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_electrolyzer",
+          "text": {
+            "fixedValue": "Electrolyzer"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 188,
+          "y": 12
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_aluminum_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayAluminumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_calcium_crystals.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayCalciumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_chromium_crystals.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayChromiumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_copper.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayCopperIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_europium_oxide.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayEuropiumOxide"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_lanthanum_lump.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayLanthanumLump"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_lanthanum_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayLanthanumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_magnesium_crystals.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayMagnesiumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_manganese_chunk.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayManganeseChunk"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_neodymium_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayNeodymiumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_niobium_crystals.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayNiobiumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_praseodymium_pieces.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayPraseodymiumPieces"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_ytterbium_crystals.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayYtterbiumCrystals"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_ytterbium_lanthanum_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayYtterbiumLanthanumIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_yttrium_fluorite_crystal.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayYttriumFluoriteCrystal"
+          },
+          "x": 194,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 5,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

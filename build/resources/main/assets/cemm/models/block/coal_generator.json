@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/coal_generator_bottom",
+    "up": "cemm:block/coal_generator_top",
+    "north": "cemm:block/coal_generator_front",
+    "east": "cemm:block/coal_generator_side",
+    "south": "cemm:block/coal_generator_side",
+    "west": "cemm:block/coal_generator_side",
+    "particle": "cemm:block/coal_generator_bottom"
+  },
+  "render_type": "solid"
+}

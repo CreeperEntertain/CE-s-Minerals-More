@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "conveyor_side",
+        "Top": "conveyor_improved_top"
+      },
+      "name": "default"
+    }
+  }
+}

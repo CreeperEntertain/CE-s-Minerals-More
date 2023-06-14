@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/thread_grid"
+    },
+    "facing=east": {
+      "model": "cemm:block/thread_grid",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/thread_grid",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/thread_grid",
+      "y": 270
+    }
+  }
+}

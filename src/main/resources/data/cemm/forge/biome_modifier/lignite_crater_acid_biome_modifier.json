@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:lignite_flats",
+  "features": "cemm:lignite_crater_acid",
+  "step": "surface_structures"
+}

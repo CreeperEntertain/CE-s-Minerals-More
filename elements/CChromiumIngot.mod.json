@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChromiumCrystal"
+      },
+      {
+        "value": "CUSTOM:ChromiumCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChromiumCrystal"
+      },
+      {
+        "value": "CUSTOM:ChromiumCrystal"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChromiumIngot"
+    },
+    "name": "c_chromium_ingot",
+    "namespace": "mod"
+  }
+}

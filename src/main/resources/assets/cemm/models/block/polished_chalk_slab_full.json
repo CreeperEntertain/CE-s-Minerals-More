@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/polished_chalk",
+    "top": "cemm:block/polished_chalk",
+    "side": "cemm:block/polished_chalk"
+  },
+  "render_type": "solid"
+}

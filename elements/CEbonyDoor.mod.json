@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EbonyDoor"
+    },
+    "name": "c_ebony_door",
+    "namespace": "mod"
+  }
+}

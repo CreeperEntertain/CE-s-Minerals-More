@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "cemm:block/lunarbark_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:rocky_stone"
+  },
+  "result": "cemm:rocky_stone_wall"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "cemm:grass_disk_red_wastes",
+  "config": {
+    "target": {
+      "Name": "cemm:jaspilite",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "minecraft:coarse_dirt"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 6
+      }
+    }
+  }
+}

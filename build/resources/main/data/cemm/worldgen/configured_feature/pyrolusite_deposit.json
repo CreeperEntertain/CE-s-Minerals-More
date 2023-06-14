@@ -1,0 +1,31 @@
+{
+  "type": "cemm:pyrolusite_deposit",
+  "config": {
+    "size": 14,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:pyrolusite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:claystone"
+          }
+        },
+        "state": {
+          "Name": "cemm:pyrolusite_deposit"
+        }
+      }
+    ]
+  }
+}

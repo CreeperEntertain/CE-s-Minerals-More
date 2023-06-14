@@ -1,0 +1,30 @@
+{
+  "_fv": 43,
+  "_type": "structure",
+  "definition": {
+    "structure": "hornfels_boulder_3",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 100000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 6,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -3,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Hornfels"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:HornfelsOverhangs"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "_fv": 43,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "TOP_LAYER_MODIFICATION",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "mutated_desert"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_random_patch_simple\" inline=\"false\"><field name=\"tries\">96</field><field name=\"xzSpread\">7</field><field name=\"ySpread\">10</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:PlatinumBit</field></block></value><value name=\"condition\"><block type=\"block_predicate_all_of\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"2\"></mutation><value name=\"condition0\"><block type=\"block_predicate_is_air\"></block></value><value name=\"condition1\"><block type=\"block_predicate_matching_blocks\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field><value name=\"blockSet\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"8\"></mutation><field name=\"block0\">Blocks.GRASS</field><field name=\"block1\">Blocks.DIRT#0</field><field name=\"block2\">Blocks.DIRT#1</field><field name=\"block3\">Blocks.DIRT#2</field><field name=\"block4\">Blocks.ROOTED_DIRT</field><field name=\"block5\">Blocks.SAND#0</field><field name=\"block6\">Blocks.GRAVEL</field><field name=\"block7\">Blocks.CLAY</field></block></value></block></value></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">6</field><next><block type=\"placement_in_square\"><next><block type=\"placement_heightmap\"><field name=\"heightmap\">MOTION_BLOCKING</field><next><block type=\"placement_biome_filter\"><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

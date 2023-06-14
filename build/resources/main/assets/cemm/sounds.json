@@ -1,0 +1,378 @@
+{
+  "block.silence": {
+    "sounds": [
+      {
+        "name": "cemm:silence",
+        "stream": false
+      }
+    ]
+  },
+  "mood.void": {
+    "sounds": [
+      {
+        "name": "cemm:01",
+        "stream": false
+      },
+      {
+        "name": "cemm:02",
+        "stream": false
+      },
+      {
+        "name": "cemm:03",
+        "stream": false
+      },
+      {
+        "name": "cemm:07",
+        "stream": false
+      },
+      {
+        "name": "cemm:08",
+        "stream": false
+      },
+      {
+        "name": "cemm:09",
+        "stream": false
+      },
+      {
+        "name": "cemm:10",
+        "stream": false
+      },
+      {
+        "name": "cemm:13",
+        "stream": false
+      },
+      {
+        "name": "cemm:14",
+        "stream": false
+      },
+      {
+        "name": "cemm:15",
+        "stream": false
+      },
+      {
+        "name": "cemm:16",
+        "stream": false
+      },
+      {
+        "name": "cemm:19",
+        "stream": false
+      },
+      {
+        "name": "cemm:21",
+        "stream": false
+      },
+      {
+        "name": "cemm:22",
+        "stream": false
+      },
+      {
+        "name": "cemm:23",
+        "stream": false
+      },
+      {
+        "name": "cemm:24",
+        "stream": false
+      },
+      {
+        "name": "cemm:25",
+        "stream": false
+      }
+    ]
+  },
+  "mood.cave": {
+    "sounds": [
+      {
+        "name": "cemm:04",
+        "stream": false
+      },
+      {
+        "name": "cemm:05",
+        "stream": false
+      },
+      {
+        "name": "cemm:06",
+        "stream": false
+      },
+      {
+        "name": "cemm:11",
+        "stream": false
+      },
+      {
+        "name": "cemm:12",
+        "stream": false
+      },
+      {
+        "name": "cemm:17",
+        "stream": false
+      },
+      {
+        "name": "cemm:18",
+        "stream": false
+      },
+      {
+        "name": "cemm:20",
+        "stream": false
+      },
+      {
+        "name": "cemm:26",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_1": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_1",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_2": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_2",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_0": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_0",
+        "stream": false
+      }
+    ]
+  },
+  "disc.bliss": {
+    "sounds": [
+      {
+        "name": "cemm:bliss_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.chalk": {
+    "sounds": [
+      {
+        "name": "cemm:chalk_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.chants": {
+    "sounds": [
+      {
+        "name": "cemm:chants_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.foehn": {
+    "sounds": [
+      {
+        "name": "cemm:foehn_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.heptagonal": {
+    "sounds": [
+      {
+        "name": "cemm:heptagonal_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hireth": {
+    "sounds": [
+      {
+        "name": "cemm:hireth_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.machine": {
+    "sounds": [
+      {
+        "name": "cemm:machine_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.warped_framework": {
+    "sounds": [
+      {
+        "name": "cemm:warped_framework_mono",
+        "stream": true
+      }
+    ]
+  },
+  "disc.hush": {
+    "sounds": [
+      {
+        "name": "cemm:hush_mono",
+        "stream": true
+      }
+    ]
+  },
+  "music.bliss": {
+    "sounds": [
+      {
+        "name": "cemm:bliss",
+        "stream": true
+      }
+    ]
+  },
+  "music.chalk": {
+    "sounds": [
+      {
+        "name": "cemm:chalk",
+        "stream": true
+      }
+    ]
+  },
+  "music.chants": {
+    "sounds": [
+      {
+        "name": "cemm:chants",
+        "stream": true
+      }
+    ]
+  },
+  "music.foehn": {
+    "sounds": [
+      {
+        "name": "cemm:foehn",
+        "stream": true
+      }
+    ]
+  },
+  "music.heptagonal": {
+    "sounds": [
+      {
+        "name": "cemm:heptagonal",
+        "stream": true
+      }
+    ]
+  },
+  "music.hireth": {
+    "sounds": [
+      {
+        "name": "cemm:hireth",
+        "stream": true
+      }
+    ]
+  },
+  "music.hush": {
+    "sounds": [
+      {
+        "name": "cemm:hush",
+        "stream": true
+      }
+    ]
+  },
+  "music.machine": {
+    "sounds": [
+      {
+        "name": "cemm:machine",
+        "stream": true
+      }
+    ]
+  },
+  "music.warped_framework": {
+    "sounds": [
+      {
+        "name": "cemm:warped_framework",
+        "stream": true
+      }
+    ]
+  },
+  "block.electricity": {
+    "subtitle": "subtitles.block.electricity",
+    "sounds": [
+      {
+        "name": "cemm:electricity",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.placed": {
+    "subtitle": "subtitles.block.deepstone.placed",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_place1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place4",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place5",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place6",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.break": {
+    "subtitle": "subtitles.block.deepstone.break",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.step": {
+    "subtitle": "subtitles.block.deepstone.step",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_step1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step4",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step5",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step6",
+        "stream": false
+      }
+    ]
+  }
+}

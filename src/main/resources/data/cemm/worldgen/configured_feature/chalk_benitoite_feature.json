@@ -1,0 +1,12 @@
+{
+  "type": "cemm:chalk_benitoite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:chalk"
+    },
+    "state": {
+      "Name": "cemm:benitoite"
+    },
+    "radius": 2
+  }
+}

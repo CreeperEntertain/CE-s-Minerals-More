@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "snowy_plains",
+    "plains",
+    "flower_forest",
+    "meadow"
+  ],
+  "features": "cemm:tall_farmables",
+  "step": "surface_structures"
+}

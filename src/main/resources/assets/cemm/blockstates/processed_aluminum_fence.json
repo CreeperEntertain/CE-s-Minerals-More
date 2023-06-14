@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/processed_aluminum_fence"
+    },
+    "facing=east": {
+      "model": "cemm:block/processed_aluminum_fence",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/processed_aluminum_fence",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/processed_aluminum_fence",
+      "y": 270
+    }
+  }
+}

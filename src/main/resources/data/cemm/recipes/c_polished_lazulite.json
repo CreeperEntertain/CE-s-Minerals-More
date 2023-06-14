@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lazulite"
+    },
+    "1": {
+      "item": "cemm:lazulite"
+    },
+    "2": {
+      "item": "cemm:lazulite"
+    },
+    "3": {
+      "item": "cemm:lazulite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_lazulite",
+    "count": 4
+  }
+}

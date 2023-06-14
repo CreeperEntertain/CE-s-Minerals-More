@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/vacuumizer"
+    },
+    "facing=east": {
+      "model": "cemm:block/vacuumizer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/vacuumizer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/vacuumizer",
+      "y": 270
+    }
+  }
+}

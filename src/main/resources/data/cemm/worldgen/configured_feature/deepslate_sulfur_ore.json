@@ -1,0 +1,45 @@
+{
+  "type": "cemm:deepslate_sulfur_ore",
+  "config": {
+    "size": 12,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:deepslate_sulfur_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:shungite"
+          }
+        },
+        "state": {
+          "Name": "cemm:deepslate_sulfur_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:lignite_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:deepslate_sulfur_ore"
+        }
+      }
+    ]
+  }
+}

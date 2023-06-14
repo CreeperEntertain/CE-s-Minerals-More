@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_inyoite"
+  },
+  "result": "cemm:polished_inyoite_slab"
+}

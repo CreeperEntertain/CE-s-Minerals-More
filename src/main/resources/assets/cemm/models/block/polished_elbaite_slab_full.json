@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/polished_elbaite_top",
+    "top": "cemm:block/polished_elbaite_top",
+    "side": "cemm:block/polished_elbaite"
+  },
+  "render_type": "solid"
+}

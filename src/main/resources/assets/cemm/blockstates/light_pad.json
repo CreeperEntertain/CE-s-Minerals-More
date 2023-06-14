@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/light_pad"
+    },
+    "facing=east": {
+      "model": "cemm:block/light_pad",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/light_pad",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/light_pad",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/light_pad",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/light_pad",
+      "x": 90
+    }
+  }
+}

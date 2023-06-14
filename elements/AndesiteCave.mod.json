@@ -1,0 +1,126 @@
+{
+  "_fv": 43,
+  "_type": "biome",
+  "definition": {
+    "name": "Gypsum Cave",
+    "groundBlock": {
+      "value": "Blocks.STONE#5"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.STONE#5"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.STONE#5"
+    },
+    "ambientSound": {
+      "value": "CUSTOM:ambient.wind_0"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.heptagonal"
+    },
+    "moodSound": {
+      "value": "CUSTOM:mood.cave"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "spawnBiome": true,
+    "spawnInCaves": true,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.02,
+      "max": 0.02
+    },
+    "genHumidity": {
+      "min": -0.02,
+      "max": 0.02
+    },
+    "genContinentalness": {
+      "min": 0.49,
+      "max": 0.53
+    },
+    "genErosion": {
+      "min": -0.9199999999999999,
+      "max": -0.8799999999999999
+    },
+    "genWeirdness": {
+      "min": -0.9630625073397356,
+      "max": -0.9230625073397356
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "AmethystGeodes",
+      "Dripstone",
+      "Fossils",
+      "MonsterRooms",
+      "TaigaRocks",
+      "LushCavesDecoration"
+    ],
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "MOUNTAIN",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntitySlime"
+        },
+        "minGroup": 4,
+        "maxGroup": 4,
+        "weight": 10,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityZombie"
+        },
+        "minGroup": 2,
+        "maxGroup": 3,
+        "weight": 40,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cactus_fruit"
+    }
+  },
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 3
+  }
+}

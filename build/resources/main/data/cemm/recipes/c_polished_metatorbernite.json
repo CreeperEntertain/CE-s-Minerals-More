@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:metatorbernite"
+    },
+    "1": {
+      "item": "cemm:metatorbernite"
+    },
+    "2": {
+      "item": "cemm:metatorbernite"
+    },
+    "3": {
+      "item": "cemm:metatorbernite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_metatorbernite",
+    "count": 4
+  }
+}

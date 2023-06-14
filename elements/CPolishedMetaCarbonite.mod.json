@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      },
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      },
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMetaCarbonite"
+    },
+    "name": "c_polished_meta_carbonite",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/deepslate_dolomite_deposit",
+    "particle": "cemm:block/deepslate_dolomite_deposit"
+  },
+  "render_type": "solid"
+}

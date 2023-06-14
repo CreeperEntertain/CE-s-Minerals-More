@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "desert_primrose",
+        "missing": "desert_primrose"
+      },
+      "name": "default"
+    }
+  }
+}

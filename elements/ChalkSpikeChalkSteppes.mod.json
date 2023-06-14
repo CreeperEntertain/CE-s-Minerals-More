@@ -1,0 +1,30 @@
+{
+  "_fv": 43,
+  "_type": "structure",
+  "definition": {
+    "structure": "chalk_spike",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 500000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -2,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:Chalk"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ChalkSteppes"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

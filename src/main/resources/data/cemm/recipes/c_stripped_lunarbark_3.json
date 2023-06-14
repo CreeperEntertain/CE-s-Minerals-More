@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:lunarbark_stem"
+    },
+    {
+      "item": "minecraft:diamond_axe"
+    }
+  ],
+  "result": {
+    "item": "cemm:stripped_lunarbark_stem",
+    "count": 1
+  }
+}

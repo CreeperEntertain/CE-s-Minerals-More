@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/andesite",
+    "particle": "cemm:block/andesite"
+  },
+  "render_type": "solid"
+}

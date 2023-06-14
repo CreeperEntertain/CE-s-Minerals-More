@@ -1,0 +1,42 @@
+{
+  "type": "cemm:arsenic_deposit",
+  "config": {
+    "size": 18,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:arsenic_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:coarse_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:arsenic_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:rooted_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:arsenic_deposit"
+        }
+      }
+    ]
+  }
+}

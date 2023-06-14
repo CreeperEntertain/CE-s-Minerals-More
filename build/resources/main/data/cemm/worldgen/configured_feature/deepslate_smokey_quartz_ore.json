@@ -1,0 +1,34 @@
+{
+  "type": "cemm:deepslate_smokey_quartz_ore",
+  "config": {
+    "size": 20,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:deepslate_smokey_quartz_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:masuyite"
+          }
+        },
+        "state": {
+          "Name": "cemm:deepslate_smokey_quartz_ore"
+        }
+      }
+    ]
+  }
+}

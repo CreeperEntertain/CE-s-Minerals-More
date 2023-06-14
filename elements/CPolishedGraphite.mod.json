@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GraphiteBlock"
+      },
+      {
+        "value": "CUSTOM:GraphiteBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GraphiteBlock"
+      },
+      {
+        "value": "CUSTOM:GraphiteBlock"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedGraphiteBlock"
+    },
+    "name": "c_polished_graphite",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/aegirine_top",
+    "up": "cemm:block/aegirine_top",
+    "north": "cemm:block/aegirine",
+    "east": "cemm:block/aegirine",
+    "south": "cemm:block/aegirine",
+    "west": "cemm:block/aegirine",
+    "particle": "cemm:block/aegirine_top"
+  },
+  "render_type": "solid"
+}

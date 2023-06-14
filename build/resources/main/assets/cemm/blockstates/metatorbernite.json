@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/metatorbernite",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/metatorbernite"
+    },
+    "axis=z": {
+      "model": "cemm:block/metatorbernite",
+      "x": 90
+    }
+  }
+}

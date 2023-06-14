@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gabbro"
+    },
+    "1": {
+      "item": "cemm:gabbro"
+    },
+    "2": {
+      "item": "cemm:gabbro"
+    },
+    "3": {
+      "item": "cemm:gabbro"
+    },
+    "4": {
+      "item": "cemm:gabbro"
+    },
+    "5": {
+      "item": "cemm:gabbro"
+    }
+  },
+  "result": {
+    "item": "cemm:gabbro_wall",
+    "count": 6
+  }
+}

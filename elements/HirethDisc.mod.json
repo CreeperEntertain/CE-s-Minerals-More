@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Hireth",
+    "texture": "hireth",
+    "description": "Esoots - Hireth",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.hireth"
+    },
+    "lengthInTicks": 5900,
+    "analogOutput": 15
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:raw_arsenic"
+    },
+    "1": {
+      "item": "cemm:raw_arsenic"
+    },
+    "2": {
+      "item": "cemm:raw_arsenic"
+    },
+    "3": {
+      "item": "cemm:raw_arsenic"
+    },
+    "4": {
+      "item": "cemm:raw_arsenic"
+    },
+    "5": {
+      "item": "cemm:raw_arsenic"
+    },
+    "6": {
+      "item": "cemm:raw_arsenic"
+    },
+    "7": {
+      "item": "cemm:raw_arsenic"
+    },
+    "8": {
+      "item": "cemm:raw_arsenic"
+    }
+  },
+  "result": {
+    "item": "cemm:raw_arsenic_block",
+    "count": 1
+  }
+}

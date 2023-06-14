@@ -1,0 +1,431 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 320,
+    "height": 166,
+    "inventoryOffsetX": -72,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "x": 132,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_block",
+          "text": {
+            "fixedValue": "Block"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 48
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_inventory",
+          "text": {
+            "fixedValue": "Inventory"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 60,
+          "y": 107
+        }
+      },
+      {
+        "type": "textfield",
+        "data": {
+          "placeholder": "Input Orientation",
+          "name": "DIR",
+          "width": 120,
+          "height": 20,
+          "x": 60,
+          "y": 70
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_enter",
+          "text": "Enter",
+          "onClick": {
+            "name": "TextboxDirectionInput"
+          },
+          "width": 40,
+          "height": 20,
+          "x": 182,
+          "y": 70
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_current_orientation",
+          "text": {
+            "fixedValue": "Current Orientation:"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "DirectionText"
+          },
+          "x": 60,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_up",
+          "text": {
+            "fixedValue": "Up"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "UpText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_down",
+          "text": {
+            "fixedValue": "Down"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "DownText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_west",
+          "text": {
+            "fixedValue": "West"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "WestText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_east",
+          "text": {
+            "fixedValue": "East"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "EastText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_north",
+          "text": {
+            "fixedValue": "North"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "NorthText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_south",
+          "text": {
+            "fixedValue": "South"
+          },
+          "color": {
+            "value": -16734208,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "SouthText"
+          },
+          "x": 168,
+          "y": 92
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_orientation_input",
+          "text": {
+            "fixedValue": "ORIENTATION INPUT"
+          },
+          "color": {
+            "value": -5767168,
+            "falpha": 0.0
+          },
+          "x": 227,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_here_you_can_enter_with",
+          "text": {
+            "fixedValue": "Here, you can enter with"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 227,
+          "y": 54
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_which_orientation_the_block",
+          "text": {
+            "fixedValue": "which orientation the block"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 227,
+          "y": 64
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_will_be_placed",
+          "text": {
+            "fixedValue": "will be placed."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 227,
+          "y": 73
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_simply_enter_a_direction",
+          "text": {
+            "fixedValue": "Simply enter a direction"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 83
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_click_the_enter_button_to",
+          "text": {
+            "fixedValue": "click the enter button to"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 93
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_set_an_orientation",
+          "text": {
+            "fixedValue": "set an orientation."
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 103
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_examples",
+          "text": {
+            "fixedValue": "EXAMPLES"
+          },
+          "color": {
+            "value": -5767168,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 120
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_up_up_up_u_u_0",
+          "text": {
+            "fixedValue": "UP Up up U u 0"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 131
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_down_down_down_d_d_1",
+          "text": {
+            "fixedValue": "DOWN Down down D d 1"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 142
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_east_east_east_e_e_2",
+          "text": {
+            "fixedValue": "EAST East east E e 2"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 153
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_west_west_west_w_w_3",
+          "text": {
+            "fixedValue": "WEST West west W w 3"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 164
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_north_north_north_n_n_4",
+          "text": {
+            "fixedValue": "NORTH North north N n 4"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 175
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_south_south_south_s_s_5",
+          "text": {
+            "fixedValue": "SOUTH South south S s 5"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 226,
+          "y": 186
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}
