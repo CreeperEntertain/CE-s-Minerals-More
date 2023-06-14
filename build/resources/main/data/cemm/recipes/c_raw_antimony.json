@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:raw_antimony_block"
+    }
+  },
+  "result": {
+    "item": "cemm:raw_antimony",
+    "count": 9
+  }
+}

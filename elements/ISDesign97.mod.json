@@ -1,0 +1,7 @@
+{
+  "_fv": 43,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"-737\" y=\"19\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"block_replace\"><field name=\"state\">TRUE</field><field name=\"nbt\">FALSE</field><value name=\"x\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignX</field></block></value></block></value><value name=\"y\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignY</field></block></value></block></value><value name=\"z\"><block type=\"entity_nbt_num_get\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value><value name=\"tagName\"><block type=\"text\"><field name=\"TEXT\">infoSignZ</field></block></value></block></value><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:InfoSign97Electrical</field></block></value><next><block type=\"entity_close_gui\"><value name=\"entity\"><block type=\"entity_from_deps\"/></value></block></next></block></next></block></xml>"
+  }
+}

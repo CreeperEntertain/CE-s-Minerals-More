@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Purpurite"
+      },
+      {
+        "value": "CUSTOM:Purpurite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Purpurite"
+      },
+      {
+        "value": "CUSTOM:Purpurite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedPurpurite"
+    },
+    "name": "c_polished_purpurite",
+    "namespace": "mod"
+  }
+}

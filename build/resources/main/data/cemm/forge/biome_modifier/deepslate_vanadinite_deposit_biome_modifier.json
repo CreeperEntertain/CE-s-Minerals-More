@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "badlands",
+    "savanna_plateau",
+    "cemm:bauxite_steppes",
+    "wooded_badlands",
+    "savanna",
+    "windswept_savanna",
+    "cemm:monazite_desert",
+    "desert",
+    "eroded_badlands",
+    "cemm:zirconian_desert"
+  ],
+  "features": "cemm:deepslate_vanadinite_deposit",
+  "step": "underground_ores"
+}

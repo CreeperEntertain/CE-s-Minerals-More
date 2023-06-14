@@ -1,0 +1,18 @@
+{
+  "type": "cemm:dirty_cobblestone_feature",
+  "config": {
+    "size": 14,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "dirt"
+        },
+        "state": {
+          "Name": "cemm:dirty_cobblestone"
+        }
+      }
+    ]
+  }
+}

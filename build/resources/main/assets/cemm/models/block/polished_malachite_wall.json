@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/polished_malachite",
+    "particle": "cemm:block/polished_malachite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:emerald_shard"
+    },
+    "1": {
+      "item": "cemm:emerald_shard"
+    },
+    "2": {
+      "item": "cemm:emerald_shard"
+    },
+    "3": {
+      "item": "cemm:emerald_shard"
+    },
+    "4": {
+      "item": "cemm:emerald_shard"
+    },
+    "5": {
+      "item": "cemm:emerald_shard"
+    },
+    "6": {
+      "item": "cemm:emerald_shard"
+    },
+    "7": {
+      "item": "cemm:emerald_shard"
+    },
+    "8": {
+      "item": "cemm:emerald_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:emerald",
+    "count": 1
+  }
+}

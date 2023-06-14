@@ -1,0 +1,12 @@
+{
+  "type": "cemm:zircon_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:zircon_sand"
+    },
+    "radius": 12
+  }
+}

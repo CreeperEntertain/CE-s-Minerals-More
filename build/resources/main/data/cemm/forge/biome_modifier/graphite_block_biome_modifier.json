@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:andesite_cave",
+    "cemm:granite_cave",
+    "cemm:diorite_cave"
+  ],
+  "features": "cemm:graphite_block",
+  "step": "underground_ores"
+}

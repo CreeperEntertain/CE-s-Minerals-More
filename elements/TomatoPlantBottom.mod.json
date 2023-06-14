@@ -1,0 +1,51 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Tomato00Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato01Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato02Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato03Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato04Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato05Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato06Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato07Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato08Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato09Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato10Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato11Bottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tomato_plant_bottom",
+    "namespace": "mod"
+  }
+}

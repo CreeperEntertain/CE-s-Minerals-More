@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:firegrass_block_moss",
+  "step": "underground_ores"
+}

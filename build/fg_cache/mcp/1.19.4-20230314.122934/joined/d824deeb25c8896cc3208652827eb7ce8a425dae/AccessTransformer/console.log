@@ -1,0 +1,6 @@
+JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--inJar", "C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.19.4-20230314.122934\joined\d824deeb25c8896cc3208652827eb7ce8a425dae\rename\output.jar", "--outJar", "C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.19.4-20230314.122934\joined\d824deeb25c8896cc3208652827eb7ce8a425dae\AccessTransformer\output.jar", "--atFile", "C:\Users\TimGe\MCreatorWorkspaces\cemm\src\main\resources\META-INF\accesstransformer.cfg", "--atFile", "C:\Users\TimGe\AppData\Local\Temp\FG_ats_716219343690513902.cfg"
+Classpath:   C:\Users\TimGe\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\accesstransformers\8.0.7\accesstransformers-8.0.7-fatjar.jar
+Working Dir: C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.19.4-20230314.122934\joined\d824deeb25c8896cc3208652827eb7ce8a425dae\AccessTransformer
+Main Class:  net.minecraftforge.accesstransformer.TransformerProcessor

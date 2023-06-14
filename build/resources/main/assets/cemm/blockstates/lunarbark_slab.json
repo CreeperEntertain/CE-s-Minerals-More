@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/lunarbark_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/lunarbark_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/lunarbark_slab_full"
+    }
+  }
+}

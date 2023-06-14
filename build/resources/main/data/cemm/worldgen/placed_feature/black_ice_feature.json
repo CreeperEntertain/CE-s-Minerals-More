@@ -1,0 +1,54 @@
+{
+  "feature": "cemm:black_ice_feature",
+  "placement": [
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:any_of",
+        "predicates": [
+          {
+            "type": "minecraft:matching_blocks",
+            "blocks": "#ice_or_snow",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          },
+          {
+            "type": "minecraft:solid",
+            "offset": [
+              0,
+              -1,
+              0
+            ]
+          },
+          {
+            "type": "minecraft:not",
+            "predicate": {
+              "type": "minecraft:matching_blocks",
+              "blocks": [
+                "minecraft:air",
+                "minecraft:void_air",
+                "minecraft:cave_air"
+              ],
+              "offset": [
+                0,
+                -1,
+                0
+              ]
+            }
+          }
+        ]
+      }
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
+    },
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 6
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/chlorowood_planks",
+    "top": "cemm:block/chlorowood_planks",
+    "side": "cemm:block/chlorowood_planks"
+  },
+  "render_type": "solid"
+}

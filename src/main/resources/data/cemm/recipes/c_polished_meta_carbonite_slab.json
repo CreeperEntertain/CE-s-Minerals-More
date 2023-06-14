@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:polished_meta_carbonite"
+    },
+    "1": {
+      "item": "cemm:polished_meta_carbonite"
+    },
+    "2": {
+      "item": "cemm:polished_meta_carbonite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_meta_carbonite_slab",
+    "count": 3
+  }
+}

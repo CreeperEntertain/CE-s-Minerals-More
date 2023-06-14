@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/polished_schorl_top",
+    "particle": "cemm:block/polished_schorl_top"
+  },
+  "render_type": "solid"
+}

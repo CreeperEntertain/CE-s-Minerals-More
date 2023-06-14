@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/jasper",
+    "top": "cemm:block/jasper",
+    "side": "cemm:block/jasper"
+  },
+  "render_type": "solid"
+}

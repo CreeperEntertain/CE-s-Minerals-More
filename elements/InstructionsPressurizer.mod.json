@@ -1,0 +1,393 @@
+{
+  "_fv": 43,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 430,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_hafnium_carbide_pellet",
+          "image": "button_hafnium_carbide_pellet.png",
+          "hoveredImage": "button_hafnium_carbide_pellet_hover.png",
+          "onClick": {
+            "name": "PIButton1Execute"
+          },
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_hafnium_carbide_powder",
+          "image": "button_hafnium_carbide_powder.png",
+          "hoveredImage": "button_hafnium_carbide_powder_hover.png",
+          "onClick": {
+            "name": "PIButton2Execute"
+          },
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_manganese_iron_ingot",
+          "image": "button_manganese_iron_ingot.png",
+          "hoveredImage": "button_manganese_iron_ingot_hover.png",
+          "onClick": {
+            "name": "PIButton5Execute"
+          },
+          "x": 1,
+          "y": 65
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_pure_carbon",
+          "image": "button_pure_carbon.png",
+          "hoveredImage": "button_pure_carbon_hover.png",
+          "onClick": {
+            "name": "PIButton6Execute"
+          },
+          "x": 1,
+          "y": 81
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_raw_yttrium",
+          "image": "button_raw_yttrium.png",
+          "hoveredImage": "button_raw_yttrium_hover.png",
+          "onClick": {
+            "name": "PIButton8Execute"
+          },
+          "x": 1,
+          "y": 113
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_raw_ytterbium",
+          "image": "button_raw_ytterbium.png",
+          "hoveredImage": "button_raw_ytterbium_hover.png",
+          "onClick": {
+            "name": "PIButton7Execute"
+          },
+          "x": 1,
+          "y": 97
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_tin_ingot",
+          "image": "button_tin_ingot.png",
+          "hoveredImage": "button_tin_ingot_hover.png",
+          "onClick": {
+            "name": "PIButton10Execute"
+          },
+          "x": 1,
+          "y": 145
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_tantalum_bits",
+          "image": "button_tantalum_bits.png",
+          "hoveredImage": "button_tantalum_bits_hover.png",
+          "onClick": {
+            "name": "PIButton9Execute"
+          },
+          "x": 1,
+          "y": 129
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_tungsten_ingot",
+          "image": "button_tungsten_ingot.png",
+          "hoveredImage": "button_tungsten_ingot_hover.png",
+          "onClick": {
+            "name": "PIButton11Execute"
+          },
+          "x": 1,
+          "y": 161
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_zinc_ingot",
+          "image": "button_zinc_ingot.png",
+          "hoveredImage": "button_zinc_ingot_hover.png",
+          "onClick": {
+            "name": "PIButton12Execute"
+          },
+          "x": 1,
+          "y": 177
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_indium_scrap",
+          "image": "button_indium_scrap.png",
+          "hoveredImage": "button_indium_scrap_hover.png",
+          "onClick": {
+            "name": "PIButton4Execute"
+          },
+          "x": 1,
+          "y": 49
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_zircon_crystal",
+          "image": "button_zircon_crystal.png",
+          "hoveredImage": "button_zircon_crystal_hover.png",
+          "onClick": {
+            "name": "PIButton13Execute"
+          },
+          "x": 1,
+          "y": 193
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_hafnium_scrap",
+          "image": "button_hafnium_scrap.png",
+          "hoveredImage": "button_hafnium_scrap_hover.png",
+          "onClick": {
+            "name": "PIButton3Execute"
+          },
+          "x": 1,
+          "y": 33
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_225px.png",
+          "use1Xscale": false,
+          "x": 161,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pressurizer.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_pressurizer",
+          "text": {
+            "fixedValue": "Pressurizer"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 188,
+          "y": 12
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_hafnium_carbide_pellet.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayHafniumCarbidePellet"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_hafnium_carbide_powder.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayHafniumCarbidePowder"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_hafnium_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayHafniumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_indium_scrap.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayIndiumScrap"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_manganese_iron_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayManganeseIronGarnet"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_pure_carbon.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayPureCarbon"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_raw_ytterbium.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayRawYtterbium"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_raw_yttrium.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayRawYttrium"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_tantalum_bits.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayTantalumBits"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_tin_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayTinIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_tungsten_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayTungstenIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_zinc_ingot.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayZincIngot"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_zircon_crystal.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayZirconCrystal"
+          },
+          "x": 194,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 3,
+      "oy": 8,
+      "snapOnGrid": true
+    }
+  }
+}

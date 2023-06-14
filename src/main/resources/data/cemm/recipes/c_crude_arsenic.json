@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:crude_arsenic_block"
+    }
+  },
+  "result": {
+    "item": "cemm:crude_arsenic",
+    "count": 9
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "cemm:beryl_deposit",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:fake_diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:beryl_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:beryl_deposit"
+        }
+      }
+    ]
+  }
+}

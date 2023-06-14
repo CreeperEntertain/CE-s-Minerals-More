@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/warning_barrier"
+    },
+    "facing=east": {
+      "model": "cemm:block/warning_barrier",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/warning_barrier",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/warning_barrier",
+      "y": 270
+    }
+  }
+}

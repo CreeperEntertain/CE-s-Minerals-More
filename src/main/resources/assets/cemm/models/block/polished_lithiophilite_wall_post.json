@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/polished_lithiophilite",
+    "particle": "cemm:block/polished_lithiophilite"
+  },
+  "render_type": "solid"
+}

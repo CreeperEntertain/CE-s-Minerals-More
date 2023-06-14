@@ -1,0 +1,120 @@
+{
+  "_fv": 43,
+  "_type": "biome",
+  "definition": {
+    "name": "Monazite Desert",
+    "groundBlock": {
+      "value": "CUSTOM:MonaziteSand"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:MonaziteSand"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.STONE#0"
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.machine"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.0,
+    "temperature": 2.0,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.10000000000000009,
+      "max": 2.0
+    },
+    "genHumidity": {
+      "min": -2.0,
+      "max": 0.10000000000000009
+    },
+    "genContinentalness": {
+      "min": 0.3999999999999999,
+      "max": 2.0
+    },
+    "genErosion": {
+      "min": -1.6,
+      "max": 0.6000000000000001
+    },
+    "genWeirdness": {
+      "min": -0.7428461427934383,
+      "max": 1.4571538572065619
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": true,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "DESERT",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityHusk"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "ambient"
+      },
+      {
+        "entity": {
+          "value": "EntitySkeleton"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

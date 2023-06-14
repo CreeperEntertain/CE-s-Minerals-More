@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CRAFTING_TABLE"
+    },
+    "name": "c_crafting_table",
+    "namespace": "mod"
+  }
+}

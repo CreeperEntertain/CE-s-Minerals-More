@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "desert",
+    "cemm:zirconian_desert"
+  ],
+  "features": "cemm:deepslate_ytterbium_ore",
+  "step": "underground_ores"
+}

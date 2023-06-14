@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chromium_ingot"
+    },
+    "1": {
+      "item": "cemm:chromium_ingot"
+    },
+    "2": {
+      "item": "cemm:chromium_ingot"
+    },
+    "3": {
+      "item": "cemm:chromium_ingot"
+    },
+    "4": {
+      "item": "cemm:chromium_ingot"
+    },
+    "5": {
+      "item": "cemm:chromium_ingot"
+    },
+    "6": {
+      "item": "cemm:chromium_ingot"
+    },
+    "7": {
+      "item": "cemm:chromium_ingot"
+    },
+    "8": {
+      "item": "cemm:chromium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:chromium_block",
+    "count": 1
+  }
+}

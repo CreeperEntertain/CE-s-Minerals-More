@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:europium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:europium_ingot",
+    "count": 9
+  }
+}

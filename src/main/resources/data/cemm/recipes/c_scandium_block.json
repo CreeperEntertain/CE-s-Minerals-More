@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:scandium_ingot"
+    },
+    "1": {
+      "item": "cemm:scandium_ingot"
+    },
+    "2": {
+      "item": "cemm:scandium_ingot"
+    },
+    "3": {
+      "item": "cemm:scandium_ingot"
+    },
+    "4": {
+      "item": "cemm:scandium_ingot"
+    },
+    "5": {
+      "item": "cemm:scandium_ingot"
+    },
+    "6": {
+      "item": "cemm:scandium_ingot"
+    },
+    "7": {
+      "item": "cemm:scandium_ingot"
+    },
+    "8": {
+      "item": "cemm:scandium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:scandium_block",
+    "count": 1
+  }
+}

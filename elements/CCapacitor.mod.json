@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:OsmiumIngot"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:PlatinumPellet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PlatinumPellet"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Capacitor"
+    },
+    "name": "c_capacitor",
+    "namespace": "mod"
+  }
+}

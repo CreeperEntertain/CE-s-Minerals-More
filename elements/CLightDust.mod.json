@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LanthanumLump"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "Items.REDSTONE"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LightDust"
+    },
+    "name": "c_light_dust",
+    "namespace": "mod"
+  }
+}

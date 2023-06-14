@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:bliss_disc",
+    "cemm:chalk_disc",
+    "cemm:chants_disc",
+    "cemm:foehn_disc",
+    "cemm:heptagonal_disc",
+    "cemm:hireth_disc",
+    "cemm:hush_disc",
+    "cemm:machine_disc",
+    "cemm:warped_framework_disc"
+  ]
+}

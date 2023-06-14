@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_schorl"
+  },
+  "result": "cemm:polished_schorl_wall"
+}

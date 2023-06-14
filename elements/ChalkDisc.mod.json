@@ -1,0 +1,19 @@
+{
+  "_fv": 43,
+  "_type": "musicdisc",
+  "definition": {
+    "name": "Chalk",
+    "texture": "chalk",
+    "description": "Esoots - Chalk",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "specialInfo": [],
+    "hasGlow": false,
+    "music": {
+      "value": "CUSTOM:disc.chalk"
+    },
+    "lengthInTicks": 7000,
+    "analogOutput": 15
+  }
+}

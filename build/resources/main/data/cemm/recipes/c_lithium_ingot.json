@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lithium_scrap"
+    },
+    "1": {
+      "item": "cemm:lithium_scrap"
+    },
+    "2": {
+      "item": "cemm:lithium_scrap"
+    },
+    "3": {
+      "item": "cemm:lithium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:lithium_ingot",
+    "count": 1
+  }
+}

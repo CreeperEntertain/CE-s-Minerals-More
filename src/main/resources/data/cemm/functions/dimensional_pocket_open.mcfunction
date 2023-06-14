@@ -1,0 +1,1 @@
+playsound minecraft:item.bundle.drop_contents block @a ~ ~ ~ 1 1 0

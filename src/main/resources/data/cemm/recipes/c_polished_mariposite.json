@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:mariposite"
+    },
+    "1": {
+      "item": "cemm:mariposite"
+    },
+    "2": {
+      "item": "cemm:mariposite"
+    },
+    "3": {
+      "item": "cemm:mariposite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_mariposite",
+    "count": 4
+  }
+}

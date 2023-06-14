@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/breccia",
+    "top": "cemm:block/breccia",
+    "side": "cemm:block/breccia"
+  },
+  "render_type": "solid"
+}

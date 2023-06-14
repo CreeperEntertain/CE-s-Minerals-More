@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/shungite_new",
+    "particle": "cemm:block/shungite_new"
+  },
+  "render_type": "solid"
+}

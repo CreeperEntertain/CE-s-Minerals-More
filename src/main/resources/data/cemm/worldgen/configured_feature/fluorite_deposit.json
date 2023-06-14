@@ -1,0 +1,20 @@
+{
+  "type": "cemm:fluorite_deposit",
+  "config": {
+    "size": 10,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:fluorite_deposit"
+        }
+      }
+    ]
+  }
+}

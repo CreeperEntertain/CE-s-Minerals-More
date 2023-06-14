@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "windswept_hills",
+    "taiga",
+    "stony_peaks",
+    "cemm:chalk_mountains",
+    "cemm:claystone_mountains",
+    "cemm:limestone_steppes",
+    "windswept_gravelly_hills",
+    "frozen_peaks",
+    "snowy_taiga",
+    "jagged_peaks"
+  ],
+  "features": "cemm:purpurite",
+  "step": "underground_ores"
+}

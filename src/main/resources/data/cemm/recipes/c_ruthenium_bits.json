@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ruthenium_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:ruthenium_bits",
+    "count": 3
+  }
+}

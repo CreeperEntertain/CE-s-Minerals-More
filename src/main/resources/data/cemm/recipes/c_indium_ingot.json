@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:indium_scrap"
+    },
+    "1": {
+      "item": "cemm:indium_scrap"
+    },
+    "2": {
+      "item": "cemm:indium_scrap"
+    },
+    "3": {
+      "item": "cemm:indium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:indium_ingot",
+    "count": 1
+  }
+}

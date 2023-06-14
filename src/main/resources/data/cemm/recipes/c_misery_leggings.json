@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "1": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "2": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "3": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "4": {
+      "item": "cemm:primedust"
+    },
+    "5": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "6": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "8": {
+      "item": "cemm:xanthanium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:misery_armor_leggings",
+    "count": 1
+  }
+}

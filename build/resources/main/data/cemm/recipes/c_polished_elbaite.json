@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:elbaite"
+    },
+    "1": {
+      "item": "cemm:elbaite"
+    },
+    "2": {
+      "item": "cemm:elbaite"
+    },
+    "3": {
+      "item": "cemm:elbaite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_elbaite",
+    "count": 4
+  }
+}

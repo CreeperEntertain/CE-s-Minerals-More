@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/info_sign_88_droplet"
+    },
+    "facing=east": {
+      "model": "cemm:block/info_sign_88_droplet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/info_sign_88_droplet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/info_sign_88_droplet",
+      "y": 270
+    }
+  }
+}

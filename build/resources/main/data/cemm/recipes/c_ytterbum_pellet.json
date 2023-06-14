@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ytterbium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:ytterbium_pellet",
+    "count": 3
+  }
+}

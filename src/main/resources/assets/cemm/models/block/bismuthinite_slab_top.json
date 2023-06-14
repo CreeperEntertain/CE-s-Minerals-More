@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/bismuthinite",
+    "top": "cemm:block/bismuthinite",
+    "side": "cemm:block/bismuthinite"
+  },
+  "render_type": "solid"
+}

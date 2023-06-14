@@ -1,0 +1,16 @@
+{
+  "type": "cemm:chalk_delta_like_feature",
+  "config": {
+    "contents": {
+      "Name": "cemm:limestone",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "rim": {
+      "Name": "cemm:chalk"
+    },
+    "size": 5,
+    "rim_size": 2
+  }
+}

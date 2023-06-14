@@ -1,0 +1,23 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "forest",
+    "taiga",
+    "birch_forest",
+    "snowy_taiga",
+    "swamp",
+    "old_growth_birch_forest",
+    "bamboo_jungle",
+    "windswept_hills",
+    "dark_forest",
+    "old_growth_pine_taiga",
+    "windswept_savanna",
+    "windswept_forest",
+    "jungle",
+    "windswept_gravelly_hills",
+    "desert",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "cemm:pyroxmangite",
+  "step": "underground_ores"
+}

@@ -1,0 +1,25 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_BOOTS"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:XanthaniumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:MiseryArmor.boots"
+    },
+    "name": "u_misery_boots",
+    "namespace": "mod"
+  }
+}

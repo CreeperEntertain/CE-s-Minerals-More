@@ -1,0 +1,21 @@
+{
+  "_fv": 43,
+  "_type": "particle",
+  "definition": {
+    "texture": "chlorophyl_spore.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 0.2,
+    "height": 0.2,
+    "scale": 0.19999999999999998,
+    "speedFactor": 2.0,
+    "gravity": -0.02,
+    "maxAge": 200,
+    "maxAgeDiff": 50,
+    "angularVelocity": 0.5,
+    "angularAcceleration": -0.005,
+    "canCollide": false,
+    "alwaysShow": true,
+    "renderType": "LIT"
+  }
+}

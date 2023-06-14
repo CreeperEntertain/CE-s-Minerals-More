@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:Microchip"
+      },
+      {
+        "value": "CUSTOM:PlasticSheets"
+      },
+      {
+        "value": "CUSTOM:Microchip"
+      },
+      {
+        "value": "CUSTOM:Capacitor"
+      },
+      {
+        "value": "CUSTOM:IndiumIngot"
+      },
+      {
+        "value": "CUSTOM:Microchip"
+      },
+      {
+        "value": "CUSTOM:Capacitor"
+      },
+      {
+        "value": "CUSTOM:Microchip"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Board"
+    },
+    "name": "c_board",
+    "namespace": "mod"
+  }
+}

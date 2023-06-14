@@ -1,0 +1,16 @@
+{
+  "_fv": 43,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "LOCAL_MODIFICATIONS",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ChalkSteppes"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_delta\"><value name=\"contents\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Limestone</field></block></value><value name=\"rim\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Chalk</field></block></value><value name=\"size\"><block type=\"int_provider_constant\"><field name=\"value\">5</field></block></value><value name=\"rimSize\"><block type=\"int_provider_constant\"><field name=\"value\">2</field></block></value></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_carving_mask\"><field name=\"carver\">air</field><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">4</field></block></value><next><block type=\"placement_environment_scan\"><field name=\"maxSteps\">5</field><field name=\"direction\">UP</field><value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

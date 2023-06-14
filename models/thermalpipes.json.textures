@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Top": "thermal_pipes_outer_top",
+        "Outer": "aluminum_scaffolding",
+        "Inner": "thermal_pipes_inner"
+      },
+      "name": "default"
+    }
+  }
+}

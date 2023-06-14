@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_hyaloclastite"
+  },
+  "result": "cemm:polished_hyaloclastite_slab"
+}
