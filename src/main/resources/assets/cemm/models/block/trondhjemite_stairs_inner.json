@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/trondhjemite_top",
+    "top": "cemm:block/trondhjemite_top",
+    "side": "cemm:block/trondhjemite"
+  },
+  "render_type": "solid"
+}

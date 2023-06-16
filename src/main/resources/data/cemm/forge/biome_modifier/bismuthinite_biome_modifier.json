@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bismuth_cave",
+  "features": "cemm:bismuthinite",
+  "step": "underground_ores"
+}

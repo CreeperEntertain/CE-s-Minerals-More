@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RockyStoneWall"
+    },
+    "name": "c_rocky_wall",
+    "namespace": "mod"
+  }
+}

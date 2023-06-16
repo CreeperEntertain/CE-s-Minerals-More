@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:magnesium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:magnesium_ingot",
+    "count": 9
+  }
+}

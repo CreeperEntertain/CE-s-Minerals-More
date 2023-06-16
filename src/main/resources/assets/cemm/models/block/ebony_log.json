@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ebony_log_top",
+    "up": "cemm:block/ebony_log_top",
+    "north": "cemm:block/ebony_log",
+    "east": "cemm:block/ebony_log",
+    "south": "cemm:block/ebony_log",
+    "west": "cemm:block/ebony_log",
+    "particle": "cemm:block/ebony_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/masuyite",
+    "top": "cemm:block/masuyite",
+    "side": "cemm:block/masuyite"
+  },
+  "render_type": "solid"
+}

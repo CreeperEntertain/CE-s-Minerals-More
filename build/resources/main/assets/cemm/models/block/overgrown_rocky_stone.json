@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/rocky_stone",
+    "top": "cemm:block/azalea_top",
+    "side": "cemm:block/overgrown_rocky_stone",
+    "overlay": "cemm:block/overgrown_rocky_stone",
+    "particle": "cemm:block/rocky_stone"
+  },
+  "render_type": "solid"
+}

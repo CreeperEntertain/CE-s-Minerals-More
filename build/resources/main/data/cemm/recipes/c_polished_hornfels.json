@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hornfels"
+    },
+    "1": {
+      "item": "cemm:hornfels"
+    },
+    "2": {
+      "item": "cemm:hornfels"
+    },
+    "3": {
+      "item": "cemm:hornfels"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_hornfels",
+    "count": 4
+  }
+}

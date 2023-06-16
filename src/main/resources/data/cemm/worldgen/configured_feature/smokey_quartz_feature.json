@@ -1,0 +1,12 @@
+{
+  "type": "cemm:smokey_quartz_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:smokey_quartz_ore"
+    },
+    "radius": 5
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:platinum_bit"
+    },
+    "1": {
+      "item": "cemm:platinum_bit"
+    },
+    "2": {
+      "item": "cemm:platinum_bit"
+    }
+  },
+  "result": {
+    "item": "cemm:platinum_pellet",
+    "count": 1
+  }
+}

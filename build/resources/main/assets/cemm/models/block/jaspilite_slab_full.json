@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/jaspilite_top_new",
+    "top": "cemm:block/jaspilite_top_new",
+    "side": "cemm:block/jaspilite_new"
+  },
+  "render_type": "solid"
+}

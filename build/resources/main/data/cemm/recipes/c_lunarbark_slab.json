@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "1": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "2": {
+      "item": "cemm:lunarbark_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:lunarbark_slab",
+    "count": 3
+  }
+}

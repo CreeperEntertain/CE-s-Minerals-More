@@ -1,0 +1,39 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:OvergrownCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownMossyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRockyStone"
+      },
+      {
+        "value": "CUSTOM:OvergrownStone"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "Blocks.MOSS_CARPET"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "overgrown_blocks",
+    "namespace": "mod"
+  }
+}

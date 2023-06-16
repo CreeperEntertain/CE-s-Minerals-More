@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/jasper",
+    "particle": "cemm:block/jasper"
+  },
+  "render_type": "solid"
+}

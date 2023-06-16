@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "1": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "2": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "3": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "4": {
+      "item": "cemm:jaspilite_bricks"
+    },
+    "5": {
+      "item": "cemm:jaspilite_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:jaspilite_brick_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/elbaite_top",
+    "top": "cemm:block/elbaite_top",
+    "side": "cemm:block/elbaite"
+  },
+  "render_type": "solid"
+}

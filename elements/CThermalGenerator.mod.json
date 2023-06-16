@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:LeadIngot"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:TelluriumIngot"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:BismuthCrystal"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ThermalGenerator"
+    },
+    "name": "c_thermal_generator",
+    "namespace": "mod"
+  }
+}

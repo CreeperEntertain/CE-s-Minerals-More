@@ -1,0 +1,24 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="MIT License"
+
+[[mods]]
+modId="cemm"
+version="1.13.56"
+displayName="CE's Minerals & More"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+logoFile="logo.png"
+authors="CEntertain"
+description="Fifth Release Copy"
+
+[[dependencies.cemm]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

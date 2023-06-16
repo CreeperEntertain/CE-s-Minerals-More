@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:red_wastes",
+  "features": "cemm:red_sand_feature_red_wastes",
+  "step": "surface_structures"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_magnetite"
+  },
+  "result": "cemm:polished_magnetite_stairs"
+}

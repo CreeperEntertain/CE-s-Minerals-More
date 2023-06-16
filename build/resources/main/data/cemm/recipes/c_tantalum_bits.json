@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tantalum_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:tantalum_bits",
+    "count": 1
+  }
+}

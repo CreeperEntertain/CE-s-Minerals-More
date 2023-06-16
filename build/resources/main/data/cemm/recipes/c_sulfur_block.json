@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "1": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "2": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "3": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "4": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "5": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "6": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "7": {
+      "item": "cemm:sulfur_crystals"
+    },
+    "8": {
+      "item": "cemm:sulfur_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:sulfur_block",
+    "count": 1
+  }
+}

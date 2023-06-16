@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:xanthanium_scrap",
+    "count": 9
+  }
+}

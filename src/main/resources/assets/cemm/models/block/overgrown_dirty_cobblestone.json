@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/dirty_cobblestone",
+    "top": "cemm:block/azalea_top",
+    "side": "cemm:block/overgrown_dirty_cobblestone",
+    "overlay": "cemm:block/overgrown_dirty_cobblestone",
+    "particle": "cemm:block/dirty_cobblestone"
+  },
+  "render_type": "solid"
+}

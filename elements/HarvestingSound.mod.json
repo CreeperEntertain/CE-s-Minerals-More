@@ -1,0 +1,9 @@
+{
+  "_fv": 43,
+  "_type": "function",
+  "definition": {
+    "code": "playsound minecraft:block.sweet_berry_bush.pick_berries block @a ~ ~ ~ 1 1 0",
+    "name": "harvesting_sound",
+    "namespace": "mod"
+  }
+}

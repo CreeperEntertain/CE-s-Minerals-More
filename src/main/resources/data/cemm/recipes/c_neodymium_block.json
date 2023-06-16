@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "1": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "2": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "3": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "4": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "5": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "6": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "7": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "8": {
+      "item": "cemm:neodymium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:neodymium_block",
+    "count": 1
+  }
+}

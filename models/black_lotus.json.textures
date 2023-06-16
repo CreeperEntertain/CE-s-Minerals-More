@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "black_lotus",
+        "missing": "black_lotus"
+      },
+      "name": "default"
+    }
+  }
+}

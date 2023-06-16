@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:andesite_cave",
+    "cemm:monazite_desert",
+    "desert",
+    "cemm:zirconian_desert"
+  ],
+  "features": "cemm:tinakisite",
+  "step": "underground_ores"
+}

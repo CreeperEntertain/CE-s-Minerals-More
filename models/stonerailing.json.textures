@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "stone",
+        "Stone": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

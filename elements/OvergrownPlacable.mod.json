@@ -1,0 +1,3675 @@
+{
+  "_fv": 43,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Acid"
+      },
+      {
+        "value": "CUSTOM:Elbaite"
+      },
+      {
+        "value": "CUSTOM:PlatinumBit"
+      },
+      {
+        "value": "CUSTOM:Cable"
+      },
+      {
+        "value": "CUSTOM:SolarPanel"
+      },
+      {
+        "value": "CUSTOM:Chronoglass"
+      },
+      {
+        "value": "CUSTOM:NylineFungus"
+      },
+      {
+        "value": "CUSTOM:Shiftgrass"
+      },
+      {
+        "value": "CUSTOM:TallShiftgrass"
+      },
+      {
+        "value": "CUSTOM:Shiftsprouts"
+      },
+      {
+        "value": "CUSTOM:SmallChronocrystalBud"
+      },
+      {
+        "value": "CUSTOM:MediumChronocrystalBud"
+      },
+      {
+        "value": "CUSTOM:LargeChronocrystalBud"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalCluster"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:LunarbarkSapling"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves1"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves2"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves3"
+      },
+      {
+        "value": "CUSTOM:LunarbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves4"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves5"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves6"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves7"
+      },
+      {
+        "value": "CUSTOM:LunarbarkSlab"
+      },
+      {
+        "value": "CUSTOM:LunarbarkStairs"
+      },
+      {
+        "value": "CUSTOM:LunarbarkFence"
+      },
+      {
+        "value": "CUSTOM:LunarbarkFenceGate"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPressurePlate"
+      },
+      {
+        "value": "CUSTOM:LunarbarkButton"
+      },
+      {
+        "value": "CUSTOM:LunarbarkTrapdoor"
+      },
+      {
+        "value": "CUSTOM:LunarbarkDoor"
+      },
+      {
+        "value": "CUSTOM:InstaLunarbarkSapling"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteStairs"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteSlab"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteWall"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteButton"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarboniteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarboniteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMetaCarboniteWall"
+      },
+      {
+        "value": "CUSTOM:FirefruitShrub"
+      },
+      {
+        "value": "CUSTOM:ChlorovinesPlant"
+      },
+      {
+        "value": "CUSTOM:Chlorovines"
+      },
+      {
+        "value": "CUSTOM:ChlorostalkPlant"
+      },
+      {
+        "value": "CUSTOM:Chlorostalk"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves0"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves1"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves2"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves3"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves4"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves5"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves6"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodSapling"
+      },
+      {
+        "value": "CUSTOM:Chloroleaves"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodStairs"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodSlab"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodButton"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodFence"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPressurePlate"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodDoor"
+      },
+      {
+        "value": "CUSTOM:CChlorowoodTrapdoor"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "CUSTOM:Firegrass"
+      },
+      {
+        "value": "CUSTOM:TallFiregrass"
+      },
+      {
+        "value": "CUSTOM:TallChlorograss"
+      },
+      {
+        "value": "CUSTOM:Chlorograss"
+      },
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AluminumGrid"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumGrid"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:AegirineSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedAegirineSlab"
+      },
+      {
+        "value": "CUSTOM:AegirineStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedAegirineStairs"
+      },
+      {
+        "value": "CUSTOM:AegirineWall"
+      },
+      {
+        "value": "CUSTOM:PolishedAegirineWall"
+      },
+      {
+        "value": "CUSTOM:AeriniteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedAeriniteStairs"
+      },
+      {
+        "value": "CUSTOM:AeriniteSlab"
+      },
+      {
+        "value": "CUSTOM:AeriniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedAeriniteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedAeriniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedArgiliteStairs"
+      },
+      {
+        "value": "CUSTOM:ArgiliteStairs"
+      },
+      {
+        "value": "CUSTOM:ArgiliteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedArgiliteSlab"
+      },
+      {
+        "value": "CUSTOM:ArgliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedArgiliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBauxiteStairs"
+      },
+      {
+        "value": "CUSTOM:BauxiteStairs"
+      },
+      {
+        "value": "CUSTOM:BauxiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBauxiteSlab"
+      },
+      {
+        "value": "CUSTOM:BauxiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBauxiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBenitoiteStairs"
+      },
+      {
+        "value": "CUSTOM:BenitoiteStairs"
+      },
+      {
+        "value": "CUSTOM:BenitoiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBenitoiteSlab"
+      },
+      {
+        "value": "CUSTOM:BenitoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBenitoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBismuthiniteStairs"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteStairs"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteSlab"
+      },
+      {
+        "value": "CUSTOM:BismuthiniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBismuthiniteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBismuthiniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBlueschistStairs"
+      },
+      {
+        "value": "CUSTOM:BlueschistStairs"
+      },
+      {
+        "value": "CUSTOM:BlueschistSlab"
+      },
+      {
+        "value": "CUSTOM:BlueschistWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBlueschistSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBlueschistWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBrecciaStairs"
+      },
+      {
+        "value": "CUSTOM:BrecciaStairs"
+      },
+      {
+        "value": "CUSTOM:BrecciaSlab"
+      },
+      {
+        "value": "CUSTOM:BrecciaWall"
+      },
+      {
+        "value": "CUSTOM:PolishedBrecciaSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedBrecciaWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalcopyriteStairs"
+      },
+      {
+        "value": "CUSTOM:ChalcopyriteStairs"
+      },
+      {
+        "value": "CUSTOM:ChalcopyriteSlab"
+      },
+      {
+        "value": "CUSTOM:ChalcopyriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalcopyriteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedChalcopyriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalkStairs"
+      },
+      {
+        "value": "CUSTOM:ChalkStairs"
+      },
+      {
+        "value": "CUSTOM:ChalkSlab"
+      },
+      {
+        "value": "CUSTOM:ChalkWall"
+      },
+      {
+        "value": "CUSTOM:PolishedChalkSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedChalkWall"
+      },
+      {
+        "value": "CUSTOM:PolishedClaystoneStairs"
+      },
+      {
+        "value": "CUSTOM:ClaystoneStairs"
+      },
+      {
+        "value": "CUSTOM:ClaystoneSlab"
+      },
+      {
+        "value": "CUSTOM:ClaystoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedClaystoneSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedClaystoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedElbaiteStairs"
+      },
+      {
+        "value": "CUSTOM:ElbaiteStairs"
+      },
+      {
+        "value": "CUSTOM:ElbaiteSlab"
+      },
+      {
+        "value": "CUSTOM:ElbaiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedElbaiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedElbaiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedFourmarieriteStairs"
+      },
+      {
+        "value": "CUSTOM:FourmarieriteStairs"
+      },
+      {
+        "value": "CUSTOM:FourmarieriteSlab"
+      },
+      {
+        "value": "CUSTOM:FourmarieriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedFourmarieriteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedFourmarieriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedGraphiteStairs"
+      },
+      {
+        "value": "CUSTOM:GraphiteStairs"
+      },
+      {
+        "value": "CUSTOM:GraphiteSlab"
+      },
+      {
+        "value": "CUSTOM:GraphiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedGraphiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedGraphiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedGypsumStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedGypsumSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedGypsumWall"
+      },
+      {
+        "value": "CUSTOM:GypsumStairs"
+      },
+      {
+        "value": "CUSTOM:GypsumSlab"
+      },
+      {
+        "value": "CUSTOM:GypsumWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHornfelsStairs"
+      },
+      {
+        "value": "CUSTOM:HornfelsStairs"
+      },
+      {
+        "value": "CUSTOM:HornfelsSlab"
+      },
+      {
+        "value": "CUSTOM:HornfelsWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHornfelsSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedHornfelsWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHyaloclastiteStairs"
+      },
+      {
+        "value": "CUSTOM:HyaloclastiteStairs"
+      },
+      {
+        "value": "CUSTOM:HyaloclastiteSlab"
+      },
+      {
+        "value": "CUSTOM:HyaloclastiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedHyaloclastiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedHyaloclastiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedInyoiteStairs"
+      },
+      {
+        "value": "CUSTOM:InyoiteStairs"
+      },
+      {
+        "value": "CUSTOM:InyoiteSlab"
+      },
+      {
+        "value": "CUSTOM:InyoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedInyoiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedInyoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedJasperStairs"
+      },
+      {
+        "value": "CUSTOM:JasperStairs"
+      },
+      {
+        "value": "CUSTOM:JasperSlab"
+      },
+      {
+        "value": "CUSTOM:JasperWall"
+      },
+      {
+        "value": "CUSTOM:PolishedJasperSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedJasperWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKanoiteStairs"
+      },
+      {
+        "value": "CUSTOM:KanoiteStairs"
+      },
+      {
+        "value": "CUSTOM:KanoiteSlab"
+      },
+      {
+        "value": "CUSTOM:KanoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKanoiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedKanoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKenhsuiteStairs"
+      },
+      {
+        "value": "CUSTOM:KenhsuiteStairs"
+      },
+      {
+        "value": "CUSTOM:KenhsuiteSlab"
+      },
+      {
+        "value": "CUSTOM:KenhsuiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKenhsuiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedKenhsuiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKeroliteStairs"
+      },
+      {
+        "value": "CUSTOM:KeroliteStairs"
+      },
+      {
+        "value": "CUSTOM:KeroliteSlab"
+      },
+      {
+        "value": "CUSTOM:KeroliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKeroliteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedKeroliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKomatiiteStairs"
+      },
+      {
+        "value": "CUSTOM:KomatiiteStairs"
+      },
+      {
+        "value": "CUSTOM:KomatiiteSlab"
+      },
+      {
+        "value": "CUSTOM:KomatiiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKomatiiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedKomatiiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKremersiteStairs"
+      },
+      {
+        "value": "CUSTOM:KremersiteStairs"
+      },
+      {
+        "value": "CUSTOM:KremersiteSlab"
+      },
+      {
+        "value": "CUSTOM:KremersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedKremersiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedKremersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLatiteStairs"
+      },
+      {
+        "value": "CUSTOM:LatiteStairs"
+      },
+      {
+        "value": "CUSTOM:LatiteSlab"
+      },
+      {
+        "value": "CUSTOM:LatiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLatiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLatiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLavendulanStairs"
+      },
+      {
+        "value": "CUSTOM:LavendulanStairs"
+      },
+      {
+        "value": "CUSTOM:LavendulanSlab"
+      },
+      {
+        "value": "CUSTOM:LavendulanWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLavendulanSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLavendulanWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLazuliteStairs"
+      },
+      {
+        "value": "CUSTOM:LazuliteStairs"
+      },
+      {
+        "value": "CUSTOM:LazuliteSlab"
+      },
+      {
+        "value": "CUSTOM:LazuliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLazuliteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLazuliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLepidocrociteStairs"
+      },
+      {
+        "value": "CUSTOM:LepidocrociteStairs"
+      },
+      {
+        "value": "CUSTOM:LepidocrociteSlab"
+      },
+      {
+        "value": "CUSTOM:LepidocrociteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLepidocrociteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLepidocrociteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneStairs"
+      },
+      {
+        "value": "CUSTOM:LimestoneStairs"
+      },
+      {
+        "value": "CUSTOM:LimestoneSlab"
+      },
+      {
+        "value": "CUSTOM:LimestoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLimestoneWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLinariteStairs"
+      },
+      {
+        "value": "CUSTOM:LinariteStairs"
+      },
+      {
+        "value": "CUSTOM:LinariteSlab"
+      },
+      {
+        "value": "CUSTOM:LinariteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLinariteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLinariteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLithiophiliteStairs"
+      },
+      {
+        "value": "CUSTOM:LithiophiliteStairs"
+      },
+      {
+        "value": "CUSTOM:LithiophiliteSlab"
+      },
+      {
+        "value": "CUSTOM:LithiophiliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLithiophiliteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLithiophiliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLorenzeniteStairs"
+      },
+      {
+        "value": "CUSTOM:LorenzeniteStairs"
+      },
+      {
+        "value": "CUSTOM:LorenzeniteSlab"
+      },
+      {
+        "value": "CUSTOM:LorenzeniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedLorenzeniteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedLorenzeniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMagnetiteStairs"
+      },
+      {
+        "value": "CUSTOM:MagnetiteStairs"
+      },
+      {
+        "value": "CUSTOM:MagnetiteSlab"
+      },
+      {
+        "value": "CUSTOM:MagnetiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMagnetiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMagnetiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMalachiteStairs"
+      },
+      {
+        "value": "CUSTOM:MalachiteStairs"
+      },
+      {
+        "value": "CUSTOM:MalachiteSlab"
+      },
+      {
+        "value": "CUSTOM:MalachiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMalachiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMalachiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMaripositeStairs"
+      },
+      {
+        "value": "CUSTOM:MaripositeStairs"
+      },
+      {
+        "value": "CUSTOM:MaripositeSlab"
+      },
+      {
+        "value": "CUSTOM:MaripositeWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMaripositeSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMaripositeWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMasuyiteStairs"
+      },
+      {
+        "value": "CUSTOM:MasuyiteStairs"
+      },
+      {
+        "value": "CUSTOM:MasuyiteSlab"
+      },
+      {
+        "value": "CUSTOM:MasuyiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMasuyiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMasuyiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMetatorberniteStairs"
+      },
+      {
+        "value": "CUSTOM:MetatorberniteStairs"
+      },
+      {
+        "value": "CUSTOM:MetatorberniteSlab"
+      },
+      {
+        "value": "CUSTOM:MetatorberniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMetatorberniteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMetatorberniteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMiniumStairs"
+      },
+      {
+        "value": "CUSTOM:MiniumStairs"
+      },
+      {
+        "value": "CUSTOM:MiniumSlab"
+      },
+      {
+        "value": "CUSTOM:MiniumWall"
+      },
+      {
+        "value": "CUSTOM:PolishedMiniumSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMiniumWall"
+      },
+      {
+        "value": "CUSTOM:PolishedOlivineStairs"
+      },
+      {
+        "value": "CUSTOM:OlivineStairs"
+      },
+      {
+        "value": "CUSTOM:OlivineSlab"
+      },
+      {
+        "value": "CUSTOM:OlivineWall"
+      },
+      {
+        "value": "CUSTOM:PolishedOlivineSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedOlivineWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPietersiteStairs"
+      },
+      {
+        "value": "CUSTOM:PietersiteStairs"
+      },
+      {
+        "value": "CUSTOM:PietersiteSlab"
+      },
+      {
+        "value": "CUSTOM:PietersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPietersiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedPietersiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPurpuriteStairs"
+      },
+      {
+        "value": "CUSTOM:PurpuriteStairs"
+      },
+      {
+        "value": "CUSTOM:PurpuriteSlab"
+      },
+      {
+        "value": "CUSTOM:PurpuriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPurpuriteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedPurpuriteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPyroxmangiteStairs"
+      },
+      {
+        "value": "CUSTOM:PyroxmangiteStairs"
+      },
+      {
+        "value": "CUSTOM:PyroxmangiteSlab"
+      },
+      {
+        "value": "CUSTOM:PyroxmangiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedPyroxmangiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedPyroxmangiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedRoseliteStairs"
+      },
+      {
+        "value": "CUSTOM:RoseliteStairs"
+      },
+      {
+        "value": "CUSTOM:RoseliteSlab"
+      },
+      {
+        "value": "CUSTOM:RoseliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedRoseliteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedRoseliteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedSchorlStairs"
+      },
+      {
+        "value": "CUSTOM:SchorlStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedSchorlSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedSchorlWall"
+      },
+      {
+        "value": "CUSTOM:SchorlSlab"
+      },
+      {
+        "value": "CUSTOM:SchorlWall"
+      },
+      {
+        "value": "CUSTOM:PolishedShungiteStairs"
+      },
+      {
+        "value": "CUSTOM:ShungiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedShungiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedShungiteWall"
+      },
+      {
+        "value": "CUSTOM:ShungiteSlab"
+      },
+      {
+        "value": "CUSTOM:ShungiteWall"
+      },
+      {
+        "value": "CUSTOM:TinakisiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedTinakisiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedTinakisiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedTinakisiteWall"
+      },
+      {
+        "value": "CUSTOM:TinakisiteSlab"
+      },
+      {
+        "value": "CUSTOM:TinakisiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTodorokiteStairs"
+      },
+      {
+        "value": "CUSTOM:TodorokiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedTodorokiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedTodorokiteWall"
+      },
+      {
+        "value": "CUSTOM:TodorokiteSlab"
+      },
+      {
+        "value": "CUSTOM:TodorokiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTokyoiteStairs"
+      },
+      {
+        "value": "CUSTOM:TokyoiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedTokyoiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedTokyoiteWall"
+      },
+      {
+        "value": "CUSTOM:TokyoiteSlab"
+      },
+      {
+        "value": "CUSTOM:TokyoiteWall"
+      },
+      {
+        "value": "CUSTOM:PolishedTrondhjemiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedTrondhjemiteSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedTrondhjemiteWall"
+      },
+      {
+        "value": "CUSTOM:TrondhjemiteSlab"
+      },
+      {
+        "value": "CUSTOM:TrondhjemiteWall"
+      },
+      {
+        "value": "CUSTOM:TrondhjemiteStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedMarble"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleStairs"
+      },
+      {
+        "value": "CUSTOM:MarbleStairs"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleSlab"
+      },
+      {
+        "value": "CUSTOM:PolishedMarbleWall"
+      },
+      {
+        "value": "CUSTOM:MarbleSlab"
+      },
+      {
+        "value": "CUSTOM:MarbleWall"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumStairs"
+      },
+      {
+        "value": "CUSTOM:AluminumStairs"
+      },
+      {
+        "value": "CUSTOM:AluminumFence"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumFence"
+      },
+      {
+        "value": "CUSTOM:AluminumBeam"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumBeam"
+      },
+      {
+        "value": "CUSTOM:ConveyorBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorTop"
+      },
+      {
+        "value": "CUSTOM:JumpPad"
+      },
+      {
+        "value": "CUSTOM:LaserEmitter"
+      },
+      {
+        "value": "CUSTOM:ConveyorAdvancedBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorAdvancedTop"
+      },
+      {
+        "value": "CUSTOM:ConveyorImprovedBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorImprovedTop"
+      },
+      {
+        "value": "CUSTOM:Laser"
+      },
+      {
+        "value": "CUSTOM:AluminumSupport"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumSupport"
+      },
+      {
+        "value": "CUSTOM:ThermalPipes"
+      },
+      {
+        "value": "CUSTOM:ThermalGenerator"
+      },
+      {
+        "value": "CUSTOM:InfoSign00Empty"
+      },
+      {
+        "value": "CUSTOM:InfoSign01Zero"
+      },
+      {
+        "value": "CUSTOM:InfoSign02One"
+      },
+      {
+        "value": "CUSTOM:InfoSign03Two"
+      },
+      {
+        "value": "CUSTOM:InfoSign04Three"
+      },
+      {
+        "value": "CUSTOM:InfoSign05Four"
+      },
+      {
+        "value": "CUSTOM:InfoSign06Five"
+      },
+      {
+        "value": "CUSTOM:InfoSign07Six"
+      },
+      {
+        "value": "CUSTOM:InfoSign08Seven"
+      },
+      {
+        "value": "CUSTOM:InfoSign09Eight"
+      },
+      {
+        "value": "CUSTOM:InfoSign10Nine"
+      },
+      {
+        "value": "CUSTOM:InfoSign11A"
+      },
+      {
+        "value": "CUSTOM:InfoSign12B"
+      },
+      {
+        "value": "CUSTOM:InfoSign13C"
+      },
+      {
+        "value": "CUSTOM:InfoSign14D"
+      },
+      {
+        "value": "CUSTOM:InfoSign15E"
+      },
+      {
+        "value": "CUSTOM:InfoSign16F"
+      },
+      {
+        "value": "CUSTOM:InfoSign17G"
+      },
+      {
+        "value": "CUSTOM:InfoSign18H"
+      },
+      {
+        "value": "CUSTOM:InfoSign19I"
+      },
+      {
+        "value": "CUSTOM:InfoSign20J"
+      },
+      {
+        "value": "CUSTOM:InfoSign21K"
+      },
+      {
+        "value": "CUSTOM:InfoSign22L"
+      },
+      {
+        "value": "CUSTOM:InfoSign23M"
+      },
+      {
+        "value": "CUSTOM:InfoSign24N"
+      },
+      {
+        "value": "CUSTOM:InfoSign25O"
+      },
+      {
+        "value": "CUSTOM:InfoSign26P"
+      },
+      {
+        "value": "CUSTOM:InfoSign27Q"
+      },
+      {
+        "value": "CUSTOM:InfoSign28R"
+      },
+      {
+        "value": "CUSTOM:InfoSign29S"
+      },
+      {
+        "value": "CUSTOM:InfoSign30T"
+      },
+      {
+        "value": "CUSTOM:InfoSign31U"
+      },
+      {
+        "value": "CUSTOM:InfoSign32V"
+      },
+      {
+        "value": "CUSTOM:InfoSign33W"
+      },
+      {
+        "value": "CUSTOM:InfoSign34X"
+      },
+      {
+        "value": "CUSTOM:InfoSign35Y"
+      },
+      {
+        "value": "CUSTOM:InfoSign36Z"
+      },
+      {
+        "value": "CUSTOM:InfoSign37Exclamation"
+      },
+      {
+        "value": "CUSTOM:InfoSign38Questionaire"
+      },
+      {
+        "value": "CUSTOM:InfoSign39Plus"
+      },
+      {
+        "value": "CUSTOM:InfoSign40Minus"
+      },
+      {
+        "value": "CUSTOM:InfoSign41Equals"
+      },
+      {
+        "value": "CUSTOM:InfoSign42NotEquals"
+      },
+      {
+        "value": "CUSTOM:InfoSign43Not"
+      },
+      {
+        "value": "CUSTOM:InfoSign44Division"
+      },
+      {
+        "value": "CUSTOM:InfoSign45Wave"
+      },
+      {
+        "value": "CUSTOM:InfoSign46Waves"
+      },
+      {
+        "value": "CUSTOM:InfoSign47Slash"
+      },
+      {
+        "value": "CUSTOM:InfoSign48SlashReverse"
+      },
+      {
+        "value": "CUSTOM:InfoSign49Info"
+      },
+      {
+        "value": "CUSTOM:InfoSign50Square"
+      },
+      {
+        "value": "CUSTOM:InfoSign51Circle"
+      },
+      {
+        "value": "CUSTOM:InfoSign52Triangle"
+      },
+      {
+        "value": "CUSTOM:InfoSign53Block"
+      },
+      {
+        "value": "CUSTOM:InfoSign54SquareFilled"
+      },
+      {
+        "value": "CUSTOM:InfoSign55CircleFilled"
+      },
+      {
+        "value": "CUSTOM:InfoSign56TriangleFilled"
+      },
+      {
+        "value": "CUSTOM:InfoSign57SquareDash"
+      },
+      {
+        "value": "CUSTOM:InfoSign58SquareDashInverse"
+      },
+      {
+        "value": "CUSTOM:InfoSign59SquareDashDouble"
+      },
+      {
+        "value": "CUSTOM:InfoSign60SquareDot"
+      },
+      {
+        "value": "CUSTOM:InfoSign61SquareCross"
+      },
+      {
+        "value": "CUSTOM:InfoSign62DiagonalLines1"
+      },
+      {
+        "value": "CUSTOM:InfoSign63DiagonalLines2"
+      },
+      {
+        "value": "CUSTOM:InfoSign64Up"
+      },
+      {
+        "value": "CUSTOM:InfoSign65Down"
+      },
+      {
+        "value": "CUSTOM:InfoSign66Left"
+      },
+      {
+        "value": "CUSTOM:InfoSign67Right"
+      },
+      {
+        "value": "CUSTOM:InfoSign68PointUp"
+      },
+      {
+        "value": "CUSTOM:InfoSign69PointDown"
+      },
+      {
+        "value": "CUSTOM:InfoSign70PointLeft"
+      },
+      {
+        "value": "CUSTOM:InfoSign71PointRight"
+      },
+      {
+        "value": "CUSTOM:InfoSign72ArrowUp"
+      },
+      {
+        "value": "CUSTOM:InfoSign73ArrowDown"
+      },
+      {
+        "value": "CUSTOM:InfoSign74ArrowLeft"
+      },
+      {
+        "value": "CUSTOM:InfoSign75ArrowRight"
+      },
+      {
+        "value": "CUSTOM:InfoSign76Diagonal1"
+      },
+      {
+        "value": "CUSTOM:InfoSign77Diagonal2"
+      },
+      {
+        "value": "CUSTOM:InfoSign78PointMiddle1"
+      },
+      {
+        "value": "CUSTOM:InfoSign79PointMiddle2"
+      },
+      {
+        "value": "CUSTOM:InfoSign80Checker1"
+      },
+      {
+        "value": "CUSTOM:InfoSign81Checker2"
+      },
+      {
+        "value": "CUSTOM:InfoSign82Check"
+      },
+      {
+        "value": "CUSTOM:InfoSign83Destination"
+      },
+      {
+        "value": "CUSTOM:InfoSign84Turn"
+      },
+      {
+        "value": "CUSTOM:InfoSign85Repeat"
+      },
+      {
+        "value": "CUSTOM:InfoSign86Frame"
+      },
+      {
+        "value": "CUSTOM:InfoSign87PlusMinus"
+      },
+      {
+        "value": "CUSTOM:InfoSign88Droplet"
+      },
+      {
+        "value": "CUSTOM:InfoSign89Fire"
+      },
+      {
+        "value": "CUSTOM:InfoSign90Warning"
+      },
+      {
+        "value": "CUSTOM:InfoSign91Mountain"
+      },
+      {
+        "value": "CUSTOM:InfoSign92Signal1"
+      },
+      {
+        "value": "CUSTOM:InfoSign93Signal2"
+      },
+      {
+        "value": "CUSTOM:InfoSign94Puzzle"
+      },
+      {
+        "value": "CUSTOM:InfoSign95Socket"
+      },
+      {
+        "value": "CUSTOM:InfoSign96Container"
+      },
+      {
+        "value": "CUSTOM:InfoSign97Electrical"
+      },
+      {
+        "value": "CUSTOM:InfoSign98Measure"
+      },
+      {
+        "value": "CUSTOM:WarningSign"
+      },
+      {
+        "value": "CUSTOM:WarningBarrier"
+      },
+      {
+        "value": "CUSTOM:StoneRailing"
+      },
+      {
+        "value": "CUSTOM:FStonePillar"
+      },
+      {
+        "value": "CUSTOM:FWarningPillar"
+      },
+      {
+        "value": "CUSTOM:CeilingLight"
+      },
+      {
+        "value": "CUSTOM:LightPad"
+      },
+      {
+        "value": "CUSTOM:AdvancementAltar"
+      },
+      {
+        "value": "CUSTOM:BlackIce"
+      },
+      {
+        "value": "CUSTOM:DesertPrimrose"
+      },
+      {
+        "value": "CUSTOM:CreosoteBush"
+      },
+      {
+        "value": "CUSTOM:FlowerCactus"
+      },
+      {
+        "value": "CUSTOM:FlowerlessCactus"
+      },
+      {
+        "value": "CUSTOM:JaspiliteBrickStairs"
+      },
+      {
+        "value": "CUSTOM:JaspiliteStairs"
+      },
+      {
+        "value": "CUSTOM:SandedJaspiliteStairs"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspiliteStairs"
+      },
+      {
+        "value": "CUSTOM:JaspiliteBrickSlab"
+      },
+      {
+        "value": "CUSTOM:JaspiliteBrickWall"
+      },
+      {
+        "value": "CUSTOM:JaspiliteSlab"
+      },
+      {
+        "value": "CUSTOM:SandedJaspiliteSlab"
+      },
+      {
+        "value": "CUSTOM:SandedJaspiliteWall"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspiliteSlab"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspiliteWall"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves"
+      },
+      {
+        "value": "CUSTOM:EbonyStairs"
+      },
+      {
+        "value": "CUSTOM:EbonySlab"
+      },
+      {
+        "value": "CUSTOM:EbonyFence"
+      },
+      {
+        "value": "CUSTOM:EbonyPressurePlate"
+      },
+      {
+        "value": "CUSTOM:EbonyFenceGate"
+      },
+      {
+        "value": "CUSTOM:EbonyButton"
+      },
+      {
+        "value": "CUSTOM:EbonyDoor"
+      },
+      {
+        "value": "CUSTOM:EbonyTrapDoor"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves0"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves1"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves2"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves3"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves4"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves5"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves6"
+      },
+      {
+        "value": "CUSTOM:EbonySapling"
+      },
+      {
+        "value": "CUSTOM:BlackLotus"
+      },
+      {
+        "value": "CUSTOM:Purifier"
+      },
+      {
+        "value": "CUSTOM:PlacedStickBottom"
+      },
+      {
+        "value": "CUSTOM:PlacedStickTop"
+      },
+      {
+        "value": "CUSTOM:Tomato00Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato01Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato02Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato03Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato04Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato05Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato06Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato07Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato08Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato09Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato10Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato11Bottom"
+      },
+      {
+        "value": "CUSTOM:Tomato00Top"
+      },
+      {
+        "value": "CUSTOM:Tomato01Top"
+      },
+      {
+        "value": "CUSTOM:Tomato02Top"
+      },
+      {
+        "value": "CUSTOM:Tomato03Top"
+      },
+      {
+        "value": "CUSTOM:Tomato04Top"
+      },
+      {
+        "value": "CUSTOM:Tomato05Top"
+      },
+      {
+        "value": "CUSTOM:Tomato06Top"
+      },
+      {
+        "value": "CUSTOM:Tomato07Top"
+      },
+      {
+        "value": "CUSTOM:Tomato08Top"
+      },
+      {
+        "value": "CUSTOM:Tomato09Top"
+      },
+      {
+        "value": "CUSTOM:Tomato10Top"
+      },
+      {
+        "value": "CUSTOM:Tomato11Top"
+      },
+      {
+        "value": "CUSTOM:ThreadGrid"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid00"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid01"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid02"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid03"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid04"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid00"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid01"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid02"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid03"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid04"
+      },
+      {
+        "value": "CUSTOM:Cabbage00"
+      },
+      {
+        "value": "CUSTOM:Cabbage01"
+      },
+      {
+        "value": "CUSTOM:Cabbage02"
+      },
+      {
+        "value": "CUSTOM:Cabbage03"
+      },
+      {
+        "value": "CUSTOM:Strawberry00"
+      },
+      {
+        "value": "CUSTOM:Strawberry01"
+      },
+      {
+        "value": "CUSTOM:Strawberry02"
+      },
+      {
+        "value": "CUSTOM:Strawberry03"
+      },
+      {
+        "value": "CUSTOM:Strawberry04"
+      },
+      {
+        "value": "CUSTOM:Tea00"
+      },
+      {
+        "value": "CUSTOM:Tea01"
+      },
+      {
+        "value": "CUSTOM:Tea02"
+      },
+      {
+        "value": "CUSTOM:Tea03"
+      },
+      {
+        "value": "CUSTOM:Tea04"
+      },
+      {
+        "value": "CUSTOM:DeepstoneStairs"
+      },
+      {
+        "value": "CUSTOM:DeepstoneSlab"
+      },
+      {
+        "value": "CUSTOM:DeepstoneWall"
+      },
+      {
+        "value": "CUSTOM:GabbroStairs"
+      },
+      {
+        "value": "CUSTOM:GabbroSlab"
+      },
+      {
+        "value": "CUSTOM:GabbroWall"
+      },
+      {
+        "value": "CUSTOM:GneissStairs"
+      },
+      {
+        "value": "CUSTOM:GneissSlab"
+      },
+      {
+        "value": "CUSTOM:GneissWall"
+      },
+      {
+        "value": "CUSTOM:RhyoliteStairs"
+      },
+      {
+        "value": "CUSTOM:RhyoliteSlab"
+      },
+      {
+        "value": "CUSTOM:RhyoliteWall"
+      },
+      {
+        "value": "CUSTOM:RockyStoneStairs"
+      },
+      {
+        "value": "CUSTOM:RockyStoneSlab"
+      },
+      {
+        "value": "CUSTOM:RockyStoneWall"
+      },
+      {
+        "value": "CUSTOM:ShaleStairs"
+      },
+      {
+        "value": "CUSTOM:ShaleSlab"
+      },
+      {
+        "value": "CUSTOM:ShaleWall"
+      },
+      {
+        "value": "CUSTOM:SlateStairs"
+      },
+      {
+        "value": "CUSTOM:SlateSlab"
+      },
+      {
+        "value": "CUSTOM:SlateWall"
+      },
+      {
+        "value": "CUSTOM:MudstoneStairs"
+      },
+      {
+        "value": "CUSTOM:MudstoneSlab"
+      },
+      {
+        "value": "CUSTOM:MudstoneWall"
+      },
+      {
+        "value": "CUSTOM:PumiceStairs"
+      },
+      {
+        "value": "CUSTOM:PumiceSlab"
+      },
+      {
+        "value": "CUSTOM:PumiceWall"
+      },
+      {
+        "value": "CUSTOM:SiltstoneStairs"
+      },
+      {
+        "value": "CUSTOM:SiltstoneSlab"
+      },
+      {
+        "value": "CUSTOM:SiltstoneWall"
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_STAIRS"
+      },
+      {
+        "value": "Blocks.NORMAL_STONE_SLAB"
+      },
+      {
+        "value": "Blocks.GRANITE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_STAIRS"
+      },
+      {
+        "value": "Blocks.GRANITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_GRANITE_SLAB"
+      },
+      {
+        "value": "Blocks.GRANITE_WALL"
+      },
+      {
+        "value": "Blocks.DIORITE_STAIRS"
+      },
+      {
+        "value": "Blocks.DIORITE_SLAB"
+      },
+      {
+        "value": "Blocks.DIORITE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_DIORITE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_DIORITE_STAIRS"
+      },
+      {
+        "value": "Blocks.ANDESITE_STAIRS"
+      },
+      {
+        "value": "Blocks.ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.ANDESITE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_ANDESITE_SLAB"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE_STAIRS"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE_SLAB"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_STAIRS"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_SLAB"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILE_WALL"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.POINTED_DRIPSTONE"
+      },
+      {
+        "value": "Blocks.MUD_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.MUD_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.MUD_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE_SLAB"
+      },
+      {
+        "value": "Blocks.MOSS_CARPET"
+      },
+      {
+        "value": "Blocks.SAPLING#0"
+      },
+      {
+        "value": "Blocks.SAPLING#1"
+      },
+      {
+        "value": "Blocks.SAPLING#2"
+      },
+      {
+        "value": "Blocks.SAPLING#3"
+      },
+      {
+        "value": "Blocks.SAPLING#4"
+      },
+      {
+        "value": "Blocks.SAPLING#5"
+      },
+      {
+        "value": "Blocks.MANGROVE_PROPAGULE"
+      },
+      {
+        "value": "Blocks.REEDS"
+      },
+      {
+        "value": "Blocks.FLOWING_WATER"
+      },
+      {
+        "value": "Blocks.WATER"
+      },
+      {
+        "value": "Blocks.BUBBLE_COLUMN"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
+      },
+      {
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.BLACKSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_WALL"
+      },
+      {
+        "value": "Blocks.CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.EXPOSED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.WEATHERED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.OXIDIZED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.EXPOSED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.WEATHERED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.OXIDIZED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.WAXED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.WAXED_WEATHERED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.WAXED_OXIDIZED_CUT_COPPER_STAIRS"
+      },
+      {
+        "value": "Blocks.WAXED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.WAXED_EXPOSED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.WAXED_WEATHERED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.WAXED_OXIDIZED_CUT_COPPER_SLAB"
+      },
+      {
+        "value": "Blocks.SLIME_BLOCK"
+      },
+      {
+        "value": "Blocks.AMETHYST_CLUSTER"
+      },
+      {
+        "value": "Blocks.LARGE_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.MEDIUM_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.SMALL_AMETHYST_BUD"
+      },
+      {
+        "value": "Blocks.LEAVES"
+      },
+      {
+        "value": "Blocks.LEAVES#0"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      },
+      {
+        "value": "Blocks.MANGROVE_LEAVES"
+      },
+      {
+        "value": "Blocks.AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.FLOWERING_AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_STAIRS"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.CUT_RED_SANDSTONE_SLAB"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE_WALL"
+      },
+      {
+        "value": "Blocks.RAIL"
+      },
+      {
+        "value": "Blocks.GOLDEN_RAIL"
+      },
+      {
+        "value": "Blocks.DETECTOR_RAIL"
+      },
+      {
+        "value": "Blocks.ACTIVATOR_RAIL"
+      },
+      {
+        "value": "Blocks.BED"
+      },
+      {
+        "value": "Blocks.ORANGE_BED"
+      },
+      {
+        "value": "Blocks.MAGENTA_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_BED"
+      },
+      {
+        "value": "Blocks.YELLOW_BED"
+      },
+      {
+        "value": "Blocks.LIME_BED"
+      },
+      {
+        "value": "Blocks.PINK_BED"
+      },
+      {
+        "value": "Blocks.GRAY_BED"
+      },
+      {
+        "value": "Blocks.LIGHT_GRAY_BED"
+      },
+      {
+        "value": "Blocks.CYAN_BED"
+      },
+      {
+        "value": "Blocks.PURPLE_BED"
+      },
+      {
+        "value": "Blocks.BLUE_BED"
+      },
+      {
+        "value": "Blocks.BROWN_BED"
+      },
+      {
+        "value": "Blocks.GREEN_BED"
+      },
+      {
+        "value": "Blocks.RED_BED"
+      },
+      {
+        "value": "Blocks.BLACK_BED"
+      },
+      {
+        "value": "Blocks.WEB"
+      },
+      {
+        "value": "Blocks.DEADBUSH"
+      },
+      {
+        "value": "Blocks.TALLGRASS"
+      },
+      {
+        "value": "Blocks.TALLGRASS#0"
+      },
+      {
+        "value": "Blocks.TALLGRASS#1"
+      },
+      {
+        "value": "Blocks.TALLGRASS#2"
+      },
+      {
+        "value": "Blocks.PISTON_HEAD"
+      },
+      {
+        "value": "Blocks.PISTON_EXTENSION"
+      },
+      {
+        "value": "Blocks.YELLOW_FLOWER"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#0"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#1"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#2"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#3"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#4"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#5"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#6"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#7"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#8"
+      },
+      {
+        "value": "Blocks.CORNFLOWER"
+      },
+      {
+        "value": "Blocks.LILY_OF_THE_VALLEY"
+      },
+      {
+        "value": "Blocks.WITHER_ROSE"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#0"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#1"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#2"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#3"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#4"
+      },
+      {
+        "value": "Blocks.DOUBLE_PLANT#5"
+      },
+      {
+        "value": "Blocks.BROWN_MUSHROOM"
+      },
+      {
+        "value": "Blocks.RED_MUSHROOM"
+      },
+      {
+        "value": "Blocks.WARPED_FUNGUS"
+      },
+      {
+        "value": "Blocks.CRIMSON_FUNGUS"
+      },
+      {
+        "value": "Blocks.BRICK_WALL"
+      },
+      {
+        "value": "Blocks.TORCH"
+      },
+      {
+        "value": "Blocks.WALL_TORCH"
+      },
+      {
+        "value": "Blocks.SOUL_TORCH"
+      },
+      {
+        "value": "Blocks.SOUL_WALL_TORCH"
+      },
+      {
+        "value": "Blocks.FIRE"
+      },
+      {
+        "value": "Blocks.SOUL_FIRE"
+      },
+      {
+        "value": "Blocks.LANTERN"
+      },
+      {
+        "value": "Blocks.SOUL_LANTERN"
+      },
+      {
+        "value": "Blocks.CHAIN"
+      },
+      {
+        "value": "Blocks.CAMPFIRE"
+      },
+      {
+        "value": "Blocks.SOUL_CAMPFIRE"
+      },
+      {
+        "value": "Blocks.CANDLE#0"
+      },
+      {
+        "value": "Blocks.CANDLE#1"
+      },
+      {
+        "value": "Blocks.CANDLE#2"
+      },
+      {
+        "value": "Blocks.CANDLE#3"
+      },
+      {
+        "value": "Blocks.CANDLE#4"
+      },
+      {
+        "value": "Blocks.CANDLE#5"
+      },
+      {
+        "value": "Blocks.CANDLE#6"
+      },
+      {
+        "value": "Blocks.CANDLE#7"
+      },
+      {
+        "value": "Blocks.CANDLE#8"
+      },
+      {
+        "value": "Blocks.CANDLE#9"
+      },
+      {
+        "value": "Blocks.CANDLE#10"
+      },
+      {
+        "value": "Blocks.CANDLE#11"
+      },
+      {
+        "value": "Blocks.CANDLE#12"
+      },
+      {
+        "value": "Blocks.CANDLE#13"
+      },
+      {
+        "value": "Blocks.CANDLE#14"
+      },
+      {
+        "value": "Blocks.CANDLE#15"
+      },
+      {
+        "value": "Blocks.CANDLE#16"
+      },
+      {
+        "value": "Blocks.LIGHT"
+      },
+      {
+        "value": "Blocks.MOB_SPAWNER"
+      },
+      {
+        "value": "Blocks.OAK_STAIRS"
+      },
+      {
+        "value": "Blocks.SPRUCE_STAIRS"
+      },
+      {
+        "value": "Blocks.BIRCH_STAIRS"
+      },
+      {
+        "value": "Blocks.JUNGLE_STAIRS"
+      },
+      {
+        "value": "Blocks.ACACIA_STAIRS"
+      },
+      {
+        "value": "Blocks.DARK_OAK_STAIRS"
+      },
+      {
+        "value": "Blocks.CRIMSON_STAIRS"
+      },
+      {
+        "value": "Blocks.WARPED_STAIRS"
+      },
+      {
+        "value": "Blocks.MANGROVE_STAIRS"
+      },
+      {
+        "value": "Blocks.STONE_STAIRS"
+      },
+      {
+        "value": "Blocks.BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.QUARTZ_STAIRS"
+      },
+      {
+        "value": "Blocks.PURPUR_STAIRS"
+      },
+      {
+        "value": "Blocks.CHEST"
+      },
+      {
+        "value": "Blocks.TRAPPED_CHEST"
+      },
+      {
+        "value": "Blocks.ENDER_CHEST"
+      },
+      {
+        "value": "Blocks.WHEAT"
+      },
+      {
+        "value": "Blocks.STANDING_SIGN"
+      },
+      {
+        "value": "Blocks.SPRUCE_SIGN"
+      },
+      {
+        "value": "Blocks.BIRCH_SIGN"
+      },
+      {
+        "value": "Blocks.ACACIA_SIGN"
+      },
+      {
+        "value": "Blocks.JUNGLE_SIGN"
+      },
+      {
+        "value": "Blocks.DARK_OAK_SIGN"
+      },
+      {
+        "value": "Blocks.CRIMSON_SIGN"
+      },
+      {
+        "value": "Blocks.WARPED_SIGN"
+      },
+      {
+        "value": "Blocks.MANGROVE_SIGN"
+      },
+      {
+        "value": "Blocks.WALL_SIGN"
+      },
+      {
+        "value": "Blocks.SPRUCE_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.BIRCH_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.ACACIA_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.JUNGLE_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.DARK_OAK_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.CRIMSON_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.WARPED_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.MANGROVE_WALL_SIGN"
+      },
+      {
+        "value": "Blocks.OAK_DOOR"
+      },
+      {
+        "value": "Blocks.SPRUCE_DOOR"
+      },
+      {
+        "value": "Blocks.BIRCH_DOOR"
+      },
+      {
+        "value": "Blocks.JUNGLE_DOOR"
+      },
+      {
+        "value": "Blocks.ACACIA_DOOR"
+      },
+      {
+        "value": "Blocks.DARK_OAK_DOOR"
+      },
+      {
+        "value": "Blocks.CRIMSON_DOOR"
+      },
+      {
+        "value": "Blocks.WARPED_DOOR"
+      },
+      {
+        "value": "Blocks.MANGROVE_DOOR"
+      },
+      {
+        "value": "Blocks.IRON_DOOR"
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": "Blocks.SPRUCE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.BIRCH_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.JUNGLE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.ACACIA_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.DARK_OAK_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.CRIMSON_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.WARPED_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.MANGROVE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.IRON_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.LADDER"
+      },
+      {
+        "value": "Blocks.LEVER"
+      },
+      {
+        "value": "Blocks.STONE_BUTTON"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.SPRUCE_BUTTON"
+      },
+      {
+        "value": "Blocks.BIRCH_BUTTON"
+      },
+      {
+        "value": "Blocks.JUNGLE_BUTTON"
+      },
+      {
+        "value": "Blocks.ACACIA_BUTTON"
+      },
+      {
+        "value": "Blocks.DARK_OAK_BUTTON"
+      },
+      {
+        "value": "Blocks.CRIMSON_BUTTON"
+      },
+      {
+        "value": "Blocks.WARPED_BUTTON"
+      },
+      {
+        "value": "Blocks.MANGROVE_BUTTON"
+      },
+      {
+        "value": "Blocks.WOODEN_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.SPRUCE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.BIRCH_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.JUNGLE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.ACACIA_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.CRIMSON_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.WARPED_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.MANGROVE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.STONE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.LIGHT_WEIGHTED_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.HEAVY_WEIGHTED_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.TRIPWIRE_HOOK"
+      },
+      {
+        "value": "Blocks.TRIPWIRE"
+      },
+      {
+        "value": "Blocks.REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_WALL_TORCH"
+      },
+      {
+        "value": "Blocks.UNLIT_REDSTONE_TORCH"
+      },
+      {
+        "value": "Blocks.REDSTONE_WIRE"
+      },
+      {
+        "value": "Blocks.UNPOWERED_REPEATER"
+      },
+      {
+        "value": "Blocks.POWERED_REPEATER"
+      },
+      {
+        "value": "Blocks.UNPOWERED_COMPARATOR"
+      },
+      {
+        "value": "Blocks.POWERED_COMPARATOR"
+      },
+      {
+        "value": "Blocks.HOPPER"
+      },
+      {
+        "value": "Blocks.LIGHTNING_ROD"
+      },
+      {
+        "value": "Blocks.SCULK_SENSOR"
+      },
+      {
+        "value": "Blocks.SCULK"
+      },
+      {
+        "value": "Blocks.SCULK_VEIN"
+      },
+      {
+        "value": "Blocks.SNOW_LAYER"
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "Blocks.POWDER_SNOW"
+      },
+      {
+        "value": "Blocks.ICE"
+      },
+      {
+        "value": "Blocks.BLUE_ICE"
+      },
+      {
+        "value": "Blocks.CACTUS"
+      },
+      {
+        "value": "Blocks.OAK_FENCE"
+      },
+      {
+        "value": "Blocks.SPRUCE_FENCE"
+      },
+      {
+        "value": "Blocks.BIRCH_FENCE"
+      },
+      {
+        "value": "Blocks.JUNGLE_FENCE"
+      },
+      {
+        "value": "Blocks.ACACIA_FENCE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_FENCE"
+      },
+      {
+        "value": "Blocks.CRIMSON_FENCE"
+      },
+      {
+        "value": "Blocks.WARPED_FENCE"
+      },
+      {
+        "value": "Blocks.MANGROVE_FENCE"
+      },
+      {
+        "value": "Blocks.OAK_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.SPRUCE_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.BIRCH_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.JUNGLE_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.ACACIA_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.CRIMSON_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.WARPED_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.MANGROVE_FENCE_GATE"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_FENCE"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.RED_NETHER_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.RED_NETHER_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.RED_NETHER_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.NETHER_WART"
+      },
+      {
+        "value": "Blocks.CAKE"
+      },
+      {
+        "value": "Blocks.STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.MOSSY_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.IRON_BARS"
+      },
+      {
+        "value": "Blocks.MELON_STEM"
+      },
+      {
+        "value": "Blocks.ATTACHED_MELON_STEM"
+      },
+      {
+        "value": "Blocks.PUMPKIN_STEM"
+      },
+      {
+        "value": "Blocks.ATTACHED_PUMPKIN_STEM"
+      },
+      {
+        "value": "Blocks.SWEET_BERRY_BUSH"
+      },
+      {
+        "value": "Blocks.VINE"
+      },
+      {
+        "value": "Blocks.GLOW_LICHEN"
+      },
+      {
+        "value": "Blocks.WATERLILY"
+      },
+      {
+        "value": "Blocks.BREWING_STAND"
+      },
+      {
+        "value": "Blocks.CAULDRON"
+      },
+      {
+        "value": "Blocks.WATER_CAULDRON"
+      },
+      {
+        "value": "Blocks.LAVA_CAULDRON"
+      },
+      {
+        "value": "Blocks.POWDER_SNOW_CAULDRON"
+      },
+      {
+        "value": "Blocks.END_PORTAL"
+      },
+      {
+        "value": "Blocks.END_GATEWAY"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.END_STONE_BRICK_WALL"
+      },
+      {
+        "value": "Blocks.END_ROD"
+      },
+      {
+        "value": "Blocks.PURPUR_SLAB"
+      },
+      {
+        "value": "Blocks.BEETROOTS"
+      },
+      {
+        "value": "Blocks.CHORUS_PLANT"
+      },
+      {
+        "value": "Blocks.CHORUS_FLOWER"
+      },
+      {
+        "value": "Blocks.DRAGON_EGG"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#0"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#1"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#2"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#3"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#4"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#5"
+      },
+      {
+        "value": "Blocks.CRIMSON_SLAB"
+      },
+      {
+        "value": "Blocks.WARPED_SLAB"
+      },
+      {
+        "value": "Blocks.MANGROVE_SLAB"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#0"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#1"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#2"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#3"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#4"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#5"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#6"
+      },
+      {
+        "value": "Blocks.STONE_SLAB#7"
+      },
+      {
+        "value": "Blocks.STONE_SLAB2"
+      },
+      {
+        "value": "Blocks.COCOA"
+      },
+      {
+        "value": "Blocks.PORTAL"
+      },
+      {
+        "value": "Blocks.ANVIL#0"
+      },
+      {
+        "value": "Blocks.ANVIL#1"
+      },
+      {
+        "value": "Blocks.ANVIL#2"
+      },
+      {
+        "value": "Blocks.BEACON"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#0"
+      },
+      {
+        "value": "Blocks.COBBLESTONE_WALL#1"
+      },
+      {
+        "value": "Blocks.FLOWER_POT"
+      },
+      {
+        "value": "Blocks.POTTED_OAK_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_SPRUCE_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_BIRCH_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_JUNGLE_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_ACACIA_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_DARK_OAK_SAPLING"
+      },
+      {
+        "value": "Blocks.POTTED_MANGROVE_PROPAGULE"
+      },
+      {
+        "value": "Blocks.POTTED_FERN"
+      },
+      {
+        "value": "Blocks.POTTED_DANDELION"
+      },
+      {
+        "value": "Blocks.POTTED_POPPY"
+      },
+      {
+        "value": "Blocks.POTTED_BLUE_ORCHID"
+      },
+      {
+        "value": "Blocks.POTTED_ALLIUM"
+      },
+      {
+        "value": "Blocks.POTTED_AZURE_BLUET"
+      },
+      {
+        "value": "Blocks.POTTED_RED_TULIP"
+      },
+      {
+        "value": "Blocks.POTTED_ORANGE_TULIP"
+      },
+      {
+        "value": "Blocks.POTTED_WHITE_TULIP"
+      },
+      {
+        "value": "Blocks.POTTED_PINK_TULIP"
+      },
+      {
+        "value": "Blocks.POTTED_OXEYE_DAISY"
+      },
+      {
+        "value": "Blocks.POTTED_CORNFLOWER"
+      },
+      {
+        "value": "Blocks.POTTED_LILY_OF_THE_VALLEY"
+      },
+      {
+        "value": "Blocks.POTTED_WITHER_ROSE"
+      },
+      {
+        "value": "Blocks.POTTED_RED_MUSHROOM"
+      },
+      {
+        "value": "Blocks.POTTED_BROWN_MUSHROOM"
+      },
+      {
+        "value": "Blocks.POTTED_DEAD_BUSH"
+      },
+      {
+        "value": "Blocks.POTTED_CACTUS"
+      },
+      {
+        "value": "Blocks.POTTED_BAMBOO"
+      },
+      {
+        "value": "Blocks.POTTED_CRIMSON_FUNGUS"
+      },
+      {
+        "value": "Blocks.POTTED_WARPED_FUNGUS"
+      },
+      {
+        "value": "Blocks.POTTED_CRIMSON_ROOTS"
+      },
+      {
+        "value": "Blocks.POTTED_WARPED_ROOTS"
+      },
+      {
+        "value": "Blocks.POTTED_AZALEA_BUSH"
+      },
+      {
+        "value": "Blocks.POTTED_FLOWERING_AZALEA_BUSH"
+      },
+      {
+        "value": "Blocks.CARROTS"
+      },
+      {
+        "value": "Blocks.POTATOES"
+      },
+      {
+        "value": "Blocks.HAY_BLOCK"
+      },
+      {
+        "value": "Blocks.SKULL#0"
+      },
+      {
+        "value": "Blocks.SKULL#1"
+      },
+      {
+        "value": "Blocks.SKULL#2"
+      },
+      {
+        "value": "Blocks.SKULL#3"
+      },
+      {
+        "value": "Blocks.SKULL#4"
+      },
+      {
+        "value": "Blocks.SKULL#5"
+      },
+      {
+        "value": "Blocks.SKELETON_WALL_SKULL"
+      },
+      {
+        "value": "Blocks.WITHER_SKELETON_WALL_SKULL"
+      },
+      {
+        "value": "Blocks.ZOMBIE_WALL_HEAD"
+      },
+      {
+        "value": "Blocks.PLAYER_WALL_HEAD"
+      },
+      {
+        "value": "Blocks.CREEPER_WALL_HEAD"
+      },
+      {
+        "value": "Blocks.DRAGON_WALL_HEAD"
+      },
+      {
+        "value": "Blocks.CARPET#0"
+      },
+      {
+        "value": "Blocks.CARPET#1"
+      },
+      {
+        "value": "Blocks.CARPET#2"
+      },
+      {
+        "value": "Blocks.CARPET#3"
+      },
+      {
+        "value": "Blocks.CARPET#4"
+      },
+      {
+        "value": "Blocks.CARPET#5"
+      },
+      {
+        "value": "Blocks.CARPET#6"
+      },
+      {
+        "value": "Blocks.CARPET#7"
+      },
+      {
+        "value": "Blocks.CARPET#8"
+      },
+      {
+        "value": "Blocks.CARPET#9"
+      },
+      {
+        "value": "Blocks.CARPET#10"
+      },
+      {
+        "value": "Blocks.CARPET#11"
+      },
+      {
+        "value": "Blocks.CARPET#12"
+      },
+      {
+        "value": "Blocks.CARPET#13"
+      },
+      {
+        "value": "Blocks.CARPET#14"
+      },
+      {
+        "value": "Blocks.CARPET#15"
+      },
+      {
+        "value": "Blocks.GLASS"
+      },
+      {
+        "value": "Blocks.TINTED_GLASS"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#0"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#1"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#2"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#3"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#4"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#5"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#6"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#7"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#8"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#9"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#10"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#11"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#12"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#13"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#14"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS#15"
+      },
+      {
+        "value": "Blocks.GLASS_PANE"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#0"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#1"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#2"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#3"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#4"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#5"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#6"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#7"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#8"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#9"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#10"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#11"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#12"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#13"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#14"
+      },
+      {
+        "value": "Blocks.STAINED_GLASS_PANE#15"
+      },
+      {
+        "value": "Blocks.PRISMARINE_STAIRS"
+      },
+      {
+        "value": "Blocks.PRISMARINE_BRICK_STAIRS"
+      },
+      {
+        "value": "Blocks.DARK_PRISMARINE_STAIRS"
+      },
+      {
+        "value": "Blocks.PRISMARINE_SLAB"
+      },
+      {
+        "value": "Blocks.PRISMARINE_BRICK_SLAB"
+      },
+      {
+        "value": "Blocks.DARK_PRISMARINE_SLAB"
+      },
+      {
+        "value": "Blocks.PRISMARINE_WALL"
+      },
+      {
+        "value": "Blocks.SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.WHITE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.ORANGE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.MAGENTA_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.YELLOW_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.LIME_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.PINK_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.GRAY_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.SILVER_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.CYAN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.PURPLE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BLUE_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BROWN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.GREEN_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.RED_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.BLACK_SHULKER_BOX"
+      },
+      {
+        "value": "Blocks.STANDING_BANNER"
+      },
+      {
+        "value": "Blocks.WHITE_BANNER"
+      },
+      {
+        "value": "Blocks.ORANGE_BANNER"
+      },
+      {
+        "value": "Blocks.MAGENTA_BANNER"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_BANNER"
+      },
+      {
+        "value": "Blocks.YELLOW_BANNER"
+      },
+      {
+        "value": "Blocks.LIME_BANNER"
+      },
+      {
+        "value": "Blocks.PINK_BANNER"
+      },
+      {
+        "value": "Blocks.GRAY_BANNER"
+      },
+      {
+        "value": "Blocks.LIGHT_GRAY_BANNER"
+      },
+      {
+        "value": "Blocks.CYAN_BANNER"
+      },
+      {
+        "value": "Blocks.PURPLE_BANNER"
+      },
+      {
+        "value": "Blocks.BLUE_BANNER"
+      },
+      {
+        "value": "Blocks.BROWN_BANNER"
+      },
+      {
+        "value": "Blocks.GREEN_BANNER"
+      },
+      {
+        "value": "Blocks.RED_BANNER"
+      },
+      {
+        "value": "Blocks.BLACK_BANNER"
+      },
+      {
+        "value": "Blocks.WALL_BANNER"
+      },
+      {
+        "value": "Blocks.WHITE_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.ORANGE_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.MAGENTA_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.LIGHT_BLUE_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.YELLOW_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.LIME_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.PINK_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.GRAY_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.LIGHT_GRAY_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.CYAN_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.PURPLE_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.BLUE_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.BROWN_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.GREEN_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.RED_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.BLACK_WALL_BANNER"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.STRUCTURE_VOID"
+      },
+      {
+        "value": "Blocks.KELP"
+      },
+      {
+        "value": "Blocks.KELP_PLANT"
+      },
+      {
+        "value": "Blocks.SEAGRASS"
+      },
+      {
+        "value": "Blocks.TALL_SEAGRASS"
+      },
+      {
+        "value": "Blocks.SEA_PICKLE"
+      },
+      {
+        "value": "Blocks.TURTLE_EGG"
+      },
+      {
+        "value": "Blocks.BAMBOO_SAPLING"
+      },
+      {
+        "value": "Blocks.BAMBOO"
+      },
+      {
+        "value": "Blocks.DEAD_TUBE_CORAL"
+      },
+      {
+        "value": "Blocks.DEAD_BRAIN_CORAL"
+      },
+      {
+        "value": "Blocks.DEAD_BUBBLE_CORAL"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL"
+      },
+      {
+        "value": "Blocks.DEAD_HORN_CORAL"
+      },
+      {
+        "value": "Blocks.TUBE_CORAL"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL"
+      },
+      {
+        "value": "Blocks.BUBBLE_CORAL"
+      },
+      {
+        "value": "Blocks.FIRE_CORAL"
+      },
+      {
+        "value": "Blocks.HORN_CORAL"
+      },
+      {
+        "value": "Blocks.DEAD_TUBE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_BRAIN_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_BUBBLE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_HORN_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.TUBE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.BUBBLE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.FIRE_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.HORN_CORAL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_TUBE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_BRAIN_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_BUBBLE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.DEAD_HORN_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.TUBE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.BRAIN_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.BUBBLE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.FIRE_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.HORN_CORAL_WALL_FAN"
+      },
+      {
+        "value": "Blocks.DRIED_KELP_BLOCK"
+      },
+      {
+        "value": "Blocks.CONDUIT"
+      },
+      {
+        "value": "Blocks.SCAFFOLDING"
+      },
+      {
+        "value": "Blocks.BELL"
+      },
+      {
+        "value": "Blocks.GRINDSTONE"
+      },
+      {
+        "value": "Blocks.LECTERN"
+      },
+      {
+        "value": "Blocks.COMPOSTER"
+      },
+      {
+        "value": "Blocks.WARPED_ROOTS"
+      },
+      {
+        "value": "Blocks.NETHER_SPROUTS"
+      },
+      {
+        "value": "Blocks.WEEPING_VINES"
+      },
+      {
+        "value": "Blocks.WEEPING_VINES_PLANT"
+      },
+      {
+        "value": "Blocks.TWISTING_VINES"
+      },
+      {
+        "value": "Blocks.TWISTING_VINES_PLANT"
+      },
+      {
+        "value": "Blocks.CRIMSON_ROOTS"
+      },
+      {
+        "value": "Blocks.CAVE_VINES"
+      },
+      {
+        "value": "Blocks.CAVE_VINES_PLANT"
+      },
+      {
+        "value": "Blocks.SPORE_BLOSSOM"
+      },
+      {
+        "value": "Blocks.AZALEA"
+      },
+      {
+        "value": "Blocks.FLOWERING_AZALEA"
+      },
+      {
+        "value": "Blocks.BIG_DRIPLEAF"
+      },
+      {
+        "value": "Blocks.BIG_DRIPLEAF_STEM"
+      },
+      {
+        "value": "Blocks.SMALL_DRIPLEAF"
+      },
+      {
+        "value": "Blocks.HANGING_ROOTS"
+      },
+      {
+        "value": "Blocks.FROGSPAWN"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#0"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#1"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#2"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#3"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#4"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#5"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#6"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#7"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#8"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#9"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#10"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#11"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#12"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#13"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#14"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#15"
+      },
+      {
+        "value": "Blocks.CANDLE_CAKE#16"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "overgrown_placable",
+    "namespace": "mod"
+  }
+}

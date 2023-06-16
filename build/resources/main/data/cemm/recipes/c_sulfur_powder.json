@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:sulfur_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:sulfur_powder",
+    "count": 2
+  }
+}

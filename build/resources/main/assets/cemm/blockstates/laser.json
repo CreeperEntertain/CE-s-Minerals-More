@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/laser"
+    },
+    "facing=east": {
+      "model": "cemm:block/laser",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/laser",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/laser",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/laser",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/laser",
+      "x": 90
+    }
+  }
+}

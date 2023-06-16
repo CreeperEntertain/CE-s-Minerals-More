@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Chronoglass"
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:Chronoglass"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:DimensionalPocketInactive"
+      },
+      {
+        "value": "CUSTOM:Omenbone"
+      },
+      {
+        "value": "CUSTOM:Chronoglass"
+      },
+      {
+        "value": "CUSTOM:Primedust"
+      },
+      {
+        "value": "CUSTOM:Chronoglass"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DimensionalPocket"
+    },
+    "name": "c_active_pocket_dimension",
+    "namespace": "mod"
+  }
+}

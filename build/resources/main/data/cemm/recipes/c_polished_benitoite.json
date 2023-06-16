@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:benitoite"
+    },
+    "1": {
+      "item": "cemm:benitoite"
+    },
+    "2": {
+      "item": "cemm:benitoite"
+    },
+    "3": {
+      "item": "cemm:benitoite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_benitoite",
+    "count": 4
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:pietersite"
+    },
+    "1": {
+      "item": "cemm:pietersite"
+    },
+    "2": {
+      "item": "cemm:pietersite"
+    },
+    "3": {
+      "item": "cemm:pietersite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_pietersite",
+    "count": 4
+  }
+}

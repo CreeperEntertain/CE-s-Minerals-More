@@ -1,0 +1,12 @@
+{
+  "type": "cemm:chalk_calcite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:chalk"
+    },
+    "state": {
+      "Name": "minecraft:calcite"
+    },
+    "radius": 4
+  }
+}

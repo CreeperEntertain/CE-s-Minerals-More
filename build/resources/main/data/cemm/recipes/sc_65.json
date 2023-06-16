@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:graphite_block"
+  },
+  "result": "cemm:graphite_stairs"
+}

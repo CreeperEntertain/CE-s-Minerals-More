@@ -1,0 +1,126 @@
+{
+  "_fv": 43,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebony_generator",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 30000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 4,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": "CUSTOM:Jaspilite"
+      },
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:RedShale"
+      },
+      {
+        "value": "CUSTOM:Orpiment"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspilite"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "ProceduralEbonyTrunk"
+    }
+  }
+}

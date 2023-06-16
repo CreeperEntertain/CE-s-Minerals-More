@@ -1,0 +1,48 @@
+{
+  "_fv": 43,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      },
+      {
+        "value": "CUSTOM:EuropiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EuropiumBlock"
+    },
+    "name": "c_europium_block",
+    "namespace": "mod"
+  }
+}

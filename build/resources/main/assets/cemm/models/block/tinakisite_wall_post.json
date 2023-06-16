@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/tinakisite",
+    "particle": "cemm:block/tinakisite"
+  },
+  "render_type": "solid"
+}

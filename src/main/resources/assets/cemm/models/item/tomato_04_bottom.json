@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/tomato_seeds"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "plains",
+    "flower_forest",
+    "meadow"
+  ],
+  "features": "cemm:grape_generator",
+  "step": "surface_structures"
+}

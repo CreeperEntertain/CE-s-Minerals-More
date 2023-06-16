@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/chlorostalk"
+  },
+  "render_type": "translucent"
+}

@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chalk_mountains",
+    "cemm:chalk_steppes",
+    "cemm:claystone_mountains",
+    "cemm:shungite_mines",
+    "cemm:hornfels_overhangs",
+    "cemm:lignite_flats",
+    "cemm:bauxite_steppes",
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "cemm:limestone_steppes",
+    "cemm:blueschist_formations",
+    "cemm:gypsum_cave",
+    "cemm:marble_cave",
+    "cemm:jasper_cave",
+    "cemm:bismuth_cave",
+    "cemm:quartz_cave",
+    "cemm:sulfur_cave",
+    "cemm:diorite_cave",
+    "cemm:andesite_cave",
+    "cemm:granite_cave",
+    "cemm:niter_cave",
+    "cemm:chlorophyl",
+    "cemm:red_wastes"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_ocean",
+    "frozen_river",
+    "cold_ocean",
+    "deep_frozen_ocean"
+  ],
+  "features": "cemm:aerinite",
+  "step": "underground_ores"
+}

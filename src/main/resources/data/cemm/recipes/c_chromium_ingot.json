@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chromium_crystal"
+    },
+    "1": {
+      "item": "cemm:chromium_crystal"
+    },
+    "2": {
+      "item": "cemm:chromium_crystal"
+    },
+    "3": {
+      "item": "cemm:chromium_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:chromium_ingot",
+    "count": 1
+  }
+}

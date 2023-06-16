@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/hyaloclastite",
+    "top": "cemm:block/hyaloclastite",
+    "side": "cemm:block/hyaloclastite"
+  },
+  "render_type": "solid"
+}

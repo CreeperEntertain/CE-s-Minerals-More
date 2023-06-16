@@ -1,0 +1,33 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chlorograss_block_stone",
+    "minecraft:rooted_dirt",
+    "cemm:overgrown_rocky_stone",
+    "minecraft:grass_block",
+    "cemm:dirty_cobblestone",
+    "cemm:overgrown_cobblestone",
+    "minecraft:coarse_dirt",
+    "cemm:firegrass_block_tuff",
+    "cemm:firegrass_block_diorite",
+    "cemm:overgrown_stone",
+    "cemm:firegrass_block_andesite",
+    "cemm:firegrass_block_stone",
+    "cemm:overgrown_mossy_cobblestone",
+    "minecraft:dirt",
+    "minecraft:podzol",
+    "cemm:chlorograss_block_moss",
+    "cemm:firegrass_block_dirt",
+    "cemm:firegrass_block_moss",
+    "cemm:chlorograss_block_granite",
+    "cemm:peat",
+    "cemm:chlorograss_block_dirt",
+    "cemm:chlorograss_block_tuff",
+    "cemm:chlorograss_block_dripstone",
+    "cemm:firegrass_block_dripstone",
+    "cemm:overgrown_dirty_cobblestone",
+    "cemm:chlorograss_block_diorite",
+    "cemm:chlorograss_block_andesite",
+    "cemm:firegrass_block_granite"
+  ]
+}
