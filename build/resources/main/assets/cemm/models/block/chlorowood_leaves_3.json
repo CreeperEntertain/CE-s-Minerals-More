@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chlorowood_leaves",
+    "particle": "cemm:block/chlorowood_leaves"
+  },
+  "render_type": "cutout_mipped"
+}

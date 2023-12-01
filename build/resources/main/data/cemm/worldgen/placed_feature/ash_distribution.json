@@ -1,0 +1,12 @@
+{
+  "feature": "cemm:ash_distribution",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 40
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

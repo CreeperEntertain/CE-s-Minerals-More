@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:meteorite",
+    "cemm:anorthite",
+    "cemm:phyllite",
+    "minecraft:blackstone",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:smooth_basalt",
+    "cemm:obsiaster",
+    "cemm:crysing_obsiaster"
+  ]
+}

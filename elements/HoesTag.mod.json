@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MiseryHoe"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteHoe"
+      },
+      {
+        "value": "CUSTOM:Nighthoe"
+      },
+      {
+        "value": "CUSTOM:SteelHoe"
+      },
+      {
+        "value": "CUSTOM:ChlorophylHoe"
+      },
+      {
+        "value": "CUSTOM:TitaniumHoe"
+      },
+      {
+        "value": "Items.WOODEN_HOE"
+      },
+      {
+        "value": "Items.STONE_HOE"
+      },
+      {
+        "value": "Items.IRON_HOE"
+      },
+      {
+        "value": "Items.GOLDEN_HOE"
+      },
+      {
+        "value": "Items.DIAMOND_HOE"
+      },
+      {
+        "value": "Items.NETHERITE_HOE"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "hoes",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:masuyite"
+    },
+    "1": {
+      "item": "cemm:masuyite"
+    },
+    "2": {
+      "item": "cemm:masuyite"
+    },
+    "3": {
+      "item": "cemm:masuyite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_masuyite",
+    "count": 4
+  }
+}

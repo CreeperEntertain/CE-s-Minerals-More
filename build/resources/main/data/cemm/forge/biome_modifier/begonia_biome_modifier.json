@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:acid_ocean",
+    "cemm:bordeaux_boscage"
+  ],
+  "features": "cemm:begonia",
+  "step": "vegetal_decoration"
+}

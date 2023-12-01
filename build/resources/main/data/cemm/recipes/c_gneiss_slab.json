@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gneiss"
+    },
+    "1": {
+      "item": "cemm:gneiss"
+    },
+    "2": {
+      "item": "cemm:gneiss"
+    }
+  },
+  "result": {
+    "item": "cemm:gneiss_slab",
+    "count": 6
+  }
+}

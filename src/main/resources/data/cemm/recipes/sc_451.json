@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:marble"
+  },
+  "result": "cemm:polished_marble_stairs"
+}

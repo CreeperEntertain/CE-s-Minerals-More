@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:titanium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:titanium_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:diorite"
+    },
+    "1": {
+      "item": "cemm:mountain_quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:granite",
+    "count": 1
+  }
+}

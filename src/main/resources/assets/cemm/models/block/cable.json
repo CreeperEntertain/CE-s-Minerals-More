@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/cable",
+  "textures": {
+    "all": "cemm:block/cable_break",
+    "particle": "cemm:block/cable_break",
+    "Main": "cemm:block/cable"
+  },
+  "render_type": "solid"
+}

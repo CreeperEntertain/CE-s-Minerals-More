@@ -1,0 +1,42 @@
+{
+  "type": "cemm:white_granite",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:anorthite"
+          }
+        },
+        "state": {
+          "Name": "cemm:white_granite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:quartzite"
+          }
+        },
+        "state": {
+          "Name": "cemm:white_granite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:bordeaux_quartzite"
+          }
+        },
+        "state": {
+          "Name": "cemm:white_granite"
+        }
+      }
+    ]
+  }
+}

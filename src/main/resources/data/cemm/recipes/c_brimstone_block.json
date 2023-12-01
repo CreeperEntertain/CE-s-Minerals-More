@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:brimstone"
+    },
+    "1": {
+      "item": "cemm:brimstone"
+    },
+    "2": {
+      "item": "cemm:brimstone"
+    },
+    "3": {
+      "item": "cemm:brimstone"
+    },
+    "4": {
+      "item": "cemm:brimstone"
+    },
+    "5": {
+      "item": "cemm:brimstone"
+    },
+    "6": {
+      "item": "cemm:brimstone"
+    },
+    "7": {
+      "item": "cemm:brimstone"
+    },
+    "8": {
+      "item": "cemm:brimstone"
+    }
+  },
+  "result": {
+    "item": "cemm:brimstone_block",
+    "count": 1
+  }
+}

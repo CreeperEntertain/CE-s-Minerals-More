@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:granite_cave",
+  "features": "cemm:granite_cave_granite_feature",
+  "step": "underground_decoration"
+}

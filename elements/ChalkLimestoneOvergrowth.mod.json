@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "CUSTOM:GrassedChalk"
+      },
+      {
+        "value": "CUSTOM:GrassedLimestone"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "chalk_limestone_overgrowth",
+    "namespace": "mod"
+  }
+}

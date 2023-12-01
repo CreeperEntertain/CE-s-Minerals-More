@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:andesite_cave",
+    "cemm:marble_cave",
+    "cemm:gypsum_cave",
+    "cemm:jasper_cave",
+    "dripstone_caves",
+    "cemm:granite_cave",
+    "lush_caves",
+    "cemm:diorite_cave"
+  ],
+  "features": "cemm:lepidocrocite",
+  "step": "underground_ores"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/mountain_quartz_block_bottom",
+    "top": "cemm:block/mountain_quartz_block_bottom",
+    "side": "cemm:block/mountain_quartz_block_bottom"
+  },
+  "render_type": "solid"
+}

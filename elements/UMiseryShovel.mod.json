@@ -1,0 +1,25 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "Items.NETHERITE_SHOVEL"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:XanthaniumIngot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:MiseryShovel"
+    },
+    "name": "u_misery_shovel",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "cemm:bismuth_cave_aegirine_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:aegirine",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

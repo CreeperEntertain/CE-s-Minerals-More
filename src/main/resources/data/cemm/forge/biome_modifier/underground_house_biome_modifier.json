@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "old_growth_birch_forest",
+    "forest",
+    "dark_forest",
+    "birch_forest",
+    "flower_forest"
+  ],
+  "features": "cemm:underground_house",
+  "step": "surface_structures"
+}

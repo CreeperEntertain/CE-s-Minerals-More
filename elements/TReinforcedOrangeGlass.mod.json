@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_orange_glass",
+    "namespace": "mod"
+  }
+}

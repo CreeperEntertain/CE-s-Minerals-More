@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cobalt_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:cobalt_coin",
+    "count": 1
+  }
+}

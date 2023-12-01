@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Lignite"
+      },
+      {
+        "value": "CUSTOM:Lignite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Lignite"
+      },
+      {
+        "value": "CUSTOM:Lignite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Items.COAL#0"
+    },
+    "name": "c_coal_2",
+    "namespace": "mod"
+  }
+}

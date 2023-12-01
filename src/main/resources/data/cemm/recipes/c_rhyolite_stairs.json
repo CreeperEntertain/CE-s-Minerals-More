@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rhyolite"
+    },
+    "3": {
+      "item": "cemm:rhyolite"
+    },
+    "4": {
+      "item": "cemm:rhyolite"
+    },
+    "6": {
+      "item": "cemm:rhyolite"
+    },
+    "7": {
+      "item": "cemm:rhyolite"
+    },
+    "8": {
+      "item": "cemm:rhyolite"
+    }
+  },
+  "result": {
+    "item": "cemm:rhyolite_stairs",
+    "count": 4
+  }
+}

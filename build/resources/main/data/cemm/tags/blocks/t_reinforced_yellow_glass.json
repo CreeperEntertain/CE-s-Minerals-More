@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:reinforced_yellow_stained_glass_top",
+    "cemm:reinforced_yellow_stained_glass_bottom",
+    "cemm:reinforced_yellow_stained_glass",
+    "cemm:reinforced_yellow_stained_glass_middle"
+  ]
+}

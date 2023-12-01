@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/thermalpipes",
+  "textures": {
+    "all": "cemm:block/aluminum_scaffolding",
+    "particle": "cemm:block/aluminum_scaffolding",
+    "Top": "cemm:block/thermal_pipes_outer_top",
+    "Outer": "cemm:block/aluminum_scaffolding",
+    "Inner": "cemm:block/thermal_pipes_inner"
+  },
+  "render_type": "cutout_mipped"
+}

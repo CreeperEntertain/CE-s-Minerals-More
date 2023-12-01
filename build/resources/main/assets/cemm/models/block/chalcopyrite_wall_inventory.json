@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/chalcopyrite",
+    "particle": "cemm:block/chalcopyrite"
+  },
+  "render_type": "solid"
+}

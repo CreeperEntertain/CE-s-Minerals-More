@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "sparse_jungle",
+    "plains",
+    "jungle"
+  ],
+  "features": "cemm:deepslate_bastnaesite_deposit",
+  "step": "underground_ores"
+}

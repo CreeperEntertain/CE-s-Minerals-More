@@ -1,0 +1,452 @@
+{
+  "type": "cemm:meta_carbonite",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_moss"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_dripstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_moss"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dripstone_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:cobblestone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:mossy_cobblestone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:ilmenite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:monzonite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:white_granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:pyroxene"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:soapstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:magnetite_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:anorthite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:oligoclase"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:sanidine"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:microcline"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:quartzite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:phyllite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:diopsite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:mylonite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:serandite"
+          }
+        },
+        "state": {
+          "Name": "cemm:meta_carbonite"
+        }
+      }
+    ]
+  }
+}

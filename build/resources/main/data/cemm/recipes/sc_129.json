@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:lepidocrocite"
+  },
+  "result": "cemm:lepidocrocite_slab"
+}

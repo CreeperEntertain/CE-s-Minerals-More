@@ -1,0 +1,18 @@
+{
+  "type": "cemm:acid_ocean_soapstone_underground_placement",
+  "config": {
+    "target": {
+      "Name": "cemm:anorthite"
+    },
+    "state": {
+      "Name": "cemm:soapstone"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 6,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

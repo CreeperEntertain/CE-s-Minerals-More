@@ -1,0 +1,27 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:peat",
+    "cemm:dirty_cobblestone",
+    "cemm:ash",
+    "cemm:soul_gold_ore",
+    "cemm:soul_iron_ore",
+    "cemm:soul_quartz_ore",
+    "cemm:overgrown_dirt",
+    "cemm:overgrown_coarse_dirt",
+    "cemm:overgrown_rooted_dirt",
+    "cemm:overgrown_peat",
+    "cemm:overgrown_mud",
+    "cemm:overgrown_clay",
+    "cemm:overgrown_dirty_cobblestone",
+    "cemm:monazite_sand",
+    "cemm:zircon_sand",
+    "cemm:arsenic_deposit",
+    "cemm:raked_sand",
+    "cemm:raked_red_sand",
+    "cemm:raked_gravel",
+    "cemm:chlorograss_block_dirt",
+    "cemm:firegrass_block_dirt",
+    "cemm:magnetite_sand"
+  ]
+}

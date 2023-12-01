@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ChlorophylArmor.helmet"
+    },
+    "name": "c_chlorophyl_helmet",
+    "namespace": "mod"
+  }
+}

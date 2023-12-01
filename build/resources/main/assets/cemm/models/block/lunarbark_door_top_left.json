@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_top_left",
+  "textures": {
+    "bottom": "cemm:block/lunarbark_door_bottom",
+    "top": "cemm:block/lunarbark_door_top"
+  },
+  "render_type": "solid"
+}

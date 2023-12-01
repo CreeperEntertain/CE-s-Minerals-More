@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LunarbarkStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LunarbarkStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nightpickaxe"
+    },
+    "name": "c_nightpickaxe",
+    "namespace": "mod"
+  }
+}

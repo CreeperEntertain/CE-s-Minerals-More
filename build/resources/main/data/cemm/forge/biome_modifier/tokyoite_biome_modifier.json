@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:jasper_cave",
+  "features": "cemm:tokyoite",
+  "step": "underground_ores"
+}

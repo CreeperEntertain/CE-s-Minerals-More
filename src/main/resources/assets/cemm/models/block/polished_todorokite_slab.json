@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_todorokite_top",
+    "top": "cemm:block/polished_todorokite_top",
+    "side": "cemm:block/polished_todorokite"
+  },
+  "render_type": "solid"
+}

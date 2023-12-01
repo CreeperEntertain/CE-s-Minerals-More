@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:chlorophyl_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.plant_wars.title"
+    },
+    "description": {
+      "translate": "advancements.plant_wars.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "plant_wars": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:lively_stock"
+}

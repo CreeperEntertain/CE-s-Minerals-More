@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "3": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "5": {
+      "item": "minecraft:stripped_birch_log"
+    },
+    "7": {
+      "item": "minecraft:stripped_birch_log"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_stripped_birch",
+    "count": 3
+  }
+}

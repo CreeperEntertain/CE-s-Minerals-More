@@ -1,0 +1,288 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:FirefruitShrub"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:Fluorescence"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.GRASS"
+      },
+      {
+        "value": "Blocks.GRASS_PATH"
+      },
+      {
+        "value": "Blocks.MYCELIUM"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "CUSTOM:GrassedChalk"
+      },
+      {
+        "value": "CUSTOM:GrassedLimestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownTuff"
+      },
+      {
+        "value": "CUSTOM:OvergrownDeepslate"
+      },
+      {
+        "value": "CUSTOM:OvergrownCobbledDeepslate"
+      },
+      {
+        "value": "CUSTOM:OvergrownPeat"
+      },
+      {
+        "value": "CUSTOM:OvergrownMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownCalcite"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownRootedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownCoarseDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownChalk"
+      },
+      {
+        "value": "CUSTOM:OvergrownBasalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownLimestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownPackedMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownObsidian"
+      },
+      {
+        "value": "CUSTOM:OvergrownCryingObsidian"
+      },
+      {
+        "value": "CUSTOM:OvergrownBlackstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownSandstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRedSandstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownClay"
+      },
+      {
+        "value": "CUSTOM:OvergrownTubeCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownBrainCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownBubbleCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownFireCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownHornCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownSmoothBasalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSlate"
+      },
+      {
+        "value": "CUSTOM:OvergrownGneiss"
+      },
+      {
+        "value": "CUSTOM:OvergrownDeepstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDripstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRhyolite"
+      },
+      {
+        "value": "CUSTOM:OvergrownGabbro"
+      },
+      {
+        "value": "CUSTOM:OvergrownPumice"
+      },
+      {
+        "value": "CUSTOM:OvergrownSiltstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownMudstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownSeaSalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownHardenedSand"
+      },
+      {
+        "value": "CUSTOM:OvergrownToughSand"
+      },
+      {
+        "value": "CUSTOM:OvergrownAndesite"
+      },
+      {
+        "value": "CUSTOM:OvergrownDiorite"
+      },
+      {
+        "value": "CUSTOM:OvergrownGranite"
+      },
+      {
+        "value": "CUSTOM:RedSalt"
+      },
+      {
+        "value": "CUSTOM:SaltBlockSea"
+      },
+      {
+        "value": "CUSTOM:SaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockWhite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      },
+      {
+        "value": "CUSTOM:RedSaltSea"
+      },
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingPhyllite"
+      },
+      {
+        "value": "CUSTOM:VibratingWhiteGranite"
+      },
+      {
+        "value": "CUSTOM:VibratingSoapstone"
+      },
+      {
+        "value": "CUSTOM:VibratingSerandite"
+      },
+      {
+        "value": "CUSTOM:VibratingSanidine"
+      },
+      {
+        "value": "CUSTOM:VibratingRedSalt"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingOligoclase"
+      },
+      {
+        "value": "CUSTOM:VibratingMylonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMonzonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMicrocline"
+      },
+      {
+        "value": "CUSTOM:VibratingAnorthite"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "animals_spawnable_on",
+    "namespace": "minecraft"
+  }
+}

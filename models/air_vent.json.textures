@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "rim": "aluminum_beam_connector",
+        "missing": "aluminum",
+        "base": "aluminum"
+      },
+      "name": "default"
+    }
+  }
+}

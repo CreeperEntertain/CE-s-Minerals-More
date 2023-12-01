@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_block"
+    },
+    "1": {
+      "item": "minecraft:iron_block"
+    },
+    "2": {
+      "item": "minecraft:iron_block"
+    },
+    "3": {
+      "item": "cemm:meteorite_brick"
+    },
+    "4": {
+      "item": "cemm:chlorophyl_paste"
+    },
+    "5": {
+      "item": "cemm:meteorite_brick"
+    },
+    "6": {
+      "item": "cemm:meteorite_brick"
+    },
+    "7": {
+      "item": "cemm:meteorite_brick"
+    },
+    "8": {
+      "item": "cemm:meteorite_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:cosmic_telephone",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aluminum_frame"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_scaffolding",
+    "count": 1
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MiseryShovel"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteShovel"
+      },
+      {
+        "value": "CUSTOM:Nightshovel"
+      },
+      {
+        "value": "CUSTOM:SteelShovel"
+      },
+      {
+        "value": "CUSTOM:ChlorophylShovel"
+      },
+      {
+        "value": "CUSTOM:TitaniumShovel"
+      },
+      {
+        "value": "Items.WOODEN_SHOVEL"
+      },
+      {
+        "value": "Items.STONE_SHOVEL"
+      },
+      {
+        "value": "Items.IRON_SHOVEL"
+      },
+      {
+        "value": "Items.GOLDEN_SHOVEL"
+      },
+      {
+        "value": "Items.DIAMOND_SHOVEL"
+      },
+      {
+        "value": "Items.NETHERITE_SHOVEL"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "shovels",
+    "namespace": "minecraft"
+  }
+}

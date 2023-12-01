@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MudstoneWall"
+    },
+    "name": "c_mudstone_wall",
+    "namespace": "mod"
+  }
+}

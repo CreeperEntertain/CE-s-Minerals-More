@@ -1,0 +1,148 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "nyline_fungus",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "nyline_fungus",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "HASTE",
+    "suspiciousStewDuration": 1800,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Nyline Fungus",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 7,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "FUNGUS"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      },
+      {
+        "value": "CUSTOM:Nyline"
+      },
+      {
+        "value": "CUSTOM:PolymorousOre"
+      },
+      {
+        "value": "CUSTOM:ChronocrystalBlock"
+      },
+      {
+        "value": "CUSTOM:BuddingChronocrystal"
+      },
+      {
+        "value": "CUSTOM:LunarbarkStem"
+      },
+      {
+        "value": "CUSTOM:StrippedLunarbarkStem"
+      },
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      },
+      {
+        "value": "CUSTOM:MiseryStone"
+      },
+      {
+        "value": "CUSTOM:XanthaniumBlock"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves1"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves2"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves3"
+      },
+      {
+        "value": "CUSTOM:LunarbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves4"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves5"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves6"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves7"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [
+      "CUSTOM:TheVoid"
+    ],
+    "restrictionBiomes": [],
+    "generationType": "Flower",
+    "patchSize": 2,
+    "generateAtAnyHeight": true
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "cemm:bauxite_steppes_jaspilite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:bauxite_block"
+    },
+    "state": {
+      "Name": "cemm:jaspilite",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    }
+  }
+}

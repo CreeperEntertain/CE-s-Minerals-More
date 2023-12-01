@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:deepslate_chlorophyl_ore",
+  "step": "underground_ores"
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warped_forest",
+    "old_growth_birch_forest",
+    "forest",
+    "dark_forest",
+    "birch_forest",
+    "crimson_forest",
+    "flower_forest",
+    "windswept_forest"
+  ],
+  "features": "cemm:coarse_dirt_feature",
+  "step": "surface_structures"
+}

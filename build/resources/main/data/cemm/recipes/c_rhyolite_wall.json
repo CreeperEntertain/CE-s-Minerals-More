@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rhyolite"
+    },
+    "1": {
+      "item": "cemm:rhyolite"
+    },
+    "2": {
+      "item": "cemm:rhyolite"
+    },
+    "3": {
+      "item": "cemm:rhyolite"
+    },
+    "4": {
+      "item": "cemm:rhyolite"
+    },
+    "5": {
+      "item": "cemm:rhyolite"
+    }
+  },
+  "result": {
+    "item": "cemm:rhyolite_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tailored_stone"
+    },
+    "1": {
+      "item": "cemm:copper_wire"
+    },
+    "2": {
+      "item": "cemm:tailored_stone"
+    },
+    "3": {
+      "item": "cemm:copper_wire"
+    },
+    "4": {
+      "item": "minecraft:blast_furnace"
+    },
+    "5": {
+      "item": "cemm:copper_wire"
+    },
+    "6": {
+      "item": "cemm:tailored_stone"
+    },
+    "7": {
+      "item": "cemm:copper_wire"
+    },
+    "8": {
+      "item": "cemm:tailored_stone"
+    }
+  },
+  "result": {
+    "item": "cemm:coal_generator",
+    "count": 1
+  }
+}

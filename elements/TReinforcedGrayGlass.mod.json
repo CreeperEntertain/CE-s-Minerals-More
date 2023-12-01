@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_gray_glass",
+    "namespace": "mod"
+  }
+}

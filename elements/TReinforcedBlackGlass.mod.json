@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlas"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_black_glass",
+    "namespace": "mod"
+  }
+}

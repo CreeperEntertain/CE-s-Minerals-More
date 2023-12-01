@@ -1,0 +1,177 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      },
+      {
+        "value": "CUSTOM:Anorthite"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.DEEPSLATE"
+      },
+      {
+        "value": "CUSTOM:Deepstone"
+      },
+      {
+        "value": "CUSTOM:Slate"
+      },
+      {
+        "value": "CUSTOM:RedShale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Aegirine"
+      },
+      {
+        "value": "CUSTOM:Inyoite"
+      },
+      {
+        "value": "CUSTOM:Kanoite"
+      },
+      {
+        "value": "CUSTOM:Lithiophilite"
+      },
+      {
+        "value": "CUSTOM:Tokyoite"
+      },
+      {
+        "value": "CUSTOM:Tinakisite"
+      },
+      {
+        "value": "CUSTOM:Limestone"
+      },
+      {
+        "value": "CUSTOM:Komatiite"
+      },
+      {
+        "value": "CUSTOM:Latite"
+      },
+      {
+        "value": "CUSTOM:Trondhjemite"
+      },
+      {
+        "value": "CUSTOM:Argilite"
+      },
+      {
+        "value": "CUSTOM:Breccia"
+      },
+      {
+        "value": "CUSTOM:Chalk"
+      },
+      {
+        "value": "CUSTOM:Claystone"
+      },
+      {
+        "value": "CUSTOM:Blueschist"
+      },
+      {
+        "value": "CUSTOM:Hornfels"
+      },
+      {
+        "value": "CUSTOM:Marble"
+      },
+      {
+        "value": "CUSTOM:RockyStone"
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": "CUSTOM:Gabbro"
+      },
+      {
+        "value": "CUSTOM:Pumice"
+      },
+      {
+        "value": "CUSTOM:Siltstone"
+      },
+      {
+        "value": "CUSTOM:Mudstone"
+      },
+      {
+        "value": "CUSTOM:ToughSand"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      },
+      {
+        "value": "Blocks.STONE#5"
+      },
+      {
+        "value": "Blocks.TUFF"
+      },
+      {
+        "value": "Blocks.CALCITE"
+      },
+      {
+        "value": "Blocks.DRIPSTONE_BLOCK"
+      },
+      {
+        "value": "Blocks.MOSSY_COBBLESTONE"
+      },
+      {
+        "value": "Blocks.PRISMARINE#0"
+      },
+      {
+        "value": "Blocks.DEAD_TUBE_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_BRAIN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_BUBBLE_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_FIRE_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.DEAD_HORN_CORAL_BLOCK"
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "Blocks.SMOOTH_BASALT"
+      },
+      {
+        "value": "CUSTOM:Jaspilite"
+      },
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:Orpiment"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspilite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "stone_crafting_materials",
+    "namespace": "minecraft"
+  }
+}

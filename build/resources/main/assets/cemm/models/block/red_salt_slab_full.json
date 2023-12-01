@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/red_salt",
+    "top": "cemm:block/red_salt",
+    "side": "cemm:block/red_salt"
+  },
+  "render_type": "solid"
+}

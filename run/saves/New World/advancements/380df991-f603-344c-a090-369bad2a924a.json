@@ -1,0 +1,45 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-09 22:41:01 +0100"
+    },
+    "done": true
+  },
+  "cemm:welcome_to_the_game": {
+    "criteria": {
+      "welcome_to_the_game": "2023-11-09 22:41:01 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-11-09 22:41:02 +0100"
+    },
+    "done": false
+  },
+  "cemm:pulsating_rock": {
+    "criteria": {
+      "pulsating_rock": "2023-11-09 22:41:07 +0100"
+    },
+    "done": true
+  },
+  "cemm:time": {
+    "criteria": {
+      "time": "2023-11-09 22:41:08 +0100"
+    },
+    "done": true
+  },
+  "cemm:framework": {
+    "criteria": {
+      "framework": "2023-11-09 22:41:18 +0100"
+    },
+    "done": true
+  },
+  "cemm:lullaby": {
+    "criteria": {
+      "lullaby": "2023-11-09 22:41:20 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

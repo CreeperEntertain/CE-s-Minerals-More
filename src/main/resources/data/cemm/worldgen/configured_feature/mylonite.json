@@ -1,0 +1,42 @@
+{
+  "type": "cemm:mylonite",
+  "config": {
+    "size": 23,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:anorthite"
+          }
+        },
+        "state": {
+          "Name": "cemm:mylonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:serandite"
+          }
+        },
+        "state": {
+          "Name": "cemm:mylonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:vibrating_serandite"
+          }
+        },
+        "state": {
+          "Name": "cemm:mylonite"
+        }
+      }
+    ]
+  }
+}

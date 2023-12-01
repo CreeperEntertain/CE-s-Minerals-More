@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/bauxite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/bauxite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/bauxite_slab_full"
+    }
+  }
+}

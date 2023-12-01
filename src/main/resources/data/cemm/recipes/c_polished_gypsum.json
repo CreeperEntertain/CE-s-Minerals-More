@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gypsum"
+    },
+    "1": {
+      "item": "cemm:gypsum"
+    },
+    "2": {
+      "item": "cemm:gypsum"
+    },
+    "3": {
+      "item": "cemm:gypsum"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_gypsum",
+    "count": 4
+  }
+}

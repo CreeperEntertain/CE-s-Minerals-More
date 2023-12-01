@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:reinforced_glass_middle",
+    "cemm:reinforced_glass",
+    "cemm:reinforced_glass_top",
+    "cemm:reinforced_glass_bottom"
+  ]
+}

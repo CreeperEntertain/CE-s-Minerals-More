@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:meteor_fields",
+  "features": "cemm:meteor_fields_obsidian_placement_1",
+  "step": "top_layer_modification"
+}

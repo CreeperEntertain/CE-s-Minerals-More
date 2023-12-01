@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:blue_ice"
+    },
+    "1": {
+      "item": "minecraft:blue_ice"
+    },
+    "2": {
+      "item": "minecraft:blue_ice"
+    },
+    "3": {
+      "item": "minecraft:blue_ice"
+    },
+    "4": {
+      "item": "minecraft:charcoal"
+    },
+    "5": {
+      "item": "minecraft:blue_ice"
+    },
+    "6": {
+      "item": "minecraft:blue_ice"
+    },
+    "7": {
+      "item": "minecraft:blue_ice"
+    },
+    "8": {
+      "item": "minecraft:blue_ice"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_black_ice",
+    "count": 8
+  }
+}

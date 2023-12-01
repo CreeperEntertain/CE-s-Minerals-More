@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/air_vent",
+  "textures": {
+    "all": "cemm:block/aluminum",
+    "particle": "cemm:block/aluminum",
+    "rim": "cemm:block/aluminum_beam_connector",
+    "missing": "cemm:block/aluminum",
+    "base": "cemm:block/aluminum"
+  },
+  "render_type": "solid"
+}

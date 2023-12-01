@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "cemm:claystone_mountains",
+    "cemm:limestone_steppes"
+  ],
+  "features": "cemm:inyoite",
+  "step": "underground_ores"
+}

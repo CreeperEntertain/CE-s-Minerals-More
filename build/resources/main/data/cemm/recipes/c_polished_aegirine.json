@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aegirine"
+    },
+    "1": {
+      "item": "cemm:aegirine"
+    },
+    "2": {
+      "item": "cemm:aegirine"
+    },
+    "3": {
+      "item": "cemm:aegirine"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_aegirine",
+    "count": 4
+  }
+}

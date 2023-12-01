@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:meteor_fields",
+  "features": "cemm:meteor_fields_phyllite_placement",
+  "step": "local_modifications"
+}

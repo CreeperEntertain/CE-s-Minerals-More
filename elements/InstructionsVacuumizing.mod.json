@@ -1,0 +1,118 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 430,
+    "height": 240,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_cesium_pellet",
+          "image": "button_cesium_pellet.png",
+          "hoveredImage": "button_cesium_pellet_hover.png",
+          "onClick": {
+            "name": "VIButton1Execute"
+          },
+          "x": 1,
+          "y": 1
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_europium_pellet",
+          "image": "button_europium_pellet.png",
+          "hoveredImage": "button_europium_pellet_hover.png",
+          "onClick": {
+            "name": "VIButton2Execute"
+          },
+          "x": 1,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_225px.png",
+          "use1Xscale": false,
+          "x": 161,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vacuumizer.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_vacuumizer",
+          "text": {
+            "fixedValue": "Vacuumizer"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 188,
+          "y": 12
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 387,
+          "y": 200
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_cesium_pellet.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayCesiumPellet"
+          },
+          "x": 194,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "recipe_europium_pellet.png",
+          "use1Xscale": true,
+          "displayCondition": {
+            "name": "DisplayEuropiumPellet"
+          },
+          "x": 194,
+          "y": 53
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 16,
+      "sy": 16,
+      "ox": 3,
+      "oy": 8,
+      "snapOnGrid": true
+    }
+  }
+}

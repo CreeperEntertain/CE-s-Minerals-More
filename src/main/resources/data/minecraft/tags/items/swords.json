@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:titanium_sword",
+    "cemm:nightsword",
+    "cemm:steel_sword",
+    "minecraft:diamond_sword",
+    "minecraft:stone_sword",
+    "cemm:meta_carbonite_sword",
+    "minecraft:netherite_sword",
+    "cemm:chlorophyl_sword",
+    "minecraft:wooden_sword",
+    "minecraft:golden_sword",
+    "minecraft:iron_sword",
+    "cemm:misery_sword"
+  ]
+}

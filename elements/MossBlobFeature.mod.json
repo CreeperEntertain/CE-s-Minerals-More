@@ -1,0 +1,13 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface",
+      "CUSTOM:ChlorophylDimension"
+    ],
+    "restrictionBiomes": [],
+    "featurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"feature_container\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_replace_sphere\"><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.GRASS</field></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.MOSS_BLOCK</field></block></value><value name=\"radius\"><block type=\"int_provider_uniform\"><field name=\"min\">3</field><field name=\"max\">7</field><comment h=\"80\" pinned=\"false\" w=\"160\">This is the size of the blob</comment></block></value></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">WORLD_SURFACE_WG</field><next><block type=\"placement_height_range\"><value name=\"height\"><block type=\"height_provider_trapezoid\"><field name=\"plateau\">16</field><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">32</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">96</field></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_count\"><comment h=\"80\" pinned=\"false\" w=\"160\">We try to generate up to 25 blackstone blobs in each chunk</comment><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">10</field></block></value></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

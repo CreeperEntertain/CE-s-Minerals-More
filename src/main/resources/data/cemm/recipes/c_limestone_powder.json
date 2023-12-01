@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:limestone_pieces"
+    }
+  },
+  "result": {
+    "item": "cemm:limestone_powder",
+    "count": 1
+  }
+}

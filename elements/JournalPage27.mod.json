@@ -1,0 +1,183 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 420,
+    "height": 210,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "journal_background.png",
+          "use1Xscale": false,
+          "x": 140,
+          "y": 15
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_page_right",
+          "image": "journal_page_right.png",
+          "hoveredImage": "journal_page_right_select.png",
+          "onClick": {
+            "name": "Journal28"
+          },
+          "x": 240,
+          "y": 204
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_page_left",
+          "image": "journal_page_left.png",
+          "hoveredImage": "journal_page_left_select.png",
+          "onClick": {
+            "name": "Journal26"
+          },
+          "x": 140,
+          "y": 204
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "journal_27.png",
+          "use1Xscale": true,
+          "x": 140,
+          "y": 15
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_back",
+          "image": "back.png",
+          "hoveredImage": "back_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMain"
+          },
+          "x": 384,
+          "y": 197
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_pressurizer_band",
+          "image": "journal_pressurizer_band.png",
+          "hoveredImage": "journal_pressurizer_band_hover.png",
+          "onClick": {
+            "name": "Journal01"
+          },
+          "x": 12,
+          "y": 26
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_refinery_band",
+          "image": "journal_refinery_band.png",
+          "hoveredImage": "journal_refinery_band_hover.png",
+          "onClick": {
+            "name": "Journal04"
+          },
+          "x": 12,
+          "y": 52
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_electrolyzer_band",
+          "image": "journal_electrolyzer_band.png",
+          "hoveredImage": "journal_electrolyzer_band_hover.png",
+          "onClick": {
+            "name": "Journal07"
+          },
+          "x": 12,
+          "y": 78
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_vacuumizer_band",
+          "image": "journal_vacuumizer_band.png",
+          "hoveredImage": "journal_vacuumizer_band_hover.png",
+          "onClick": {
+            "name": "Journal10"
+          },
+          "x": 12,
+          "y": 104
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_xanthanium_band",
+          "image": "journal_xanthanium_band.png",
+          "hoveredImage": "journal_xanthanium_band_hover.png",
+          "onClick": {
+            "name": "Journal25"
+          },
+          "x": 286,
+          "y": 160
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_chlorophyl_band",
+          "image": "journal_chlorophyl_band.png",
+          "hoveredImage": "journal_chlorophyl_band_hover.png",
+          "onClick": {
+            "name": "Journal21"
+          },
+          "x": 286,
+          "y": 134
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_steel_band",
+          "image": "journal_steel_band.png",
+          "hoveredImage": "journal_steel_band_hover.png",
+          "onClick": {
+            "name": "Journal17"
+          },
+          "x": 286,
+          "y": 108
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_journal_aluminum_band",
+          "image": "journal_aluminum_band.png",
+          "hoveredImage": "journal_aluminum_band_hover.png",
+          "onClick": {
+            "name": "Journal13"
+          },
+          "x": 286,
+          "y": 82
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

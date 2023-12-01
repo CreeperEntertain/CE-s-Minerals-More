@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "windswept_hills",
+    "plains",
+    "windswept_savanna",
+    "windswept_forest",
+    "windswept_gravelly_hills"
+  ],
+  "features": "cemm:pyroxmangite",
+  "step": "underground_ores"
+}

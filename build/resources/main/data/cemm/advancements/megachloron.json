@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:vegetational_transporter"
+    },
+    "title": {
+      "translate": "advancements.megachloron.title"
+    },
+    "description": {
+      "translate": "advancements.megachloron.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "megachloron": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "cemm:chlorophyl_dimension"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:lively_stock"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cut_stripped_crimson_stem"
+    }
+  },
+  "result": {
+    "item": "minecraft:crimson_planks",
+    "count": 4
+  }
+}

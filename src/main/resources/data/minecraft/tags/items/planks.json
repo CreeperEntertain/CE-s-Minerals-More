@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:acacia_planks",
+    "cemm:shinewood_planks",
+    "minecraft:mangrove_planks",
+    "minecraft:warped_planks",
+    "minecraft:spruce_planks",
+    "cemm:chlorowood_planks",
+    "minecraft:crimson_planks",
+    "minecraft:jungle_planks",
+    "cemm:shiverwood_planks",
+    "minecraft:dark_oak_planks",
+    "minecraft:oak_planks",
+    "cemm:shellwood_planks",
+    "cemm:ebony_planks",
+    "minecraft:birch_planks",
+    "cemm:ashen_planks"
+  ]
+}

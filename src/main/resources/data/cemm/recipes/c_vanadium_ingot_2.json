@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:vanadium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:vanadium_ingot",
+    "count": 9
+  }
+}

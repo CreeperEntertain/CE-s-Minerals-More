@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/sanidine",
+    "particle": "cemm:block/sanidine"
+  },
+  "render_type": "solid"
+}

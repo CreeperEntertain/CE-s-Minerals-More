@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:salt_fields",
+  "features": "cemm:salt_fields_salt_underground_replacer",
+  "step": "local_modifications"
+}

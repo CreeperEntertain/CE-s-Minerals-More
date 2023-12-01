@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/hornfels_top",
+    "top": "cemm:block/hornfels_top",
+    "side": "cemm:block/hornfels"
+  },
+  "render_type": "solid"
+}

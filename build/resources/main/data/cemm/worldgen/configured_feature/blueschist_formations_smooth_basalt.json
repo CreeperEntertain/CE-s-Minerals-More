@@ -1,0 +1,18 @@
+{
+  "type": "cemm:blueschist_formations_smooth_basalt",
+  "config": {
+    "target": {
+      "Name": "cemm:blueschist"
+    },
+    "state": {
+      "Name": "minecraft:smooth_basalt"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    }
+  }
+}

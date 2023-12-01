@@ -1,0 +1,15 @@
+{
+  "type": "cemm:mountain_quartz_feature_2",
+  "config": {
+    "target": {
+      "Name": "minecraft:deepslate",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:deepslate_mountain_quartz_ore"
+    },
+    "radius": 5
+  }
+}

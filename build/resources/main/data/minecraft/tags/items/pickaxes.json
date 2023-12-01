@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:meta_carbonite_pickaxe",
+    "cemm:nightpickaxe",
+    "cemm:steel_pickaxe",
+    "minecraft:netherite_pickaxe",
+    "cemm:chlorophyl_pickaxe",
+    "cemm:titanium_pickaxe",
+    "minecraft:stone_pickaxe",
+    "minecraft:diamond_pickaxe",
+    "minecraft:wooden_pickaxe",
+    "cemm:misery_pickaxe",
+    "minecraft:iron_pickaxe",
+    "minecraft:golden_pickaxe"
+  ]
+}

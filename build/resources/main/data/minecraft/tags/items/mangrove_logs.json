@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cut_mangrove",
+    "minecraft:stripped_mangrove_log",
+    "minecraft:stripped_mangrove_wood",
+    "cemm:cut_stripped_mangrove",
+    "minecraft:mangrove_wood",
+    "minecraft:mangrove_log"
+  ]
+}

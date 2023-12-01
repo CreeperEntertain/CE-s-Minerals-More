@@ -1,0 +1,122 @@
+{
+  "type": "cemm:kremersite",
+  "config": {
+    "size": 24,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:netherrack"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:warped_nylium"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:crimson_nylium"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:polished_blackstone_bricks"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:cracked_polished_blackstone_bricks"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:nether_bricks"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:cracked_nether_bricks"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:red_nether_bricks"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:blackstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:kremersite"
+        }
+      }
+    ]
+  }
+}

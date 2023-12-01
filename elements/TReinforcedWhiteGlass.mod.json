@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_white_glass",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,140 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "red_fern",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "red_fern",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 2.0,
+        "my": 0.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 12.0,
+        "Mz": 14.0,
+        "subtract": false
+      }
+    ],
+    "name": "Red Fern",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "CAVE_VINES"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:BordeauxAnorthite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMicrocline"
+      },
+      {
+        "value": "CUSTOM:BordeauxMonzonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxMylonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxOligoclase"
+      },
+      {
+        "value": "CUSTOM:BordeauxPhyllite"
+      },
+      {
+        "value": "CUSTOM:BordeauxPyroxene"
+      },
+      {
+        "value": "CUSTOM:BordeauxQuartzite"
+      },
+      {
+        "value": "CUSTOM:BordeauxRedSalt"
+      },
+      {
+        "value": "CUSTOM:BordeauxSanidine"
+      },
+      {
+        "value": "CUSTOM:BordeauxSerandite"
+      },
+      {
+        "value": "CUSTOM:BordeauxSoapstone"
+      },
+      {
+        "value": "CUSTOM:BordeauxWhiteGranite"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AcidOcean"
+      },
+      {
+        "value": "CUSTOM:BordeauxBoscage"
+      }
+    ],
+    "generationType": "Grass",
+    "patchSize": 64,
+    "generateAtAnyHeight": false
+  }
+}

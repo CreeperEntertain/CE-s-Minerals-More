@@ -1,0 +1,11 @@
+{
+  "_fv": 47,
+  "_type": "tab",
+  "definition": {
+    "name": "CE's Materials",
+    "icon": {
+      "value": "CUSTOM:BauxitePowder"
+    },
+    "showSearch": false
+  }
+}

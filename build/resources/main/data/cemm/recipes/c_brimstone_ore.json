@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:netherrack"
+    },
+    "1": {
+      "item": "cemm:brimstone_block"
+    },
+    "2": {
+      "item": "cemm:brimstone_block"
+    },
+    "3": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "item": "cemm:brimstone_ore",
+    "count": 4
+  }
+}

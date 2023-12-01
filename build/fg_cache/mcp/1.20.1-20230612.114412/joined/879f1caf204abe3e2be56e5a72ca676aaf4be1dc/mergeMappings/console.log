@@ -1,0 +1,16 @@
+JVM:         C:\Program Files\Pylo\MCreator\jdk\bin\java.exe
+JVM Args:    
+Run Args:    "--task", "MERGE_MAPPING", "--left", "config/joined.tsrg", "--right", "C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.20.1-20230612.114412\joined\879f1caf204abe3e2be56e5a72ca676aaf4be1dc\downloadClientMappings\client_mappings.txt", "--right-names", "right,left", "--classes", "--output", "C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.20.1-20230612.114412\joined\879f1caf204abe3e2be56e5a72ca676aaf4be1dc\mergeMappings\output.jar"
+Classpath:   C:\Users\TimGe\.mcreator\gradle\caches\forge_gradle\maven_downloader\net\minecraftforge\installertools\1.2.0\installertools-1.2.0-fatjar.jar
+Working Dir: C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.20.1-20230612.114412\joined\879f1caf204abe3e2be56e5a72ca676aaf4be1dc\mergeMappings
+Main Class:  net.minecraftforge.installertools.ConsoleTool
+Task: MERGE_MAPPING
+Left:    config\joined.tsrg
+         null
+Right:   C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.20.1-20230612.114412\joined\879f1caf204abe3e2be56e5a72ca676aaf4be1dc\downloadClientMappings\client_mappings.txt
+         right,left
+Classes: true
+Fields:  false
+Methods: false
+Params:  false
+Output:  C:\Users\TimGe\MCreatorWorkspaces\cemm\build\fg_cache\mcp\1.20.1-20230612.114412\joined\879f1caf204abe3e2be56e5a72ca676aaf4be1dc\mergeMappings\output.jar
