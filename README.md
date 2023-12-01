@@ -1,1 +1,149 @@
-"# CE-s-Minerals-More" 
+# Version 2.14.198 of "CE's Minerals & More"
+To visit the download pages for this mod, visit the main branch.
+
+## Version 2.14.198 Changelog
+- Fixed the pollucite recipe
+- Fixed primedust recipe
+- Fixed alumina recipe
+- Made the recipes for magic dust shapeless
+- Fixed loot table for deepslate chlorophyl ore
+- Increased the yield of tellur from malachite
+- Increased average cinnabar deposit vein size
+- Fixed some technical recipes not being used by their workstations
+- Added Megachloron dimension
+- Added meteor structure and two variants
+- Added meteorite, obsidiaster, and crying obsidiaster blocks
+- Added the cosmic telephone
+- Added keybind to toggle the time display
+- Reworked the textures of a handful of blocks
+- Added steel tools and armor
+- Added chlorophyl tools and armor
+- Added a journal explaining the main production lines
+- All new tools now also have mirrored recipes
+- Flint and steel can now also be crafted from steel variants
+- Reworked the placement of structures
+- Overhauled rock and mineral placement
+- Added new advancements alongside the new additions
+- Added an advancement for steel ingots
+- Added brimstone as an alternative material for gunpowder
+- Expanded the factory themed block palette
+- Added iron ore to the nether
+- Added blackstone variants of the nether ores
+- Added soul sand/soil variants of the nether ores
+- Added an advancement for walking over brimstone
+- Removed the music discs to reduce mod size
+- Fixed the drops for the firegrass blocks
+- Horses now rarely spawn as their zombie variant
+- Firegrass now spawns more frequently
+- Fixed the spread of firegrass onto neighboring blocks
+- Fireshrubs now always drop firefruit
+- Changed the subtitle for the electricution sound
+- Redstone can now be crafted into red dye
+- Added salt and sea salt you can use to dry sponges
+- Added harneded and tough sand
+- Added the ash barrens biome
+- Added ash and hardened ash
+- Added sprayer flower and deathbloom
+- Added Acheron nectar, ambrosia, and the bleeding effect
+- Added advancements for entering the ash barrens biome
+- Added advancements for consuming Acheron nectar and ambrosia
+- Fixed log stripping not damaging axes when in creative
+- Overhauled the distance fog and sky in "The Void"
+- Added "Ash Wanderer" zombie type
+- Added ashen heart
+- Totem of teleportation now saves the dimension and teleportation only works in the specified one
+- Changed the creative inventory tab for the jaspilite building blocks to "Building Blocks"
+- Added "CE's" to the start of every creative tab name to make it easier to distinguish them from other mods
+- Fixed the stone types added in 1.13.x to no longer drop items when not mined with the right tool
+- Most plants can now be placed on lignite
+- Fixed "The Void" biome display names
+- Completely overhauled biome placement
+- Overhauled biome generation for most biomes
+- Changed the name of "Tinakisite" to "Tinaksite" (spelling error), registry name kept
+- Changed the name of "Metatorbernite" to "Torbernite" for simplicity, registry name kept
+- Renamed "Claystone Mountains" to "Claystone Ranges", registry name kept
+- Renamed "Chalk Steppes" to "Chalk Cliffs", registry name kept
+- Renamed "Lignite Flats" to "Lignite Hills", registry name kept
+- Removed lignite craters from lignite hills biome
+- Reduced amount of acid aquifers in bauxite steppes
+- Chalk mountain biome removed due do redundancy
+- Fixed graphite wall, not generating as an ore anymore
+- Changed some creative tab icons
+- Added grassed chalk and limestone
+- Limestone powder can now be crafted into concrete powder
+- Sulfur powder can now be used to make yellow dye
+- Expanded the collection of overgrown blocks
+- Overgrown blocks now use proper overlays
+- Walking over any overgrown blocks now sounds like grass
+- Added a creative tab for CEMM's natural blocks
+- Completely reorganized creative tab sorting
+- Added missing building blocks for murdochite
+- Fixed the name for the flowerless cactus and ebony leaves
+- Changed the sounds for sanded jaspilite and brick blocks
+- Overhauled black ice distribution
+- Changed the hardness of certain blocks to fit the new progression system
+- Added the "Icaron" dimension
+- Polymorous Ore now needed for void portal instead of Meta-Carbonite
+- Made placing thread grids easier
+- Fixed a crash having to do with activating a dispenser that places water next to cesium or europium, now intentionally only crashes if the player is too close
+- Tea plants can now be used to brew tea
+- Strawberries can now be used to make strawberry juice, which can also be turned into wine
+- Cactus fruits can now be used to make cactus fruit juice, which can also be turned into wine
+- Sugar cane can now be used to make sugar cane juice, which can also be turned into wine
+- Heavily decreased the eating duration for tomatoes and cucumbers to balance them
+- Decreased the drinking duration of juices for the same reason
+- Retextured the cucumber
+- Fruit juice recipes are now shapeless
+- Crying obsidian is now craftable using dragon's breath
+- All relevant Void themed blocks now emit a slight glow
+- Changed the way "The Void" looks, now having more terrain visible before the fog, and the terrain itself being darker
+- Added wood and stripped wood blocks for all modded log and stripped logs
+- Fixed the name for stripped lunarbark logs
+- Added cut variants for all log and stripped log types
+- Deleted duplicate textures
+- Placable sticks can now be placed on more blocks
+- Fixed the drops for blocks that only drop items with a certain chance
+- Fixed leaves where they now also drop themselves when cut with shears
+- Removed recipe for stripped wooden logs and blocks to reflect Minecraft vanilla
+- Added cut variants for all logs and stripped logs
+- Fixed the name for stripped lunarbark stems
+- Added wallpaper blocks for all 16 colors
+- Added acid resistance enchantment
+- Added amber deposits and blocks
+- Limited certain structures to forest biomes
+- Added localization key for the acid fluid block for JEI (Just Enough Items)
+- A piece of coal now provides 4000 energy instead of 2000, and charcoal 3600 instead of 1800
+- Added reinforced glass for all 16 colors of dye, regular glass, and tinted glass
+- Log stripping sounds now actually play from the center of the selected block
+- Fixed block interactions to where they now no longer happen when sneaking
+- Added the paper block which can be used as fuel or decoration
+- Rotten flesh can now be turned into leather in a furnace
+- Nether wart blocks can now be crafted back into nether wart
+- Added the sugar cane block
+- Added dimension name support for "Traveler's Titles"
+- Reduced the cost of graphite for emerald and diamond shards from 16 to 4
+- Added random lightning strikes to "The Void"
+- Reduced the amount of particles in void forests
+- Changed the hitboxes of shiftsprout and shiftgrass to be targetable easier
+- Chlorograss and firegrass block detection now use proper block tags
+- All blocks similar to grass blocks now check for if the block above is solid instead of using an unnecessary block tag
+- All modded grassblock type blocks now very slowly regrow grass and flowers on top
+- Fixed a bug having to do with conveyors and players entering in a certain way getting launched
+- Improved conveyors, they now move items up conveyor slopes as well
+- Added raked variants of gravel, sand, and red sand
+- Added chiseled and cut planks
+- Added cast iron
+- Added petrified and chiseled lodestone blocks
+- Added neodymium ingots, magnetite, magnets, magnetite sand, and meta-carbonite to the items usable for lodestone crafting
+- Fixed the lotus texture, creating white lines when mip mapping
+- Reduced the cost of shards for emerald and diamond production from 9 to 4
+- Added rarity values to items wherever appropriate
+- Added stairs, slabs, walls, and smooth variants for everything mountain quartz and smokey quartz related
+- Petrified oak slabs and unstable TNT can now be crafted
+- Added crafting recipes for all vanilla and vanilla-like ores
+- Any cobblestone-like material can now used to also make dispensers, droppers, levers, observers, and pistons
+- Expanded the list of stone materials usable as a replacement for cobblestone
+- You can now craft sculk veins into sculk blocks
+- Updated the coal generator recipe to now use tailored stone instead of regular stone
+
+### [Main Branch](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/main)
