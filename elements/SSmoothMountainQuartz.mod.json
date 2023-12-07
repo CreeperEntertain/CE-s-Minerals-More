@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MountainQuartzBlock"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmoothMountainQuartz"
+    },
+    "name": "s_smooth_mountain_quartz",
+    "namespace": "mod"
+  }
+}

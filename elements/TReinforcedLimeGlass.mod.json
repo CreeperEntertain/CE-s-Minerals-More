@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforedLimeStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_lime_glass",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "firegrass_blocks",
+    "namespace": "mod"
+  }
+}

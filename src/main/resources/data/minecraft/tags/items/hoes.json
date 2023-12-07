@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:nighthoe",
+    "minecraft:wooden_hoe",
+    "minecraft:golden_hoe",
+    "cemm:misery_hoe",
+    "minecraft:stone_hoe",
+    "cemm:titanium_hoe",
+    "minecraft:netherite_hoe",
+    "cemm:meta_carbonite_hoe",
+    "minecraft:diamond_hoe",
+    "cemm:steel_hoe",
+    "minecraft:iron_hoe",
+    "cemm:chlorophyl_hoe"
+  ]
+}

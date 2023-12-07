@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:refinery"
+    },
+    "title": {
+      "translate": "advancements.alloying_and_analyzing.title"
+    },
+    "description": {
+      "translate": "advancements.alloying_and_analyzing.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "alloying_and_analyzing": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cemm:refinery"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:fake_diamonds"
+}

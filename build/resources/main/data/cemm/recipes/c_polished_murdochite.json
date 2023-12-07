@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:murdochite"
+    },
+    "1": {
+      "item": "cemm:murdochite"
+    },
+    "2": {
+      "item": "cemm:murdochite"
+    },
+    "3": {
+      "item": "cemm:murdochite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_murdochite",
+    "count": 4
+  }
+}

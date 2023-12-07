@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "Items.DYE#18"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.CONCRETE_POWDER#11"
+    },
+    "name": "c_blue_concrete_powder_2",
+    "namespace": "mod"
+  }
+}

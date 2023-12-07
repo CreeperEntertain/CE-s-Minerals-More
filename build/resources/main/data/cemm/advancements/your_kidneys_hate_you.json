@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:sea_salt"
+    },
+    "title": {
+      "translate": "advancements.your_kidneys_hate_you.title"
+    },
+    "description": {
+      "translate": "advancements.your_kidneys_hate_you.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "your_kidneys_hate_you": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:welcome_to_the_game"
+}

@@ -1,0 +1,119 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "firegrass",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "firegrass",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Cave",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Firegrass",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:ChlorophylItemsAndBlocks"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      }
+    ],
+    "isBonemealable": true,
+    "isBonemealTargetCondition": {
+      "name": "ChlorograssCanBoneMealBeUsedOnThisBlock"
+    },
+    "onBonemealSuccess": {
+      "name": "FiregrassOnBoneMealSuccess"
+    },
+    "frequencyOnChunks": 2,
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "generationType": "Grass",
+    "patchSize": 10,
+    "generateAtAnyHeight": false
+  }
+}

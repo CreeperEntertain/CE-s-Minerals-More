@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/siltstone_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/siltstone_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/siltstone_slab_full"
+    }
+  }
+}

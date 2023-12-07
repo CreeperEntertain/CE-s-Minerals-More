@@ -1,0 +1,12 @@
+{
+  "type": "cemm:chalk_steppes_underground_chalk_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:chalk"
+    },
+    "radius": 12
+  }
+}

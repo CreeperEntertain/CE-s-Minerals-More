@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/lit_comparer"
+    },
+    "facing=east": {
+      "model": "cemm:block/lit_comparer",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/lit_comparer",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/lit_comparer",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/lit_comparer",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/lit_comparer",
+      "x": 90
+    }
+  }
+}

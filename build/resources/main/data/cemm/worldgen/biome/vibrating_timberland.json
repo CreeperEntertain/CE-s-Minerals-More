@@ -1,0 +1,59 @@
+{
+  "has_precipitation": false,
+  "temperature": 2,
+  "downfall": 0,
+  "effects": {
+    "foliage_color": -2981840,
+    "grass_color": -2981840,
+    "sky_color": -9557976,
+    "fog_color": -9557976,
+    "water_color": -39322,
+    "water_fog_color": -39322
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "cemm:shadow_walker",
+        "weight": 10,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "cemm:shadowleech",
+        "weight": 20,
+        "minCount": 2,
+        "maxCount": 6
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    []
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "strawberry": "strawberries_01"
+      },
+      "name": "default"
+    }
+  }
+}

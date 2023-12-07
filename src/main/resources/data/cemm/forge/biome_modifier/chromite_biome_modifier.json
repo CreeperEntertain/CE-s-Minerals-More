@@ -1,0 +1,26 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna_plateau",
+    "warm_ocean",
+    "mushroom_fields",
+    "sunflower_plains",
+    "stony_shore",
+    "sparse_jungle",
+    "deep_lukewarm_ocean",
+    "cemm:monazite_desert",
+    "bamboo_jungle",
+    "lukewarm_ocean",
+    "plains",
+    "savanna",
+    "windswept_savanna",
+    "beach",
+    "jungle",
+    "river",
+    "desert",
+    "cemm:zirconian_desert",
+    "meadow"
+  ],
+  "features": "cemm:chromite",
+  "step": "underground_ores"
+}

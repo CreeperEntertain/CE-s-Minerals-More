@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "laser_emitter",
+        "Main": "laser_emitter"
+      },
+      "name": "default"
+    }
+  }
+}

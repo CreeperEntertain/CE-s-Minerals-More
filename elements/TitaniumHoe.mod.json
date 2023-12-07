@@ -1,0 +1,31 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "texture": "titanium_hoe",
+    "customModelName": "Normal",
+    "name": "Titanium Hoe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "harvestLevel": 5,
+    "efficiency": 24.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 1.0,
+    "usageCount": 4982,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

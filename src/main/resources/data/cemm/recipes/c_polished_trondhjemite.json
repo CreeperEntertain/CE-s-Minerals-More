@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:trondhjemite"
+    },
+    "1": {
+      "item": "cemm:trondhjemite"
+    },
+    "2": {
+      "item": "cemm:trondhjemite"
+    },
+    "3": {
+      "item": "cemm:trondhjemite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_trondhjemite",
+    "count": 4
+  }
+}

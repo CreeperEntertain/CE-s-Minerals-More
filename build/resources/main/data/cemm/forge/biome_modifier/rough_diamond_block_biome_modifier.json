@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "cemm:rough_diamond_block",
+  "step": "underground_ores"
+}

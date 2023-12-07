@@ -1,0 +1,46 @@
+{
+  "_fv": 47,
+  "_type": "fluid",
+  "definition": {
+    "name": "Oil",
+    "bucketName": "Oil Bucket",
+    "textureStill": "oil_still",
+    "textureFlowing": "oil_flow",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 20,
+    "levelDecrease": 1,
+    "slopeFindDistance": 4,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "DRIP_WATER"
+    },
+    "flowStrength": 0.5,
+    "luminosity": 0,
+    "density": 1000,
+    "viscosity": 1000,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "oil_bucket",
+    "creativeTab": {
+      "value": "CUSTOM:Materials"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty_lava"
+    },
+    "rarity": "UNCOMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 1,
+    "emissiveRendering": false,
+    "tickRate": 1,
+    "flammability": 500,
+    "fireSpreadSpeed": 1000,
+    "colorOnMap": "DEFAULT",
+    "onTickUpdate": {
+      "name": "OilTickUpdate"
+    }
+  }
+}

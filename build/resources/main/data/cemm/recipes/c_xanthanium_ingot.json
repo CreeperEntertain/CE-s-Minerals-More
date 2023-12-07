@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "1": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "2": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "3": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "4": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "5": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "6": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "7": {
+      "item": "cemm:xanthanium_scrap"
+    },
+    "8": {
+      "item": "cemm:xanthanium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:xanthanium_ingot",
+    "count": 1
+  }
+}

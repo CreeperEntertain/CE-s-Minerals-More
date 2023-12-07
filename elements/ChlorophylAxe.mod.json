@@ -1,0 +1,34 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Axe",
+    "renderType": 0,
+    "texture": "chlorophyl_axe",
+    "customModelName": "Normal",
+    "name": "Chlorophyl Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "TOOLS"
+    },
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 0.8,
+    "enchantability": 15,
+    "damageVsEntity": 10.0,
+    "usageCount": 3121,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      },
+      {
+        "value": "CUSTOM:GalvanizedSteelIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

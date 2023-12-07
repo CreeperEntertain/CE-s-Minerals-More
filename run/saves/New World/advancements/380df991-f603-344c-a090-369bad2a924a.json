@@ -1,0 +1,141 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-05 19:03:59 +0100"
+    },
+    "done": true
+  },
+  "cemm:welcome_to_the_game": {
+    "criteria": {
+      "welcome_to_the_game": "2023-12-05 19:03:59 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2023-12-05 19:04:00 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_stone_pickaxe": "2023-12-07 13:53:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2023-12-07 13:53:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-12-07 13:53:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2023-12-07 13:53:51 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_pickaxe": "2023-12-07 13:53:51 +0100"
+    },
+    "done": true
+  },
+  "cemm:finishing_touches": {
+    "criteria": {
+      "finishing_touches": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2023-12-07 13:55:00 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2023-12-07 13:55:34 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-12-07 14:04:14 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

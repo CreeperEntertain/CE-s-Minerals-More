@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:nightrod"
+    },
+    "title": {
+      "translate": "advancements.fresh_start.title"
+    },
+    "description": {
+      "translate": "advancements.fresh_start.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fresh_start": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:lullaby"
+}

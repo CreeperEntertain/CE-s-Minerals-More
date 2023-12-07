@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/obsiaster",
+    "particle": "cemm:block/obsiaster"
+  },
+  "render_type": "solid"
+}

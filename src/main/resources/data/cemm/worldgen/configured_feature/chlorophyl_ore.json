@@ -1,0 +1,276 @@
+{
+  "type": "cemm:chlorophyl_ore",
+  "config": {
+    "size": 4,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_moss"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:chlorograss_block_dripstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_dripstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_moss"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:firegrass_block_tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:diorite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:deepslate",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:moss_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:tuff"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:chlorophyl_ore"
+        }
+      }
+    ]
+  }
+}

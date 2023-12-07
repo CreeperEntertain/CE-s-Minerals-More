@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:europium_block"
+    },
+    "title": {
+      "translate": "advancements.call_me_a_chemist.title"
+    },
+    "description": {
+      "translate": "advancements.call_me_a_chemist.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "call_me_a_chemist": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "cemm:reverse_pressure"
+}

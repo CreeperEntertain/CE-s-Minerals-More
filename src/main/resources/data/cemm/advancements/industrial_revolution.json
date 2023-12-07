@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:steel_ingot"
+    },
+    "title": {
+      "translate": "advancements.industrial_revolution.title"
+    },
+    "description": {
+      "translate": "advancements.industrial_revolution.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "industrial_revolution": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cemm:steel_ingot"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:keep_your_hands"
+}

@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:scandium_bits"
+    },
+    "1": {
+      "item": "cemm:scandium_bits"
+    },
+    "2": {
+      "item": "cemm:scandium_bits"
+    },
+    "3": {
+      "item": "cemm:scandium_bits"
+    },
+    "4": {
+      "item": "cemm:scandium_bits"
+    },
+    "5": {
+      "item": "cemm:scandium_bits"
+    },
+    "6": {
+      "item": "cemm:scandium_bits"
+    },
+    "7": {
+      "item": "cemm:scandium_bits"
+    },
+    "8": {
+      "item": "cemm:scandium_bits"
+    }
+  },
+  "result": {
+    "item": "cemm:scandium_ingot",
+    "count": 1
+  }
+}

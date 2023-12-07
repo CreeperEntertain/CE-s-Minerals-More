@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ashen_log"
+    },
+    "1": {
+      "item": "cemm:ashen_log"
+    },
+    "2": {
+      "item": "cemm:ashen_log"
+    },
+    "3": {
+      "item": "cemm:ashen_log"
+    }
+  },
+  "result": {
+    "item": "cemm:ashen_wood",
+    "count": 3
+  }
+}

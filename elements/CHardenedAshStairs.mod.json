@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardenedAshStairs"
+    },
+    "name": "c_hardened_ash_stairs",
+    "namespace": "mod"
+  }
+}

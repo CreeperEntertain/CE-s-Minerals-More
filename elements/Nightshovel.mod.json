@@ -1,0 +1,31 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "texture": "nightshovel",
+    "customModelName": "Normal",
+    "name": "Nightshovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 4.5,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

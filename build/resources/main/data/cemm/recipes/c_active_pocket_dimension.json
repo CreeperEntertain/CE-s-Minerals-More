@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chronoglass"
+    },
+    "1": {
+      "item": "cemm:misery_drops"
+    },
+    "2": {
+      "item": "cemm:chronoglass"
+    },
+    "3": {
+      "item": "cemm:polymorous_drops"
+    },
+    "4": {
+      "item": "cemm:dimensional_pocket_inactive"
+    },
+    "5": {
+      "item": "cemm:omenbone"
+    },
+    "6": {
+      "item": "cemm:chronoglass"
+    },
+    "7": {
+      "item": "cemm:primedust"
+    },
+    "8": {
+      "item": "cemm:chronoglass"
+    }
+  },
+  "result": {
+    "item": "cemm:dimensional_pocket",
+    "count": 1
+  }
+}

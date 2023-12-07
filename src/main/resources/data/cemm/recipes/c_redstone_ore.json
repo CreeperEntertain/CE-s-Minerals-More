@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone"
+    },
+    "1": {
+      "item": "minecraft:redstone_block"
+    },
+    "2": {
+      "item": "minecraft:redstone_block"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "minecraft:redstone_ore",
+    "count": 1
+  }
+}

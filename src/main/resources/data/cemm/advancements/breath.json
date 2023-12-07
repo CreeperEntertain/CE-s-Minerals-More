@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:omenbone"
+    },
+    "title": {
+      "translate": "advancements.breath.title"
+    },
+    "description": {
+      "translate": "advancements.breath.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "breath": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cemm:omenbone"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:pulsating_rock"
+}

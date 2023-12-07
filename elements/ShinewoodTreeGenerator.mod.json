@@ -1,0 +1,99 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebony_generator",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 8,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:SeaSaltBlock"
+      },
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:RedSalt"
+      },
+      {
+        "value": "CUSTOM:SaltBlockSea"
+      },
+      {
+        "value": "CUSTOM:SaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockWhite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      },
+      {
+        "value": "CUSTOM:RedSaltSea"
+      },
+      {
+        "value": "CUSTOM:BordeauxAnorthite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMicrocline"
+      },
+      {
+        "value": "CUSTOM:BordeauxMonzonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxMylonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxOligoclase"
+      },
+      {
+        "value": "CUSTOM:BordeauxPhyllite"
+      },
+      {
+        "value": "CUSTOM:BordeauxPyroxene"
+      },
+      {
+        "value": "CUSTOM:BordeauxQuartzite"
+      },
+      {
+        "value": "CUSTOM:BordeauxRedSalt"
+      },
+      {
+        "value": "CUSTOM:BordeauxSanidine"
+      },
+      {
+        "value": "CUSTOM:BordeauxSerandite"
+      },
+      {
+        "value": "CUSTOM:BordeauxSoapstone"
+      },
+      {
+        "value": "CUSTOM:BordeauxWhiteGranite"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BordeauxBoscage"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "ProceduralShinewoodTrunk"
+    }
+  }
+}

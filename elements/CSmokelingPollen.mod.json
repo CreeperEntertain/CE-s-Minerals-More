@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Smokeling"
+      },
+      {
+        "value": "CUSTOM:Smokeling"
+      },
+      {
+        "value": "CUSTOM:Smokeling"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.BOWL"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmokelingPollen"
+    },
+    "name": "c_smokeling_pollen",
+    "namespace": "mod"
+  }
+}

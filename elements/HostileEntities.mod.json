@@ -1,0 +1,111 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityBlaze"
+      },
+      {
+        "value": "EntityCaveSpider"
+      },
+      {
+        "value": "EntityCreeper"
+      },
+      {
+        "value": "EntityElderGuardian"
+      },
+      {
+        "value": "EntityEndermite"
+      },
+      {
+        "value": "EntityEvoker"
+      },
+      {
+        "value": "EntityGhast"
+      },
+      {
+        "value": "EntityGuardian"
+      },
+      {
+        "value": "EntityHoglin"
+      },
+      {
+        "value": "EntityHusk"
+      },
+      {
+        "value": "EntityIllusionIllager"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityPhantom"
+      },
+      {
+        "value": "EntityPiglin"
+      },
+      {
+        "value": "EntityPiglinBrute"
+      },
+      {
+        "value": "EntityPillager"
+      },
+      {
+        "value": "EntityRavager"
+      },
+      {
+        "value": "EntityShulker"
+      },
+      {
+        "value": "EntitySilverfish"
+      },
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySlime"
+      },
+      {
+        "value": "EntitySpider"
+      },
+      {
+        "value": "EntityStray"
+      },
+      {
+        "value": "EntityVex"
+      },
+      {
+        "value": "EntityVindicator"
+      },
+      {
+        "value": "EntityWarden"
+      },
+      {
+        "value": "EntityWitch"
+      },
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntityZoglin"
+      },
+      {
+        "value": "EntityZombie"
+      },
+      {
+        "value": "EntityZombieHorse"
+      },
+      {
+        "value": "EntityZombieVillager"
+      }
+    ],
+    "biomes": [],
+    "name": "hostile_entities",
+    "namespace": "mod"
+  }
+}

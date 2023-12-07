@@ -1,0 +1,12 @@
+{
+  "type": "cemm:marble_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:marble"
+    },
+    "radius": 12
+  }
+}

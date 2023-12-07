@@ -1,0 +1,121 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "schorl_spike",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 8,
+    "spawnLocation": "Underground",
+    "spawnHeightOffset": -10,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface",
+      "CUSTOM:ChlorophylDimension"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockStone"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockMoss"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockGranite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockTuff"
+      },
+      {
+        "value": "CUSTOM:ChlorograssBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockAndesite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDiorite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDripstone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockGranite"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockMoss"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockStone"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockTuff"
+      },
+      {
+        "value": "Blocks.STONE#0"
+      },
+      {
+        "value": "Blocks.STONE#1"
+      },
+      {
+        "value": "Blocks.STONE#3"
+      },
+      {
+        "value": "Blocks.STONE#5"
+      },
+      {
+        "value": "Blocks.DEEPSLATE"
+      },
+      {
+        "value": "Blocks.TUFF"
+      },
+      {
+        "value": "Blocks.DRIPSTONE_BLOCK"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.MOSS_BLOCK"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Slate"
+      },
+      {
+        "value": "CUSTOM:Shungite"
+      },
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "CUSTOM:GraphiteBlock"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Chlorophyl"
+      },
+      {
+        "value": "CUSTOM:ShungiteMines"
+      }
+    ],
+    "ignoreBlocks": "STRUCTURE_BLOCK"
+  }
+}

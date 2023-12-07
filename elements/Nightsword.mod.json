@@ -1,0 +1,31 @@
+{
+  "_fv": 47,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "texture": "nightsword",
+    "customModelName": "Normal",
+    "name": "Nightsword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 1.6,
+    "enchantability": 22,
+    "damageVsEntity": 6.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

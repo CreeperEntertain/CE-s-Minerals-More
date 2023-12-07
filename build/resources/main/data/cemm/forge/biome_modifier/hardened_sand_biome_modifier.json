@@ -1,0 +1,21 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_ocean",
+    "warm_ocean",
+    "deep_lukewarm_ocean",
+    "cemm:monazite_desert",
+    "cold_ocean",
+    "deep_ocean",
+    "deep_frozen_ocean",
+    "deep_cold_ocean",
+    "lukewarm_ocean",
+    "ocean",
+    "beach",
+    "desert",
+    "cemm:zirconian_desert",
+    "snowy_beach"
+  ],
+  "features": "cemm:hardened_sand",
+  "step": "underground_ores"
+}

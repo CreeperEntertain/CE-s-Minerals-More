@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:solar_panel"
+    },
+    "title": {
+      "translate": "advancements.going_green.title"
+    },
+    "description": {
+      "translate": "advancements.going_green.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "going_green": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cemm:solar_panel"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:and_so_it_starts"
+}

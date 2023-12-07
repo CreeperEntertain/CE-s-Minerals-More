@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/jaspilite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/jaspilite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/jaspilite_slab_full"
+    }
+  }
+}

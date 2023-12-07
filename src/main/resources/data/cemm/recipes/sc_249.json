@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_tokyoite"
+  },
+  "result": "cemm:polished_tokyoite_stairs"
+}

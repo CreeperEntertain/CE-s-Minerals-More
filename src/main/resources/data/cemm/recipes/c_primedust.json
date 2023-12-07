@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:chronodust"
+    },
+    {
+      "item": "cemm:chronodust"
+    },
+    {
+      "item": "cemm:chronodust"
+    },
+    {
+      "item": "cemm:chronodust"
+    },
+    {
+      "item": "cemm:polymorous_drops"
+    },
+    {
+      "item": "cemm:polymorous_drops"
+    },
+    {
+      "item": "cemm:polymorous_drops"
+    },
+    {
+      "item": "cemm:polymorous_drops"
+    }
+  ],
+  "result": {
+    "item": "cemm:primedust",
+    "count": 1
+  }
+}

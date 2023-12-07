@@ -1,0 +1,103 @@
+{
+  "type": "cemm:columbite_deposit",
+  "config": {
+    "size": 14,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:granite"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:ice"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:packed_ice"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:frosted_ice",
+            "Properties": {
+              "age": "0"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:blue_ice"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:snow",
+            "Properties": {
+              "layers": "1"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:snow_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:powder_snow"
+          }
+        },
+        "state": {
+          "Name": "cemm:columbite_deposit"
+        }
+      }
+    ]
+  }
+}

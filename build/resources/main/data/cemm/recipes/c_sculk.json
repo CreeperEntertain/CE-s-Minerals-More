@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sculk_vein"
+    },
+    "1": {
+      "item": "minecraft:sculk_vein"
+    },
+    "2": {
+      "item": "minecraft:sculk_vein"
+    },
+    "3": {
+      "item": "minecraft:sculk_vein"
+    }
+  },
+  "result": {
+    "item": "minecraft:sculk",
+    "count": 1
+  }
+}

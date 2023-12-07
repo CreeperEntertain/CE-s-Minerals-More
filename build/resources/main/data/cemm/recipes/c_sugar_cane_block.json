@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar_cane"
+    },
+    "1": {
+      "item": "minecraft:sugar_cane"
+    },
+    "2": {
+      "item": "minecraft:sugar_cane"
+    },
+    "3": {
+      "item": "minecraft:sugar_cane"
+    },
+    "4": {
+      "item": "minecraft:sugar_cane"
+    },
+    "5": {
+      "item": "minecraft:sugar_cane"
+    },
+    "6": {
+      "item": "minecraft:sugar_cane"
+    },
+    "7": {
+      "item": "minecraft:sugar_cane"
+    },
+    "8": {
+      "item": "minecraft:sugar_cane"
+    }
+  },
+  "result": {
+    "item": "cemm:sugar_cane_block",
+    "count": 1
+  }
+}

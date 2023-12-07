@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "1": {
+      "item": "cemm:acheron_nectar"
+    },
+    "2": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "3": {
+      "item": "cemm:acheron_nectar"
+    },
+    "4": {
+      "item": "minecraft:gold_block"
+    },
+    "5": {
+      "item": "cemm:acheron_nectar"
+    },
+    "6": {
+      "item": "minecraft:glowstone_dust"
+    },
+    "7": {
+      "item": "cemm:acheron_nectar"
+    },
+    "8": {
+      "item": "minecraft:glowstone_dust"
+    }
+  },
+  "result": {
+    "item": "cemm:ambrosia",
+    "count": 1
+  }
+}

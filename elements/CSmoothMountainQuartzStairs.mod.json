@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      },
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      },
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      },
+      {
+        "value": "CUSTOM:SmoothMountainQuartz"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmoothMountainQuartzStairs"
+    },
+    "name": "c_smooth_mountain_quartz_stairs",
+    "namespace": "mod"
+  }
+}

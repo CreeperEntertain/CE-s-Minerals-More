@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      },
+      {
+        "value": "CUSTOM:TantalumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:TantalumBlock"
+    },
+    "name": "c_tantalum_block",
+    "namespace": "mod"
+  }
+}

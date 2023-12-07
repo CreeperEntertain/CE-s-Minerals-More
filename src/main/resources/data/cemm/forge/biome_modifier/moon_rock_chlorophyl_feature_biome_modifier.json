@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:megachloron_surface",
+    "cemm:chlorophyl"
+  ],
+  "features": "cemm:moon_rock_chlorophyl_feature",
+  "step": "underground_decoration"
+}

@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/laseremitter",
+  "textures": {
+    "all": "cemm:block/aluminum_grid",
+    "particle": "cemm:block/aluminum_grid",
+    "missing": "cemm:block/laser_emitter",
+    "Main": "cemm:block/laser_emitter"
+  },
+  "render_type": "cutout_mipped"
+}

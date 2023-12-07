@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/platinum_bit"
+    },
+    "facing=east": {
+      "model": "cemm:block/platinum_bit",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/platinum_bit",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/platinum_bit",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cemm:lignite_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:lignite_block"
+    },
+    "radius": 12
+  }
+}

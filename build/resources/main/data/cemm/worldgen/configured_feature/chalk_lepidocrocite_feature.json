@@ -1,0 +1,12 @@
+{
+  "type": "cemm:chalk_lepidocrocite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:chalk"
+    },
+    "state": {
+      "Name": "cemm:lepidocrocite"
+    },
+    "radius": 2
+  }
+}

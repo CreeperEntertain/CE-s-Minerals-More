@@ -1,0 +1,42 @@
+{
+  "type": "cemm:hardened_sand",
+  "config": {
+    "size": 48,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:hardened_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:monazite_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:hardened_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:zircon_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:hardened_sand"
+        }
+      }
+    ]
+  }
+}

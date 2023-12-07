@@ -1,0 +1,39 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:pressurizer"
+    },
+    "title": {
+      "translate": "advancements.fake_diamonds.title"
+    },
+    "description": {
+      "translate": "advancements.fake_diamonds.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "fake_diamonds": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "cemm:pressurizer"
+            ],
+            "count": {
+              "min": 1,
+              "max": 1000000
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:the_forever_material"
+}

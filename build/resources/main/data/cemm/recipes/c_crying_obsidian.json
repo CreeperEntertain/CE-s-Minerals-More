@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    },
+    {
+      "item": "minecraft:dragon_breath"
+    }
+  ],
+  "result": {
+    "item": "minecraft:crying_obsidian",
+    "count": 1
+  }
+}

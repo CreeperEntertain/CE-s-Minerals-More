@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cut_bamboo"
+    }
+  },
+  "result": {
+    "item": "minecraft:bamboo_planks",
+    "count": 4
+  }
+}

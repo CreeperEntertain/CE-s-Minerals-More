@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/inyoite_top",
+    "top": "cemm:block/inyoite_top",
+    "side": "cemm:block/inyoite"
+  },
+  "render_type": "solid"
+}

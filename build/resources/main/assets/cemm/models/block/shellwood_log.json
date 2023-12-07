@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/shellwood_log_top",
+    "up": "cemm:block/shellwood_log_top",
+    "north": "cemm:block/shellwood_log",
+    "east": "cemm:block/shellwood_log",
+    "south": "cemm:block/shellwood_log",
+    "west": "cemm:block/shellwood_log",
+    "particle": "cemm:block/shellwood_log_top"
+  },
+  "render_type": "solid"
+}

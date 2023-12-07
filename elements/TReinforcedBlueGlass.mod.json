@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassMidle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_blue_glass",
+    "namespace": "mod"
+  }
+}

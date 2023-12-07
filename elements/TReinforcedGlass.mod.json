@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_glass",
+    "namespace": "mod"
+  }
+}

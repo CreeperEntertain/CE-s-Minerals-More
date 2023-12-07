@@ -1,0 +1,129 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:RedCactus"
+      },
+      {
+        "value": "CUSTOM:RedSalt"
+      },
+      {
+        "value": "CUSTOM:SaltBlockSea"
+      },
+      {
+        "value": "CUSTOM:SaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockWhite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      },
+      {
+        "value": "CUSTOM:RedSaltSea"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlock"
+      },
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingPhyllite"
+      },
+      {
+        "value": "CUSTOM:VibratingWhiteGranite"
+      },
+      {
+        "value": "CUSTOM:VibratingSoapstone"
+      },
+      {
+        "value": "CUSTOM:VibratingSerandite"
+      },
+      {
+        "value": "CUSTOM:VibratingSanidine"
+      },
+      {
+        "value": "CUSTOM:VibratingRedSalt"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingOligoclase"
+      },
+      {
+        "value": "CUSTOM:VibratingMylonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMonzonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMicrocline"
+      },
+      {
+        "value": "CUSTOM:VibratingAnorthite"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxAnorthite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMicrocline"
+      },
+      {
+        "value": "CUSTOM:BordeauxMonzonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxMylonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxOligoclase"
+      },
+      {
+        "value": "CUSTOM:BordeauxPhyllite"
+      },
+      {
+        "value": "CUSTOM:BordeauxPyroxene"
+      },
+      {
+        "value": "CUSTOM:BordeauxQuartzite"
+      },
+      {
+        "value": "CUSTOM:BordeauxRedSalt"
+      },
+      {
+        "value": "CUSTOM:BordeauxSanidine"
+      },
+      {
+        "value": "CUSTOM:BordeauxSerandite"
+      },
+      {
+        "value": "CUSTOM:BordeauxSoapstone"
+      },
+      {
+        "value": "CUSTOM:BordeauxWhiteGranite"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "red_cactus_base",
+    "namespace": "mod"
+  }
+}

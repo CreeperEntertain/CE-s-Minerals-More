@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:rough_emerald"
+    },
+    "title": {
+      "translate": "advancements.finishing_touches.title"
+    },
+    "description": {
+      "translate": "advancements.finishing_touches.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "finishing_touches": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:welcome_to_the_game"
+}

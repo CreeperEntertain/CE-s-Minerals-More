@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is17g",
+  "textures": {
+    "all": "cemm:block/info_sign_empty",
+    "particle": "cemm:block/info_sign_empty",
+    "Front": "cemm:block/info_sign_g",
+    "Back": "cemm:block/info_sign_empty"
+  },
+  "render_type": "solid"
+}

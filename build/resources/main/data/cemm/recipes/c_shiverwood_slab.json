@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "1": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "2": {
+      "item": "cemm:shiverwood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shiverwood_slab",
+    "count": 6
+  }
+}

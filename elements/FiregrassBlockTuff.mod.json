@@ -1,0 +1,132 @@
+{
+  "_fv": 47,
+  "_type": "block",
+  "definition": {
+    "texture": "tuff",
+    "textureTop": "firegrass_block_top",
+    "textureLeft": "firegrass_block_side_tuff",
+    "textureFront": "firegrass_block_side_tuff",
+    "textureRight": "firegrass_block_side_tuff",
+    "textureBack": "firegrass_block_side_tuff",
+    "renderType": 10,
+    "customModelName": "Normal",
+    "rotationMode": 0,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": false,
+    "connectedSides": false,
+    "transparencyType": "SOLID",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Tuff Firegrass Block",
+    "specialInfo": [],
+    "hardness": 1.5,
+    "resistance": 6.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "CUSTOM:ChlorophylItemsAndBlocks"
+    },
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": true,
+    "requiresCorrectTool": true,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": true,
+    "canRedstoneConnect": false,
+    "lightOpacity": 15,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 0,
+    "tickRandomly": true,
+    "isReplaceable": false,
+    "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "reactionToPushing": "NORMAL",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "TUFF"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 0,
+    "isBonemealable": false,
+    "hasInventory": false,
+    "guiBoundTo": "<NONE>",
+    "openGUIOnRightClick": false,
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": true,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 400000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onTickUpdate": {
+      "name": "ClorograssAndFiregrassTickUpdate"
+    },
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 5,
+    "frequencyOnChunk": 64,
+    "minGenerateHeight": -64,
+    "maxGenerateHeight": 128
+  }
+}

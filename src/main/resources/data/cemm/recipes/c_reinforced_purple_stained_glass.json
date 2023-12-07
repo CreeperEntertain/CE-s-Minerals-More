@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:purple_stained_glass"
+    },
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "item": "cemm:reinforced_purple_stained_glass",
+    "count": 1
+  }
+}

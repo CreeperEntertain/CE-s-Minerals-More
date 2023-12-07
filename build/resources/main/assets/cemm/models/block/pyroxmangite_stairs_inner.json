@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/pyroxmangite",
+    "top": "cemm:block/pyroxmangite",
+    "side": "cemm:block/pyroxmangite"
+  },
+  "render_type": "solid"
+}

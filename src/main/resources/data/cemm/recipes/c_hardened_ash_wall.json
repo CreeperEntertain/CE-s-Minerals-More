@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hardened_ash"
+    },
+    "1": {
+      "item": "cemm:hardened_ash"
+    },
+    "2": {
+      "item": "cemm:hardened_ash"
+    },
+    "3": {
+      "item": "cemm:hardened_ash"
+    },
+    "4": {
+      "item": "cemm:hardened_ash"
+    },
+    "5": {
+      "item": "cemm:hardened_ash"
+    }
+  },
+  "result": {
+    "item": "cemm:hardened_ash_wall",
+    "count": 6
+  }
+}

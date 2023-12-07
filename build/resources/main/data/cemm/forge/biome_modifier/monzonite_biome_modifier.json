@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:the_emptiness",
+  "features": "cemm:monzonite",
+  "step": "underground_ores"
+}

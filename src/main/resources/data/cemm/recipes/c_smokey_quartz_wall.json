@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:smokey_quartz_block"
+    },
+    "1": {
+      "item": "cemm:smokey_quartz_block"
+    },
+    "2": {
+      "item": "cemm:smokey_quartz_block"
+    },
+    "3": {
+      "item": "cemm:smokey_quartz_block"
+    },
+    "4": {
+      "item": "cemm:smokey_quartz_block"
+    },
+    "5": {
+      "item": "cemm:smokey_quartz_block"
+    }
+  },
+  "result": {
+    "item": "cemm:smokey_quartz_wall",
+    "count": 6
+  }
+}

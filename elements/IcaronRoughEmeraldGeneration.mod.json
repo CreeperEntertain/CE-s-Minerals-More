@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_ORES",
+    "restrictionDimensions": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBiomes": [],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_ore\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"1\"></mutation><field name=\"size\">9</field><field name=\"discardOnAirChance\">0</field><value name=\"target0\"><block type=\"ore_target\"><comment pinned=\"false\" h=\"80\" w=\"160\">If the target block can be replaced by stone ores, place the stone variant</comment><value name=\"target\"><block type=\"rule_test_tag_match\"><field name=\"tag\">cemm:icaron_ore_bases</field></block></value><value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:RoughEmeraldBlock</field></block></value></block></value></block></value><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">5</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">-24</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">56</field></block></value><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:shiverwood_log"
+    },
+    "title": {
+      "translate": "advancements.shlumberjack.title"
+    },
+    "description": {
+      "translate": "advancements.shlumberjack.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "shlumberjack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:hold_your_breath"
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:acheron_nectar"
+    },
+    "title": {
+      "translate": "advancements.pact_with_the_devil.title"
+    },
+    "description": {
+      "translate": "advancements.pact_with_the_devil.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "pact_with_the_devil": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:phoenix"
+}

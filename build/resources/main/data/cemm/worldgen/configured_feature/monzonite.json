@@ -1,0 +1,42 @@
+{
+  "type": "cemm:monzonite",
+  "config": {
+    "size": 25,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:sanidine"
+          }
+        },
+        "state": {
+          "Name": "cemm:monzonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:magnetite_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:monzonite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:anorthite"
+          }
+        },
+        "state": {
+          "Name": "cemm:monzonite"
+        }
+      }
+    ]
+  }
+}

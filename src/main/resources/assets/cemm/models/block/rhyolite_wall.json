@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/rhyolite",
+    "particle": "cemm:block/rhyolite"
+  },
+  "render_type": "solid"
+}

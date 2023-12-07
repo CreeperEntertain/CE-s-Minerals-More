@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:Chronodust"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Primedust"
+    },
+    "name": "c_primedust",
+    "namespace": "mod"
+  }
+}

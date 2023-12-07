@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": "CUSTOM:Primedust"
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:XanthaniumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MiseryArmor.legs"
+    },
+    "name": "c_misery_leggings",
+    "namespace": "mod"
+  }
+}

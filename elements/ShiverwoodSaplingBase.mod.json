@@ -1,0 +1,84 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SeaSaltBlock"
+      },
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:RedSalt"
+      },
+      {
+        "value": "CUSTOM:SaltBlockSea"
+      },
+      {
+        "value": "CUSTOM:SaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockWhite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockRed"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      },
+      {
+        "value": "CUSTOM:RedSaltSea"
+      },
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingPhyllite"
+      },
+      {
+        "value": "CUSTOM:VibratingWhiteGranite"
+      },
+      {
+        "value": "CUSTOM:VibratingSoapstone"
+      },
+      {
+        "value": "CUSTOM:VibratingSerandite"
+      },
+      {
+        "value": "CUSTOM:VibratingSanidine"
+      },
+      {
+        "value": "CUSTOM:VibratingRedSalt"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingOligoclase"
+      },
+      {
+        "value": "CUSTOM:VibratingMylonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMonzonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMicrocline"
+      },
+      {
+        "value": "CUSTOM:VibratingAnorthite"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "shiverwood_sapling_base",
+    "namespace": "mod"
+  }
+}

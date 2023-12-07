@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrippedShellwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShellwoodLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrippedShellwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShellwoodLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrippedShellwoodWood"
+    },
+    "name": "c_stripped_shellwood_wood",
+    "namespace": "mod"
+  }
+}

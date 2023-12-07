@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:wine_flask"
+    },
+    "title": {
+      "translate": "advancements.i_dont_feel_so_good.title"
+    },
+    "description": {
+      "translate": "advancements.i_dont_feel_so_good.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "i_dont_feel_so_good": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:and_so_it_starts"
+}

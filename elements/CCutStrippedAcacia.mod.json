@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CutStrippedAcacia"
+    },
+    "name": "c_cut_stripped_acacia",
+    "namespace": "mod"
+  }
+}

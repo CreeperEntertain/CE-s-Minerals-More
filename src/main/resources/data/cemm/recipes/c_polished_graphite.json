@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:graphite_block"
+    },
+    "1": {
+      "item": "cemm:graphite_block"
+    },
+    "2": {
+      "item": "cemm:graphite_block"
+    },
+    "3": {
+      "item": "cemm:graphite_block"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_graphite_block",
+    "count": 4
+  }
+}

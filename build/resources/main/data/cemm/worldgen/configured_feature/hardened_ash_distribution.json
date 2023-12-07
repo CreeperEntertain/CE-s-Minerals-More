@@ -1,0 +1,18 @@
+{
+  "type": "cemm:hardened_ash_distribution",
+  "config": {
+    "target": {
+      "Name": "minecraft:netherrack"
+    },
+    "state": {
+      "Name": "cemm:hardened_ash"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 3,
+        "max_inclusive": 7
+      }
+    }
+  }
+}

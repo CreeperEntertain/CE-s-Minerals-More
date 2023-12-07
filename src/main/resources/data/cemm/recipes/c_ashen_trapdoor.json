@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ashen_planks"
+    },
+    "1": {
+      "item": "cemm:ashen_planks"
+    },
+    "2": {
+      "item": "cemm:ashen_planks"
+    },
+    "3": {
+      "item": "cemm:ashen_planks"
+    },
+    "4": {
+      "item": "cemm:ashen_planks"
+    },
+    "5": {
+      "item": "cemm:ashen_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:ashen_trapdoor",
+    "count": 2
+  }
+}

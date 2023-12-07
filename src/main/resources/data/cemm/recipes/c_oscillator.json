@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lead_ingot"
+    },
+    "1": {
+      "item": "cemm:tin_ingot"
+    },
+    "2": {
+      "item": "cemm:lead_ingot"
+    },
+    "3": {
+      "item": "cemm:capacitor"
+    },
+    "4": {
+      "item": "cemm:copper_wire"
+    },
+    "5": {
+      "item": "cemm:copper_wire"
+    },
+    "6": {
+      "item": "cemm:tantalum_pellet"
+    },
+    "8": {
+      "item": "cemm:tantalum_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:oscillator",
+    "count": 1
+  }
+}

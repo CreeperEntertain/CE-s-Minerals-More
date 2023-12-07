@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hardened_ash"
+    },
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "2": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "cemm:hardened_ash"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_gold_ore",
+    "count": 1
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "EntityWitherSkeleton"
+      },
+      {
+        "value": "EntitySkeleton"
+      },
+      {
+        "value": "EntitySilverfish"
+      },
+      {
+        "value": "EntityMagmaCube"
+      },
+      {
+        "value": "EntityHoglin"
+      },
+      {
+        "value": "EntityZoglin"
+      },
+      {
+        "value": "EntityPiglin"
+      },
+      {
+        "value": "EntityPiglinBrute"
+      },
+      {
+        "value": "EntityPigZombie"
+      }
+    ],
+    "biomes": [],
+    "name": "ashen_wanderer_targets",
+    "namespace": "mod"
+  }
+}

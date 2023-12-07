@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:magnetite"
+    },
+    "1": {
+      "item": "cemm:magnetite"
+    },
+    "2": {
+      "item": "cemm:magnetite"
+    },
+    "3": {
+      "item": "cemm:magnetite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_magnetite",
+    "count": 4
+  }
+}

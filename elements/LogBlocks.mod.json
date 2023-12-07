@@ -1,0 +1,120 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChlorowoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedChlorowoodLog"
+      },
+      {
+        "value": "CUSTOM:EbonyLog"
+      },
+      {
+        "value": "CUSTOM:StrippedEbonyLog"
+      },
+      {
+        "value": "CUSTOM:AshenLog"
+      },
+      {
+        "value": "CUSTOM:StrippedAshenLog"
+      },
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "Blocks.LOG#1"
+      },
+      {
+        "value": "Blocks.LOG#2"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": "Blocks.MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.CHERRY_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_OAK_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_SPRUCE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_BIRCH_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_JUNGLE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_DARK_OAK_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_CHERRY_LOG"
+      },
+      {
+        "value": "CUSTOM:LunarbarkStem"
+      },
+      {
+        "value": "CUSTOM:StrippedLunarbarkStem"
+      },
+      {
+        "value": "Blocks.WARPED_STEM"
+      },
+      {
+        "value": "Blocks.CRIMSON_STEM"
+      },
+      {
+        "value": "Blocks.STRIPPED_WARPED_STEM"
+      },
+      {
+        "value": "Blocks.STRIPPED_CRIMSON_STEM"
+      },
+      {
+        "value": "Blocks.MUSHROOM_STEM"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShiverwoodLog"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShinewoodLog"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShellwoodLog"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "logs",
+    "namespace": "minecraft"
+  }
+}

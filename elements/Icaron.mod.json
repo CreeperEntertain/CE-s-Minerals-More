@@ -1,0 +1,66 @@
+{
+  "_fv": 47,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:AcidOcean"
+      },
+      {
+        "value": "CUSTOM:BordeauxBoscage"
+      },
+      {
+        "value": "CUSTOM:BromianThicket"
+      },
+      {
+        "value": "CUSTOM:MeteorFields"
+      },
+      {
+        "value": "CUSTOM:SaltFields"
+      },
+      {
+        "value": "CUSTOM:TheEmptiness"
+      },
+      {
+        "value": "CUSTOM:VibratingTimberland"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:Anorthite"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:Acid"
+    },
+    "airColor": {
+      "value": -16777216,
+      "falpha": 0.0
+    },
+    "canRespawnHere": true,
+    "hasFog": false,
+    "isDark": true,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:RedSalt"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 0,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "enableIgniter": true,
+    "igniterName": "Icaron Portal Igniter",
+    "specialInfo": [],
+    "igniterTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "texture": "acheron_nectar",
+    "portalTexture": "ashen_leaves",
+    "enablePortal": false
+  }
+}

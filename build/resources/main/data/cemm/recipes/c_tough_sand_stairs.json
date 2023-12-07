@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tough_sand"
+    },
+    "3": {
+      "item": "cemm:tough_sand"
+    },
+    "4": {
+      "item": "cemm:tough_sand"
+    },
+    "6": {
+      "item": "cemm:tough_sand"
+    },
+    "7": {
+      "item": "cemm:tough_sand"
+    },
+    "8": {
+      "item": "cemm:tough_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_sand_stairs",
+    "count": 4
+  }
+}

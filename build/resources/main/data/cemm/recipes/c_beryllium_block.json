@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "1": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "2": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "3": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "4": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "5": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "6": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "7": {
+      "item": "cemm:beryllium_ingot"
+    },
+    "8": {
+      "item": "cemm:beryllium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:beryllium_block",
+    "count": 1
+  }
+}

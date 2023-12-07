@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutOak"
+      },
+      {
+        "value": "CUSTOM:CutStrippedOak"
+      },
+      {
+        "value": "Blocks.LOG#0"
+      },
+      {
+        "value": "Blocks.STRIPPED_OAK_LOG"
+      },
+      {
+        "value": "Blocks.OAK_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_OAK_WOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "oak_logs",
+    "namespace": "minecraft"
+  }
+}

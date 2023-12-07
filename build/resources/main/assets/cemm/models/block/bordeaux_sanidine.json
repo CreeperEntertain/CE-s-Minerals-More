@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/sanidine",
+    "top": "cemm:block/red_overgrowth_overlay",
+    "side": "cemm:block/sanidine",
+    "overlay": "cemm:block/red_overgrowth_overlay_side",
+    "particle": "cemm:block/sanidine"
+  },
+  "render_type": "cutout_mipped"
+}

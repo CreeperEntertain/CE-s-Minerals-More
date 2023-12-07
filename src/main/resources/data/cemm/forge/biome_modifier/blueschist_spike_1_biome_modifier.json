@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:blueschist_formations",
+  "features": "cemm:blueschist_spike_1",
+  "step": "surface_structures"
+}

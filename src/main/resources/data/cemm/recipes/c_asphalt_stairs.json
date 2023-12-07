@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:asphalt"
+    },
+    "3": {
+      "item": "cemm:asphalt"
+    },
+    "4": {
+      "item": "cemm:asphalt"
+    },
+    "6": {
+      "item": "cemm:asphalt"
+    },
+    "7": {
+      "item": "cemm:asphalt"
+    },
+    "8": {
+      "item": "cemm:asphalt"
+    }
+  },
+  "result": {
+    "item": "cemm:asphalt_stairs",
+    "count": 4
+  }
+}

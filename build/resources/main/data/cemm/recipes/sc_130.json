@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:limestone"
+  },
+  "result": "cemm:limestone_slab"
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.LOG2#1"
+      },
+      {
+        "value": "Blocks.STRIPPED_DARK_OAK_LOG"
+      },
+      {
+        "value": "Blocks.DARK_OAK_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_DARK_OAK_WOOD"
+      },
+      {
+        "value": "CUSTOM:CutDarkOak"
+      },
+      {
+        "value": "CUSTOM:CutStrippedDarkOak"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "dark_oak_logs",
+    "namespace": "minecraft"
+  }
+}

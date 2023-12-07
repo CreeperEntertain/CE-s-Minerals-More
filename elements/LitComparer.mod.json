@@ -1,0 +1,134 @@
+{
+  "_fv": 47,
+  "_type": "block",
+  "definition": {
+    "texture": "comparer_side_lit",
+    "textureTop": "block_placer_side_3",
+    "textureLeft": "block_placer_side_0",
+    "textureFront": "block_placer_front",
+    "textureRight": "block_placer_side_2",
+    "textureBack": "block_placer_back",
+    "renderType": 2,
+    "customModelName": "comparer_lit:default",
+    "rotationMode": 2,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": true,
+    "connectedSides": true,
+    "transparencyType": "SOLID",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Lit Comparer",
+    "specialInfo": [
+      "Gives a redstone output if the block inside matches the one in front"
+    ],
+    "hardness": 3.0,
+    "resistance": 3.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "No creative tab entry"
+    },
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "requiresCorrectTool": true,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canRedstoneConnect": true,
+    "lightOpacity": 0,
+    "material": {
+      "value": "ROCK"
+    },
+    "tickRate": 1,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "canProvidePower": true,
+    "emittedRedstonePower": {
+      "fixedValue": 1.0
+    },
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": "CUSTOM:Comparer"
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "reactionToPushing": "IGNORE",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "STONE"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 1,
+    "isBonemealable": false,
+    "hasInventory": true,
+    "guiBoundTo": "ComparerInterface",
+    "openGUIOnRightClick": true,
+    "inventorySize": 1,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": true,
+    "inventoryComparatorPower": false,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": false,
+    "energyInitial": 0,
+    "energyCapacity": 4000,
+    "energyMaxReceive": 200,
+    "energyMaxExtract": 200,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onTickUpdate": {
+      "name": "LitComparerTickUpdate"
+    },
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
+  }
+}

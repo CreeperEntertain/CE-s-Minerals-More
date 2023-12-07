@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/ebony_door"
+  },
+  "render_type": "translucent"
+}

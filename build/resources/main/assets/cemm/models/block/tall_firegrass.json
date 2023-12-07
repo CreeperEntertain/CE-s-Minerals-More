@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/tall_firegrass_top",
+    "particle": "cemm:block/tall_firegrass_top"
+  },
+  "render_type": "cutout"
+}

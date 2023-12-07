@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:stripped_shinewood_log"
+    },
+    "1": {
+      "item": "cemm:stripped_shinewood_log"
+    },
+    "2": {
+      "item": "cemm:stripped_shinewood_log"
+    },
+    "3": {
+      "item": "cemm:stripped_shinewood_log"
+    }
+  },
+  "result": {
+    "item": "cemm:stripped_shinewood_wood",
+    "count": 1
+  }
+}

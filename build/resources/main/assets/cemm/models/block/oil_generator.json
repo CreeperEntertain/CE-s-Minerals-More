@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/oil_generator",
+  "textures": {
+    "all": "cemm:block/aluminum_beam_connector",
+    "particle": "cemm:block/aluminum_beam_connector",
+    "Cable": "cemm:block/cable",
+    "Frame": "cemm:block/aluminum_frame",
+    "Beam Connector": "cemm:block/aluminum_beam_connector"
+  },
+  "render_type": "solid"
+}

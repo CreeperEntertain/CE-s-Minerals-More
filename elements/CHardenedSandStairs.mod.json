@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardenedSandStairs"
+    },
+    "name": "c_hardened_sand_stairs",
+    "namespace": "mod"
+  }
+}

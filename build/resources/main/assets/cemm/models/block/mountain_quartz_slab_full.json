@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mountain_quartz_block_bottom",
+    "top": "cemm:block/mountain_quartz_block_top",
+    "side": "cemm:block/mountain_quartz_block_side"
+  },
+  "render_type": "solid"
+}

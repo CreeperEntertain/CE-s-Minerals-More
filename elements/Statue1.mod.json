@@ -1,0 +1,25 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "statue_1",
+    "randomlyRotateStructure": true,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 7500,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 1,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": -18,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBlocks": [],
+    "restrictionBiomes": [],
+    "ignoreBlocks": "STRUCTURE_BLOCK",
+    "generateCondition": {
+      "name": "MetaCarboniteStructureLimitation"
+    }
+  }
+}

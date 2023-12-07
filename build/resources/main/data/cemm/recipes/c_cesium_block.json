@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cesium_ingot"
+    },
+    "1": {
+      "item": "cemm:cesium_ingot"
+    },
+    "2": {
+      "item": "cemm:cesium_ingot"
+    },
+    "3": {
+      "item": "cemm:cesium_ingot"
+    },
+    "4": {
+      "item": "cemm:cesium_ingot"
+    },
+    "5": {
+      "item": "cemm:cesium_ingot"
+    },
+    "6": {
+      "item": "cemm:cesium_ingot"
+    },
+    "7": {
+      "item": "cemm:cesium_ingot"
+    },
+    "8": {
+      "item": "cemm:cesium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:cesium_block",
+    "count": 1
+  }
+}

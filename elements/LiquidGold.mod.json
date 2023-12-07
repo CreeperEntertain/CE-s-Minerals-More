@@ -1,0 +1,49 @@
+{
+  "_fv": 47,
+  "_type": "fluid",
+  "definition": {
+    "name": "Liquid Gold",
+    "bucketName": "Liquid Gold Bucket",
+    "textureStill": "gold_still",
+    "textureFlowing": "gold_flow",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 30,
+    "levelDecrease": 2,
+    "slopeFindDistance": 2,
+    "spawnParticles": true,
+    "dripParticle": {
+      "value": "DRIP_LAVA"
+    },
+    "flowStrength": 0.7000000000000001,
+    "luminosity": 15,
+    "density": 18,
+    "viscosity": 800,
+    "temperature": 1380,
+    "type": "LAVA",
+    "generateBucket": true,
+    "textureBucket": "liquid_gold_bucket",
+    "creativeTab": {
+      "value": "CUSTOM:Materials"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty_lava"
+    },
+    "rarity": "COMMON",
+    "specialInfo": [],
+    "resistance": 100.0,
+    "luminance": 15,
+    "lightOpacity": 0,
+    "emissiveRendering": true,
+    "tickRate": 32,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onTickUpdate": {
+      "name": "LiquidGoldTickUpdate"
+    },
+    "onEntityCollides": {
+      "name": "LiquidGoldEntityCollision"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_aerinite"
+  },
+  "result": "cemm:polished_aerinite_wall"
+}

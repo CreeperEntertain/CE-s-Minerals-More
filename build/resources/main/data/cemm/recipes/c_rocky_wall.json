@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rocky_stone"
+    },
+    "1": {
+      "item": "cemm:rocky_stone"
+    },
+    "2": {
+      "item": "cemm:rocky_stone"
+    },
+    "3": {
+      "item": "cemm:rocky_stone"
+    },
+    "4": {
+      "item": "cemm:rocky_stone"
+    },
+    "5": {
+      "item": "cemm:rocky_stone"
+    }
+  },
+  "result": {
+    "item": "cemm:rocky_stone_wall",
+    "count": 6
+  }
+}

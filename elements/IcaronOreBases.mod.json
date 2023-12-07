@@ -1,0 +1,153 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:Obsiaster"
+      },
+      {
+        "value": "CUSTOM:CrysingObsiaster"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      },
+      {
+        "value": "CUSTOM:Monzonite"
+      },
+      {
+        "value": "CUSTOM:WhiteGranite"
+      },
+      {
+        "value": "CUSTOM:Pyroxene"
+      },
+      {
+        "value": "CUSTOM:Soapstone"
+      },
+      {
+        "value": "CUSTOM:MagnetiteSand"
+      },
+      {
+        "value": "CUSTOM:Anorthite"
+      },
+      {
+        "value": "CUSTOM:Oligoclase"
+      },
+      {
+        "value": "CUSTOM:Sanidine"
+      },
+      {
+        "value": "CUSTOM:Microcline"
+      },
+      {
+        "value": "CUSTOM:Quartzite"
+      },
+      {
+        "value": "CUSTOM:Phyllite"
+      },
+      {
+        "value": "CUSTOM:Mylonite"
+      },
+      {
+        "value": "CUSTOM:Serandite"
+      },
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingPhyllite"
+      },
+      {
+        "value": "CUSTOM:VibratingWhiteGranite"
+      },
+      {
+        "value": "CUSTOM:VibratingSoapstone"
+      },
+      {
+        "value": "CUSTOM:VibratingSerandite"
+      },
+      {
+        "value": "CUSTOM:VibratingSanidine"
+      },
+      {
+        "value": "CUSTOM:VibratingRedSalt"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingOligoclase"
+      },
+      {
+        "value": "CUSTOM:VibratingMylonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMonzonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMicrocline"
+      },
+      {
+        "value": "CUSTOM:VibratingAnorthite"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxAnorthite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMicrocline"
+      },
+      {
+        "value": "CUSTOM:BordeauxMonzonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxMoss"
+      },
+      {
+        "value": "CUSTOM:BordeauxMylonite"
+      },
+      {
+        "value": "CUSTOM:BordeauxOligoclase"
+      },
+      {
+        "value": "CUSTOM:BordeauxPhyllite"
+      },
+      {
+        "value": "CUSTOM:BordeauxPyroxene"
+      },
+      {
+        "value": "CUSTOM:BordeauxQuartzite"
+      },
+      {
+        "value": "CUSTOM:BordeauxRedSalt"
+      },
+      {
+        "value": "CUSTOM:BordeauxSanidine"
+      },
+      {
+        "value": "CUSTOM:BordeauxSerandite"
+      },
+      {
+        "value": "CUSTOM:BordeauxSoapstone"
+      },
+      {
+        "value": "CUSTOM:BordeauxWhiteGranite"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "icaron_ore_bases",
+    "namespace": "mod"
+  }
+}

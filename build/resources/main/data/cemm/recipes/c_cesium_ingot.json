@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cesium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:cesium_ingot",
+    "count": 9
+  }
+}

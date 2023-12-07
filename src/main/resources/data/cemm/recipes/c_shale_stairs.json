@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shale"
+    },
+    "3": {
+      "item": "cemm:shale"
+    },
+    "4": {
+      "item": "cemm:shale"
+    },
+    "6": {
+      "item": "cemm:shale"
+    },
+    "7": {
+      "item": "cemm:shale"
+    },
+    "8": {
+      "item": "cemm:shale"
+    }
+  },
+  "result": {
+    "item": "cemm:shale_stairs",
+    "count": 4
+  }
+}

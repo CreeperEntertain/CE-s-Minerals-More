@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:smooth_jaspilite"
+    },
+    "1": {
+      "item": "cemm:smooth_jaspilite"
+    },
+    "2": {
+      "item": "cemm:smooth_jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:smooth_jaspilite_slab",
+    "count": 6
+  }
+}

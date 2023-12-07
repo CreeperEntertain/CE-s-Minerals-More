@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/hardened_ash",
+    "top": "cemm:block/hardened_ash",
+    "side": "cemm:block/hardened_ash"
+  },
+  "render_type": "solid"
+}
