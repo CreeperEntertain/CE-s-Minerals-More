@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:acid_ocean",
+  "features": "cemm:acid_ocean_soapstone_underground_placement",
+  "step": "local_modifications"
+}

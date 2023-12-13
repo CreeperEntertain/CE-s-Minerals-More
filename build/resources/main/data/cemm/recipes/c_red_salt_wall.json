@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:red_salt"
+    },
+    "1": {
+      "item": "cemm:red_salt"
+    },
+    "2": {
+      "item": "cemm:red_salt"
+    },
+    "3": {
+      "item": "cemm:red_salt"
+    },
+    "4": {
+      "item": "cemm:red_salt"
+    },
+    "5": {
+      "item": "cemm:red_salt"
+    }
+  },
+  "result": {
+    "item": "cemm:red_salt_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/reinforced_brown_stained_glass",
+    "up": "cemm:block/empty",
+    "north": "cemm:block/reinforced_brown_stained_glass_bottom",
+    "east": "cemm:block/reinforced_brown_stained_glass_bottom",
+    "south": "cemm:block/reinforced_brown_stained_glass_bottom",
+    "west": "cemm:block/reinforced_brown_stained_glass_bottom",
+    "particle": "cemm:block/reinforced_brown_stained_glass"
+  },
+  "render_type": "translucent"
+}

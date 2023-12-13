@@ -1,0 +1,207 @@
+{
+  "type": "cemm:latite",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:white_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:orange_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:magenta_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:light_blue_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:yellow_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:lime_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:pink_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:gray_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:light_gray_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:cyan_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:purple_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:blue_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:brown_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:green_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:red_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:black_terracotta"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:red_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:red_sandstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:latite"
+        }
+      }
+    ]
+  }
+}

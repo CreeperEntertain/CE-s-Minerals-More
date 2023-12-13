@@ -1,0 +1,21 @@
+{
+  "type": "cemm:hornfels_overhangs_marble_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:hornfels",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:marble"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:salt_block"
+    }
+  },
+  "result": {
+    "item": "cemm:salt",
+    "count": 4
+  }
+}

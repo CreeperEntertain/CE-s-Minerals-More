@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ash",
+    "up": "cemm:block/ash",
+    "north": "cemm:block/gilded_ash_pillar_base",
+    "east": "cemm:block/gilded_ash_pillar_base",
+    "south": "cemm:block/gilded_ash_pillar_base",
+    "west": "cemm:block/gilded_ash_pillar_base",
+    "particle": "cemm:block/ash"
+  },
+  "render_type": "solid"
+}

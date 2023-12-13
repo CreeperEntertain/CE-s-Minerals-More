@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "TAG:minecraft:sand"
+      },
+      {
+        "value": "TAG:minecraft:gravel"
+      },
+      {
+        "value": "TAG:minecraft:sand"
+      },
+      {
+        "value": "TAG:minecraft:gravel"
+      },
+      {
+        "value": "TAG:cemm:reinforced_concrete_binders"
+      },
+      {
+        "value": "TAG:minecraft:gravel"
+      },
+      {
+        "value": "TAG:minecraft:sand"
+      },
+      {
+        "value": "TAG:minecraft:gravel"
+      },
+      {
+        "value": "TAG:minecraft:sand"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedConcrete"
+    },
+    "name": "c_reinforced_concrete",
+    "namespace": "mod"
+  }
+}

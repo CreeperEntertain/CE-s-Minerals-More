@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:smooth_smokey_quartz"
+    },
+    "3": {
+      "item": "cemm:smooth_smokey_quartz"
+    },
+    "4": {
+      "item": "cemm:smooth_smokey_quartz"
+    },
+    "6": {
+      "item": "cemm:smooth_smokey_quartz"
+    },
+    "7": {
+      "item": "cemm:smooth_smokey_quartz"
+    },
+    "8": {
+      "item": "cemm:smooth_smokey_quartz"
+    }
+  },
+  "result": {
+    "item": "cemm:smooth_smokey_quartz_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "cemm:icaron_rough_diamond_generation",
+  "step": "underground_ores"
+}

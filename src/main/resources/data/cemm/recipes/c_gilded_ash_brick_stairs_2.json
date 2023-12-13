@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "3": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "4": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "6": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "7": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "8": {
+      "item": "cemm:gilded_ash_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:gilded_ash_brick_stairs",
+    "count": 4
+  }
+}

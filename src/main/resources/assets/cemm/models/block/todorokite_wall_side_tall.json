@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/todorokite_top",
+    "particle": "cemm:block/todorokite_top"
+  },
+  "render_type": "solid"
+}

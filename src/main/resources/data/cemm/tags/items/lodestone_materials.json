@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:neodymium_ingot",
+    "cemm:magnetite",
+    "cemm:meta_carbonite",
+    "cemm:magnet",
+    "cemm:magnetite_sand"
+  ]
+}

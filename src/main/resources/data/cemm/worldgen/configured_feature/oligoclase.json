@@ -1,0 +1,31 @@
+{
+  "type": "cemm:oligoclase",
+  "config": {
+    "size": 28,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:pyroxene"
+          }
+        },
+        "state": {
+          "Name": "cemm:oligoclase"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:vibrating_pyroxene"
+          }
+        },
+        "state": {
+          "Name": "cemm:oligoclase"
+        }
+      }
+    ]
+  }
+}

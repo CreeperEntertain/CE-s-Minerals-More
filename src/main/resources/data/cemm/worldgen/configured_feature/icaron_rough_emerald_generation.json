@@ -1,0 +1,18 @@
+{
+  "type": "cemm:icaron_rough_emerald_generation",
+  "config": {
+    "size": 9,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "cemm:icaron_ore_bases"
+        },
+        "state": {
+          "Name": "cemm:rough_emerald_block"
+        }
+      }
+    ]
+  }
+}

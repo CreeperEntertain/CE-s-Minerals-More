@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Latite"
+      },
+      {
+        "value": "CUSTOM:Latite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Latite"
+      },
+      {
+        "value": "CUSTOM:Latite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedLatite"
+    },
+    "name": "c_polished_latite",
+    "namespace": "mod"
+  }
+}

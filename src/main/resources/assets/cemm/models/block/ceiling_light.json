@@ -1,0 +1,12 @@
+{
+  "parent": "cemm:custom/ceilinglight",
+  "textures": {
+    "all": "cemm:block/aluminum",
+    "particle": "cemm:block/aluminum",
+    "Aluminum": "cemm:block/aluminum",
+    "White Light": "cemm:block/white_light",
+    "missing": "cemm:block/aluminum",
+    "Claystone": "cemm:block/claystone"
+  },
+  "render_type": "solid"
+}

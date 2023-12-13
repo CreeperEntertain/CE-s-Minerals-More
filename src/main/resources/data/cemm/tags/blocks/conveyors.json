@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:conveyor_advanced_top",
+    "cemm:conveyor_improved_bottom",
+    "cemm:conveyor_improved_top",
+    "cemm:conveyor_bottom",
+    "minecraft:air",
+    "cemm:conveyor_advanced_bottom",
+    "cemm:conveyor_top"
+  ]
+}

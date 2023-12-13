@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chromium_block",
+    "particle": "cemm:block/chromium_block"
+  },
+  "render_type": "solid"
+}

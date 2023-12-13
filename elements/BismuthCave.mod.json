@@ -1,0 +1,115 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Bismuth Cave",
+    "groundBlock": {
+      "value": "CUSTOM:Bismuthinite"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Bismuthinite"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:Bismuthinite"
+    },
+    "ambientSound": {
+      "value": "CUSTOM:ambient.wind_0"
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.hush"
+    },
+    "moodSound": {
+      "value": "CUSTOM:mood.cave"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.5,
+    "temperature": 1.7999999999999998,
+    "spawnBiome": true,
+    "spawnInCaves": true,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.1,
+      "max": 0.9066666666666665
+    },
+    "genHumidity": {
+      "min": -0.143242,
+      "max": 0.04
+    },
+    "genContinentalness": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "genErosion": {
+      "min": -1.04,
+      "max": -0.8423
+    },
+    "genWeirdness": {
+      "min": -1.686,
+      "max": -0.44345
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "AmethystGeodes",
+      "Fossils",
+      "MonsterRooms",
+      "TaigaRocks"
+    ],
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": true,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "MOUNTAIN",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityWitherSkeleton"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shellwood_planks"
+    },
+    "1": {
+      "item": "cemm:shellwood_planks"
+    },
+    "2": {
+      "item": "cemm:shellwood_planks"
+    },
+    "3": {
+      "item": "cemm:shellwood_planks"
+    },
+    "4": {
+      "item": "cemm:shellwood_planks"
+    },
+    "5": {
+      "item": "cemm:shellwood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shellwood_trapdoor",
+    "count": 2
+  }
+}

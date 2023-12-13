@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RakedGravel"
+      },
+      {
+        "value": "CUSTOM:WashedGravel"
+      },
+      {
+        "value": "CUSTOM:BankRunGravel"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Blocks.SUSPICIOUS_GRAVEL"
+      },
+      {
+        "value": "CUSTOM:Slag"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "gravel",
+    "namespace": "minecraft"
+  }
+}

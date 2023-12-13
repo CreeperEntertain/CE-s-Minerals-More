@@ -1,0 +1,210 @@
+{
+  "_fv": 47,
+  "_type": "block",
+  "definition": {
+    "texture": "aluminum_beam_connector",
+    "textureTop": "coal_generator_top",
+    "textureLeft": "coal_generator_side",
+    "textureFront": "coal_generator_front",
+    "textureRight": "coal_generator_side",
+    "textureBack": "coal_generator_side",
+    "renderType": 2,
+    "customModelName": "oil_generator:default",
+    "rotationMode": 0,
+    "enablePitch": false,
+    "emissiveRendering": false,
+    "displayFluidOverlay": false,
+    "itemTexture": "",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "hasTransparency": true,
+    "connectedSides": false,
+    "transparencyType": "SOLID",
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 1.0,
+        "Mz": 16.0,
+        "subtract": false
+      },
+      {
+        "mx": 2.0,
+        "my": 1.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 13.0,
+        "Mz": 14.0,
+        "subtract": false
+      },
+      {
+        "mx": 1.0,
+        "my": 12.0,
+        "mz": 1.0,
+        "Mx": 5.0,
+        "My": 15.0,
+        "Mz": 5.0,
+        "subtract": false
+      },
+      {
+        "mx": 13.0,
+        "my": 12.0,
+        "mz": 9.0,
+        "Mx": 15.0,
+        "My": 14.0,
+        "Mz": 15.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 5.0,
+        "mz": 0.0,
+        "Mx": 11.0,
+        "My": 11.0,
+        "Mz": 2.0,
+        "subtract": false
+      },
+      {
+        "mx": 0.0,
+        "my": 5.0,
+        "mz": 5.0,
+        "Mx": 2.0,
+        "My": 11.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 5.0,
+        "mz": 14.0,
+        "Mx": 11.0,
+        "My": 11.0,
+        "Mz": 16.0,
+        "subtract": false
+      },
+      {
+        "mx": 14.0,
+        "my": 5.0,
+        "mz": 5.0,
+        "Mx": 16.0,
+        "My": 11.0,
+        "Mz": 11.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 13.0,
+        "mz": 5.0,
+        "Mx": 11.0,
+        "My": 16.0,
+        "Mz": 11.0,
+        "subtract": false
+      }
+    ],
+    "name": "Oil Generator",
+    "specialInfo": [
+      "Produces 200 energy per second",
+      "Has to be placed over oil"
+    ],
+    "hardness": 5.0,
+    "resistance": 10.0,
+    "hasGravity": false,
+    "isWaterloggable": false,
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "destroyTool": "pickaxe",
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "useLootTableForDrops": false,
+    "requiresCorrectTool": true,
+    "enchantPowerBonus": 0.0,
+    "plantsGrowOn": false,
+    "canRedstoneConnect": false,
+    "lightOpacity": 0,
+    "material": {
+      "value": "IRON"
+    },
+    "tickRate": 1,
+    "tickRandomly": false,
+    "isReplaceable": false,
+    "canProvidePower": false,
+    "emittedRedstonePower": {
+      "fixedValue": 15.0
+    },
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "NONE",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "isLadder": false,
+    "slipperiness": 0.6,
+    "speedFactor": 1.0,
+    "jumpFactor": 1.0,
+    "reactionToPushing": "IGNORE",
+    "isNotColidable": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "ANVIL"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "luminance": 0,
+    "unbreakable": false,
+    "breakHarvestLevel": 2,
+    "isBonemealable": false,
+    "hasInventory": true,
+    "guiBoundTo": "CableInterface",
+    "openGUIOnRightClick": true,
+    "inventorySize": 0,
+    "inventoryStackSize": 64,
+    "inventoryDropWhenDestroyed": false,
+    "inventoryComparatorPower": false,
+    "inventoryOutSlotIDs": [],
+    "inventoryInSlotIDs": [],
+    "hasEnergyStorage": true,
+    "energyInitial": 0,
+    "energyCapacity": 4000,
+    "energyMaxReceive": 4000,
+    "energyMaxExtract": 100,
+    "isFluidTank": false,
+    "fluidCapacity": 8000,
+    "fluidRestrictions": [],
+    "onRightClicked": {
+      "name": "SaveInteractedBlockPositionToPlayer"
+    },
+    "onTickUpdate": {
+      "name": "OilGeneratorManagement"
+    },
+    "spawnWorldTypes": [],
+    "restrictionBiomes": [],
+    "blocksToReplace": [],
+    "generationShape": "UNIFORM",
+    "frequencyPerChunks": 10,
+    "frequencyOnChunk": 16,
+    "minGenerateHeight": 0,
+    "maxGenerateHeight": 64
+  }
+}

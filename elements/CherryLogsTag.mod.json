@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutCherry"
+      },
+      {
+        "value": "CUSTOM:CutStrippedCherry"
+      },
+      {
+        "value": "Blocks.CHERRY_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_CHERRY_LOG"
+      },
+      {
+        "value": "Blocks.CHERRY_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_CHERRY_WOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "cherry_logs",
+    "namespace": "minecraft"
+  }
+}

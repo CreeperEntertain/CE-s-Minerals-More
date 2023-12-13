@@ -1,0 +1,20 @@
+{
+  "type": "cemm:basalt_quartz_ore",
+  "config": {
+    "size": 12,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:smooth_basalt"
+          }
+        },
+        "state": {
+          "Name": "cemm:basalt_quartz_ore"
+        }
+      }
+    ]
+  }
+}

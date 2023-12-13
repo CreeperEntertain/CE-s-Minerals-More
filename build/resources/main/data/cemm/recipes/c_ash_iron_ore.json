@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hardened_ash"
+    },
+    "1": {
+      "item": "minecraft:raw_iron"
+    },
+    "2": {
+      "item": "minecraft:raw_iron"
+    },
+    "3": {
+      "item": "cemm:hardened_ash"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_iron_ore",
+    "count": 1
+  }
+}

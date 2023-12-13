@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tokyoite"
+    },
+    "1": {
+      "item": "cemm:tokyoite"
+    },
+    "2": {
+      "item": "cemm:tokyoite"
+    },
+    "3": {
+      "item": "cemm:tokyoite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_tokyoite",
+    "count": 4
+  }
+}

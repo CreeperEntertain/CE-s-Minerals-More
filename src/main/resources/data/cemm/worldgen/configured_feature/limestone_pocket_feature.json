@@ -1,0 +1,20 @@
+{
+  "type": "cemm:limestone_pocket_feature",
+  "config": {
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "cemm:limestone",
+        "Properties": {
+          "axis": "y"
+        }
+      }
+    },
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    }
+  }
+}

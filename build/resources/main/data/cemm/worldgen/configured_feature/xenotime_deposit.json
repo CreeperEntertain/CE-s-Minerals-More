@@ -1,0 +1,31 @@
+{
+  "type": "cemm:xenotime_deposit",
+  "config": {
+    "size": 24,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:xenotime_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:shungite"
+          }
+        },
+        "state": {
+          "Name": "cemm:xenotime_deposit"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:stone"
+    },
+    "3": {
+      "item": "cemm:warning_tape"
+    },
+    "4": {
+      "item": "cemm:warning_tape"
+    },
+    "5": {
+      "item": "cemm:warning_tape"
+    },
+    "6": {
+      "item": "minecraft:stone"
+    },
+    "7": {
+      "item": "minecraft:stone"
+    },
+    "8": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:warning_barrier",
+    "count": 3
+  }
+}

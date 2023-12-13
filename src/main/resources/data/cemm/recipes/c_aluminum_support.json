@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "2 "
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aluminum_grid"
+    },
+    "1": {
+      "item": "cemm:aluminum_grid"
+    },
+    "2": {
+      "item": "cemm:coated_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_support",
+    "count": 1
+  }
+}

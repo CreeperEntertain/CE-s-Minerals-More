@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:misery_drops"
+    },
+    "1": {
+      "item": "cemm:shiftfabric"
+    },
+    "2": {
+      "item": "cemm:misery_drops"
+    },
+    "3": {
+      "item": "cemm:shiftfabric"
+    },
+    "4": {
+      "item": "cemm:chlorophyl_ingot"
+    },
+    "5": {
+      "item": "cemm:shiftfabric"
+    },
+    "6": {
+      "item": "cemm:misery_drops"
+    },
+    "7": {
+      "item": "cemm:shiftfabric"
+    },
+    "8": {
+      "item": "cemm:misery_drops"
+    }
+  },
+  "result": {
+    "item": "cemm:xanthanium_nugget",
+    "count": 1
+  }
+}

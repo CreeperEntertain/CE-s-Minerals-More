@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:baryte_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:baryte_dust",
+    "count": 2
+  }
+}

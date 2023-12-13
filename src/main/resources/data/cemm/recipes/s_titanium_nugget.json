@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 100,
+  "cookingtime": 6000,
+  "ingredient": {
+    "item": "cemm:ilmenite"
+  },
+  "result": "cemm:titanium_nugget"
+}

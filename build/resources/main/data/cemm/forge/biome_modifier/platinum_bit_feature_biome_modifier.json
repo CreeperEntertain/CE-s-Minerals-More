@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_river",
+    "plains",
+    "beach",
+    "river",
+    "snowy_beach"
+  ],
+  "features": "cemm:platinum_bit_feature",
+  "step": "top_layer_modification"
+}

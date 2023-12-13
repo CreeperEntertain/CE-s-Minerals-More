@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:steel_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.advanced_plating.title"
+    },
+    "description": {
+      "translate": "advancements.advanced_plating.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "advanced_plating": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:industrial_revolution"
+}

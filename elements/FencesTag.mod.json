@@ -1,0 +1,37 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [
+      {
+        "value": "CUSTOM:CastIronFence"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_FENCE"
+      }
+    ],
+    "blocks": [
+      {
+        "value": "CUSTOM:CastIronFence"
+      },
+      {
+        "value": "Blocks.NETHER_BRICK_FENCE"
+      },
+      {
+        "value": "CUSTOM:IndustrialIronFence"
+      },
+      {
+        "value": "CUSTOM:CastCopperFence"
+      },
+      {
+        "value": "CUSTOM:IndustrialCopperFence"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "fences",
+    "namespace": "minecraft"
+  }
+}

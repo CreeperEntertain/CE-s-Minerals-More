@@ -1,0 +1,36 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "CUSTOM:ConveyorBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorTop"
+      },
+      {
+        "value": "CUSTOM:ConveyorAdvancedBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorAdvancedTop"
+      },
+      {
+        "value": "CUSTOM:ConveyorImprovedBottom"
+      },
+      {
+        "value": "CUSTOM:ConveyorImprovedTop"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "conveyors",
+    "namespace": "mod"
+  }
+}

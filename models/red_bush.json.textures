@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "overgrowth_top": "red_overgrowth_overlay",
+        "bush": "red_bush",
+        "overgrowth_side": "red_overgrowth_overlay_side"
+      },
+      "name": "default"
+    }
+  }
+}

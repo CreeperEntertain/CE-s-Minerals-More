@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "copper_scaffolding_side",
+        "Top": "copper_scaffolding_top"
+      },
+      "name": "default"
+    }
+  }
+}

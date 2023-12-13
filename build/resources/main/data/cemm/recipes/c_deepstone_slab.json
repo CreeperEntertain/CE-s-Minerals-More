@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:deepstone"
+    },
+    "1": {
+      "item": "cemm:deepstone"
+    },
+    "2": {
+      "item": "cemm:deepstone"
+    }
+  },
+  "result": {
+    "item": "cemm:deepstone_slab",
+    "count": 6
+  }
+}

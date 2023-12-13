@@ -1,0 +1,33 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warped_forest",
+    "forest",
+    "sunflower_plains",
+    "sparse_jungle",
+    "flower_forest",
+    "birch_forest",
+    "lush_caves",
+    "mangrove_swamp",
+    "bamboo_jungle",
+    "ice_spikes",
+    "dark_forest",
+    "plains",
+    "meadow",
+    "snowy_beach",
+    "old_growth_spruce_taiga",
+    "snowy_plains",
+    "dripstone_caves",
+    "taiga",
+    "crimson_forest",
+    "swamp",
+    "snowy_taiga",
+    "old_growth_birch_forest",
+    "grove",
+    "old_growth_pine_taiga",
+    "beach",
+    "jungle"
+  ],
+  "features": "cemm:andesite_spike_2",
+  "step": "surface_structures"
+}

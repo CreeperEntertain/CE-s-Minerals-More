@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ash"
+    },
+    "1": {
+      "item": "cemm:ash"
+    },
+    "2": {
+      "item": "cemm:ash"
+    },
+    "3": {
+      "item": "cemm:ash"
+    }
+  },
+  "result": {
+    "item": "cemm:hardened_ash",
+    "count": 2
+  }
+}

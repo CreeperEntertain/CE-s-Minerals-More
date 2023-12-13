@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cast_iron_block"
+    }
+  },
+  "result": {
+    "item": "cemm:cast_iron_brick",
+    "count": 4
+  }
+}

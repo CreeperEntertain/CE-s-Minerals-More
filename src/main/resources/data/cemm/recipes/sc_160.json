@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_chalcopyrite"
+  },
+  "result": "cemm:polished_chalcopyrite_wall"
+}

@@ -1,0 +1,12 @@
+{
+  "type": "cemm:claystone_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:claystone"
+    },
+    "radius": 12
+  }
+}

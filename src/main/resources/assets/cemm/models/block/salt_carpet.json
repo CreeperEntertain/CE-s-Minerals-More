@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/salt_carpet",
+  "textures": {
+    "all": "cemm:block/salt_block",
+    "particle": "cemm:block/salt_block",
+    "missing": "cemm:block/salt_block"
+  },
+  "render_type": "solid"
+}

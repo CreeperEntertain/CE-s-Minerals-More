@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/parquet_flooring",
+  "textures": {
+    "all": "cemm:block/parquet",
+    "particle": "cemm:block/parquet",
+    "0": "cemm:block/parquet"
+  },
+  "render_type": "solid"
+}

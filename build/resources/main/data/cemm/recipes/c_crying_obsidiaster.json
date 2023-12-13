@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:meteorite"
+    },
+    "1": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "cemm:crysing_obsiaster",
+    "count": 1
+  }
+}

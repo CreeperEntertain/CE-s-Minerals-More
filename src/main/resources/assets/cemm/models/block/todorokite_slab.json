@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/todorokite_top",
+    "top": "cemm:block/todorokite_top",
+    "side": "cemm:block/todorokite"
+  },
+  "render_type": "solid"
+}

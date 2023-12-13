@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/processedaluminumgrid",
+  "textures": {
+    "all": "cemm:block/processed_aluminum_grid",
+    "particle": "cemm:block/processed_aluminum_grid",
+    "Main": "cemm:block/processed_aluminum_grid"
+  },
+  "render_type": "cutout_mipped"
+}

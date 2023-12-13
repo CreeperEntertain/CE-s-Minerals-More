@@ -1,0 +1,29 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:red_salt_white"
+    },
+    "title": {
+      "translate": "advancements.hold_your_breath.title"
+    },
+    "description": {
+      "translate": "advancements.hold_your_breath.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hold_your_breath": {
+      "trigger": "minecraft:changed_dimension",
+      "conditions": {
+        "to": "cemm:icaron"
+      }
+    }
+  },
+  "rewards": {
+    "experience": 500
+  },
+  "parent": "cemm:discomfort"
+}

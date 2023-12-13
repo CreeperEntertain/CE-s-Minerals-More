@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "leaves": "cabbage_leaf_01"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:lignite_flats",
+  "features": "cemm:lignite_flats_mudstone_feature",
+  "step": "underground_decoration"
+}

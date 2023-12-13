@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:kenhsuite_boulder",
+  "step": "underground_structures"
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "cemm:lithium_ingot"
+    },
+    "3": {
+      "item": "cemm:lithium_ingot"
+    },
+    "4": {
+      "item": "cemm:improved_battery"
+    },
+    "5": {
+      "item": "cemm:lithium_ingot"
+    },
+    "7": {
+      "item": "cemm:lithium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:advanced_battery",
+    "count": 1
+  }
+}

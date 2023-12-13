@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/industrial_iron",
+    "particle": "cemm:block/industrial_iron"
+  },
+  "render_type": "solid"
+}

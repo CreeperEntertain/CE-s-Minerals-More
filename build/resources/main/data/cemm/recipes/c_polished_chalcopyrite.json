@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:chalcopyrite"
+    },
+    "1": {
+      "item": "cemm:chalcopyrite"
+    },
+    "2": {
+      "item": "cemm:chalcopyrite"
+    },
+    "3": {
+      "item": "cemm:chalcopyrite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_chalcopyrite",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/inyoite_top",
+    "particle": "cemm:block/inyoite_top"
+  },
+  "render_type": "solid"
+}

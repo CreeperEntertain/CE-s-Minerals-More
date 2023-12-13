@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/lazulite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/lazulite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/lazulite_slab_full"
+    }
+  }
+}

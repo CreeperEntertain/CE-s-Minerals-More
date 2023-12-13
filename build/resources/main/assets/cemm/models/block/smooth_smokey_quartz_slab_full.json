@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/smokey_quartz_block_bottom",
+    "top": "cemm:block/smokey_quartz_block_bottom",
+    "side": "cemm:block/smokey_quartz_block_bottom"
+  },
+  "render_type": "solid"
+}

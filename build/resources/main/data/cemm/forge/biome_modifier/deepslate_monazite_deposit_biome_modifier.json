@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:monazite_desert",
+  "features": "cemm:deepslate_monazite_deposit",
+  "step": "underground_ores"
+}

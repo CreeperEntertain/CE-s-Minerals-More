@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/stripped_shinewood_log",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/stripped_shinewood_log"
+    },
+    "axis=z": {
+      "model": "cemm:block/stripped_shinewood_log",
+      "x": 90
+    }
+  }
+}

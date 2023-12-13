@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:aluminum_frame"
+    },
+    {
+      "item": "minecraft:gray_stained_glass"
+    }
+  ],
+  "result": {
+    "item": "cemm:gray_framed_glass",
+    "count": 1
+  }
+}

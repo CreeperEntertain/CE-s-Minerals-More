@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/fly_ash_bricks",
+    "top": "cemm:block/fly_ash_bricks",
+    "side": "cemm:block/fly_ash_bricks"
+  },
+  "render_type": "solid"
+}

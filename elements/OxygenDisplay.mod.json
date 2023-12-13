@@ -1,0 +1,58 @@
+{
+  "_fv": 47,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_oxygen_left",
+          "text": {
+            "fixedValue": "Oxygen:"
+          },
+          "color": {
+            "value": -52429,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "OxygenDisplayCondition"
+          },
+          "x": 6,
+          "y": 217
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_030s",
+          "text": {
+            "fixedValue": "100%",
+            "name": "GetOxygenPercentage"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "displayCondition": {
+            "name": "OxygenDisplayCondition"
+          },
+          "x": 46,
+          "y": 217
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "TimeDisplayDisplayCondition"
+    },
+    "gridSettings": {
+      "sx": 20,
+      "sy": 22,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

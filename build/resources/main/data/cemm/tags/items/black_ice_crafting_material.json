@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:charcoal",
+    "minecraft:coal",
+    "cemm:hafnium_carbide_powder",
+    "cemm:graphite",
+    "cemm:shungite",
+    "minecraft:black_dye",
+    "cemm:lignite_block",
+    "cemm:pure_carbon"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:tough_sand"
+    },
+    "1": {
+      "item": "cemm:tough_sand"
+    },
+    "2": {
+      "item": "cemm:tough_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_sand_slab",
+    "count": 6
+  }
+}

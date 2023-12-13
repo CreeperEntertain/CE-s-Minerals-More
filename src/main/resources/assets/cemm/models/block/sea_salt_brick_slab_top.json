@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/sea_salt_bricks",
+    "top": "cemm:block/sea_salt_bricks",
+    "side": "cemm:block/sea_salt_bricks"
+  },
+  "render_type": "solid"
+}

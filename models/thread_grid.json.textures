@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "thread_grid": "thread_grid"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:parquet"
+    },
+    "1": {
+      "item": "cemm:parquet"
+    }
+  },
+  "result": {
+    "item": "cemm:parquet_flooring",
+    "count": 8
+  }
+}

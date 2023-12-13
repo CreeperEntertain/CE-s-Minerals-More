@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cast_iron_fence",
+    "cemm:cast_copper_fence",
+    "minecraft:nether_brick_fence",
+    "cemm:industrial_iron_fence",
+    "cemm:industrial_copper_fence"
+  ]
+}

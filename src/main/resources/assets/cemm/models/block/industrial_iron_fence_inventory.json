@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "cemm:block/industrial_iron",
+    "particle": "cemm:block/industrial_iron"
+  },
+  "render_type": "solid"
+}

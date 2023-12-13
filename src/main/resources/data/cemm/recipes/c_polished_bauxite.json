@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:bauxite_block"
+    },
+    "1": {
+      "item": "cemm:bauxite_block"
+    },
+    "2": {
+      "item": "cemm:bauxite_block"
+    },
+    "3": {
+      "item": "cemm:bauxite_block"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_bauxite_block",
+    "count": 4
+  }
+}

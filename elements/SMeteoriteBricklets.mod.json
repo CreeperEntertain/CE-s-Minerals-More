@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 2000,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Meteorite"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:MeteoriteBricklet"
+    },
+    "name": "s_meteorite_bricklets",
+    "namespace": "mod"
+  }
+}

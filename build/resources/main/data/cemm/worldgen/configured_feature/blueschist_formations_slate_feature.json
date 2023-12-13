@@ -1,0 +1,18 @@
+{
+  "type": "cemm:blueschist_formations_slate_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:blueschist"
+    },
+    "state": {
+      "Name": "cemm:slate"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

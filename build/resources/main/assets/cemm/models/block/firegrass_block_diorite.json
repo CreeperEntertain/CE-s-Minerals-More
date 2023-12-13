@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/diorite",
+    "up": "cemm:block/firegrass_block_top",
+    "north": "cemm:block/firegrass_block_side_diorite",
+    "east": "cemm:block/firegrass_block_side_diorite",
+    "south": "cemm:block/firegrass_block_side_diorite",
+    "west": "cemm:block/firegrass_block_side_diorite",
+    "particle": "cemm:block/diorite"
+  },
+  "render_type": "solid"
+}

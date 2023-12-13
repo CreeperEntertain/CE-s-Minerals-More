@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:siltstone"
+    },
+    "1": {
+      "item": "cemm:siltstone"
+    },
+    "2": {
+      "item": "cemm:siltstone"
+    }
+  },
+  "result": {
+    "item": "cemm:siltstone_slab",
+    "count": 6
+  }
+}

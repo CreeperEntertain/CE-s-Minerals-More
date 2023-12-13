@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gneiss"
+    },
+    "1": {
+      "item": "cemm:gneiss"
+    },
+    "2": {
+      "item": "cemm:gneiss"
+    },
+    "3": {
+      "item": "cemm:gneiss"
+    },
+    "4": {
+      "item": "cemm:gneiss"
+    },
+    "5": {
+      "item": "cemm:gneiss"
+    }
+  },
+  "result": {
+    "item": "cemm:gneiss_wall",
+    "count": 6
+  }
+}

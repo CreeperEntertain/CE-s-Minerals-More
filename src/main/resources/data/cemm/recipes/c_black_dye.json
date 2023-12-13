@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:pure_carbon"
+    }
+  },
+  "result": {
+    "item": "minecraft:black_dye",
+    "count": 1
+  }
+}

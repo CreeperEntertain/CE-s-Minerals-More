@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/inyoite_top",
+    "up": "cemm:block/inyoite_top",
+    "north": "cemm:block/inyoite",
+    "east": "cemm:block/inyoite",
+    "south": "cemm:block/inyoite",
+    "west": "cemm:block/inyoite",
+    "particle": "cemm:block/inyoite_top"
+  },
+  "render_type": "solid"
+}

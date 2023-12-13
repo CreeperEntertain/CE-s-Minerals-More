@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_pink_glass",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:chlorophyl_armor_helmet"
+    },
+    "title": {
+      "translate": "advancements.looks_like_spinach.title"
+    },
+    "description": {
+      "translate": "advancements.looks_like_spinach.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "looks_like_spinach": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:lively_stock"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "3 5",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "cemm:lunarbark_stem"
+    },
+    "3": {
+      "item": "cemm:lunarbark_stem"
+    },
+    "5": {
+      "item": "cemm:lunarbark_stem"
+    },
+    "7": {
+      "item": "cemm:lunarbark_stem"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_lunarbark",
+    "count": 3
+  }
+}

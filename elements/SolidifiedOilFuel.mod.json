@@ -1,0 +1,15 @@
+{
+  "_fv": 47,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:SolidifiedOil"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 1200.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.0
+  }
+}

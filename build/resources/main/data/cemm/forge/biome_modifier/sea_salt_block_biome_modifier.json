@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "snowy_beach"
+  ],
+  "features": "cemm:sea_salt_block",
+  "step": "underground_ores"
+}

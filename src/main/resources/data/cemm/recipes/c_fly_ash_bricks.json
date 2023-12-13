@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:fly_ash_brick"
+    },
+    "1": {
+      "item": "cemm:fly_ash_brick"
+    },
+    "2": {
+      "item": "cemm:fly_ash_brick"
+    },
+    "3": {
+      "item": "cemm:fly_ash_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:fly_ash_bricks",
+    "count": 1
+  }
+}

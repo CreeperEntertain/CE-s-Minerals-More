@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hardened_sand"
+    },
+    "1": {
+      "item": "cemm:hardened_sand"
+    },
+    "2": {
+      "item": "cemm:hardened_sand"
+    },
+    "3": {
+      "item": "cemm:hardened_sand"
+    },
+    "4": {
+      "item": "cemm:hardened_sand"
+    },
+    "5": {
+      "item": "cemm:hardened_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:hardened_sand_wall",
+    "count": 6
+  }
+}

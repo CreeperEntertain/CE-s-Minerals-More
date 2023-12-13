@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:primedust"
+    },
+    "1": {
+      "item": "cemm:shiftfabric"
+    },
+    "2": {
+      "item": "cemm:primedust"
+    },
+    "3": {
+      "item": "cemm:shiftfabric"
+    },
+    "4": {
+      "item": "cemm:xanthanium_block"
+    },
+    "5": {
+      "item": "cemm:shiftfabric"
+    },
+    "6": {
+      "item": "cemm:primedust"
+    },
+    "7": {
+      "item": "cemm:shiftfabric"
+    },
+    "8": {
+      "item": "cemm:primedust"
+    }
+  },
+  "result": {
+    "item": "cemm:dimensional_pocket_inactive",
+    "count": 1
+  }
+}

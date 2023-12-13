@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:coated_aluminum_plate"
+    },
+    "1": {
+      "item": "cemm:coated_aluminum_plate"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_plate_slab",
+    "count": 1
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "1": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "2": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "3": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "4": {
+      "item": "cemm:shiverwood_planks"
+    },
+    "5": {
+      "item": "cemm:shiverwood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shiverwood_door",
+    "count": 3
+  }
+}

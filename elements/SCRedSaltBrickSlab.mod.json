@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:RedSaltBricks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:RedSaltBrickSlab"
+    },
+    "name": "sc_red_salt_brick_slab",
+    "namespace": "mod"
+  }
+}

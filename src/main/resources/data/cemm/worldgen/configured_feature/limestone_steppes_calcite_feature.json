@@ -1,0 +1,21 @@
+{
+  "type": "cemm:limestone_steppes_calcite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:limestone",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "minecraft:calcite"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 4
+      }
+    }
+  }
+}

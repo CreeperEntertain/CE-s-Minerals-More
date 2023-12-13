@@ -1,0 +1,9 @@
+{
+  "_fv": 47,
+  "_type": "function",
+  "definition": {
+    "code": "playsound minecraft:item.bundle.drop_contents block @a ~ ~ ~ 1 1 0",
+    "name": "dimensional_pocket_open",
+    "namespace": "mod"
+  }
+}

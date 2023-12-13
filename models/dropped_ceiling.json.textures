@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Dropped Ceiling": "dropped_ceiling"
+      },
+      "name": "default"
+    }
+  }
+}

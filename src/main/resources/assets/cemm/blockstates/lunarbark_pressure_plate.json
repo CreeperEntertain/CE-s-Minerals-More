@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "cemm:block/lunarbark_pressure_plate"
+    },
+    "powered=true": {
+      "model": "cemm:block/lunarbark_pressure_plate_down"
+    }
+  }
+}

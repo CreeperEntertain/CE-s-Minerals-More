@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:acid_ocean",
+    "cemm:salt_fields",
+    "cemm:bromian_thicket",
+    "cemm:vibrating_timberland",
+    "cemm:meteor_fields",
+    "cemm:bordeaux_boscage",
+    "cemm:the_emptiness",
+    "cemm:chlorophyl"
+  ],
+  "features": "cemm:meta_carbonite",
+  "step": "underground_ores"
+}

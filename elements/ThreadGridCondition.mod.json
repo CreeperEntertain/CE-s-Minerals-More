@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ThreadGrid"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid00"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid01"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid02"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid03"
+      },
+      {
+        "value": "CUSTOM:CucumberGrid04"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid00"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid01"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid02"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid03"
+      },
+      {
+        "value": "CUSTOM:GrapeGrid04"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "thread_grid_condition",
+    "namespace": "forge"
+  }
+}

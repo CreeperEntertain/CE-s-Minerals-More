@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rough_emerald"
+    },
+    "1": {
+      "item": "cemm:rough_emerald"
+    },
+    "2": {
+      "item": "cemm:rough_emerald"
+    },
+    "3": {
+      "item": "cemm:rough_emerald"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_emerald_block",
+    "count": 1
+  }
+}

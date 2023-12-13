@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:SolidIronScaffolding"
+      },
+      {
+        "value": "CUSTOM:SolidCopperScaffolding"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "solid_scaffolding",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:meta_carbonite"
+    },
+    "1": {
+      "item": "cemm:meta_carbonite"
+    },
+    "2": {
+      "item": "cemm:lunarbark_stick"
+    },
+    "3": {
+      "item": "cemm:meta_carbonite"
+    },
+    "4": {
+      "item": "cemm:lunarbark_stick"
+    }
+  },
+  "result": {
+    "item": "cemm:meta_carbonite_axe",
+    "count": 1
+  }
+}

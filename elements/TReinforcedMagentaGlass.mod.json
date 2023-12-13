@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_magenta_glass",
+    "namespace": "mod"
+  }
+}

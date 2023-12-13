@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  2",
+    "34 ",
+    "67 "
+  ],
+  "key": {
+    "2": {
+      "item": "cemm:omenbone"
+    },
+    "3": {
+      "item": "cemm:omenbone"
+    },
+    "4": {
+      "item": "cemm:omenbone"
+    },
+    "6": {
+      "item": "cemm:omenbone"
+    },
+    "7": {
+      "item": "cemm:omenbone"
+    }
+  },
+  "result": {
+    "item": "cemm:the_void",
+    "count": 1
+  }
+}

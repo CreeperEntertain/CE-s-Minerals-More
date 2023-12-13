@@ -1,0 +1,12 @@
+{
+  "type": "cemm:gypsum_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:gypsum"
+    },
+    "radius": 12
+  }
+}

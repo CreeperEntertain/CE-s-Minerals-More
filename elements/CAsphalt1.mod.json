@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AsphaltLayer1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AsphaltLayer1"
+      },
+      {
+        "value": "CUSTOM:AsphaltSlab"
+      },
+      {
+        "value": "CUSTOM:AsphaltLayer1"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AsphaltLayer1"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Asphalt"
+    },
+    "name": "c_asphalt_1",
+    "namespace": "mod"
+  }
+}

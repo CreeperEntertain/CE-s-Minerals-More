@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/polished_hyaloclastite",
+    "particle": "cemm:block/polished_hyaloclastite"
+  },
+  "render_type": "solid"
+}

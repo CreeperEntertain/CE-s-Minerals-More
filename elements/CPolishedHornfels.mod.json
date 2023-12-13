@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hornfels"
+      },
+      {
+        "value": "CUSTOM:Hornfels"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Hornfels"
+      },
+      {
+        "value": "CUSTOM:Hornfels"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedHornfels"
+    },
+    "name": "c_polished_hornfels",
+    "namespace": "mod"
+  }
+}

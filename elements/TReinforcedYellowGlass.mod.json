@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_yellow_glass",
+    "namespace": "mod"
+  }
+}

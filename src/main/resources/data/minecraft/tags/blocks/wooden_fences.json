@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_fence",
+    "minecraft:acacia_fence",
+    "minecraft:birch_fence",
+    "minecraft:dark_oak_fence",
+    "minecraft:crimson_fence",
+    "cemm:ebony_fence",
+    "minecraft:spruce_fence",
+    "minecraft:nether_brick_fence",
+    "cemm:lunarbark_fence",
+    "minecraft:warped_fence",
+    "cemm:shinewood_fence",
+    "cemm:ashen_plank_fence",
+    "minecraft:mangrove_fence",
+    "minecraft:jungle_fence",
+    "cemm:shellwood_fence",
+    "cemm:chlorowood_fence",
+    "cemm:shiverwood_fence"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:bauxite_steppes",
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "cemm:red_wastes"
+  ]
+}
