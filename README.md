@@ -1,5 +1,5 @@
 # Source Code for "CE's Minerals & More"
-The files seen here are the full MCreator project for the "CE's Minerals & More" Minecraft mod for Minecraft Forge 1.19.2. The project has been made and compiled in MCreator version 2023.1 with the default Forge 1.19.2 generator. Using this workspace provided here in an earlier version of MCreator, or under different settings might break some of the features. Similarly, some elements, namely the main files for the "The Void" dimension, are locked and should only be edited in the code editor, as you may otherwise either break them, cause compiler errors, or remove features. I hold no accountability for errors that occur whilst modifying these files.
+The files seen here are the full MCreator project for the "CE's Minerals & More" Minecraft mod for Minecraft Forge 1.19.2/1.19.4/1.20.1 (the game version depends on the mod version). The project has been made and compiled in MCreator version 2023.1/2023.2/2023.3 with the default Forge 1.19.2/1.19.4/1.20.1 generator. Using this workspace provided here in an earlier version of MCreator, or under different settings might break some of the features. Similarly, some elements, namely the main files for the "The Void" dimension, are locked and should only be edited in the code editor, as you may otherwise either break them, cause compiler errors, or remove features. I hold no accountability for errors that occur whilst modifying these files.
 
 ## Different Versions
 For each version of this mod, a new branch will be created. The name system for those is ``Release.MajorVersion.Changes``.  
@@ -14,7 +14,7 @@ This is to make it easier to work with MCreator's own git management system, and
 **[MCreator](https://mcreator.net/modification/97656/ces-minerals-more)**
 
 ## Version Branches
-**[1.10.31](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.10.31)**  
+**[1.10.31 (Minecraft )](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.10.31)**  
 **[1.11.43](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/1.11.43)**  
 **[1.12.45](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/1.12.45)**  
 **[1.13.56](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.13.56)**  
