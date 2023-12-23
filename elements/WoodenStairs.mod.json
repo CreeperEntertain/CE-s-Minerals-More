@@ -1,0 +1,78 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkStairs"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodStairs"
+      },
+      {
+        "value": "CUSTOM:EbonyStairs"
+      },
+      {
+        "value": "CUSTOM:AshenPlankStairs"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodStairs"
+      },
+      {
+        "value": "CUSTOM:ShinewoodStairs"
+      },
+      {
+        "value": "CUSTOM:ShellwoodStairs"
+      },
+      {
+        "value": "CUSTOM:ParquetStairs"
+      },
+      {
+        "value": "CUSTOM:ProcessedEbonyStairs"
+      },
+      {
+        "value": "Blocks.OAK_STAIRS"
+      },
+      {
+        "value": "Blocks.SPRUCE_STAIRS"
+      },
+      {
+        "value": "Blocks.BIRCH_STAIRS"
+      },
+      {
+        "value": "Blocks.JUNGLE_STAIRS"
+      },
+      {
+        "value": "Blocks.ACACIA_STAIRS"
+      },
+      {
+        "value": "Blocks.DARK_OAK_STAIRS"
+      },
+      {
+        "value": "Blocks.CRIMSON_STAIRS"
+      },
+      {
+        "value": "Blocks.WARPED_STAIRS"
+      },
+      {
+        "value": "Blocks.MANGROVE_STAIRS"
+      },
+      {
+        "value": "Blocks.CHERRY_STAIRS"
+      },
+      {
+        "value": "Blocks.BAMBOO_STAIRS"
+      },
+      {
+        "value": "Blocks.BAMBOO_MOSAIC_STAIRS"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_stairs",
+    "namespace": "minecraft"
+  }
+}

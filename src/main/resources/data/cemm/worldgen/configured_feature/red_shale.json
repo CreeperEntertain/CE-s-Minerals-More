@@ -1,0 +1,34 @@
+{
+  "type": "cemm:red_shale",
+  "config": {
+    "size": 20,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:jaspilite",
+            "Properties": {
+              "axis": "y"
+            }
+          }
+        },
+        "state": {
+          "Name": "cemm:red_shale"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:red_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:red_shale"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkSlab"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodSlab"
+      },
+      {
+        "value": "CUSTOM:EbonySlab"
+      },
+      {
+        "value": "CUSTOM:AshenPlankSlab"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodSlab"
+      },
+      {
+        "value": "CUSTOM:ShinewoodSlab"
+      },
+      {
+        "value": "CUSTOM:ShellwoodSlab"
+      },
+      {
+        "value": "CUSTOM:ParquetSlab"
+      },
+      {
+        "value": "CUSTOM:ProcessedEbonySlab"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#0"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#1"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#2"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#3"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#4"
+      },
+      {
+        "value": "Blocks.WOODEN_SLAB#5"
+      },
+      {
+        "value": "Blocks.CRIMSON_SLAB"
+      },
+      {
+        "value": "Blocks.WARPED_SLAB"
+      },
+      {
+        "value": "Blocks.MANGROVE_SLAB"
+      },
+      {
+        "value": "Blocks.CHERRY_SLAB"
+      },
+      {
+        "value": "Blocks.BAMBOO_SLAB"
+      },
+      {
+        "value": "Blocks.BAMBOO_MOSAIC_SLAB"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_slab",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:red_bone"
+    }
+  },
+  "result": {
+    "item": "minecraft:bone_meal",
+    "count": 8
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:nyline_fungus"
+    },
+    "title": {
+      "translate": "advancements.questionable_snack.title"
+    },
+    "description": {
+      "translate": "advancements.questionable_snack.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "questionable_snack": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:lullaby"
+}

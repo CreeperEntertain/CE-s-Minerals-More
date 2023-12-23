@@ -1,0 +1,69 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkTrapdoor"
+      },
+      {
+        "value": "CUSTOM:CChlorowoodTrapdoor"
+      },
+      {
+        "value": "CUSTOM:EbonyTrapDoor"
+      },
+      {
+        "value": "CUSTOM:AshenTrapdoor"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodTrapdoor"
+      },
+      {
+        "value": "CUSTOM:ShinewoodTrapdoor"
+      },
+      {
+        "value": "CUSTOM:ShellwoodTrapdoor"
+      },
+      {
+        "value": "Blocks.TRAPDOOR"
+      },
+      {
+        "value": "Blocks.SPRUCE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.BIRCH_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.JUNGLE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.ACACIA_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.DARK_OAK_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.CRIMSON_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.WARPED_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.MANGROVE_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.CHERRY_TRAPDOOR"
+      },
+      {
+        "value": "Blocks.BAMBOO_TRAPDOOR"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_trapdoors",
+    "namespace": "minecraft"
+  }
+}

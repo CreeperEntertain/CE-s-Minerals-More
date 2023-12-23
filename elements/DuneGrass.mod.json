@@ -1,0 +1,109 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "dune_grass",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "dune_grass",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": true,
+    "boundingBoxes": [
+      {
+        "mx": 1.0,
+        "my": 0.0,
+        "mz": 1.0,
+        "Mx": 15.0,
+        "My": 14.0,
+        "Mz": 15.0,
+        "subtract": false
+      }
+    ],
+    "name": "Dune Grass",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RocksAndMinerals"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "isBonemealable": false,
+    "frequencyOnChunks": 4,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      }
+    ],
+    "generationType": "Grass",
+    "patchSize": 15,
+    "generateAtAnyHeight": false
+  }
+}

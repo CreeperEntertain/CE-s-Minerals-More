@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_pyroxmangite"
+  },
+  "result": "cemm:polished_pyroxmangite_stairs"
+}

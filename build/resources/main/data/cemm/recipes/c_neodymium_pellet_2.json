@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:neodymium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:neodymium_pellet",
+    "count": 3
+  }
+}

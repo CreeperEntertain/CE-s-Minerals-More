@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/kaolin_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/kaolin_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/kaolin_slab_full"
+    }
+  }
+}

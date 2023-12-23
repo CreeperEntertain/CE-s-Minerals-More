@@ -1,0 +1,104 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "saltgrass",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "saltgrass",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 2.0,
+        "my": 0.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 12.0,
+        "Mz": 14.0,
+        "subtract": false
+      }
+    ],
+    "name": "Saltgrass",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "CALCITE"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlockWhite"
+      },
+      {
+        "value": "CUSTOM:RedSaltWhite"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "generationType": "Grass",
+    "patchSize": 64,
+    "generateAtAnyHeight": false
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/info_sign_27_q"
+    },
+    "facing=east": {
+      "model": "cemm:block/info_sign_27_q",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/info_sign_27_q",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/info_sign_27_q",
+      "y": 270
+    }
+  }
+}

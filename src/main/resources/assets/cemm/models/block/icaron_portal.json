@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/icaron_portal",
+  "textures": {
+    "all": "cemm:block/icaron_portal_active",
+    "particle": "cemm:block/icaron_portal_active",
+    "0": "cemm:block/icaron_portal_active"
+  },
+  "render_type": "solid"
+}

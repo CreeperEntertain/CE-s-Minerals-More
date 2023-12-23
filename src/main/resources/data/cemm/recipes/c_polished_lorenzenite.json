@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lorenzenite"
+    },
+    "1": {
+      "item": "cemm:lorenzenite"
+    },
+    "2": {
+      "item": "cemm:lorenzenite"
+    },
+    "3": {
+      "item": "cemm:lorenzenite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_lorenzenite",
+    "count": 4
+  }
+}

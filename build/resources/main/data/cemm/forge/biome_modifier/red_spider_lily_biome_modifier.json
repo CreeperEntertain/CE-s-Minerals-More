@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "old_growth_birch_forest",
+    "grove",
+    "birch_forest",
+    "cemm:chalk_steppes",
+    "cherry_grove"
+  ],
+  "features": "cemm:red_spider_lily",
+  "step": "vegetal_decoration"
+}

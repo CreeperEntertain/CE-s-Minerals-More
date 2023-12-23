@@ -1,0 +1,25 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "CUSTOM:SugarCaneJuice"
+    },
+    "brewingIngredientStack": {
+      "value": "Blocks.RED_MUSHROOM"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:RumFlask"
+    },
+    "name": "b_wine_flask_8",
+    "namespace": "mod"
+  }
+}

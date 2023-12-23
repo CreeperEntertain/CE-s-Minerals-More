@@ -1,0 +1,63 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ChlorowoodPlanks"
+      },
+      {
+        "value": "Blocks.PLANKS#0"
+      },
+      {
+        "value": "Blocks.PLANKS#1"
+      },
+      {
+        "value": "Blocks.PLANKS#2"
+      },
+      {
+        "value": "Blocks.PLANKS#3"
+      },
+      {
+        "value": "Blocks.PLANKS#4"
+      },
+      {
+        "value": "Blocks.PLANKS#5"
+      },
+      {
+        "value": "Blocks.CRIMSON_PLANKS"
+      },
+      {
+        "value": "Blocks.WARPED_PLANKS"
+      },
+      {
+        "value": "Blocks.MANGROVE_PLANKS"
+      },
+      {
+        "value": "CUSTOM:EbonyPlanks"
+      },
+      {
+        "value": "CUSTOM:AshenPlanks"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ProcessedEbonyPlanks"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "planks",
+    "namespace": "minecraft"
+  }
+}

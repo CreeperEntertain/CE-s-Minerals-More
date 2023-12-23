@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:meta_carbonite",
+    "cemm:nyline",
+    "minecraft:stone",
+    "cemm:chlorograss_block_moss",
+    "minecraft:moss_block",
+    "cemm:anorthite",
+    "cemm:bordeaux_soapstone",
+    "cemm:soapstone",
+    "cemm:red_salt_white",
+    "cemm:red_salt",
+    "cemm:vibrating_serandite",
+    "cemm:serandite",
+    "cemm:vibrating_pyroxene",
+    "cemm:pyroxene",
+    "cemm:obsiaster",
+    "cemm:bordeaux_quartzite",
+    "cemm:quartzite",
+    "cemm:magnetite_sand",
+    "cemm:sanidine"
+  ]
+}

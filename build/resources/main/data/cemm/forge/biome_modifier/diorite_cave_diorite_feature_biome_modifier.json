@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:andesite_cave",
+  "features": "cemm:diorite_cave_diorite_feature",
+  "step": "underground_decoration"
+}

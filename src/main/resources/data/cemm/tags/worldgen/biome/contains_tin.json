@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "deep_cold_ocean",
+    "frozen_ocean",
+    "warm_ocean",
+    "lukewarm_ocean",
+    "ocean",
+    "deep_lukewarm_ocean",
+    "cold_ocean",
+    "deep_ocean",
+    "deep_frozen_ocean"
+  ]
+}

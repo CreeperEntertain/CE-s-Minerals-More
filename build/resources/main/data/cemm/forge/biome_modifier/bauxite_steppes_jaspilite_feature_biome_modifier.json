@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bauxite_steppes",
+  "features": "cemm:bauxite_steppes_jaspilite_feature",
+  "step": "underground_decoration"
+}

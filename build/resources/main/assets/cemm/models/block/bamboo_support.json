@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/bamboo_support",
+  "textures": {
+    "all": "cemm:block/bamboo_support_side",
+    "particle": "cemm:block/bamboo_support_side",
+    "Support Bottom": "cemm:block/bamboo_support_bottom",
+    "Support Side": "cemm:block/bamboo_support_side"
+  },
+  "render_type": "solid"
+}

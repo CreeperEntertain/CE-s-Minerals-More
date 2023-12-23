@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:aluminum_bar"
+    },
+    "1": {
+      "item": "cemm:aluminum_bar"
+    },
+    "2": {
+      "item": "cemm:aluminum_bar"
+    },
+    "3": {
+      "item": "cemm:aluminum_bar"
+    },
+    "4": {
+      "item": "cemm:scandium_ingot"
+    },
+    "5": {
+      "item": "cemm:aluminum_bar"
+    },
+    "6": {
+      "item": "cemm:aluminum_bar"
+    },
+    "7": {
+      "item": "cemm:aluminum_bar"
+    },
+    "8": {
+      "item": "cemm:aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_bar",
+    "count": 9
+  }
+}

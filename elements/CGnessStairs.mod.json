@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      },
+      {
+        "value": "CUSTOM:Gneiss"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GneissStairs"
+    },
+    "name": "c_gness_stairs",
+    "namespace": "mod"
+  }
+}

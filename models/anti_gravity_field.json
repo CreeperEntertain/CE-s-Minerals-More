@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "anti_gravity_field_bottom",
+		"Anti Gravity Field Bottom": "anti_gravity_field_bottom",
+		"Jump Pad Side": "jump_pad_side",
+		"Anti Gravity Field Top": "anti_gravity_field_top"
+	},
+	"elements": [
+		{
+			"from": [0, 8, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 8], "texture": "#Jump Pad Side"},
+				"east": {"uv": [0, 0, 16, 8], "texture": "#Jump Pad Side"},
+				"south": {"uv": [0, 0, 16, 8], "texture": "#Jump Pad Side"},
+				"west": {"uv": [0, 0, 16, 8], "texture": "#Jump Pad Side"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#Anti Gravity Field Top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#Anti Gravity Field Bottom"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, -2, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"fixed": {
+			"translation": [0, -2, 0],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

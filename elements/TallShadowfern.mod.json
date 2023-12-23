@@ -1,0 +1,140 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "large_shadowfern_top",
+    "textureBottom": "large_shadowfern_bottom",
+    "customModelName": "Cross model",
+    "itemTexture": "large_shadowfern_top",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "double",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 2.0,
+        "my": 0.0,
+        "mz": 2.0,
+        "Mx": 14.0,
+        "My": 12.0,
+        "Mz": 14.0,
+        "subtract": false
+      }
+    ],
+    "name": "Large Shadowfern",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "CAVE_VINES"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": true,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": true,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingPhyllite"
+      },
+      {
+        "value": "CUSTOM:VibratingWhiteGranite"
+      },
+      {
+        "value": "CUSTOM:VibratingSoapstone"
+      },
+      {
+        "value": "CUSTOM:VibratingSerandite"
+      },
+      {
+        "value": "CUSTOM:VibratingSanidine"
+      },
+      {
+        "value": "CUSTOM:VibratingRedSalt"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingOligoclase"
+      },
+      {
+        "value": "CUSTOM:VibratingMylonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMonzonite"
+      },
+      {
+        "value": "CUSTOM:VibratingMicrocline"
+      },
+      {
+        "value": "CUSTOM:VibratingAnorthite"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 5,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:VibratingTimberland"
+      },
+      {
+        "value": "CUSTOM:BromianThicket"
+      }
+    ],
+    "generationType": "Grass",
+    "patchSize": 64,
+    "generateAtAnyHeight": false
+  }
+}

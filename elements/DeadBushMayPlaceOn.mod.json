@@ -1,0 +1,96 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:ToughSand"
+      },
+      {
+        "value": "CUSTOM:SandySoil"
+      },
+      {
+        "value": "CUSTOM:Jaspilite"
+      },
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:RedShale"
+      },
+      {
+        "value": "CUSTOM:Orpiment"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspilite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlock"
+      },
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:WashedGravel"
+      },
+      {
+        "value": "CUSTOM:BankRunGravel"
+      },
+      {
+        "value": "CUSTOM:Slag"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "CUSTOM:Kaolin"
+      },
+      {
+        "value": "CUSTOM:ScorchedDirt"
+      },
+      {
+        "value": "Blocks.SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SMOOTH_SANDSTONE"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#0"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#1"
+      },
+      {
+        "value": "Blocks.RED_SANDSTONE#2"
+      },
+      {
+        "value": "Blocks.SMOOTH_RED_SANDSTONE"
+      },
+      {
+        "value": "CUSTOM:DriedMud"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "dead_bush_may_place_on",
+    "namespace": "minecraft"
+  }
+}

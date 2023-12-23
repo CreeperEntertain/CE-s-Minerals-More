@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:parquet"
+    },
+    "3": {
+      "item": "cemm:parquet"
+    },
+    "4": {
+      "item": "cemm:parquet"
+    },
+    "6": {
+      "item": "cemm:parquet"
+    },
+    "7": {
+      "item": "cemm:parquet"
+    },
+    "8": {
+      "item": "cemm:parquet"
+    }
+  },
+  "result": {
+    "item": "cemm:parquet_stairs",
+    "count": 4
+  }
+}

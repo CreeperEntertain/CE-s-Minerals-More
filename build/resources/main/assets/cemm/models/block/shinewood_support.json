@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/shinewood_support",
+  "textures": {
+    "all": "cemm:block/shinewood_support_side",
+    "particle": "cemm:block/shinewood_support_side",
+    "Support Bottom": "cemm:block/shinewood_support_bottom",
+    "Support Side": "cemm:block/shinewood_support_side"
+  },
+  "render_type": "solid"
+}

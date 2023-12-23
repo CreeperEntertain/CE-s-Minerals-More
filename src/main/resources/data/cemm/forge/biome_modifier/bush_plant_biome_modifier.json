@@ -1,0 +1,24 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "mushroom_fields",
+    "forest",
+    "sunflower_plains",
+    "sparse_jungle",
+    "taiga",
+    "birch_forest",
+    "flower_forest",
+    "cherry_grove",
+    "old_growth_birch_forest",
+    "bamboo_jungle",
+    "dark_forest",
+    "old_growth_pine_taiga",
+    "plains",
+    "windswept_forest",
+    "river",
+    "meadow",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "cemm:bush_plant",
+  "step": "vegetal_decoration"
+}

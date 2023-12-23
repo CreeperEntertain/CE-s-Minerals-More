@@ -1,0 +1,54 @@
+{
+  "type": "cemm:sandy_soil_generation",
+  "config": {
+    "size": 34,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:grass_block"
+        },
+        "state": {
+          "Name": "cemm:sandy_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:sandy_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:coarse_dirt"
+        },
+        "state": {
+          "Name": "cemm:sandy_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:gravel"
+        },
+        "state": {
+          "Name": "cemm:sandy_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:sand"
+        },
+        "state": {
+          "Name": "cemm:sandy_soil"
+        }
+      }
+    ]
+  }
+}

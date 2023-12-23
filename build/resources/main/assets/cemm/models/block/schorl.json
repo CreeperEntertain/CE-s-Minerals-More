@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/schorl_top",
+    "up": "cemm:block/schorl_top",
+    "north": "cemm:block/schorl",
+    "east": "cemm:block/schorl",
+    "south": "cemm:block/schorl",
+    "west": "cemm:block/schorl",
+    "particle": "cemm:block/schorl_top"
+  },
+  "render_type": "solid"
+}

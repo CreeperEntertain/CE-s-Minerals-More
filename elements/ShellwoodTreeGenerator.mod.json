@@ -1,0 +1,36 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebony_generator",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 8,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 0,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:VibratingPyroxene"
+      },
+      {
+        "value": "CUSTOM:VibratingMoss"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:VibratingTimberland"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "ProceduralShellwoodTrunk"
+    }
+  }
+}

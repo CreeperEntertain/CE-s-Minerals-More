@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShinewoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShinewoodStairs"
+    },
+    "name": "c_shinewood_stairs",
+    "namespace": "mod"
+  }
+}

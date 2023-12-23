@@ -1,0 +1,21 @@
+{
+  "type": "cemm:red_sand_feature_red_wastes",
+  "config": {
+    "target": {
+      "Name": "cemm:jaspilite",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "minecraft:red_sandstone"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 5
+      }
+    }
+  }
+}

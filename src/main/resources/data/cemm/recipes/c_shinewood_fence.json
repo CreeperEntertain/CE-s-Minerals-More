@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shinewood_planks"
+    },
+    "1": {
+      "item": "minecraft:stick"
+    },
+    "2": {
+      "item": "cemm:shinewood_planks"
+    },
+    "3": {
+      "item": "cemm:shinewood_planks"
+    },
+    "4": {
+      "item": "minecraft:stick"
+    },
+    "5": {
+      "item": "cemm:shinewood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shinewood_fence",
+    "count": 3
+  }
+}

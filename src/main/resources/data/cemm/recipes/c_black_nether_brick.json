@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:black_nether_brick"
+    },
+    "1": {
+      "item": "cemm:black_nether_brick"
+    },
+    "2": {
+      "item": "cemm:black_nether_brick"
+    },
+    "3": {
+      "item": "cemm:black_nether_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:black_nether_bricks",
+    "count": 1
+  }
+}

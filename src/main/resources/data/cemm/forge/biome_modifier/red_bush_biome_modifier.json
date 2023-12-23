@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:acid_ocean",
+    "cemm:bordeaux_boscage"
+  ],
+  "features": "cemm:red_bush",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "1": {
+      "item": "cemm:gilded_ash_bricks"
+    },
+    "2": {
+      "item": "cemm:gilded_ash_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:gilded_ash_brick_slab",
+    "count": 6
+  }
+}

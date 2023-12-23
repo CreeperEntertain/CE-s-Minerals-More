@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shiverwood_log"
+    },
+    "1": {
+      "item": "cemm:shiverwood_log"
+    },
+    "2": {
+      "item": "cemm:shiverwood_log"
+    },
+    "3": {
+      "item": "cemm:shiverwood_log"
+    }
+  },
+  "result": {
+    "item": "cemm:shiverwood_wood",
+    "count": 3
+  }
+}

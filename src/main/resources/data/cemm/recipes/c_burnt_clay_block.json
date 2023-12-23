@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:burnt_clay_powder"
+    },
+    "1": {
+      "item": "cemm:burnt_clay_powder"
+    },
+    "2": {
+      "item": "cemm:burnt_clay_powder"
+    },
+    "3": {
+      "item": "cemm:burnt_clay_powder"
+    }
+  },
+  "result": {
+    "item": "cemm:burnt_clay_block",
+    "count": 1
+  }
+}

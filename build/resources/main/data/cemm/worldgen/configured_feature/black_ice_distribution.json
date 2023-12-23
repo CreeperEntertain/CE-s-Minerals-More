@@ -1,0 +1,18 @@
+{
+  "type": "cemm:black_ice_distribution",
+  "config": {
+    "target": {
+      "Name": "minecraft:ice"
+    },
+    "state": {
+      "Name": "cemm:black_ice"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 3,
+        "max_inclusive": 7
+      }
+    }
+  }
+}

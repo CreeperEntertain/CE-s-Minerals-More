@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    " 4 "
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:begonia"
+    },
+    "1": {
+      "item": "cemm:begonia"
+    },
+    "2": {
+      "item": "cemm:begonia"
+    },
+    "4": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "cemm:begonia_pollen",
+    "count": 1
+  }
+}

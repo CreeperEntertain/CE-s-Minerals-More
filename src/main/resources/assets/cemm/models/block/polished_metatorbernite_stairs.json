@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_metatorbernite_top",
+    "top": "cemm:block/polished_metatorbernite_top",
+    "side": "cemm:block/polished_metatorbernite"
+  },
+  "render_type": "solid"
+}

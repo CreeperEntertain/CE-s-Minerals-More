@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:jump_pad"
+    },
+    "title": {
+      "translate": "advancements.leap_of_faith.title"
+    },
+    "description": {
+      "translate": "advancements.leap_of_faith.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "leap_of_faith": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:fake_diamonds"
+}

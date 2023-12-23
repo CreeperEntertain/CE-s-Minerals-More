@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hardened_ash"
+    },
+    "3": {
+      "item": "cemm:hardened_ash"
+    },
+    "4": {
+      "item": "cemm:hardened_ash"
+    },
+    "6": {
+      "item": "cemm:hardened_ash"
+    },
+    "7": {
+      "item": "cemm:hardened_ash"
+    },
+    "8": {
+      "item": "cemm:hardened_ash"
+    }
+  },
+  "result": {
+    "item": "cemm:hardened_ash_stairs",
+    "count": 4
+  }
+}

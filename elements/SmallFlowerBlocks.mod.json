@@ -1,0 +1,87 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.YELLOW_FLOWER"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#0"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#1"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#2"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#3"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#4"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#5"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#6"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#7"
+      },
+      {
+        "value": "Blocks.RED_FLOWER#8"
+      },
+      {
+        "value": "Blocks.CORNFLOWER"
+      },
+      {
+        "value": "Blocks.LILY_OF_THE_VALLEY"
+      },
+      {
+        "value": "Blocks.WITHER_ROSE"
+      },
+      {
+        "value": "CUSTOM:BlackLotus"
+      },
+      {
+        "value": "CUSTOM:DesertPrimrose"
+      },
+      {
+        "value": "CUSTOM:AloeVera"
+      },
+      {
+        "value": "CUSTOM:Swampflower"
+      },
+      {
+        "value": "CUSTOM:BloomingSwampflower"
+      },
+      {
+        "value": "CUSTOM:RedSpiderLily"
+      },
+      {
+        "value": "CUSTOM:Gentian"
+      },
+      {
+        "value": "CUSTOM:Lavendar"
+      },
+      {
+        "value": "CUSTOM:Abelia"
+      },
+      {
+        "value": "CUSTOM:ChineseLantern"
+      },
+      {
+        "value": "CUSTOM:Forsythia"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "small_flowers",
+    "namespace": "minecraft"
+  }
+}

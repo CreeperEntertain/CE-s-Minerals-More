@@ -1,0 +1,152 @@
+{
+  "type": "cemm:mariposite",
+  "config": {
+    "size": 24,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:gravel"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dirt"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dead_tube_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dead_brain_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dead_bubble_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dead_fire_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:dead_horn_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:tube_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:brain_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:bubble_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:fire_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:horn_coral_block"
+          }
+        },
+        "state": {
+          "Name": "cemm:mariposite"
+        }
+      }
+    ]
+  }
+}

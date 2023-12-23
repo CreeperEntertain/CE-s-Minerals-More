@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:light_gray_shingles"
+  },
+  "result": "cemm:light_gray_shingle_stairs"
+}

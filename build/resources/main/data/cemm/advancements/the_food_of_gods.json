@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:ambrosia"
+    },
+    "title": {
+      "translate": "advancements.the_food_of_gods.title"
+    },
+    "description": {
+      "translate": "advancements.the_food_of_gods.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_food_of_gods": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:pact_with_the_devil"
+}

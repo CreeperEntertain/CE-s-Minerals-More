@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    "678"
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:gold_ingot"
+    },
+    "3": {
+      "item": "minecraft:copper_block"
+    },
+    "4": {
+      "item": "minecraft:amethyst_block"
+    },
+    "5": {
+      "item": "minecraft:copper_block"
+    },
+    "6": {
+      "item": "minecraft:copper_block"
+    },
+    "7": {
+      "item": "minecraft:copper_block"
+    },
+    "8": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "item": "cemm:mining_compass",
+    "count": 1
+  }
+}

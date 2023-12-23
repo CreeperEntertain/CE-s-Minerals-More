@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutJungle"
+      },
+      {
+        "value": "CUSTOM:CutStrippedJungle"
+      },
+      {
+        "value": "Blocks.LOG#3"
+      },
+      {
+        "value": "Blocks.STRIPPED_JUNGLE_LOG"
+      },
+      {
+        "value": "Blocks.JUNGLE_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_JUNGLE_WOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "jungle_logs",
+    "namespace": "minecraft"
+  }
+}

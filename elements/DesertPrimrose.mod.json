@@ -1,0 +1,109 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "desert_primrose",
+    "textureBottom": "",
+    "customModelName": "desert_primrose:default",
+    "itemTexture": "desert_primrose",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 5.5,
+        "my": 0.0,
+        "mz": 5.5,
+        "Mx": 10.5,
+        "My": 8.0,
+        "Mz": 10.5,
+        "subtract": false
+      }
+    ],
+    "name": "Desert Primrose",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RocksAndMinerals"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "placingCondition": {
+      "name": "DesertPlantPlacementCondition"
+    },
+    "isBonemealable": true,
+    "onBonemealSuccess": {
+      "name": "FlowerBoneMealing"
+    },
+    "frequencyOnChunks": 9,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:RedWastes"
+      },
+      {
+        "value": "CUSTOM:MonaziteDesert"
+      },
+      {
+        "value": "CUSTOM:ZirconianDesert"
+      },
+      {
+        "value": "desert"
+      }
+    ],
+    "generationType": "Flower",
+    "patchSize": 10,
+    "generateAtAnyHeight": false
+  }
+}

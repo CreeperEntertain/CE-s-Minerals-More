@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/purpurite_top",
+    "up": "cemm:block/purpurite_top",
+    "north": "cemm:block/purpurite",
+    "east": "cemm:block/purpurite",
+    "south": "cemm:block/purpurite",
+    "west": "cemm:block/purpurite",
+    "particle": "cemm:block/purpurite_top"
+  },
+  "render_type": "solid"
+}

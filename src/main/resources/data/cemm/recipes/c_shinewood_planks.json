@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shinewood_log"
+    }
+  },
+  "result": {
+    "item": "cemm:shinewood_planks",
+    "count": 4
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:scattered_ore",
+  "config": {
+    "size": 2,
+    "discard_chance_on_air_exposure": 1,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "cemm:moon_stone_replacables"
+        },
+        "state": {
+          "Name": "cemm:moon_rock"
+        }
+      }
+    ]
+  }
+}

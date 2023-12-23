@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_DECORATION",
+    "restrictionDimensions": [
+      "Nether"
+    ],
+    "restrictionBiomes": [],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_scattered_ore\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"1\"></mutation><field name=\"size\">3</field><field name=\"discardOnAirChance\">1</field><value name=\"target0\"><block type=\"ore_target\"><value name=\"target\"><block type=\"rule_test_tag_match\"><field name=\"tag\">base_stone_nether</field></block></value><value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:LiquidGold</field></block></value></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_above_bottom\"><field name=\"value\">5</field></block></value><value name=\"max\"><block type=\"vertical_anchor_below_top\"><field name=\"value\">5</field></block></value><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">3</field><field name=\"max\">10</field></block></value><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

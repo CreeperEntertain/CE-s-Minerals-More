@@ -1,0 +1,21 @@
+{
+  "type": "cemm:liquid_gold_generation",
+  "config": {
+    "size": 3,
+    "discard_chance_on_air_exposure": 1,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "base_stone_nether"
+        },
+        "state": {
+          "Name": "cemm:liquid_gold",
+          "Properties": {
+            "level": "0"
+          }
+        }
+      }
+    ]
+  }
+}

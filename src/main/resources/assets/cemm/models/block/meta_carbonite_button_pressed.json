@@ -1,0 +1,7 @@
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "cemm:block/meta_carbonite"
+  },
+  "render_type": "solid"
+}

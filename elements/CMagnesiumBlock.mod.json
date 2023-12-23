@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      },
+      {
+        "value": "CUSTOM:MagnesiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MagnesiumBlock"
+    },
+    "name": "c_magnesium_block",
+    "namespace": "mod"
+  }
+}

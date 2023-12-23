@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/foxglove"
+    },
+    "half=lower": {
+      "model": "cemm:block/foxglove_bottom"
+    }
+  }
+}

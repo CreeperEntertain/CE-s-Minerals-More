@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "deep_cold_ocean",
+    "frozen_ocean",
+    "warm_ocean",
+    "lukewarm_ocean",
+    "ocean",
+    "plains",
+    "deep_lukewarm_ocean",
+    "cold_ocean",
+    "deep_ocean",
+    "deep_frozen_ocean"
+  ],
+  "features": "cemm:deepslate_cassiterite_deposit",
+  "step": "underground_ores"
+}

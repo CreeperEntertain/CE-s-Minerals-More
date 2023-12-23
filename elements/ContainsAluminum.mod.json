@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "CUSTOM:BauxiteSteppes"
+      },
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "name": "contains_aluminum",
+    "namespace": "mod"
+  }
+}

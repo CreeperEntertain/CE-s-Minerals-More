@@ -1,0 +1,95 @@
+{
+  "type": "cemm:tough_sand",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "minecraft:stone"
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:rocky_stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:mudstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:gneiss"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:rhyolite"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:gabbro"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:pumice"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:siltstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:tough_sand"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/pumice_bricks",
+    "top": "cemm:block/pumice_bricks",
+    "side": "cemm:block/pumice_bricks"
+  },
+  "render_type": "solid"
+}

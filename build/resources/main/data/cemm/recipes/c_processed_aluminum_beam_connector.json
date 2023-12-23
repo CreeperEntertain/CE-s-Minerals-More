@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "1": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "2": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "3": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "5": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "6": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "7": {
+      "item": "cemm:processed_aluminum_plate"
+    },
+    "8": {
+      "item": "cemm:processed_aluminum_plate"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_beam_connector",
+    "count": 2
+  }
+}

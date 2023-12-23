@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:argilite"
+  },
+  "result": "cemm:polished_argilite"
+}

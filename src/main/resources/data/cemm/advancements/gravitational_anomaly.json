@@ -1,0 +1,33 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:smokeling_pollen"
+    },
+    "title": {
+      "translate": "advancements.gravitational_anomaly.title"
+    },
+    "description": {
+      "translate": "advancements.gravitational_anomaly.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gravitational_anomaly": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "items": [
+            "cemm:smokeling_pollen"
+          ]
+        }
+      }
+    }
+  },
+  "rewards": {
+    "experience": 25
+  },
+  "parent": "cemm:hold_your_breath"
+}

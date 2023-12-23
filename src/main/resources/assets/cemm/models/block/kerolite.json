@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/kerolite_top",
+    "up": "cemm:block/kerolite_top",
+    "north": "cemm:block/kerolite",
+    "east": "cemm:block/kerolite",
+    "south": "cemm:block/kerolite",
+    "west": "cemm:block/kerolite",
+    "particle": "cemm:block/kerolite_top"
+  },
+  "render_type": "solid"
+}

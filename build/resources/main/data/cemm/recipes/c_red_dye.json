@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cinnabar_crystal"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 2
+  }
+}

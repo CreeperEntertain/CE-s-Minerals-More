@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/rhyolite",
+    "top": "cemm:block/rhyolite",
+    "side": "cemm:block/rhyolite"
+  },
+  "render_type": "solid"
+}

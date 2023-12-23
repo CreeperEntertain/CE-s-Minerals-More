@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/tussock",
+  "textures": {
+    "all": "cemm:block/tussock",
+    "particle": "cemm:block/tussock",
+    "Tussock": "cemm:block/tussock"
+  },
+  "render_type": "cutout"
+}

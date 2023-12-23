@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/pressurizer_bottom",
+    "up": "cemm:block/pressurizer_top",
+    "north": "cemm:block/pressurizer_side",
+    "east": "cemm:block/pressurizer_side",
+    "south": "cemm:block/pressurizer_side",
+    "west": "cemm:block/pressurizer_side",
+    "particle": "cemm:block/pressurizer_bottom"
+  },
+  "render_type": "solid"
+}

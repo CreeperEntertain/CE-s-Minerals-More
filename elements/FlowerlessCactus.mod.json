@@ -1,0 +1,121 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 2,
+    "texture": "flower_cactus",
+    "textureBottom": "",
+    "customModelName": "flowerless_cactus:default",
+    "itemTexture": "flowerless_cactus",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Desert",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 3.0,
+        "my": 0.0,
+        "mz": 3.0,
+        "Mx": 13.0,
+        "My": 5.0,
+        "Mz": 13.0,
+        "subtract": false
+      },
+      {
+        "mx": 4.0,
+        "my": 5.0,
+        "mz": 4.0,
+        "Mx": 12.0,
+        "My": 8.0,
+        "Mz": 12.0,
+        "subtract": false
+      },
+      {
+        "mx": 5.0,
+        "my": 8.0,
+        "mz": 5.0,
+        "Mx": 11.0,
+        "My": 9.0,
+        "Mz": 11.0,
+        "subtract": false
+      }
+    ],
+    "name": "Flowerless Cactus",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RocksAndMinerals"
+    },
+    "hardness": 0.4,
+    "resistance": 0.4,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": true,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "CLOTH"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "placingCondition": {
+      "name": "DesertPlantPlacementCondition"
+    },
+    "isBonemealable": true,
+    "onBonemealSuccess": {
+      "name": "FlowerlessCactusOnBoneMealSuccess"
+    },
+    "frequencyOnChunks": 8,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "generationType": "Flower",
+    "patchSize": 6,
+    "generateAtAnyHeight": false,
+    "onTickUpdate": {
+      "name": "FlowerCactusBlooming"
+    }
+  }
+}

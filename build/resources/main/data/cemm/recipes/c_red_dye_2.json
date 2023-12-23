@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:red_spider_lily"
+    }
+  },
+  "result": {
+    "item": "minecraft:red_dye",
+    "count": 1
+  }
+}

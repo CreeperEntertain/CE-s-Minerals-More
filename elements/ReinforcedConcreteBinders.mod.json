@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Items.CLAY_BALL"
+      },
+      {
+        "value": "CUSTOM:LimestonePowder"
+      },
+      {
+        "value": "CUSTOM:LimestonePieces"
+      },
+      {
+        "value": "CUSTOM:Gypsum"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "reinforced_concrete_binders",
+    "namespace": "mod"
+  }
+}

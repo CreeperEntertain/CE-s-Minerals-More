@@ -1,0 +1,111 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:ToughSand"
+      },
+      {
+        "value": "CUSTOM:SandySoil"
+      },
+      {
+        "value": "CUSTOM:Jaspilite"
+      },
+      {
+        "value": "CUSTOM:Scoria"
+      },
+      {
+        "value": "CUSTOM:RedShale"
+      },
+      {
+        "value": "CUSTOM:Orpiment"
+      },
+      {
+        "value": "CUSTOM:SmoothJaspilite"
+      },
+      {
+        "value": "CUSTOM:SeaSaltBlock"
+      },
+      {
+        "value": "CUSTOM:SaltBlock"
+      },
+      {
+        "value": "CUSTOM:WashedGravel"
+      },
+      {
+        "value": "CUSTOM:BankRunGravel"
+      },
+      {
+        "value": "CUSTOM:Slag"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "CUSTOM:Kaolin"
+      },
+      {
+        "value": "CUSTOM:ScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:Claystone"
+      },
+      {
+        "value": "CUSTOM:BurntClayBlock"
+      },
+      {
+        "value": "CUSTOM:GrassedScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownKaolin"
+      },
+      {
+        "value": "CUSTOM:OvergrownScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSandySoil"
+      },
+      {
+        "value": "CUSTOM:SiltSoil"
+      },
+      {
+        "value": "CUSTOM:OvergrownSiltSoil"
+      },
+      {
+        "value": "CUSTOM:DirtyMud"
+      },
+      {
+        "value": "CUSTOM:DriedMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownDriedMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDirtyMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDriedMud"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "azalea_root_placable",
+    "namespace": "minecraft"
+  }
+}

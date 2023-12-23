@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      },
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      },
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      },
+      {
+        "value": "CUSTOM:GildedAshBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GildedAshBrickStairs"
+    },
+    "name": "c_gilded_ash_brick_stairs_2",
+    "namespace": "mod"
+  }
+}

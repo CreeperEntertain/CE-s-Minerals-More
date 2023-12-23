@@ -1,0 +1,36 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:ProcessedAluminumScaffolding"
+      },
+      {
+        "value": "CUSTOM:IronScaffolding"
+      },
+      {
+        "value": "CUSTOM:CopperScaffolding"
+      },
+      {
+        "value": "Blocks.SCAFFOLDING"
+      },
+      {
+        "value": "CUSTOM:SolidIronScaffolding"
+      },
+      {
+        "value": "CUSTOM:SolidCopperScaffolding"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "scaffolding",
+    "namespace": "mod"
+  }
+}

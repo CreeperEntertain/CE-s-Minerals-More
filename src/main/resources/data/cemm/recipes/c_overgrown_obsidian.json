@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:moss_carpet"
+    },
+    "1": {
+      "item": "minecraft:obsidian"
+    }
+  },
+  "result": {
+    "item": "cemm:overgrown_obsidian",
+    "count": 1
+  }
+}

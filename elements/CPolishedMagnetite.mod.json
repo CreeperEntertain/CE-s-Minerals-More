@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Magnetite"
+      },
+      {
+        "value": "CUSTOM:Magnetite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Magnetite"
+      },
+      {
+        "value": "CUSTOM:Magnetite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMagnetite"
+    },
+    "name": "c_polished_magnetite",
+    "namespace": "mod"
+  }
+}

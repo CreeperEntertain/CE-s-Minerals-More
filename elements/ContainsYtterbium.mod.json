@@ -1,0 +1,24 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "CUSTOM:MonaziteDesert"
+      },
+      {
+        "value": "CUSTOM:ZirconianDesert"
+      },
+      {
+        "value": "desert"
+      }
+    ],
+    "name": "contains_ytterbium",
+    "namespace": "mod"
+  }
+}

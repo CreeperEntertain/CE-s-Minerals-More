@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cut_warped_stem"
+    }
+  },
+  "result": {
+    "item": "minecraft:warped_planks",
+    "count": 4
+  }
+}

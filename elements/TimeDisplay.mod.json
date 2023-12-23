@@ -1,0 +1,52 @@
+{
+  "_fv": 47,
+  "_type": "overlay",
+  "definition": {
+    "priority": "NORMAL",
+    "components": [
+      {
+        "type": "label",
+        "data": {
+          "name": "label_time",
+          "text": {
+            "fixedValue": "Time:"
+          },
+          "color": {
+            "value": -103,
+            "falpha": 0.0
+          },
+          "x": 6,
+          "y": 228
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty",
+          "text": {
+            "fixedValue": "Placeholder",
+            "name": "TimeDisplayValue"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 46,
+          "y": 228
+        }
+      }
+    ],
+    "baseTexture": "",
+    "overlayTarget": "Ingame",
+    "displayCondition": {
+      "name": "TimeDisplayDisplayCondition"
+    },
+    "gridSettings": {
+      "sx": 20,
+      "sy": 22,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

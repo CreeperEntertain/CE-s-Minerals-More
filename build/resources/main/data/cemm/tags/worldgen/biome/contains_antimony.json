@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "badlands",
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna",
+    "wooded_badlands",
+    "eroded_badlands"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MagicDust"
+      },
+      {
+        "value": "CUSTOM:CobaltCoin"
+      },
+      {
+        "value": "CUSTOM:MagicDust"
+      },
+      {
+        "value": "CUSTOM:CobaltCoin"
+      },
+      {
+        "value": "CUSTOM:MagicDust"
+      },
+      {
+        "value": "CUSTOM:CobaltCoin"
+      },
+      {
+        "value": "CUSTOM:MagicDust"
+      },
+      {
+        "value": "CUSTOM:CobaltCoin"
+      },
+      {
+        "value": "CUSTOM:MagicDust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:EnchantedCoin"
+    },
+    "name": "c_enchanted_coin",
+    "namespace": "mod"
+  }
+}

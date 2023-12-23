@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:monazite_desert",
+  "features": "cemm:monazite_feature",
+  "step": "underground_decoration"
+}

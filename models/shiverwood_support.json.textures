@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "shiverwood_support_bottom",
+        "Support Side": "shiverwood_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

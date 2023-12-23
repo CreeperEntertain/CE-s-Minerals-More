@@ -1,0 +1,16 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_DECORATION",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:ShungiteMines"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_replace_sphere\" inline=\"false\"><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Shungite</field></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Slate</field></block></value><value name=\"radius\"><block type=\"int_provider_uniform\"><field name=\"min\">3</field><field name=\"max\">7</field></block></value></block></value><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">45</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">150</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">350</field></block></value><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

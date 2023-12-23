@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.STAINED_HARDENED_CLAY#4"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:YellowShingles"
+    },
+    "name": "sc_yellow_shingles",
+    "namespace": "mod"
+  }
+}

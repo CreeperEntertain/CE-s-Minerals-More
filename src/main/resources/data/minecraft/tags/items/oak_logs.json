@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stripped_oak_wood",
+    "minecraft:oak_log",
+    "cemm:cut_oak",
+    "minecraft:stripped_oak_log",
+    "minecraft:oak_wood",
+    "cemm:cut_stripped_oak"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Hyaloclastite"
+      },
+      {
+        "value": "CUSTOM:Hyaloclastite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Hyaloclastite"
+      },
+      {
+        "value": "CUSTOM:Hyaloclastite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedHyaloclastite"
+    },
+    "name": "c_polished_hyaloclastite",
+    "namespace": "mod"
+  }
+}

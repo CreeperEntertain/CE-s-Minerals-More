@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/cast_copper_bricks",
+    "top": "cemm:block/cast_copper_bricks",
+    "side": "cemm:block/cast_copper_bricks"
+  },
+  "render_type": "solid"
+}

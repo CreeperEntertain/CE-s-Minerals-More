@@ -1,0 +1,12 @@
+{
+  "type": "cemm:monazite_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:monazite_sand"
+    },
+    "radius": 12
+  }
+}

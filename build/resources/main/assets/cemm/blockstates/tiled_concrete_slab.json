@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/tiled_concrete_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/tiled_concrete_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/tiled_concrete_slab_full"
+    }
+  }
+}

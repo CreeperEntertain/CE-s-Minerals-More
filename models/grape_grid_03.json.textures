@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "cucumber": "grapes_plant",
+        "thread_grid": "thread_grid",
+        "vine": "grape_vine"
+      },
+      "name": "default"
+    }
+  }
+}

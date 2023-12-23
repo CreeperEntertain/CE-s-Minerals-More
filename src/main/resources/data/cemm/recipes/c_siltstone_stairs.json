@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:siltstone"
+    },
+    "3": {
+      "item": "cemm:siltstone"
+    },
+    "4": {
+      "item": "cemm:siltstone"
+    },
+    "6": {
+      "item": "cemm:siltstone"
+    },
+    "7": {
+      "item": "cemm:siltstone"
+    },
+    "8": {
+      "item": "cemm:siltstone"
+    }
+  },
+  "result": {
+    "item": "cemm:siltstone_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:blooming_swampflower"
+    }
+  },
+  "result": {
+    "item": "minecraft:magenta_dye",
+    "count": 2
+  }
+}

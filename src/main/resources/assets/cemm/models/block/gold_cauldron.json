@@ -1,0 +1,12 @@
+{
+  "parent": "cemm:custom/gold_cauldron",
+  "textures": {
+    "all": "cemm:block/cauldron_side",
+    "particle": "cemm:block/cauldron_side",
+    "Gold": "cemm:block/gold_block",
+    "Cauldron Inner": "cemm:block/cauldron_inner",
+    "Cauldron Side": "cemm:block/cauldron_side",
+    "Cauldron Top": "cemm:block/cauldron_top"
+  },
+  "render_type": "cutout_mipped"
+}

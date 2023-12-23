@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "cemm:tall_shiftgrass",
+  "step": "vegetal_decoration"
+}

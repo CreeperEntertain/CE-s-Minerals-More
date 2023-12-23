@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "1": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "2": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "3": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "4": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "5": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "6": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "7": {
+      "item": "cemm:ytterbium_ingot"
+    },
+    "8": {
+      "item": "cemm:ytterbium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:ytterbium_block",
+    "count": 1
+  }
+}

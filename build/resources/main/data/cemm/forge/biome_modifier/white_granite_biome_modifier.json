@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bordeaux_boscage",
+  "features": "cemm:white_granite",
+  "step": "underground_ores"
+}

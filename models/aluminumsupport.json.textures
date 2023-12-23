@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "aluminum_support_side",
+        "Top": "aluminum_grid",
+        "Front": "aluminum_stairs_top",
+        "Back": "aluminum_scaffolding"
+      },
+      "name": "default"
+    }
+  }
+}

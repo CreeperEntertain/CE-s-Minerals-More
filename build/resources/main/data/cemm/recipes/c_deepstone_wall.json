@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:deepstone"
+    },
+    "1": {
+      "item": "cemm:deepstone"
+    },
+    "2": {
+      "item": "cemm:deepstone"
+    },
+    "3": {
+      "item": "cemm:deepstone"
+    },
+    "4": {
+      "item": "cemm:deepstone"
+    },
+    "5": {
+      "item": "cemm:deepstone"
+    }
+  },
+  "result": {
+    "item": "cemm:deepstone_wall",
+    "count": 6
+  }
+}

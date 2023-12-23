@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/asphalt_layer_5",
+  "textures": {
+    "all": "cemm:block/asphalt",
+    "particle": "cemm:block/asphalt",
+    "0": "cemm:block/asphalt"
+  },
+  "render_type": "solid"
+}

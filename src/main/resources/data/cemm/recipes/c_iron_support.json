@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:cast_iron_brick"
+    },
+    "1": {
+      "item": "cemm:cast_iron_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:iron_support",
+    "count": 1
+  }
+}

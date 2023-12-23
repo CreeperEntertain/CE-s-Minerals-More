@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/pink_shingles",
+    "top": "cemm:block/pink_shingles",
+    "side": "cemm:block/pink_shingles"
+  },
+  "render_type": "solid"
+}

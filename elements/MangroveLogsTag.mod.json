@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutMangrove"
+      },
+      {
+        "value": "CUSTOM:CutStrippedMangrove"
+      },
+      {
+        "value": "Blocks.MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.STRIPPED_MANGROVE_LOG"
+      },
+      {
+        "value": "Blocks.MANGROVE_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_MANGROVE_WOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "mangrove_logs",
+    "namespace": "minecraft"
+  }
+}

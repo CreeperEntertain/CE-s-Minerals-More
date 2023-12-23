@@ -1,0 +1,39 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.DEEPSLATE"
+      },
+      {
+        "value": "Blocks.COBBLED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.POLISHED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_TILES"
+      },
+      {
+        "value": "Blocks.DEEPSLATE_BRICKS"
+      },
+      {
+        "value": "Blocks.CHISELED_DEEPSLATE"
+      },
+      {
+        "value": "Blocks.CRACKED_DEEPSLATE_BRICKS"
+      },
+      {
+        "value": "Blocks.CRACKED_DEEPSLATE_TILES"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "deepslate_blocks",
+    "namespace": "mod"
+  }
+}

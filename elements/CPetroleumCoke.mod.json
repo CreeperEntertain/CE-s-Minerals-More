@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 150,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:SolidifiedOil"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:PetroleumCoke"
+    },
+    "name": "c_petroleum_coke",
+    "namespace": "mod"
+  }
+}

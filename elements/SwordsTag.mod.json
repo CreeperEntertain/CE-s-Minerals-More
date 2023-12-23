@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MiserySword"
+      },
+      {
+        "value": "CUSTOM:MetaCarboniteSword"
+      },
+      {
+        "value": "CUSTOM:Nightsword"
+      },
+      {
+        "value": "CUSTOM:SteelSword"
+      },
+      {
+        "value": "CUSTOM:ChlorophylSword"
+      },
+      {
+        "value": "CUSTOM:TitaniumSword"
+      },
+      {
+        "value": "Items.WOODEN_SWORD"
+      },
+      {
+        "value": "Items.STONE_SWORD"
+      },
+      {
+        "value": "Items.IRON_SWORD"
+      },
+      {
+        "value": "Items.GOLDEN_SWORD"
+      },
+      {
+        "value": "Items.DIAMOND_SWORD"
+      },
+      {
+        "value": "Items.NETHERITE_SWORD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "swords",
+    "namespace": "minecraft"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutAcacia"
+      },
+      {
+        "value": "CUSTOM:CutStrippedAcacia"
+      },
+      {
+        "value": "Blocks.LOG2#0"
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_LOG"
+      },
+      {
+        "value": "Blocks.ACACIA_WOOD"
+      },
+      {
+        "value": "Blocks.STRIPPED_ACACIA_WOOD"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "acacia_logs",
+    "namespace": "minecraft"
+  }
+}

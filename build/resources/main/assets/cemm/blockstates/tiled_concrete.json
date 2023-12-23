@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/tiled_concrete",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/tiled_concrete"
+    },
+    "axis=z": {
+      "model": "cemm:block/tiled_concrete",
+      "x": 90
+    }
+  }
+}

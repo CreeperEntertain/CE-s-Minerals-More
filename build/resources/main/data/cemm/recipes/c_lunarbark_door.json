@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23",
+    "45"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "1": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "2": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "3": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "4": {
+      "item": "cemm:lunarbark_planks"
+    },
+    "5": {
+      "item": "cemm:lunarbark_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:lunarbark_door",
+    "count": 3
+  }
+}

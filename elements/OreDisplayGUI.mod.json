@@ -1,0 +1,386 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 450,
+    "height": 250,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_aluminum",
+          "image": "mc_aluminum.png",
+          "hoveredImage": "mc_aluminum_select.png",
+          "onClick": {
+            "name": "OSAluminum"
+          },
+          "x": 6,
+          "y": 6
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_antimony",
+          "image": "mc_antimony.png",
+          "hoveredImage": "mc_antimony_select.png",
+          "onClick": {
+            "name": "OSAntimony"
+          },
+          "x": 6,
+          "y": 25
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_arsenic",
+          "image": "mc_arsenic.png",
+          "hoveredImage": "mc_arsenic_select.png",
+          "onClick": {
+            "name": "OSArsenic"
+          },
+          "x": 6,
+          "y": 44
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_baryte",
+          "image": "mc_baryte.png",
+          "hoveredImage": "mc_baryte_select.png",
+          "onClick": {
+            "name": "OSBaryte"
+          },
+          "x": 6,
+          "y": 63
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_beryllium",
+          "image": "mc_beryllium.png",
+          "hoveredImage": "mc_beryllium_select.png",
+          "onClick": {
+            "name": "OSBeryllium"
+          },
+          "x": 6,
+          "y": 82
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_cesium",
+          "image": "mc_cesium.png",
+          "hoveredImage": "mc_cesium_select.png",
+          "onClick": {
+            "name": "OSCesium"
+          },
+          "x": 6,
+          "y": 120
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_chromium",
+          "image": "mc_chromium.png",
+          "hoveredImage": "mc_chromium_select.png",
+          "onClick": {
+            "name": "OSChromium"
+          },
+          "x": 6,
+          "y": 139
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_cobalt",
+          "image": "mc_cobalt.png",
+          "hoveredImage": "mc_cobalt_select.png",
+          "onClick": {
+            "name": "OSCobalt"
+          },
+          "x": 6,
+          "y": 158
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_yttrium",
+          "image": "mc_yttrium.png",
+          "hoveredImage": "mc_yttrium_select.png",
+          "onClick": {
+            "name": "OSYttrium"
+          },
+          "x": 282,
+          "y": 25
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_fluorite",
+          "image": "mc_fluorite.png",
+          "hoveredImage": "mc_fluorite_select.png",
+          "onClick": {
+            "name": "OSFluorite"
+          },
+          "x": 6,
+          "y": 177
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_lanthanum",
+          "image": "mc_lanthanum.png",
+          "hoveredImage": "mc_lanthanum_select.png",
+          "onClick": {
+            "name": "OSLanthanum"
+          },
+          "x": 6,
+          "y": 215
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_calcium",
+          "image": "mc_calcium.png",
+          "hoveredImage": "mc_calcium_select.png",
+          "onClick": {
+            "name": "OSCalcium"
+          },
+          "x": 6,
+          "y": 101
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_graphite",
+          "image": "mc_graphite.png",
+          "hoveredImage": "mc_graphite_select.png",
+          "onClick": {
+            "name": "OSGraphite"
+          },
+          "x": 6,
+          "y": 196
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_lead",
+          "image": "mc_lead.png",
+          "hoveredImage": "mc_lead_select.png",
+          "onClick": {
+            "name": "OSLead"
+          },
+          "x": 144,
+          "y": 6
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_zirconium",
+          "image": "mc_zirconium.png",
+          "hoveredImage": "mc_zirconium_select.png",
+          "onClick": {
+            "name": "OSZirconium"
+          },
+          "x": 282,
+          "y": 63
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_zinc",
+          "image": "mc_zinc.png",
+          "hoveredImage": "mc_zinc_select.png",
+          "onClick": {
+            "name": "OSZinc"
+          },
+          "x": 282,
+          "y": 44
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_lithium",
+          "image": "mc_lithium.png",
+          "hoveredImage": "mc_lithium_select.png",
+          "onClick": {
+            "name": "OSLithium"
+          },
+          "x": 144,
+          "y": 25
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_magnesium",
+          "image": "mc_magnesium.png",
+          "hoveredImage": "mc_magnesium_select.png",
+          "onClick": {
+            "name": "OSMagnesium"
+          },
+          "x": 144,
+          "y": 44
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_manganese",
+          "image": "mc_manganese.png",
+          "hoveredImage": "mc_manganese_select.png",
+          "onClick": {
+            "name": "OSManganese"
+          },
+          "x": 144,
+          "y": 63
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_neodymium",
+          "image": "mc_neodymium.png",
+          "hoveredImage": "mc_neodymium_select.png",
+          "onClick": {
+            "name": "OSNeodymium"
+          },
+          "x": 144,
+          "y": 82
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_niobium",
+          "image": "mc_niobium.png",
+          "hoveredImage": "mc_niobium_select.png",
+          "onClick": {
+            "name": "OSNiobium"
+          },
+          "x": 144,
+          "y": 101
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_platinum",
+          "image": "mc_platinum.png",
+          "hoveredImage": "mc_platinum_select.png",
+          "onClick": {
+            "name": "OSPlatinum"
+          },
+          "x": 144,
+          "y": 158
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_osmium",
+          "image": "mc_osmium.png",
+          "hoveredImage": "mc_osmium_select.png",
+          "onClick": {
+            "name": "OSOsmium"
+          },
+          "x": 144,
+          "y": 139
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_tin",
+          "image": "mc_tin.png",
+          "hoveredImage": "mc_tin_select.png",
+          "onClick": {
+            "name": "OSTin"
+          },
+          "x": 144,
+          "y": 196
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_tungsten",
+          "image": "mc_tungsten.png",
+          "hoveredImage": "mc_tungsten_select.png",
+          "onClick": {
+            "name": "OSTungsten"
+          },
+          "x": 144,
+          "y": 215
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_vanadium",
+          "image": "mc_vanadium.png",
+          "hoveredImage": "mc_vanadium_select.png",
+          "onClick": {
+            "name": "OSVanadium"
+          },
+          "x": 282,
+          "y": 6
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_sulfur",
+          "image": "mc_sulfur.png",
+          "hoveredImage": "mc_sulfur_select.png",
+          "onClick": {
+            "name": "OSSulfur"
+          },
+          "x": 144,
+          "y": 177
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_mc_niter",
+          "image": "mc_niter.png",
+          "hoveredImage": "mc_niter_select.png",
+          "onClick": {
+            "name": "OSNiter"
+          },
+          "x": 144,
+          "y": 120
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 92,
+      "sy": 38,
+      "ox": 10,
+      "oy": 10,
+      "snapOnGrid": false
+    }
+  }
+}

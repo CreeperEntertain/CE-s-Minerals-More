@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chlorograss_block_stone",
+    "cemm:chlorograss_block_moss",
+    "cemm:chlorograss_block_dripstone",
+    "cemm:chlorograss_block_granite",
+    "cemm:chlorograss_block_diorite",
+    "cemm:chlorograss_block_andesite",
+    "cemm:chlorograss_block_dirt",
+    "cemm:chlorograss_block_tuff"
+  ]
+}

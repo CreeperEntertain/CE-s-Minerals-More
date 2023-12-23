@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      },
+      {
+        "value": "CUSTOM:Rhyolite"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:RhyoliteStairs"
+    },
+    "name": "c_rhyolite_stairs",
+    "namespace": "mod"
+  }
+}

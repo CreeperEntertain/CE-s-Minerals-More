@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:red_shale",
+    "cemm:scoria",
+    "cemm:hardened_sand",
+    "minecraft:chiseled_sandstone",
+    "cemm:bank_run_gravel",
+    "minecraft:sandstone",
+    "cemm:slag",
+    "minecraft:smooth_sandstone",
+    "cemm:tough_sand",
+    "cemm:jaspilite",
+    "minecraft:cut_sandstone",
+    "cemm:orpiment",
+    "cemm:smooth_jaspilite",
+    "cemm:zircon_sand",
+    "cemm:scorched_dirt",
+    "minecraft:red_sandstone",
+    "minecraft:chiseled_red_sandstone",
+    "minecraft:cut_red_sandstone",
+    "cemm:washed_gravel",
+    "cemm:dried_mud",
+    "cemm:monazite_sand",
+    "cemm:kaolin",
+    "cemm:sea_salt_block",
+    "minecraft:smooth_red_sandstone",
+    "cemm:salt_block",
+    "cemm:sandy_soil",
+    "minecraft:gravel"
+  ]
+}

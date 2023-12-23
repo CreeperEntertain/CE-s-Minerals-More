@@ -1,0 +1,20 @@
+{
+  "type": "cemm:oil_lakes",
+  "config": {
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "cemm:oil",
+        "Properties": {
+          "level": "0"
+        }
+      }
+    },
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "cemm:solidified_oil"
+      }
+    }
+  }
+}

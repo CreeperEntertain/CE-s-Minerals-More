@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:hornfels"
+  },
+  "result": "cemm:hornfels_slab"
+}

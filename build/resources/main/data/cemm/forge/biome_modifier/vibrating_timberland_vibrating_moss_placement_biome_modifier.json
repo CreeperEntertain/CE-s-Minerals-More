@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:vibrating_timberland",
+  "features": "cemm:vibrating_timberland_vibrating_moss_placement",
+  "step": "local_modifications"
+}

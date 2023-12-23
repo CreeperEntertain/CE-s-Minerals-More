@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/purple_shingles",
+    "particle": "cemm:block/purple_shingles"
+  },
+  "render_type": "solid"
+}

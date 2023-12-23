@@ -1,0 +1,75 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "CUSTOM:MonaziteDesert"
+      },
+      {
+        "value": "CUSTOM:ZirconianDesert"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "mutated_plains"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      },
+      {
+        "value": "lukewarm_ocean"
+      },
+      {
+        "value": "warm_ocean"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "mushroom_fields"
+      },
+      {
+        "value": "stone_beach"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "river"
+      }
+    ],
+    "name": "contains_chromium",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,130 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Shungite Mines",
+    "groundBlock": {
+      "value": "CUSTOM:Shungite"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Shungite"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.bliss"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.8,
+    "temperature": 0.2,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.8,
+      "max": 0.5333333333333332
+    },
+    "genHumidity": {
+      "min": -0.564353,
+      "max": 1.2000000000000002
+    },
+    "genContinentalness": {
+      "min": 0.0,
+      "max": 1.2113
+    },
+    "genErosion": {
+      "min": -0.09999999999999998,
+      "max": 1.1
+    },
+    "genWeirdness": {
+      "min": 0.1999303892291039,
+      "max": 1.399930389229104
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "TaigaRocks"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": true,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": true,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityEnderman"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 15,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityEndermite"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityEvokerFangs"
+        },
+        "minGroup": 6,
+        "maxGroup": 10,
+        "weight": 40,
+        "spawnType": "ambient"
+      }
+    ]
+  }
+}

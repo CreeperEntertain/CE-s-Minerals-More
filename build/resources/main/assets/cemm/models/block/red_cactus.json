@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/red_cactus",
+  "textures": {
+    "all": "cemm:block/red_cactus_bottom",
+    "particle": "cemm:block/red_cactus_bottom",
+    "side": "cemm:block/red_cactus_side",
+    "top": "cemm:block/red_cactus_top",
+    "bottom": "cemm:block/red_cactus_bottom"
+  },
+  "render_type": "cutout_mipped"
+}

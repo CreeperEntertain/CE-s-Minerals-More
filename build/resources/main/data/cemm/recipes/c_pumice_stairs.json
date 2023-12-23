@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:pumice"
+    },
+    "3": {
+      "item": "cemm:pumice"
+    },
+    "4": {
+      "item": "cemm:pumice"
+    },
+    "6": {
+      "item": "cemm:pumice"
+    },
+    "7": {
+      "item": "cemm:pumice"
+    },
+    "8": {
+      "item": "cemm:pumice"
+    }
+  },
+  "result": {
+    "item": "cemm:pumice_stairs",
+    "count": 4
+  }
+}

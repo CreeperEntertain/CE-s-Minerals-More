@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:sea_salt_block"
+    },
+    "1": {
+      "item": "cemm:sea_salt_block"
+    },
+    "2": {
+      "item": "cemm:sea_salt_block"
+    }
+  },
+  "result": {
+    "item": "cemm:sea_salt_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cemm:block/sea_salt_block"
+    }
+  }
+}

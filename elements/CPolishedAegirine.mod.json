@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Aegirine"
+      },
+      {
+        "value": "CUSTOM:Aegirine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Aegirine"
+      },
+      {
+        "value": "CUSTOM:Aegirine"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedAegirine"
+    },
+    "name": "c_polished_aegirine",
+    "namespace": "mod"
+  }
+}

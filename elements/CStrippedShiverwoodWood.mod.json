@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrippedShiverwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShiverwoodLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:StrippedShiverwoodLog"
+      },
+      {
+        "value": "CUSTOM:StrippedShiverwoodLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:StrippedShiverwoodWood"
+    },
+    "name": "c_stripped_shiverwood_wood",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RakedGravel"
+      },
+      {
+        "value": "CUSTOM:WashedGravel"
+      },
+      {
+        "value": "CUSTOM:BankRunGravel"
+      },
+      {
+        "value": "Blocks.GRAVEL"
+      },
+      {
+        "value": "Blocks.SUSPICIOUS_GRAVEL"
+      },
+      {
+        "value": "CUSTOM:Slag"
+      },
+      {
+        "value": "CUSTOM:RakedBankRunGravel"
+      },
+      {
+        "value": "CUSTOM:RakedWashedGravel"
+      },
+      {
+        "value": "CUSTOM:RakedSlag"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "gravel",
+    "namespace": "minecraft"
+  }
+}

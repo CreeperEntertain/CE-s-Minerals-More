@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_river",
+    "river"
+  ],
+  "features": "cemm:salt_block",
+  "step": "underground_ores"
+}

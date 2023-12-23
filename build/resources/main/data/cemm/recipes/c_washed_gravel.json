@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:gravel"
+    },
+    "1": {
+      "item": "minecraft:gravel"
+    },
+    "2": {
+      "item": "minecraft:gravel"
+    },
+    "3": {
+      "item": "minecraft:gravel"
+    },
+    "4": {
+      "item": "minecraft:water_bucket"
+    },
+    "5": {
+      "item": "minecraft:gravel"
+    },
+    "6": {
+      "item": "minecraft:gravel"
+    },
+    "7": {
+      "item": "minecraft:gravel"
+    },
+    "8": {
+      "item": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "cemm:washed_gravel",
+    "count": 8
+  }
+}

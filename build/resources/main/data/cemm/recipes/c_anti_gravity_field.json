@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:plastic_sheets"
+    },
+    "1": {
+      "item": "minecraft:redstone_torch"
+    },
+    "2": {
+      "item": "cemm:plastic_sheets"
+    },
+    "3": {
+      "item": "cemm:plastic_sheets"
+    },
+    "4": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "5": {
+      "item": "cemm:plastic_sheets"
+    },
+    "6": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "7": {
+      "item": "cemm:magnet"
+    },
+    "8": {
+      "item": "minecraft:phantom_membrane"
+    }
+  },
+  "result": {
+    "item": "cemm:anti_gravity_field",
+    "count": 1
+  }
+}

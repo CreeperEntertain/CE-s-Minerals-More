@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "1": {
+      "item": "cemm:neodymium_ingot"
+    },
+    "2": {
+      "item": "minecraft:iron_ingot"
+    },
+    "3": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:magnet",
+    "count": 1
+  }
+}

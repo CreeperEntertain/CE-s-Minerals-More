@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "cemm:asphalt_slab"
+  },
+  "result": "cemm:asphalt_layer_1"
+}

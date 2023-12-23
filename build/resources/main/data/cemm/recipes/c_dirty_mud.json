@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:dirt"
+    },
+    "1": {
+      "item": "minecraft:mud"
+    },
+    "2": {
+      "item": "minecraft:mud"
+    },
+    "3": {
+      "item": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "cemm:dirty_mud",
+    "count": 4
+  }
+}

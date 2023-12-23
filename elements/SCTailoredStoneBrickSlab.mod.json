@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:TailoredStoneBricks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:TailoredStoneBrickSlab"
+    },
+    "name": "sc_tailored_stone_brick_slab",
+    "namespace": "mod"
+  }
+}

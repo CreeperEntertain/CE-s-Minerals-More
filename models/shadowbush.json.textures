@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "overgrowth_top": "shadowfern_overlay",
+        "bush": "shadowbush",
+        "overgrowth_side": "shadowfern_overlay_side"
+      },
+      "name": "default"
+    }
+  }
+}

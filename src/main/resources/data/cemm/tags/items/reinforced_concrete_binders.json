@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:limestone_pieces",
+    "minecraft:clay_ball",
+    "cemm:limestone_powder",
+    "cemm:gypsum"
+  ]
+}

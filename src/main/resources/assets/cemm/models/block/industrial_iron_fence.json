@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "cemm:block/industrial_iron",
+    "particle": "cemm:block/industrial_iron"
+  },
+  "render_type": "solid"
+}

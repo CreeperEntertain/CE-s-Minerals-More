@@ -1,0 +1,18 @@
+{
+  "type": "cemm:bauxite_steppes_silstone_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:bauxite_block"
+    },
+    "state": {
+      "Name": "cemm:siltstone"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    }
+  }
+}

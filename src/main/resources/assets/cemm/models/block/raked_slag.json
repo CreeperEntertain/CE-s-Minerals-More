@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/slag",
+    "up": "cemm:block/raked_slag",
+    "north": "cemm:block/slag",
+    "east": "cemm:block/slag",
+    "south": "cemm:block/slag",
+    "west": "cemm:block/slag",
+    "particle": "cemm:block/slag"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:dried_mud"
+    },
+    "1": {
+      "item": "cemm:dried_mud"
+    },
+    "2": {
+      "item": "cemm:dried_mud"
+    },
+    "3": {
+      "item": "cemm:dried_mud"
+    }
+  },
+  "result": {
+    "item": "minecraft:mud_bricks",
+    "count": 4
+  }
+}

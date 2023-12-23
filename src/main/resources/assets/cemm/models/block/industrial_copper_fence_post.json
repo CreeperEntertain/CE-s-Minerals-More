@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "cemm:block/industrial_copper",
+    "particle": "cemm:block/industrial_copper"
+  },
+  "render_type": "solid"
+}

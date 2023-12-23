@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rhyolite"
+    },
+    "1": {
+      "item": "cemm:rhyolite"
+    },
+    "2": {
+      "item": "cemm:rhyolite"
+    }
+  },
+  "result": {
+    "item": "cemm:rhyolite_slab",
+    "count": 6
+  }
+}

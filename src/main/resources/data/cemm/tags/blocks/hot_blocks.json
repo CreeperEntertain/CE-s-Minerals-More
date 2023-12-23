@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:brimstone_ore",
+    "minecraft:nether_quartz_ore",
+    "minecraft:soul_fire",
+    "cemm:brimstone_block",
+    "minecraft:campfire",
+    "minecraft:warped_nylium",
+    "minecraft:fire",
+    "cemm:nether_iron_ore",
+    "minecraft:crimson_nylium",
+    "minecraft:nether_gold_ore",
+    "minecraft:netherrack",
+    "minecraft:soul_campfire",
+    "cemm:blackstone_brimstone_deposit",
+    "minecraft:crying_obsidian",
+    "minecraft:ancient_debris",
+    "minecraft:magma_block",
+    "minecraft:lava"
+  ]
+}

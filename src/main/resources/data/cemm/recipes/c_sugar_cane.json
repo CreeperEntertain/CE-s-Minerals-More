@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:sugar_cane_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:sugar_cane",
+    "count": 9
+  }
+}

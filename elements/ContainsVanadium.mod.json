@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "CUSTOM:BauxiteSteppes"
+      },
+      {
+        "value": "badlands"
+      },
+      {
+        "value": "mutated_mesa"
+      },
+      {
+        "value": "wooded_badlands_plateau"
+      },
+      {
+        "value": "CUSTOM:MonaziteDesert"
+      },
+      {
+        "value": "CUSTOM:ZirconianDesert"
+      },
+      {
+        "value": "desert"
+      },
+      {
+        "value": "savanna"
+      },
+      {
+        "value": "savanna_rock"
+      },
+      {
+        "value": "mutated_savanna"
+      }
+    ],
+    "name": "contains_vanadium",
+    "namespace": "mod"
+  }
+}

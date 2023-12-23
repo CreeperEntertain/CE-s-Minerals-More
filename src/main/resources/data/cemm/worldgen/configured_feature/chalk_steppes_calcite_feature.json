@@ -1,0 +1,18 @@
+{
+  "type": "cemm:chalk_steppes_calcite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:chalk"
+    },
+    "state": {
+      "Name": "minecraft:diorite"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 4
+      }
+    }
+  }
+}

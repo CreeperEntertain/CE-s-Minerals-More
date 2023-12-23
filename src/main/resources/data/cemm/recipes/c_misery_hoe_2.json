@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    " 3",
+    " 5"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "1": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "3": {
+      "item": "cemm:nightrod"
+    },
+    "5": {
+      "item": "cemm:nightrod"
+    }
+  },
+  "result": {
+    "item": "cemm:misery_hoe",
+    "count": 1
+  }
+}

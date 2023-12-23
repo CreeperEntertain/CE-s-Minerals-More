@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:Trondhjemite"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:PolishedTrondhjemiteSlab"
+    },
+    "name": "sc_400",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rocky_stone"
+    },
+    "1": {
+      "item": "cemm:rocky_stone"
+    },
+    "2": {
+      "item": "cemm:rocky_stone"
+    }
+  },
+  "result": {
+    "item": "cemm:rocky_stone_slab",
+    "count": 6
+  }
+}

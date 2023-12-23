@@ -1,0 +1,25 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Brewing",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "brewingInputStack": {
+      "value": "POTION:WATER"
+    },
+    "brewingIngredientStack": {
+      "value": "CUSTOM:Nettle"
+    },
+    "brewingReturnStack": {
+      "value": "CUSTOM:Tea"
+    },
+    "name": "b_tea_2",
+    "namespace": "mod"
+  }
+}

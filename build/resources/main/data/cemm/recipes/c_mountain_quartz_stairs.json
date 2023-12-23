@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:mountain_quartz_block"
+    },
+    "3": {
+      "item": "cemm:mountain_quartz_block"
+    },
+    "4": {
+      "item": "cemm:mountain_quartz_block"
+    },
+    "6": {
+      "item": "cemm:mountain_quartz_block"
+    },
+    "7": {
+      "item": "cemm:mountain_quartz_block"
+    },
+    "8": {
+      "item": "cemm:mountain_quartz_block"
+    }
+  },
+  "result": {
+    "item": "cemm:mountain_quartz_stairs",
+    "count": 4
+  }
+}

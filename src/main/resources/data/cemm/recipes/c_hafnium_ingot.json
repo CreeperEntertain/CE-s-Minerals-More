@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:hafnium_scrap"
+    },
+    "1": {
+      "item": "cemm:hafnium_scrap"
+    },
+    "2": {
+      "item": "cemm:hafnium_scrap"
+    },
+    "3": {
+      "item": "cemm:hafnium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:hafnium_ingot",
+    "count": 1
+  }
+}

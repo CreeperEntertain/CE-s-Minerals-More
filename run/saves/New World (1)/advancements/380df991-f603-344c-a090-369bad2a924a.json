@@ -1,0 +1,42 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-12-23 00:49:09 +0100"
+    },
+    "done": true
+  },
+  "cemm:welcome_to_the_game": {
+    "criteria": {
+      "welcome_to_the_game": "2023-12-23 00:49:09 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2023-12-23 00:50:52 +0100",
+      "minecraft:beach": "2023-12-23 00:49:19 +0100",
+      "minecraft:stony_peaks": "2023-12-23 00:52:22 +0100",
+      "minecraft:lukewarm_ocean": "2023-12-23 00:53:41 +0100",
+      "minecraft:stony_shore": "2023-12-23 00:52:54 +0100",
+      "minecraft:forest": "2023-12-23 00:52:25 +0100",
+      "minecraft:ocean": "2023-12-23 00:50:00 +0100",
+      "minecraft:deep_dark": "2023-12-23 00:52:41 +0100",
+      "minecraft:savanna": "2023-12-23 00:49:38 +0100",
+      "minecraft:plains": "2023-12-23 00:49:10 +0100"
+    },
+    "done": false
+  },
+  "cemm:cemm_additions": {
+    "criteria": {
+      "cemm_additions": "2023-12-23 00:49:09 +0100"
+    },
+    "done": true
+  },
+  "cemm:natures_breath": {
+    "criteria": {
+      "natures_breath": "2023-12-23 00:50:30 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

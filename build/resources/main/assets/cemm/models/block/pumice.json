@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/pumice",
+    "particle": "cemm:block/pumice"
+  },
+  "render_type": "solid"
+}

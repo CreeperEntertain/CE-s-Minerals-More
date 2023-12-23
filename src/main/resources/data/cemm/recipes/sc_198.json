@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_todorokite"
+  },
+  "result": "cemm:polished_todorokite_wall"
+}

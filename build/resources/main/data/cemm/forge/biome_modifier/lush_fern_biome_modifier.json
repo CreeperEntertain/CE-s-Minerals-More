@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "old_growth_pine_taiga",
+    "sparse_jungle",
+    "jungle",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "cemm:lush_fern",
+  "step": "vegetal_decoration"
+}

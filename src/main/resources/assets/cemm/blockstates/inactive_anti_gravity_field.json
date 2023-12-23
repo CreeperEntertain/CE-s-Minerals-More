@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cemm:block/inactive_anti_gravity_field"
+    }
+  }
+}

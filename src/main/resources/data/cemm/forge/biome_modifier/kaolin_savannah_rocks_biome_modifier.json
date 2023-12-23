@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna"
+  ],
+  "features": "cemm:kaolin_savannah_rocks",
+  "step": "local_modifications"
+}

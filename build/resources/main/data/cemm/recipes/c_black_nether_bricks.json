@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:nether_brick"
+    },
+    "3": {
+      "item": "minecraft:nether_brick"
+    },
+    "4": {
+      "tag": "cemm:black_ice_crafting_material"
+    },
+    "5": {
+      "item": "minecraft:nether_brick"
+    },
+    "7": {
+      "item": "minecraft:nether_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:black_nether_brick",
+    "count": 4
+  }
+}

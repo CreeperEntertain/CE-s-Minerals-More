@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/crimson_support",
+  "textures": {
+    "all": "cemm:block/crimson_support_side",
+    "particle": "cemm:block/crimson_support_side",
+    "Support Bottom": "cemm:block/crimson_support_bottom",
+    "Support Side": "cemm:block/crimson_support_side"
+  },
+  "render_type": "solid"
+}

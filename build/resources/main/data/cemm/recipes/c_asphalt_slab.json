@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:asphalt"
+    },
+    "1": {
+      "item": "cemm:asphalt"
+    },
+    "2": {
+      "item": "cemm:asphalt"
+    }
+  },
+  "result": {
+    "item": "cemm:asphalt_slab",
+    "count": 6
+  }
+}

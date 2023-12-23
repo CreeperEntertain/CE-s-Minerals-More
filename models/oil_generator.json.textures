@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Cable": "cable",
+        "Frame": "aluminum_frame",
+        "Beam Connector": "aluminum_beam_connector"
+      },
+      "name": "default"
+    }
+  }
+}

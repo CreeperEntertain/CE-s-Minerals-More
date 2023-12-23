@@ -1,0 +1,31 @@
+{
+  "type": "cemm:rough_diamond_block",
+  "config": {
+    "size": 4,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:netherrack"
+          }
+        },
+        "state": {
+          "Name": "cemm:rough_diamond_block"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:blackstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:rough_diamond_block"
+        }
+      }
+    ]
+  }
+}

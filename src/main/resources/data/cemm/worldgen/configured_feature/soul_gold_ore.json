@@ -1,0 +1,31 @@
+{
+  "type": "cemm:soul_gold_ore",
+  "config": {
+    "size": 8,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:soul_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      }
+    ]
+  }
+}

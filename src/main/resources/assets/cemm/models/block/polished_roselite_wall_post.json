@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/polished_roselite",
+    "particle": "cemm:block/polished_roselite"
+  },
+  "render_type": "solid"
+}
