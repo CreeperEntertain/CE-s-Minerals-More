@@ -1,1 +1,82 @@
-"# CE-s-Minerals-More" 
+# Version 2.17.330 of "CE's Minerals & More"
+To visit the download pages for this mod, visit the main branch.
+
+## Version 2.17.330 Changelog
+- Changed the chlorophyl key recipe to avoid soft lock
+- Corrected the name of chlorograss
+- Vanadinite now generates more frequently and in larger veins
+- Added the forgotten oil generator recipe
+- Cast copper and iron blocks now use copper and iron blocks in crafting to avoid recipe conflicts
+- Added missing crafting recipes for aluminum and processed aluminum beam connectors
+- Changed the recipes for coated and processed aluminum bars
+- Fixed the recipe for unstable TNT
+- You can now duplicate the location of a totem of teleportation by holding it in your off-hand, and using an unset strange coin in your main hand
+- Yield of diamonds versus emeralds when purifying graphite changed to 1:3, diamond:emerald
+- Time used for purifying graphite cut in half as well as material cost
+- Added brick variants for all types of pumice
+- Added jasper tiles
+- Added processed ebony planks, stairs, and slabs
+- Fixed ebony saplings not growing into full trees when bonemeal is used
+- Added all wood related items to the according item tags
+- Added supports for all wood type blocks
+- Added iron and copper supports
+- Fixed shellwood, shiverwood, and shinewood doors and trapdoors transparency
+- Added the anti gravity field
+- Added raked versions of slag, bank run gravel, and washed gravel
+- Added the forgotten black lotus to black dye crafting recipe
+- Added all flowers to Minecraft's flower block tags
+- All added crops now grow slower due to balancing reasons
+- Added leather bundles as more efficient leather storing
+- Bank run gravel can now be crafted into regular gravel
+- Slag now generates around deepslate level and in the nether
+- Bank run gravel now generates around beaches, rivers, and in savannas
+- Added sandy soil which generates on beaches and savannas
+- Coarse dirt now sometimes replaces grass in savannas
+- Reduced the amount of dead bush patches in generation
+- Creosote bushes now also generate in savannas, badlands, and deserts
+- Desert primroses now also generate in deserts
+- Added dune grass and dense dune grass
+- Black lotus now generates in smaller quantities
+- Added kaolin, which generates in savanna biomes
+- Added kaolin stairs, slabs, walls, and brick variants
+- Chlorophyl ore spreading speed is now 4 times slower for balancing reasons
+- Added latite bricks, and all their variants
+- Added claystone and blueschist bricks and all their variants
+- Added scorched dirt which now generates in savanna biomes
+- Added more plant related block tags for better compatibility
+- Many of the plants now have improved placement conditions
+- Added framed paper blocks
+- Added an overgrown variant for kaolin, scorched dirt, and sandy soil
+- Added a grassed variant of scorched soil
+- Black ice no longer generates as part of frozen rivers
+- Added silt soil which generates in old growth taigas
+- Added dense fern and lurn fern which generate in old growth taigas
+- Added the mining compass, an item that helps you find ores in caves
+- Silt soil, lush fern, and dense fern now also generate in jungles
+- Added dirty mud as well as its overgrown variant which can be found in swamps
+- Added dried mud which can be turned into slabs stairs and walls, as well as its overgrown variant
+- Added grassed variants of dried and dirty mud
+- Fixed a bug where overgrowth would spread during rain even if a solid block is above
+- Reinforced glass is now no longer destructible by the mining laser
+- Fixed regular blocks not turning into their grassed version
+- Added 16 colors of terracotta shingle blocks as well as slab and stairs variants
+- Added 16 colors of terracotta tiles
+- Added aloe vera to the desert which can be turned into gel for healing
+- Added the swampflower which will bloom during rain and thunder, even if underground
+- Added the red spider lily which can be found in cherry groves, groves, birch forests, and chalk cliffs
+- Added the gentian which can be found in forests
+- Added the foxglove which can be found in plains, groves, flower forests, and meadows
+- Added lavendar which is very common in meadows
+- Added abelia which can be found in regular plains, cherry groves, and meadows
+- Added the chinese lantern which can be found around rivers and in cherry groves
+- Added hibiscus which can be found in swamps and jungles
+- Added forsythia which grows in warm plains biomes, flower forests, and meadows
+- Added nettle to forest biomes which hurts the player when trampled and can be brewed into tea
+- Added swamp sedge and tussock to decorate swamps more
+- Added bushes and shrubs to most biomes
+- All modded flowers from the overworld can now be duplicated with bonemeal
+- Regular nether bricks can now be turned into fences in a stonecutter
+- Added black nether bricks as well as all the variants
+- Niter caves now don't take up as much space
+
+### [Main Branch](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/main)
