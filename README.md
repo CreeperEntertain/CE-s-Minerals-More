@@ -14,7 +14,7 @@ This is to make it easier to work with MCreator's own git management system, and
 **[MCreator](https://mcreator.net/modification/97656/ces-minerals-more)**
 
 ## Version Branches
-**[1.10.31 (Minecraft )](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.10.31)**  
+**[1.10.31](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.10.31)**  
 **[1.11.43](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/1.11.43)**  
 **[1.12.45](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/1.12.45)**  
 **[1.13.56](https://github.com/CreeperEntertain/CE-s-Minerals-More/blob/1.13.56)**  
