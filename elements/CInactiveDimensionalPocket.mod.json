@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Primedust"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:Primedust"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:XanthaniumBlock"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:Primedust"
+      },
+      {
+        "value": "CUSTOM:Shiftfabric"
+      },
+      {
+        "value": "CUSTOM:Primedust"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DimensionalPocketInactive"
+    },
+    "name": "c_inactive_dimensional_pocket",
+    "namespace": "mod"
+  }
+}

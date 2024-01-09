@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/nyline_fungus",
+    "particle": "cemm:block/nyline_fungus"
+  },
+  "render_type": "cutout"
+}

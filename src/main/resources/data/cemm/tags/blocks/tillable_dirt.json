@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:grassed_dirty_mud",
+    "cemm:silt_soil",
+    "cemm:dirty_mud",
+    "cemm:scorched_dirt",
+    "cemm:firegrass_block_dirt",
+    "cemm:overgrown_dirty_mud",
+    "cemm:overgrown_silt_soil",
+    "cemm:overgrown_scorched_dirt",
+    "cemm:grassed_scorched_dirt",
+    "cemm:chlorograss_block_dirt",
+    "cemm:overgrown_dirt"
+  ]
+}

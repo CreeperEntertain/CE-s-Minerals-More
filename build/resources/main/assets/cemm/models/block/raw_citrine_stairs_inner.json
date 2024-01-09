@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/raw_citrine",
+    "top": "cemm:block/raw_citrine",
+    "side": "cemm:block/raw_citrine"
+  },
+  "render_type": "solid"
+}

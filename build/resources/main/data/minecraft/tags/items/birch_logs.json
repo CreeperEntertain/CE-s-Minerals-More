@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stripped_birch_wood",
+    "cemm:cut_birch",
+    "cemm:cut_stripped_birch",
+    "minecraft:birch_log",
+    "minecraft:stripped_birch_log",
+    "minecraft:birch_wood"
+  ]
+}

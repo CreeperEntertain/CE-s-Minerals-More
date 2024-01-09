@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:steel_pickaxe"
+    },
+    "title": {
+      "translate": "advancements.excavate_fabricate.title"
+    },
+    "description": {
+      "translate": "advancements.excavate_fabricate.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "excavate_fabricate": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:industrial_revolution"
+}

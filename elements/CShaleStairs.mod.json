@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      },
+      {
+        "value": "CUSTOM:Shale"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShaleStairs"
+    },
+    "name": "c_shale_stairs",
+    "namespace": "mod"
+  }
+}

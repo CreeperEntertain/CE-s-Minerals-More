@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ash_barrens",
+  "features": "cemm:ashen_tree_distribution",
+  "step": "vegetal_decoration"
+}

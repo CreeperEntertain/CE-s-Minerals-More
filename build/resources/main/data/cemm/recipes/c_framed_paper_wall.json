@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:framed_paper"
+    },
+    "1": {
+      "item": "cemm:framed_paper"
+    },
+    "2": {
+      "item": "cemm:framed_paper"
+    },
+    "3": {
+      "item": "cemm:framed_paper"
+    },
+    "4": {
+      "item": "cemm:framed_paper"
+    },
+    "5": {
+      "item": "cemm:framed_paper"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_paper_wall",
+    "count": 16
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:jaspilite"
+    },
+    "3": {
+      "item": "cemm:jaspilite"
+    },
+    "4": {
+      "item": "cemm:jaspilite"
+    },
+    "6": {
+      "item": "cemm:jaspilite"
+    },
+    "7": {
+      "item": "cemm:jaspilite"
+    },
+    "8": {
+      "item": "cemm:jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:jaspilite_stairs",
+    "count": 4
+  }
+}

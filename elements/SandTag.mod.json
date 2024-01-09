@@ -1,0 +1,39 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "Blocks.SUSPICIOUS_SAND"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:RakedSand"
+      },
+      {
+        "value": "CUSTOM:SandySoil"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "sand",
+    "namespace": "minecraft"
+  }
+}

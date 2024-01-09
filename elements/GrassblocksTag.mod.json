@@ -1,0 +1,186 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:OvergrownCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownMossyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRockyStone"
+      },
+      {
+        "value": "CUSTOM:OvergrownStone"
+      },
+      {
+        "value": "CUSTOM:GrassedChalk"
+      },
+      {
+        "value": "CUSTOM:GrassedLimestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownTuff"
+      },
+      {
+        "value": "CUSTOM:OvergrownDeepslate"
+      },
+      {
+        "value": "CUSTOM:OvergrownCobbledDeepslate"
+      },
+      {
+        "value": "CUSTOM:OvergrownPeat"
+      },
+      {
+        "value": "CUSTOM:OvergrownMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownCalcite"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownRootedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownCoarseDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownChalk"
+      },
+      {
+        "value": "CUSTOM:OvergrownBasalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownLimestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownPackedMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownObsidian"
+      },
+      {
+        "value": "CUSTOM:OvergrownCryingObsidian"
+      },
+      {
+        "value": "CUSTOM:OvergrownBlackstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownSandstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRedSandstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownClay"
+      },
+      {
+        "value": "CUSTOM:OvergrownTubeCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownBrainCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownBubbleCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownFireCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownHornCoral"
+      },
+      {
+        "value": "CUSTOM:OvergrownSmoothBasalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSlate"
+      },
+      {
+        "value": "CUSTOM:OvergrownGneiss"
+      },
+      {
+        "value": "CUSTOM:OvergrownDeepstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDripstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownRhyolite"
+      },
+      {
+        "value": "CUSTOM:OvergrownGabbro"
+      },
+      {
+        "value": "CUSTOM:OvergrownPumice"
+      },
+      {
+        "value": "CUSTOM:OvergrownSiltstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownMudstone"
+      },
+      {
+        "value": "CUSTOM:OvergrownSeaSalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSalt"
+      },
+      {
+        "value": "CUSTOM:OvergrownHardenedSand"
+      },
+      {
+        "value": "CUSTOM:OvergrownToughSand"
+      },
+      {
+        "value": "CUSTOM:OvergrownAndesite"
+      },
+      {
+        "value": "CUSTOM:OvergrownDiorite"
+      },
+      {
+        "value": "CUSTOM:OvergrownGranite"
+      },
+      {
+        "value": "CUSTOM:GrassedScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownKaolin"
+      },
+      {
+        "value": "CUSTOM:OvergrownScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownSandySoil"
+      },
+      {
+        "value": "CUSTOM:OvergrownSiltSoil"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownDriedMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDirtyMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDriedMud"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "grassblocks",
+    "namespace": "mod"
+  }
+}

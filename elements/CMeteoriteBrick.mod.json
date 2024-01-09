@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "Items.DIAMOND"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      },
+      {
+        "value": "CUSTOM:MeteoriteBricklet"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:MeteoriteBrick"
+    },
+    "name": "c_meteorite_brick",
+    "namespace": "mod"
+  }
+}

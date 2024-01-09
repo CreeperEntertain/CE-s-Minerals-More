@@ -1,0 +1,158 @@
+{
+  "_fv": 47,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "sprayer_flower",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "sprayer_flower",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SLOWNESS",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Nether",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": false,
+    "disableOffset": false,
+    "boundingBoxes": [
+      {
+        "mx": 0.0,
+        "my": 0.0,
+        "mz": 0.0,
+        "Mx": 16.0,
+        "My": 16.0,
+        "Mz": 16.0,
+        "subtract": false
+      }
+    ],
+    "name": "Sprayer Flower",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:RocksAndMinerals"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": false,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 20,
+    "fireSpreadSpeed": 0,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [
+      {
+        "value": "CUSTOM:Ash"
+      },
+      {
+        "value": "CUSTOM:HardenedAsh"
+      },
+      {
+        "value": "Blocks.TUFF"
+      },
+      {
+        "value": "Blocks.BASALT"
+      },
+      {
+        "value": "Blocks.POLISHED_BASALT"
+      },
+      {
+        "value": "Blocks.SMOOTH_BASALT"
+      },
+      {
+        "value": "CUSTOM:SoulGoldOre"
+      },
+      {
+        "value": "CUSTOM:SoulIronOre"
+      },
+      {
+        "value": "CUSTOM:SoulQuartzOre"
+      },
+      {
+        "value": "Blocks.SOUL_SAND"
+      },
+      {
+        "value": "Blocks.SOUL_SOIL"
+      },
+      {
+        "value": "CUSTOM:BlackstoneBrimstoneDeposit"
+      },
+      {
+        "value": "CUSTOM:BlackstoneGoldOre"
+      },
+      {
+        "value": "CUSTOM:BlackstoneIronOre"
+      },
+      {
+        "value": "CUSTOM:BlackstoneQuartzOre"
+      },
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.POLISHED_BLACKSTONE_BRICKS"
+      },
+      {
+        "value": "Blocks.CRACKED_POLISHED_BLACKSTONE_BRICKS"
+      },
+      {
+        "value": "Blocks.CHISELED_POLISHED_BLACKSTONE"
+      },
+      {
+        "value": "Blocks.GILDED_BLACKSTONE"
+      }
+    ],
+    "isBonemealable": false,
+    "frequencyOnChunks": 20,
+    "spawnWorldTypes": [
+      "Nether"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AshBarrens"
+      }
+    ],
+    "generationType": "Flower",
+    "patchSize": 8,
+    "generateAtAnyHeight": true
+  }
+}

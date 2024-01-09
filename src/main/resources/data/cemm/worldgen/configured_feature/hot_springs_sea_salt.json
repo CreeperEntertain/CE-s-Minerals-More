@@ -1,0 +1,18 @@
+{
+  "type": "cemm:hot_springs_sea_salt",
+  "config": {
+    "target": {
+      "Name": "cemm:salt_block"
+    },
+    "state": {
+      "Name": "cemm:sea_salt_block"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    }
+  }
+}

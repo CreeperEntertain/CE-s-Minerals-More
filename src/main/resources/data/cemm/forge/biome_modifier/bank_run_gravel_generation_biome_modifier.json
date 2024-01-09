@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_river",
+    "beach",
+    "river",
+    "snowy_beach"
+  ],
+  "features": "cemm:bank_run_gravel_generation",
+  "step": "underground_decoration"
+}

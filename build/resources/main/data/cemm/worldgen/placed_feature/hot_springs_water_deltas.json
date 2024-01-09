@@ -1,0 +1,12 @@
+{
+  "feature": "cemm:hot_springs_water_deltas",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 40
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

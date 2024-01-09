@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/swamp_sedge",
+  "textures": {
+    "all": "cemm:block/swamp_sedge",
+    "particle": "cemm:block/swamp_sedge",
+    "Swamp Sedge": "cemm:block/swamp_sedge"
+  },
+  "render_type": "cutout"
+}

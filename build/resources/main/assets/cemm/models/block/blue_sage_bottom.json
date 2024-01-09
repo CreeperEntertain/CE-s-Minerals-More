@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/blue_sage_bottom",
+    "particle": "cemm:block/blue_sage_bottom"
+  },
+  "render_type": "cutout"
+}

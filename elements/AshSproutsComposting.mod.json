@@ -1,0 +1,15 @@
+{
+  "_fv": 47,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:AshSprouts"
+    },
+    "enableFuel": false,
+    "fuelPower": {
+      "fixedValue": 1600.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.5
+  }
+}

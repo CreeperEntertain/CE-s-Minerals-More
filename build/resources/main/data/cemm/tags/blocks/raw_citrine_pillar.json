@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:raw_citrine_pillar_bottom",
+    "cemm:raw_citrine_pillar_top",
+    "cemm:raw_citrine_pillar",
+    "cemm:raw_citrine_pillar_middle"
+  ]
+}

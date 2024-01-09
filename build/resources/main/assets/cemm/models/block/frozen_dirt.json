@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/frozen_dirt",
+    "particle": "cemm:block/frozen_dirt"
+  },
+  "render_type": "solid"
+}

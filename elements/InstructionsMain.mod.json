@@ -1,0 +1,136 @@
+{
+  "_fv": 47,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 450,
+    "height": 250,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_background_new",
+          "image": "button_background_electrolyzer_new.png",
+          "hoveredImage": "button_background_select_electrolyzer_new.png",
+          "onClick": {
+            "name": "OpenInstructionsElectrolyzer"
+          },
+          "x": 148,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_background_new1",
+          "image": "button_background_pressurizer.png",
+          "hoveredImage": "button_background_select_pressurizer.png",
+          "onClick": {
+            "name": "OpenInstructionsPressurizer"
+          },
+          "x": 215,
+          "y": 55
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_background_new2",
+          "image": "button_background_refinery.png",
+          "hoveredImage": "button_background_select_refinery.png",
+          "onClick": {
+            "name": "OpenInstructionsRefinery"
+          },
+          "x": 148,
+          "y": 122
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_background_new3",
+          "image": "button_background_vacuumizer.png",
+          "hoveredImage": "button_background_select_vacuumizer.png",
+          "onClick": {
+            "name": "OpenInstructionsVacuumizer"
+          },
+          "x": 215,
+          "y": 122
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "text_electrolyzer.png",
+          "use1Xscale": true,
+          "x": 12,
+          "y": 79
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "text_pressurizer.png",
+          "use1Xscale": true,
+          "x": 283,
+          "y": 79
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "text_refinery.png",
+          "use1Xscale": true,
+          "x": 56,
+          "y": 146
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "text_vacuumizer.png",
+          "use1Xscale": true,
+          "x": 283,
+          "y": 146
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_where_to_mine",
+          "image": "button_where_to_mine.png",
+          "hoveredImage": "button_where_to_mine_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsMiningSelection"
+          },
+          "x": 241,
+          "y": 206
+        }
+      },
+      {
+        "type": "imagebutton",
+        "data": {
+          "name": "imagebutton_button_journal",
+          "image": "button_journal.png",
+          "hoveredImage": "button_journal_hover.png",
+          "onClick": {
+            "name": "OpenInstructionsJournal"
+          },
+          "x": 2,
+          "y": 206
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:crying_obsidian_bricks"
+  },
+  "result": "cemm:crying_obsidian_brick_stairs"
+}

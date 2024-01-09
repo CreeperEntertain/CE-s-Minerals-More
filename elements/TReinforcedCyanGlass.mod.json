@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_cyan_glass",
+    "namespace": "mod"
+  }
+}

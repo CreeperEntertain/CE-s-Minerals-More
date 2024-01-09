@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cast_iron_bricks",
+    "top": "cemm:block/cast_iron_bricks",
+    "side": "cemm:block/cast_iron_bricks"
+  },
+  "render_type": "solid"
+}

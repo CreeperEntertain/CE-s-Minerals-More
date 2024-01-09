@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "acacia_support_bottom",
+        "Support Side": "acacia_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

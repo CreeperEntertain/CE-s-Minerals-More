@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "birch_support_bottom",
+        "Support Side": "birch_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "type": "cemm:dirty_mud_feature",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:mud"
+        },
+        "state": {
+          "Name": "cemm:dirty_mud"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:dirty_mud"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:grass_block"
+        },
+        "state": {
+          "Name": "cemm:dirty_mud"
+        }
+      }
+    ]
+  }
+}

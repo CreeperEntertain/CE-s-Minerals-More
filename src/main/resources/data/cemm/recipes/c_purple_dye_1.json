@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:fuchsia"
+    }
+  },
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 2
+  }
+}

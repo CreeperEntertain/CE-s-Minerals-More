@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 8,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:minecraft:terracotta"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      },
+      {
+        "value": "TAG:cemm:concretes"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Terrazzo"
+    },
+    "name": "c_terrazzo",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:parquet"
+    },
+    "1": {
+      "item": "cemm:parquet"
+    },
+    "2": {
+      "item": "cemm:parquet"
+    }
+  },
+  "result": {
+    "item": "cemm:parquet_slab",
+    "count": 6
+  }
+}

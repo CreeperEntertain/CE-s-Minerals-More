@@ -1,0 +1,83 @@
+{
+  "type": "cemm:permafrost_ice_cliffs",
+  "config": {
+    "tries": 8,
+    "xz_spread": 15,
+    "y_spread": 64,
+    "feature": {
+      "feature": {
+        "type": "minecraft:random_patch",
+        "config": {
+          "tries": 10,
+          "xz_spread": 12,
+          "feature": {
+            "feature": {
+              "type": "minecraft:random_patch",
+              "config": {
+                "tries": 300,
+                "xz_spread": 6,
+                "y_spread": 2,
+                "feature": {
+                  "feature": {
+                    "type": "minecraft:simple_block",
+                    "config": {
+                      "to_place": {
+                        "type": "minecraft:simple_state_provider",
+                        "state": {
+                          "Name": "minecraft:packed_ice"
+                        }
+                      }
+                    }
+                  },
+                  "placement": [
+                    {
+                      "type": "minecraft:block_predicate_filter",
+                      "predicate": {
+                        "type": "minecraft:all_of",
+                        "predicates": [
+                          {
+                            "type": "minecraft:any_of",
+                            "predicates": [
+                              {
+                                "type": "minecraft:solid",
+                                "offset": [
+                                  0,
+                                  -1,
+                                  0
+                                ]
+                              },
+                              {
+                                "type": "minecraft:solid"
+                              }
+                            ]
+                          },
+                          {
+                            "type": "minecraft:matching_blocks",
+                            "blocks": "minecraft:air"
+                          }
+                        ]
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "placement": [
+              {
+                "type": "minecraft:count",
+                "count": {
+                  "type": "uniform",
+                  "value": {
+                    "min_inclusive": 1,
+                    "max_inclusive": 3
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "placement": []
+    }
+  }
+}

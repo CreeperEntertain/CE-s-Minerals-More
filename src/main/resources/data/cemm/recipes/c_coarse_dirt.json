@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "tag": "cemm:dirt_material"
+    },
+    "1": {
+      "tag": "minecraft:gravel"
+    },
+    "2": {
+      "tag": "minecraft:gravel"
+    },
+    "3": {
+      "tag": "cemm:dirt_material"
+    }
+  },
+  "result": {
+    "item": "minecraft:coarse_dirt",
+    "count": 4
+  }
+}

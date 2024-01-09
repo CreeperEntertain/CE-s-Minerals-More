@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "reinforced_concrete_pillar_side",
+        "1": "reinforced_concrete_top"
+      },
+      "name": "default"
+    }
+  }
+}

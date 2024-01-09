@@ -1,0 +1,42 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Entities",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [
+      {
+        "value": "CUSTOM:AshWanderer"
+      },
+      {
+        "value": "CUSTOM:RedSkeleton"
+      },
+      {
+        "value": "CUSTOM:Saltleech"
+      },
+      {
+        "value": "CUSTOM:ShadowWalker"
+      },
+      {
+        "value": "CUSTOM:Shadowleech"
+      },
+      {
+        "value": "EntityWither"
+      },
+      {
+        "value": "EntityWitherSkull"
+      },
+      {
+        "value": "EntityDragon"
+      },
+      {
+        "value": "EntityDragonFireball"
+      }
+    ],
+    "biomes": [],
+    "name": "acid_resistant",
+    "namespace": "mod"
+  }
+}

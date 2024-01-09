@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/large_shadowfern_top",
+    "particle": "cemm:block/large_shadowfern_top"
+  },
+  "render_type": "cutout"
+}

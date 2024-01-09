@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 9,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:CalciumCrystals"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      },
+      {
+        "value": "CUSTOM:AluminumBar"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:CoatedAluminumBar"
+    },
+    "name": "c_coated_aluminum_bar_2",
+    "namespace": "mod"
+  }
+}

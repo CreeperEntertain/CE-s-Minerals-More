@@ -1,0 +1,42 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.BLACKSTONE"
+      },
+      {
+        "value": "CUSTOM:Meteorite"
+      },
+      {
+        "value": "CUSTOM:Obsiaster"
+      },
+      {
+        "value": "CUSTOM:CrysingObsiaster"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      },
+      {
+        "value": "CUSTOM:Phyllite"
+      },
+      {
+        "value": "Blocks.SMOOTH_BASALT"
+      },
+      {
+        "value": "CUSTOM:Anorthite"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "icaron_ancient_debris_replacables",
+    "namespace": "mod"
+  }
+}

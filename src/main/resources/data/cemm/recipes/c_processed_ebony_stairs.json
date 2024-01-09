@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:processed_ebony_planks"
+    },
+    "3": {
+      "item": "cemm:processed_ebony_planks"
+    },
+    "4": {
+      "item": "cemm:processed_ebony_planks"
+    },
+    "6": {
+      "item": "cemm:processed_ebony_planks"
+    },
+    "7": {
+      "item": "cemm:processed_ebony_planks"
+    },
+    "8": {
+      "item": "cemm:processed_ebony_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_ebony_planks",
+    "count": 4
+  }
+}

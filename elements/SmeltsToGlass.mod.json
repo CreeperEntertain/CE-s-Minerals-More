@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MonaziteSand"
+      },
+      {
+        "value": "CUSTOM:ZirconSand"
+      },
+      {
+        "value": "CUSTOM:HardenedSand"
+      },
+      {
+        "value": "CUSTOM:OvergrownHardenedSand"
+      },
+      {
+        "value": "CUSTOM:RakedSand"
+      },
+      {
+        "value": "CUSTOM:RakedRedSand"
+      },
+      {
+        "value": "Blocks.SAND#0"
+      },
+      {
+        "value": "Blocks.SAND#1"
+      },
+      {
+        "value": "CUSTOM:QuartzSand"
+      },
+      {
+        "value": "CUSTOM:Quartzite"
+      },
+      {
+        "value": "CUSTOM:VibratingQuartzite"
+      },
+      {
+        "value": "CUSTOM:BordeauxQuartzite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "smelts_to_glass",
+    "namespace": "minecraft"
+  }
+}

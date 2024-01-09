@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/citrine_pillar_top",
+    "up": "cemm:block/citrine_pillar_top",
+    "north": "cemm:block/citrine_pillar",
+    "east": "cemm:block/citrine_pillar",
+    "south": "cemm:block/citrine_pillar",
+    "west": "cemm:block/citrine_pillar",
+    "particle": "cemm:block/citrine_pillar_top"
+  },
+  "render_type": "solid"
+}

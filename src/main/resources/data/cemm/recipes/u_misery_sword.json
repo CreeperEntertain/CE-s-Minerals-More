@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": [],
+  "base": {
+    "item": "minecraft:netherite_sword"
+  },
+  "addition": {
+    "item": "cemm:xanthanium_ingot"
+  },
+  "result": {
+    "item": "cemm:misery_sword"
+  }
+}

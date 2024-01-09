@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/shinewood_support"
+    },
+    "facing=east": {
+      "model": "cemm:block/shinewood_support",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/shinewood_support",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/shinewood_support",
+      "y": 270
+    }
+  }
+}

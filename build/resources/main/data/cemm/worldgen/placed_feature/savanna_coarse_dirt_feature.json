@@ -1,0 +1,27 @@
+{
+  "feature": "cemm:savanna_coarse_dirt_feature",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 17
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 32
+        },
+        "max_inclusive": {
+          "absolute": 128
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

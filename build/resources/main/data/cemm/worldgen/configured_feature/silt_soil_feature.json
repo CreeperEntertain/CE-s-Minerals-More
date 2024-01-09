@@ -1,0 +1,45 @@
+{
+  "type": "cemm:silt_soil_feature",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:silt_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:grass_block"
+        },
+        "state": {
+          "Name": "cemm:silt_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:coarse_dirt"
+        },
+        "state": {
+          "Name": "cemm:silt_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:podzol"
+        },
+        "state": {
+          "Name": "cemm:silt_soil"
+        }
+      }
+    ]
+  }
+}

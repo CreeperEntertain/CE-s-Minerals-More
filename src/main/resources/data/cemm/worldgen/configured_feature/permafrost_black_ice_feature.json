@@ -1,0 +1,45 @@
+{
+  "type": "cemm:permafrost_black_ice_feature",
+  "config": {
+    "size": 32,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:packed_ice"
+        },
+        "state": {
+          "Name": "cemm:packed_black_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:blue_ice"
+        },
+        "state": {
+          "Name": "cemm:tough_black_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:snowed_packed_ice"
+        },
+        "state": {
+          "Name": "cemm:snowed_packed_black_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:snowed_blue_ice"
+        },
+        "state": {
+          "Name": "cemm:snowed_tough_black_ice"
+        }
+      }
+    ]
+  }
+}

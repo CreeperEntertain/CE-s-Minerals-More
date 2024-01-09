@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 100.0,
+    "cookingTime": 6000,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Ilmenite"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:TitaniumNugget"
+    },
+    "name": "s_titanium_nugget",
+    "namespace": "mod"
+  }
+}

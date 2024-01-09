@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:dirt"
+    },
+    "1": {
+      "tag": "cemm:snow_ingredients"
+    },
+    "2": {
+      "tag": "cemm:snow_ingredients"
+    },
+    "3": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "cemm:frozen_dirt",
+    "count": 4
+  }
+}

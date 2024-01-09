@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_raw_ruby",
+    "top": "cemm:block/polished_raw_ruby",
+    "side": "cemm:block/polished_raw_ruby_slab"
+  },
+  "render_type": "solid"
+}

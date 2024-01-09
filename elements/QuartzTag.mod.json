@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:MountainQuartz"
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartz"
+      },
+      {
+        "value": "CUSTOM:Quartzite"
+      },
+      {
+        "value": "Items.QUARTZ"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "quartz",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkButton"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodButton"
+      },
+      {
+        "value": "CUSTOM:EbonyButton"
+      },
+      {
+        "value": "Blocks.WOODEN_BUTTON"
+      },
+      {
+        "value": "Blocks.SPRUCE_BUTTON"
+      },
+      {
+        "value": "Blocks.BIRCH_BUTTON"
+      },
+      {
+        "value": "Blocks.JUNGLE_BUTTON"
+      },
+      {
+        "value": "Blocks.ACACIA_BUTTON"
+      },
+      {
+        "value": "Blocks.DARK_OAK_BUTTON"
+      },
+      {
+        "value": "Blocks.CRIMSON_BUTTON"
+      },
+      {
+        "value": "Blocks.WARPED_BUTTON"
+      },
+      {
+        "value": "Blocks.MANGROVE_BUTTON"
+      },
+      {
+        "value": "Blocks.CHERRY_BUTTON"
+      },
+      {
+        "value": "Blocks.BAMBOO_BUTTON"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelButton"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelButton"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_buttons",
+    "namespace": "minecraft"
+  }
+}

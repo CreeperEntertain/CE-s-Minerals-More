@@ -1,0 +1,75 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkFence"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodFence"
+      },
+      {
+        "value": "CUSTOM:EbonyFence"
+      },
+      {
+        "value": "CUSTOM:AshenPlankFence"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodFence"
+      },
+      {
+        "value": "CUSTOM:ShinewoodFence"
+      },
+      {
+        "value": "CUSTOM:ShellwoodFence"
+      },
+      {
+        "value": "Blocks.OAK_FENCE"
+      },
+      {
+        "value": "Blocks.SPRUCE_FENCE"
+      },
+      {
+        "value": "Blocks.BIRCH_FENCE"
+      },
+      {
+        "value": "Blocks.JUNGLE_FENCE"
+      },
+      {
+        "value": "Blocks.ACACIA_FENCE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_FENCE"
+      },
+      {
+        "value": "Blocks.CRIMSON_FENCE"
+      },
+      {
+        "value": "Blocks.WARPED_FENCE"
+      },
+      {
+        "value": "Blocks.MANGROVE_FENCE"
+      },
+      {
+        "value": "Blocks.CHERRY_FENCE"
+      },
+      {
+        "value": "Blocks.BAMBOO_FENCE"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelFence"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelFence"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_fences",
+    "namespace": "minecraft"
+  }
+}

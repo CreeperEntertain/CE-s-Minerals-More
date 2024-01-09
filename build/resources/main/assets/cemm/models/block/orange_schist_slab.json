@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/orange_schist",
+    "top": "cemm:block/orange_schist",
+    "side": "cemm:block/orange_schist"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/concrete_steps"
+    },
+    "facing=east": {
+      "model": "cemm:block/concrete_steps",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/concrete_steps",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/concrete_steps",
+      "y": 270
+    }
+  }
+}

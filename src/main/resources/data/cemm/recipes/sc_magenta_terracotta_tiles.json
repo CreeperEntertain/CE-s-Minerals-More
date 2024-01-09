@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:magenta_glazed_terracotta"
+  },
+  "result": "cemm:magenta_terracotta_tiles"
+}

@@ -1,0 +1,28 @@
+{
+  "type": "cemm:hot_springs_water_deltas",
+  "config": {
+    "contents": {
+      "Name": "minecraft:water",
+      "Properties": {
+        "level": "0"
+      }
+    },
+    "rim": {
+      "Name": "cemm:salt_block"
+    },
+    "size": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 5,
+        "max_inclusive": 10
+      }
+    },
+    "rim_size": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 0,
+        "max_inclusive": 1
+      }
+    }
+  }
+}

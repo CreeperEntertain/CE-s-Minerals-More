@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:platinum_pellet"
+    },
+    "1": {
+      "item": "cemm:platinum_pellet"
+    },
+    "2": {
+      "item": "cemm:platinum_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:platinum_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:dark_oak_pressure_plate",
+    "minecraft:oak_pressure_plate",
+    "cemm:lunarbark_pressure_plate",
+    "cemm:ebony_pressure_plate",
+    "minecraft:crimson_pressure_plate",
+    "cemm:amber_sentinel_pressure_plate",
+    "minecraft:mangrove_pressure_plate",
+    "cemm:mountain_laurel_pressure_plate",
+    "minecraft:spruce_pressure_plate",
+    "minecraft:jungle_pressure_plate",
+    "cemm:chlorowood_pressure_plate",
+    "minecraft:birch_pressure_plate",
+    "minecraft:cherry_pressure_plate",
+    "minecraft:acacia_pressure_plate",
+    "minecraft:warped_pressure_plate",
+    "minecraft:bamboo_pressure_plate"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bromian_thicket",
+  "features": "cemm:shiverwood_tree_generator",
+  "step": "surface_structures"
+}

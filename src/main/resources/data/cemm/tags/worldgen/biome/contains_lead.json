@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "bamboo_jungle",
+    "sparse_jungle",
+    "beach",
+    "jungle",
+    "mangrove_swamp",
+    "swamp"
+  ]
+}

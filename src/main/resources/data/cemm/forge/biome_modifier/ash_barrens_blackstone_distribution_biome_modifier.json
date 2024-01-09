@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:ash_barrens",
+    "soul_sand_valley"
+  ],
+  "features": "cemm:ash_barrens_blackstone_distribution",
+  "step": "local_modifications"
+}

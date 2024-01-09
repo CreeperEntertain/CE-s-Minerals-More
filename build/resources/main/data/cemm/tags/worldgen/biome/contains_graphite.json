@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:andesite_cave",
+    "cemm:granite_cave",
+    "cemm:shungite_mines",
+    "cemm:diorite_cave"
+  ]
+}

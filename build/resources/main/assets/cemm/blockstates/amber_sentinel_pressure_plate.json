@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "cemm:block/amber_sentinel_pressure_plate"
+    },
+    "powered=true": {
+      "model": "cemm:block/amber_sentinel_pressure_plate_down"
+    }
+  }
+}

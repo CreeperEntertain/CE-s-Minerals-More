@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:MonaziteSandstone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmoothMonaziteSandstone"
+    },
+    "name": "s_smooth_monazite_sandstone",
+    "namespace": "mod"
+  }
+}

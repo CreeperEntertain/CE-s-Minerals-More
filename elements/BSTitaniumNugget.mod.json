@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 100.0,
+    "cookingTime": 3000,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Ilmenite"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:TitaniumNugget"
+    },
+    "name": "bs_titanium_nugget",
+    "namespace": "mod"
+  }
+}

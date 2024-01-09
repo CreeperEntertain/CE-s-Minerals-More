@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "badlands",
+    "cemm:bauxite_steppes",
+    "wooded_badlands",
+    "cemm:monazite_desert",
+    "desert",
+    "eroded_badlands",
+    "cemm:zirconian_desert"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:ruby_block"
+  },
+  "result": "cemm:ruby_wall"
+}

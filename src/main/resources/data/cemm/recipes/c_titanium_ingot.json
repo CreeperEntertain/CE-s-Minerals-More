@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:titanium_nugget"
+    },
+    "1": {
+      "item": "cemm:titanium_nugget"
+    },
+    "2": {
+      "item": "cemm:titanium_nugget"
+    },
+    "3": {
+      "item": "cemm:titanium_nugget"
+    },
+    "4": {
+      "item": "cemm:titanium_nugget"
+    },
+    "5": {
+      "item": "cemm:titanium_nugget"
+    },
+    "6": {
+      "item": "cemm:titanium_nugget"
+    },
+    "7": {
+      "item": "cemm:titanium_nugget"
+    },
+    "8": {
+      "item": "cemm:titanium_nugget"
+    }
+  },
+  "result": {
+    "item": "cemm:titanium_ingot",
+    "count": 1
+  }
+}

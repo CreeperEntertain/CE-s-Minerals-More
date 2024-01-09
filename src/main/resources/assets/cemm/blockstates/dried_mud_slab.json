@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/dried_mud_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/dried_mud_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/dried_mud_slab_full"
+    }
+  }
+}

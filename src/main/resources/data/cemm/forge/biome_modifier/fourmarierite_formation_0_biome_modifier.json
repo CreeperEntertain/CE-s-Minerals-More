@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:fourmarierite_formation_0",
+  "step": "underground_structures"
+}

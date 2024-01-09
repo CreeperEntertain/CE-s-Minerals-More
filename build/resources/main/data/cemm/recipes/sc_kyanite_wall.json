@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:kyanite_block"
+  },
+  "result": "cemm:kyanite_wall"
+}

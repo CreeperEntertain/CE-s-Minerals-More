@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:shungite_mines",
+    "cemm:chlorophyl"
+  ],
+  "features": "cemm:schorl_spike",
+  "step": "underground_structures"
+}

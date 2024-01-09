@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:stripped_spruce_wood",
+    "cemm:cut_stripped_spruce",
+    "minecraft:spruce_wood",
+    "minecraft:stripped_spruce_log",
+    "minecraft:spruce_log",
+    "cemm:cut_spruce"
+  ]
+}

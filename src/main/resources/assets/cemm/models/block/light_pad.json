@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/lightpad",
+  "textures": {
+    "all": "cemm:block/white_light",
+    "particle": "cemm:block/white_light",
+    "0": "cemm:block/white_light"
+  },
+  "render_type": "solid"
+}

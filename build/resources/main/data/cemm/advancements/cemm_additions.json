@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "cemm:textures/screens/cast_iron_bricks.png",
+    "icon": {
+      "item": "minecraft:blast_furnace"
+    },
+    "title": {
+      "translate": "advancements.cemm_additions.title"
+    },
+    "description": {
+      "translate": "advancements.cemm_additions.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "cemm_additions": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

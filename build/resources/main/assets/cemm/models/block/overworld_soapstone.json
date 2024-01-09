@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/overworld_soapstone",
+    "particle": "cemm:block/overworld_soapstone"
+  },
+  "render_type": "solid"
+}

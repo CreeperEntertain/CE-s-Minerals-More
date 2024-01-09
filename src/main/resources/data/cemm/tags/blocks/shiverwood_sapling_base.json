@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:sea_salt_block_white",
+    "cemm:vibrating_moss",
+    "cemm:vibrating_phyllite",
+    "cemm:vibrating_monzonite",
+    "cemm:vibrating_white_granite",
+    "cemm:vibrating_quartzite",
+    "cemm:vibrating_anorthite",
+    "cemm:red_salt",
+    "cemm:vibrating_pyroxene",
+    "cemm:vibrating_sanidine",
+    "cemm:vibrating_microcline",
+    "cemm:salt_block_red",
+    "cemm:salt_block_sea",
+    "cemm:sea_salt_block",
+    "cemm:vibrating_red_salt",
+    "cemm:vibrating_soapstone",
+    "cemm:sea_salt_block_red",
+    "cemm:salt_block",
+    "cemm:vibrating_oligoclase",
+    "cemm:vibrating_serandite",
+    "cemm:red_salt_sea",
+    "cemm:red_salt_white",
+    "cemm:vibrating_mylonite"
+  ]
+}

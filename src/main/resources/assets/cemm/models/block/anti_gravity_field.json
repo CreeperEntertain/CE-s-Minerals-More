@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/anti_gravity_field",
+  "textures": {
+    "all": "cemm:block/anti_gravity_field",
+    "particle": "cemm:block/anti_gravity_field",
+    "Anti Gravity Field Bottom": "cemm:block/anti_gravity_field",
+    "Anti Gravity Field Top": "cemm:block/anti_gravity_field_top",
+    "Jump Pad Side": "cemm:block/jump_pad_side"
+  },
+  "render_type": "solid"
+}

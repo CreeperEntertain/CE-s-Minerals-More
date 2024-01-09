@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/mountain_laurel_support",
+  "textures": {
+    "all": "cemm:block/mountain_laurel_support_side",
+    "particle": "cemm:block/mountain_laurel_support_side",
+    "Support Bottom": "cemm:block/mountain_laurel_support_bottom",
+    "Support Side": "cemm:block/mountain_laurel_support_side"
+  },
+  "render_type": "solid"
+}

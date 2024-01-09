@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:amber_sentinel_log"
+    },
+    "1": {
+      "item": "cemm:amber_sentinel_log"
+    },
+    "2": {
+      "item": "cemm:amber_sentinel_log"
+    },
+    "3": {
+      "item": "cemm:amber_sentinel_log"
+    }
+  },
+  "result": {
+    "item": "cemm:amber_sentinel_wood",
+    "count": 3
+  }
+}

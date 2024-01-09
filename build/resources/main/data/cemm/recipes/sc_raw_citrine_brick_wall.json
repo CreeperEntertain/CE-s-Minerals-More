@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:raw_citrine_bricks"
+  },
+  "result": "cemm:raw_citrine_brick_wall"
+}

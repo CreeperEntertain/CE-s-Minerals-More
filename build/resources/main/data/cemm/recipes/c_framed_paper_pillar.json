@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:framed_paper"
+    },
+    "1": {
+      "item": "cemm:framed_paper"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_paper_pillar",
+    "count": 2
+  }
+}

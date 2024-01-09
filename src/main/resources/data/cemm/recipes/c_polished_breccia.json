@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:breccia"
+    },
+    "1": {
+      "item": "cemm:breccia"
+    },
+    "2": {
+      "item": "cemm:breccia"
+    },
+    "3": {
+      "item": "cemm:breccia"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_breccia",
+    "count": 4
+  }
+}

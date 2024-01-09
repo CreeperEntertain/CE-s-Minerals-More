@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cemm:block/dripstone_niter_deposit"
+    }
+  }
+}

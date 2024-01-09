@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:marble_cave",
+  "features": "cemm:overgrown_marble",
+  "step": "underground_ores"
+}

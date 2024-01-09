@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/zircon_sandstone_top",
+    "top": "cemm:block/zircon_sandstone_top",
+    "side": "cemm:block/zircon_sandstone_top"
+  },
+  "render_type": "solid"
+}

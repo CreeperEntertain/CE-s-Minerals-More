@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/zircon_sandstone_bottom",
+    "up": "cemm:block/zircon_sandstone_top",
+    "north": "cemm:block/zircon_sandstone",
+    "east": "cemm:block/zircon_sandstone",
+    "south": "cemm:block/zircon_sandstone",
+    "west": "cemm:block/zircon_sandstone",
+    "particle": "cemm:block/zircon_sandstone_bottom"
+  },
+  "render_type": "solid"
+}

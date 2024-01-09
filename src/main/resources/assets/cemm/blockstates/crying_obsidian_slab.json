@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/crying_obsidian_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/crying_obsidian_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/crying_obsidian_slab_full"
+    }
+  }
+}

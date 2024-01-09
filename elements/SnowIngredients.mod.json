@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "Blocks.POWDER_SNOW"
+      },
+      {
+        "value": "Items.POWDER_SNOW_BUCKET"
+      },
+      {
+        "value": "CUSTOM:IcySnow"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "snow_ingredients",
+    "namespace": "mod"
+  }
+}

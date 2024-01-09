@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/zircon_sandstone_bottom",
+    "top": "cemm:block/zircon_sandstone_top",
+    "side": "cemm:block/zircon_sandstone"
+  },
+  "render_type": "solid"
+}

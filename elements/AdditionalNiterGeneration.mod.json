@@ -1,0 +1,46 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "crimson_forest"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "warped_forest"
+      },
+      {
+        "value": "extreme_hills_with_trees"
+      }
+    ],
+    "featurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"feature_container\" x=\"40\" y=\"40\"><value name=\"feature\"><block inline=\"false\" type=\"feature_replace_sphere\"><comment h=\"114\" pinned=\"false\" w=\"249\">This block represents a blob feature that replaces netherrack with blackstone, like the ones that generate in the Nether.This feature should be generated during the UNDERGROUND_DECORATION stage</comment><value name=\"targetState\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.STONE#0</field><comment h=\"80\" pinned=\"false\" w=\"160\">This is the block being replaced (in this case netherrack)</comment></block></value><value name=\"newState\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:StoneNiterDeposit</field><comment h=\"80\" pinned=\"false\" w=\"160\">This is the block that will be placed by the feature (in this case blackstone)</comment></block></value><value name=\"radius\"><block type=\"int_provider_uniform\"><field name=\"min\">1</field><field name=\"max\">2</field><comment h=\"80\" pinned=\"false\" w=\"160\">This is the size of the blob</comment></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_height_triangular\"><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">0</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">96</field></block></value><next><block type=\"placement_biome_filter\"/></next></block></next></block></next></block></xml>"
+  }
+}

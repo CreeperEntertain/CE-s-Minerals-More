@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Murdochite"
+      },
+      {
+        "value": "CUSTOM:Murdochite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:Murdochite"
+      },
+      {
+        "value": "CUSTOM:Murdochite"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PolishedMurdochite"
+    },
+    "name": "c_polished_murdochite",
+    "namespace": "mod"
+  }
+}

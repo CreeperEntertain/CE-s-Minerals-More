@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:mountain_quartz_bricks"
+    },
+    "1": {
+      "item": "cemm:mountain_quartz_bricks"
+    },
+    "2": {
+      "item": "cemm:mountain_quartz_bricks"
+    },
+    "3": {
+      "item": "cemm:mountain_quartz_bricks"
+    },
+    "4": {
+      "item": "cemm:mountain_quartz_bricks"
+    },
+    "5": {
+      "item": "cemm:mountain_quartz_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:mountain_quartz_brick_wall",
+    "count": 6
+  }
+}

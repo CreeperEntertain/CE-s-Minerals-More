@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hot_springs",
+  "features": "cemm:hot_springs_dripstone",
+  "step": "underground_decoration"
+}

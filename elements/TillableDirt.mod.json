@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ChlorograssBlockDirt"
+      },
+      {
+        "value": "CUSTOM:FiregrassBlockDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirt"
+      },
+      {
+        "value": "CUSTOM:ScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:GrassedScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:DirtyMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDirtyMud"
+      },
+      {
+        "value": "CUSTOM:SiltSoil"
+      },
+      {
+        "value": "CUSTOM:OvergrownSiltSoil"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "tillable_dirt",
+    "namespace": "mod"
+  }
+}

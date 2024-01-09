@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna"
+  ],
+  "features": "cemm:savanna_coarse_dirt_feature",
+  "step": "underground_decoration"
+}

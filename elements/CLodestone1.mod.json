@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "TAG:cemm:lodestone_materials"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      },
+      {
+        "value": "Blocks.STONEBRICK#3"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.LODESTONE"
+    },
+    "name": "c_lodestone_1",
+    "namespace": "mod"
+  }
+}

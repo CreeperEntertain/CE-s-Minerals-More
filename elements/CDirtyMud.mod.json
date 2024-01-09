@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:cemm:dirt_material"
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.MUD"
+      },
+      {
+        "value": "TAG:cemm:dirt_material"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DirtyMud"
+    },
+    "name": "c_dirty_mud",
+    "namespace": "mod"
+  }
+}

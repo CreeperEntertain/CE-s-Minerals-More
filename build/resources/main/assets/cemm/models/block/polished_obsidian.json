@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/polished_obsidian_bottom",
+    "up": "cemm:block/polished_obsidian_top",
+    "north": "cemm:block/polished_obsidian_top",
+    "east": "cemm:block/polished_obsidian_top",
+    "south": "cemm:block/polished_obsidian_top",
+    "west": "cemm:block/polished_obsidian_top",
+    "particle": "cemm:block/polished_obsidian_bottom"
+  },
+  "render_type": "solid"
+}

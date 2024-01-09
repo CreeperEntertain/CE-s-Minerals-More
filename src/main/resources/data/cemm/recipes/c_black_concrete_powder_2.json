@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:limestone_powder"
+    },
+    "1": {
+      "item": "cemm:limestone_powder"
+    },
+    "2": {
+      "item": "cemm:limestone_powder"
+    },
+    "3": {
+      "item": "cemm:limestone_powder"
+    },
+    "4": {
+      "item": "minecraft:black_dye"
+    },
+    "5": {
+      "item": "cemm:limestone_powder"
+    },
+    "6": {
+      "item": "cemm:limestone_powder"
+    },
+    "7": {
+      "item": "cemm:limestone_powder"
+    },
+    "8": {
+      "item": "cemm:limestone_powder"
+    }
+  },
+  "result": {
+    "item": "minecraft:black_concrete_powder",
+    "count": 2
+  }
+}

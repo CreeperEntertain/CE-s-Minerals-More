@@ -1,0 +1,69 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:ReinforcedConcrete"
+      },
+      {
+        "value": "CUSTOM:TiledConcrete"
+      },
+      {
+        "value": "Blocks.CONCRETE#0"
+      },
+      {
+        "value": "Blocks.CONCRETE#1"
+      },
+      {
+        "value": "Blocks.CONCRETE#2"
+      },
+      {
+        "value": "Blocks.CONCRETE#3"
+      },
+      {
+        "value": "Blocks.CONCRETE#4"
+      },
+      {
+        "value": "Blocks.CONCRETE#5"
+      },
+      {
+        "value": "Blocks.CONCRETE#6"
+      },
+      {
+        "value": "Blocks.CONCRETE#7"
+      },
+      {
+        "value": "Blocks.CONCRETE#8"
+      },
+      {
+        "value": "Blocks.CONCRETE#9"
+      },
+      {
+        "value": "Blocks.CONCRETE#10"
+      },
+      {
+        "value": "Blocks.CONCRETE#11"
+      },
+      {
+        "value": "Blocks.CONCRETE#12"
+      },
+      {
+        "value": "Blocks.CONCRETE#13"
+      },
+      {
+        "value": "Blocks.CONCRETE#14"
+      },
+      {
+        "value": "Blocks.CONCRETE#15"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "concretes",
+    "namespace": "mod"
+  }
+}

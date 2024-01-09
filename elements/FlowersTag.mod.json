@@ -1,0 +1,51 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:DesertPrimrose"
+      },
+      {
+        "value": "CUSTOM:BlackLotus"
+      },
+      {
+        "value": "CUSTOM:SprayerFlower"
+      },
+      {
+        "value": "CUSTOM:AloeVera"
+      },
+      {
+        "value": "CUSTOM:Swampflower"
+      },
+      {
+        "value": "CUSTOM:BloomingSwampflower"
+      },
+      {
+        "value": "CUSTOM:RedSpiderLily"
+      },
+      {
+        "value": "CUSTOM:Gentian"
+      },
+      {
+        "value": "CUSTOM:Lavendar"
+      },
+      {
+        "value": "CUSTOM:Abelia"
+      },
+      {
+        "value": "CUSTOM:ChineseLantern"
+      },
+      {
+        "value": "CUSTOM:Forsythia"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "flowers",
+    "namespace": "minecraft"
+  }
+}

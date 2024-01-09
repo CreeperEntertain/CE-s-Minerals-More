@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "3 5",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "1": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "2": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "3": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "5": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "6": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "7": {
+      "item": "minecraft:redstone"
+    },
+    "8": {
+      "tag": "minecraft:stone_crafting_materials"
+    }
+  },
+  "result": {
+    "item": "minecraft:dropper",
+    "count": 1
+  }
+}

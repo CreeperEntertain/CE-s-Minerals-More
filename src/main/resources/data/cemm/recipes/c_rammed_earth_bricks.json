@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rammed_earth_brick"
+    },
+    "1": {
+      "item": "cemm:rammed_earth_brick"
+    },
+    "2": {
+      "item": "cemm:rammed_earth_brick"
+    },
+    "3": {
+      "item": "cemm:rammed_earth_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:rammed_earth_bricks",
+    "count": 1
+  }
+}

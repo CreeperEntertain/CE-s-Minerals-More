@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "cemm:block/the_void_portal_ew"
+    },
+    "axis=x": {
+      "model": "cemm:block/the_void_portal_ns"
+    }
+  }
+}

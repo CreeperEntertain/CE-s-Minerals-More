@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      }
+    ],
+    "name": "contains_arsenic",
+    "namespace": "mod"
+  }
+}

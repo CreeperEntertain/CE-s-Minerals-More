@@ -1,0 +1,63 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkPressurePlate"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodPressurePlate"
+      },
+      {
+        "value": "CUSTOM:EbonyPressurePlate"
+      },
+      {
+        "value": "Blocks.WOODEN_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.SPRUCE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.BIRCH_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.JUNGLE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.ACACIA_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.DARK_OAK_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.CRIMSON_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.WARPED_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.MANGROVE_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.CHERRY_PRESSURE_PLATE"
+      },
+      {
+        "value": "Blocks.BAMBOO_PRESSURE_PLATE"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPressurePlate"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelPressurePlate"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_pressure_plates",
+    "namespace": "minecraft"
+  }
+}

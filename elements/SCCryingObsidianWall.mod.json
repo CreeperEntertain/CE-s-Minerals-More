@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.CRYING_OBSIDIAN"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:CryingObsidianWall"
+    },
+    "name": "sc_crying_obsidian_wall",
+    "namespace": "mod"
+  }
+}

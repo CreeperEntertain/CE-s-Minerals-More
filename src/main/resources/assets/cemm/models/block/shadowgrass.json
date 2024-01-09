@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/shadowgrass",
+    "particle": "cemm:block/shadowgrass"
+  },
+  "render_type": "cutout"
+}

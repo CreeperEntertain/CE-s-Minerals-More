@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/ebony_support",
+  "textures": {
+    "all": "cemm:block/ebony_support_side",
+    "particle": "cemm:block/ebony_support_side",
+    "Support Bottom": "cemm:block/ebony_support_bottom",
+    "Support Side": "cemm:block/ebony_support_side"
+  },
+  "render_type": "solid"
+}

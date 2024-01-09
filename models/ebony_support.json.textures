@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "ebony_support_bottom",
+        "Support Side": "ebony_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

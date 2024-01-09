@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/shellwood_planks",
+    "top": "cemm:block/shellwood_planks",
+    "side": "cemm:block/shellwood_planks"
+  },
+  "render_type": "solid"
+}

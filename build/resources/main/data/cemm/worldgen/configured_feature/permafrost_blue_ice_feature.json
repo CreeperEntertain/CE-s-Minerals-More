@@ -1,0 +1,18 @@
+{
+  "type": "cemm:permafrost_blue_ice_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:packed_ice"
+    },
+    "state": {
+      "Name": "minecraft:blue_ice"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

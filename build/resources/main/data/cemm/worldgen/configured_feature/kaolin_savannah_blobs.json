@@ -1,0 +1,54 @@
+{
+  "type": "cemm:kaolin_savannah_blobs",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "cemm:kaolin"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:gravel"
+        },
+        "state": {
+          "Name": "cemm:kaolin"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:andesite"
+        },
+        "state": {
+          "Name": "cemm:kaolin"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:granite"
+        },
+        "state": {
+          "Name": "cemm:kaolin"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:diorite"
+        },
+        "state": {
+          "Name": "cemm:kaolin"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,71 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "tiled_concrete",
+		"Tiled Concrete": "tiled_concrete"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [3, 2, 14],
+			"to": [13, 6, 16],
+			"faces": {
+				"north": {"uv": [3, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"east": {"uv": [11, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"south": {"uv": [3, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"west": {"uv": [3, 1, 5, 5], "texture": "#Tiled Concrete"},
+				"up": {"uv": [3, 1, 13, 3], "texture": "#Tiled Concrete"},
+				"down": {"uv": [3, 1, 13, 3], "texture": "#Tiled Concrete"}
+			}
+		},
+		{
+			"name": "2",
+			"from": [3, 10, 14],
+			"to": [13, 14, 16],
+			"faces": {
+				"north": {"uv": [3, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"east": {"uv": [11, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"south": {"uv": [3, 1, 13, 5], "texture": "#Tiled Concrete"},
+				"west": {"uv": [3, 1, 5, 5], "texture": "#Tiled Concrete"},
+				"up": {"uv": [3, 1, 13, 3], "texture": "#Tiled Concrete"},
+				"down": {"uv": [3, 1, 13, 3], "texture": "#Tiled Concrete"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 135, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, -1.75],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [3.25, -1.5, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"rotation": [90, 180, 180]
+		},
+		"fixed": {
+			"translation": [0, 0, -3.25],
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

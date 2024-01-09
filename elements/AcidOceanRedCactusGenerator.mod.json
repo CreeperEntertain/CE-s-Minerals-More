@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebony_generator",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First block",
+    "spawnProbability": 500000,
+    "minCountPerChunk": 1,
+    "maxCountPerChunk": 3,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "CUSTOM:Icaron"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:BordeauxSoapstone"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AcidOcean"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "ProceduralRedCactus"
+    }
+  }
+}

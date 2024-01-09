@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:vanadium_pellet"
+    },
+    "1": {
+      "item": "cemm:vanadium_pellet"
+    },
+    "2": {
+      "item": "cemm:vanadium_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:vanadium_ingot",
+    "count": 1
+  }
+}

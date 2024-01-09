@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "1": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "2": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "3": {
+      "item": "minecraft:redstone"
+    },
+    "4": {
+      "item": "minecraft:redstone"
+    },
+    "5": {
+      "item": "minecraft:quartz"
+    },
+    "6": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "7": {
+      "tag": "minecraft:stone_crafting_materials"
+    },
+    "8": {
+      "tag": "minecraft:stone_crafting_materials"
+    }
+  },
+  "result": {
+    "item": "minecraft:observer",
+    "count": 1
+  }
+}

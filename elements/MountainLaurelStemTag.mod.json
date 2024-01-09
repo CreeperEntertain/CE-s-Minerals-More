@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MountainLaurelStem"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelStemT"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelStemL"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelStemHorizontal"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "mountain_laurel_stem",
+    "namespace": "mod"
+  }
+}

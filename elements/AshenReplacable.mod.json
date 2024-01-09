@@ -1,0 +1,39 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:AshenLeaves"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves0"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves1"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves2"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves3"
+      },
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "Blocks.VOID_AIR"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ashen_replacable",
+    "namespace": "mod"
+  }
+}

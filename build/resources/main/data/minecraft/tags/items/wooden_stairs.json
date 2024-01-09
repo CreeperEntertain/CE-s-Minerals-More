@@ -1,0 +1,28 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_stairs",
+    "minecraft:warped_stairs",
+    "minecraft:spruce_stairs",
+    "minecraft:birch_stairs",
+    "cemm:processed_ebony_stairs",
+    "cemm:amber_sentinel_stairs",
+    "cemm:ashen_plank_stairs",
+    "cemm:shinewood_stairs",
+    "cemm:lunarbark_stairs",
+    "cemm:chlorowood_stairs",
+    "cemm:parquet_stairs",
+    "minecraft:dark_oak_stairs",
+    "minecraft:jungle_stairs",
+    "minecraft:mangrove_stairs",
+    "cemm:mountain_laurel_stairs",
+    "cemm:ebony_stairs",
+    "minecraft:crimson_stairs",
+    "minecraft:cherry_stairs",
+    "minecraft:bamboo_mosaic_stairs",
+    "minecraft:acacia_stairs",
+    "minecraft:bamboo_stairs",
+    "cemm:shellwood_stairs",
+    "cemm:shiverwood_stairs"
+  ]
+}

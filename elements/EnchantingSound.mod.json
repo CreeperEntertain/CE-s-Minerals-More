@@ -1,0 +1,9 @@
+{
+  "_fv": 47,
+  "_type": "function",
+  "definition": {
+    "code": "playsound minecraft:block.enchantment_table.use block @a ~ ~ ~ 1 1 0",
+    "name": "enchanting_sound",
+    "namespace": "mod"
+  }
+}

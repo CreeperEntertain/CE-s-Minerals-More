@@ -1,0 +1,21 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:MountainLaurelLeaves2"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves2"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "ml_distance_2",
+    "namespace": "mod"
+  }
+}

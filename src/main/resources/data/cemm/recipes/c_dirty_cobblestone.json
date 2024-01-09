@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "tag": "cemm:dirt_material"
+    },
+    {
+      "tag": "cemm:dirt_material"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "cemm:dirty_cobblestone",
+    "count": 4
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_ocean",
+    "ice_spikes",
+    "snowy_plains",
+    "snowy_slopes",
+    "frozen_peaks",
+    "snowy_taiga",
+    "deep_frozen_ocean",
+    "snowy_beach"
+  ],
+  "features": "cemm:black_ice_distribution",
+  "step": "top_layer_modification"
+}

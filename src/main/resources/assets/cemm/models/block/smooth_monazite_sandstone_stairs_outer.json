@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/monazite_sandstone_top",
+    "top": "cemm:block/monazite_sandstone_top",
+    "side": "cemm:block/monazite_sandstone_top"
+  },
+  "render_type": "solid"
+}

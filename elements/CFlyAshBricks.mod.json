@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FlyAshBrick"
+      },
+      {
+        "value": "CUSTOM:FlyAshBrick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:FlyAshBrick"
+      },
+      {
+        "value": "CUSTOM:FlyAshBrick"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FlyAshBricks"
+    },
+    "name": "c_fly_ash_bricks",
+    "namespace": "mod"
+  }
+}

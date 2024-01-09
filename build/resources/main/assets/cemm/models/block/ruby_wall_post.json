@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/ruby_block",
+    "particle": "cemm:block/ruby_block"
+  },
+  "render_type": "solid"
+}

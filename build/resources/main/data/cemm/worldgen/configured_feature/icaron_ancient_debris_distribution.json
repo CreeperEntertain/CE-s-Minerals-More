@@ -1,0 +1,18 @@
+{
+  "type": "cemm:icaron_ancient_debris_distribution",
+  "config": {
+    "size": 9,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "icaron_ancient_debris_replacables"
+        },
+        "state": {
+          "Name": "minecraft:ancient_debris"
+        }
+      }
+    ]
+  }
+}

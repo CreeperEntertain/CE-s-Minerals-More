@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "tag": "minecraft:smelts_to_glass"
+    },
+    "1": {
+      "tag": "cemm:quartz"
+    },
+    "2": {
+      "tag": "cemm:quartz"
+    },
+    "3": {
+      "tag": "minecraft:smelts_to_glass"
+    }
+  },
+  "result": {
+    "item": "cemm:quartz_sand",
+    "count": 4
+  }
+}

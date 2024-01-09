@@ -1,0 +1,18 @@
+{
+  "type": "cemm:salt_fields_salt_surface_replacer",
+  "config": {
+    "target": {
+      "Name": "cemm:red_salt_white"
+    },
+    "state": {
+      "Name": "cemm:red_salt"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 6,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

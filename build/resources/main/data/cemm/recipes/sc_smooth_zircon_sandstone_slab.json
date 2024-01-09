@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:smooth_zircon_sandstone"
+  },
+  "result": "cemm:smooth_zircon_sandstone_slab"
+}

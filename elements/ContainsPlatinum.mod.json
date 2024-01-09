@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Biomes",
+    "items": [],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "river"
+      }
+    ],
+    "name": "contains_platinum",
+    "namespace": "mod"
+  }
+}

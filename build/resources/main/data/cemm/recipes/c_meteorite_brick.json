@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "1": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "2": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "3": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "4": {
+      "item": "minecraft:diamond"
+    },
+    "5": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "6": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "7": {
+      "item": "cemm:meteorite_bricklet"
+    },
+    "8": {
+      "item": "cemm:meteorite_bricklet"
+    }
+  },
+  "result": {
+    "item": "cemm:meteorite_brick",
+    "count": 1
+  }
+}

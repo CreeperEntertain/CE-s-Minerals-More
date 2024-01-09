@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:mountain_laurel_button",
+    "minecraft:crimson_button",
+    "minecraft:cherry_button",
+    "cemm:ebony_button",
+    "minecraft:dark_oak_button",
+    "cemm:chlorowood_button",
+    "cemm:lunarbark_button",
+    "minecraft:oak_button",
+    "minecraft:warped_button",
+    "cemm:amber_sentinel_button",
+    "minecraft:jungle_button",
+    "minecraft:spruce_button",
+    "minecraft:acacia_button",
+    "minecraft:birch_button",
+    "minecraft:mangrove_button",
+    "minecraft:bamboo_button"
+  ]
+}

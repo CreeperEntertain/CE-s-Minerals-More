@@ -1,0 +1,18 @@
+{
+  "type": "cemm:bromian_thicket_vibrating_moss_placement",
+  "config": {
+    "target": {
+      "Name": "cemm:vibrating_serandite"
+    },
+    "state": {
+      "Name": "cemm:vibrating_moss"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 3,
+        "max_inclusive": 6
+      }
+    }
+  }
+}

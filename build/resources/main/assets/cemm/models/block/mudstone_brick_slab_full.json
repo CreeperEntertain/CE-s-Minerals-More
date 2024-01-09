@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mudstone_bricks",
+    "top": "cemm:block/mudstone_bricks",
+    "side": "cemm:block/mudstone_bricks"
+  },
+  "render_type": "solid"
+}

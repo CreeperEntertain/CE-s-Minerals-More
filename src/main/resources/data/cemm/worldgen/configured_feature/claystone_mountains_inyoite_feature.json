@@ -1,0 +1,21 @@
+{
+  "type": "cemm:claystone_mountains_inyoite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:claystone"
+    },
+    "state": {
+      "Name": "cemm:inyoite",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 2
+      }
+    }
+  }
+}

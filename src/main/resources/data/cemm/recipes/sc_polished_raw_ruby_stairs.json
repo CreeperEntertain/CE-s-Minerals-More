@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_raw_ruby"
+  },
+  "result": "cemm:polished_raw_ruby_stairs"
+}

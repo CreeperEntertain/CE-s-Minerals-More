@@ -1,0 +1,13 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionDimensions": [
+      "Surface",
+      "CUSTOM:ChlorophylDimension"
+    ],
+    "restrictionBiomes": [],
+    "featurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"feature_container\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_block_pile\"><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.STONE#1</field></block></value></block></value><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">100</field></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">WORLD_SURFACE_WG</field><next><block type=\"placement_height_range\"><value name=\"height\"><block type=\"height_provider_trapezoid\"><field name=\"plateau\">16</field><value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">32</field></block></value><value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">96</field></block></value></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_rarity\"><field name=\"rarity\">100</field></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

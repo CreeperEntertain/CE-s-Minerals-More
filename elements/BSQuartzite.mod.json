@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:QuartzSand"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:Quartzite"
+    },
+    "name": "bs_quartzite",
+    "namespace": "mod"
+  }
+}

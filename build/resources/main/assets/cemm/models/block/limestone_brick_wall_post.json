@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/limestone_bricks",
+    "particle": "cemm:block/limestone_bricks"
+  },
+  "render_type": "solid"
+}

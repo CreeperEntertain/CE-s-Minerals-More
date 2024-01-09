@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/pyroxene",
+    "particle": "cemm:block/pyroxene"
+  },
+  "render_type": "solid"
+}

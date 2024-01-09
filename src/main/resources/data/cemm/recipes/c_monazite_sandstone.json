@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:monazite_sand"
+    },
+    "1": {
+      "item": "cemm:monazite_sand"
+    },
+    "2": {
+      "item": "cemm:monazite_sand"
+    },
+    "3": {
+      "item": "cemm:monazite_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:monazite_sandstone",
+    "count": 1
+  }
+}

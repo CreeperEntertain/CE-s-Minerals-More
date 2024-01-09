@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/kyanite_bricks",
+    "top": "cemm:block/kyanite_bricks",
+    "side": "cemm:block/kyanite_bricks"
+  },
+  "render_type": "solid"
+}

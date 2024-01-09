@@ -1,0 +1,12 @@
+{
+  "_fv": 47,
+  "_type": "keybind",
+  "definition": {
+    "triggerKey": "NUMPAD0",
+    "keyBindingName": "Toggle Time Display",
+    "keyBindingCategoryKey": "ui",
+    "onKeyPressed": {
+      "name": "ClockKeybindTriggered"
+    }
+  }
+}

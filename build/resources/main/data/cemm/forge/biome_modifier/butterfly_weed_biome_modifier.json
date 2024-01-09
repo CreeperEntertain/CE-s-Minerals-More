@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:amber_forest",
+  "features": "cemm:butterfly_weed",
+  "step": "vegetal_decoration"
+}

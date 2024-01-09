@@ -1,0 +1,31 @@
+{
+  "type": "cemm:mountain_quartz_ore",
+  "config": {
+    "size": 20,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:stone"
+          }
+        },
+        "state": {
+          "Name": "cemm:mountain_quartz_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:masuyite"
+          }
+        },
+        "state": {
+          "Name": "cemm:mountain_quartz_ore"
+        }
+      }
+    ]
+  }
+}

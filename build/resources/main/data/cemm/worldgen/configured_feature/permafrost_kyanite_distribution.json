@@ -1,0 +1,72 @@
+{
+  "type": "cemm:permafrost_kyanite_distribution",
+  "config": {
+    "size": 45,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:deepslate"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:packed_ice"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:blue_ice"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:packed_black_ice"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:tough_black_ice"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:icy_snow"
+        },
+        "state": {
+          "Name": "cemm:raw_kyanite"
+        }
+      }
+    ]
+  }
+}

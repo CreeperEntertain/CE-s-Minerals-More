@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:AmberSentinelDoor"
+    },
+    "name": "c_amber_sentinel_door",
+    "namespace": "mod"
+  }
+}

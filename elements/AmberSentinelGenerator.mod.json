@@ -1,0 +1,81 @@
+{
+  "_fv": 47,
+  "_type": "structure",
+  "definition": {
+    "structure": "ebony_generator",
+    "randomlyRotateStructure": false,
+    "surfaceDetectionType": "First motion blocking block",
+    "spawnProbability": 1000000,
+    "minCountPerChunk": 8,
+    "maxCountPerChunk": 16,
+    "spawnLocation": "Ground",
+    "spawnHeightOffset": 1,
+    "spawnXOffset": 0,
+    "spawnZOffset": 0,
+    "spawnWorldTypes": [
+      "Surface"
+    ],
+    "restrictionBlocks": [
+      {
+        "value": "CUSTOM:DirtyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyCobblestone"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownRootedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownCoarseDirt"
+      },
+      {
+        "value": "CUSTOM:ScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:GrassedScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:OvergrownScorchedDirt"
+      },
+      {
+        "value": "CUSTOM:DirtyMud"
+      },
+      {
+        "value": "CUSTOM:OvergrownDirtyMud"
+      },
+      {
+        "value": "CUSTOM:GrassedDirtyMud"
+      },
+      {
+        "value": "Blocks.DIRT#0"
+      },
+      {
+        "value": "Blocks.DIRT#1"
+      },
+      {
+        "value": "Blocks.DIRT#2"
+      },
+      {
+        "value": "Blocks.ROOTED_DIRT"
+      },
+      {
+        "value": "CUSTOM:GrassedDriedMud"
+      },
+      {
+        "value": "Blocks.GRASS"
+      }
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AmberForest"
+      }
+    ],
+    "ignoreBlocks": "AIR_AND_STRUCTURE_BLOCK",
+    "onStructureGenerated": {
+      "name": "ProceduralAmberSentinelTrunk"
+    }
+  }
+}

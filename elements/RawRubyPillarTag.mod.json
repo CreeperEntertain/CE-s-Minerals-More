@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:RawRubyPillar"
+      },
+      {
+        "value": "CUSTOM:RawRubyPillarTop"
+      },
+      {
+        "value": "CUSTOM:RawRubyPillarMiddle"
+      },
+      {
+        "value": "CUSTOM:RawRubyPillarBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "raw_ruby_pillar",
+    "namespace": "mod"
+  }
+}

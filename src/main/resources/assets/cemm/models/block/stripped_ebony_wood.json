@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/stripped_ebony_log_new",
+    "up": "cemm:block/stripped_ebony_log_new",
+    "north": "cemm:block/stripped_ebony_log_new",
+    "east": "cemm:block/stripped_ebony_log_new",
+    "south": "cemm:block/stripped_ebony_log_new",
+    "west": "cemm:block/stripped_ebony_log_new",
+    "particle": "cemm:block/stripped_ebony_log_new"
+  },
+  "render_type": "solid"
+}

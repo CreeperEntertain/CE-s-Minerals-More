@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:shellwood_planks"
+    },
+    "3": {
+      "item": "cemm:shellwood_planks"
+    },
+    "4": {
+      "item": "cemm:shellwood_planks"
+    },
+    "6": {
+      "item": "cemm:shellwood_planks"
+    },
+    "7": {
+      "item": "cemm:shellwood_planks"
+    },
+    "8": {
+      "item": "cemm:shellwood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shellwood_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/rocky_stone",
+    "top": "cemm:block/rocky_stone",
+    "side": "cemm:block/rocky_stone"
+  },
+  "render_type": "solid"
+}

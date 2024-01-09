@@ -1,0 +1,18 @@
+{
+  "type": "cemm:meteor_fields_smooth_basalt_placement",
+  "config": {
+    "target": {
+      "Name": "cemm:phyllite"
+    },
+    "state": {
+      "Name": "minecraft:smooth_basalt"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 6,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

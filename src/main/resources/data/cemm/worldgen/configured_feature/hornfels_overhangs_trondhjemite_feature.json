@@ -1,0 +1,24 @@
+{
+  "type": "cemm:hornfels_overhangs_trondhjemite_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:hornfels",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:trondhjemite",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

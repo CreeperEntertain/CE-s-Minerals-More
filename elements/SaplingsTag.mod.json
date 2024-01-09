@@ -1,0 +1,75 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkSapling"
+      },
+      {
+        "value": "CUSTOM:InstaLunarbarkSapling"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodSapling"
+      },
+      {
+        "value": "CUSTOM:EbonySapling"
+      },
+      {
+        "value": "CUSTOM:AshenSapling"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodSapling"
+      },
+      {
+        "value": "CUSTOM:ShinewoodSapling"
+      },
+      {
+        "value": "CUSTOM:ShellwoodSapling"
+      },
+      {
+        "value": "Blocks.SAPLING#0"
+      },
+      {
+        "value": "Blocks.SAPLING#1"
+      },
+      {
+        "value": "Blocks.SAPLING#2"
+      },
+      {
+        "value": "Blocks.SAPLING#3"
+      },
+      {
+        "value": "Blocks.SAPLING#4"
+      },
+      {
+        "value": "Blocks.SAPLING#5"
+      },
+      {
+        "value": "Blocks.CHERRY_SAPLING"
+      },
+      {
+        "value": "Blocks.AZALEA"
+      },
+      {
+        "value": "Blocks.FLOWERING_AZALEA"
+      },
+      {
+        "value": "Blocks.MANGROVE_PROPAGULE"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelSapling"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelSapling"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "saplings",
+    "namespace": "minecraft"
+  }
+}

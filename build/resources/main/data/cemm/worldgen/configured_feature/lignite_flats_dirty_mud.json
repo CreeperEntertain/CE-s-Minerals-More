@@ -1,0 +1,27 @@
+{
+  "type": "cemm:lignite_flats_dirty_mud",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:dirty_mud"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:grass_block"
+        },
+        "state": {
+          "Name": "cemm:grassed_dirty_mud"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "cemm:quartz_sand_distribution",
+  "config": {
+    "size": 33,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "base_stone_overworld"
+        },
+        "state": {
+          "Name": "cemm:quartz_sand"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "base_stone_overworld"
+        },
+        "state": {
+          "Name": "cemm:masuyite"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Icy Snow": "icy_snow",
+        "Dirt": "dirt",
+        "Snow Path": "snow_path"
+      },
+      "name": "default"
+    }
+  }
+}

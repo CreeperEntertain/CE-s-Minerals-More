@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ruby_pillar_top",
+    "up": "cemm:block/ruby_pillar_top",
+    "north": "cemm:block/ruby_pillar",
+    "east": "cemm:block/ruby_pillar",
+    "south": "cemm:block/ruby_pillar",
+    "west": "cemm:block/ruby_pillar",
+    "particle": "cemm:block/ruby_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/raw_kyanite",
+    "top": "cemm:block/raw_kyanite",
+    "side": "cemm:block/raw_kyanite"
+  },
+  "render_type": "solid"
+}

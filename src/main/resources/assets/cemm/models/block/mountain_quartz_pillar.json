@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/mountain_quartz_pillar_top",
+    "up": "cemm:block/mountain_quartz_pillar_top",
+    "north": "cemm:block/mountain_quartz_pillar",
+    "east": "cemm:block/mountain_quartz_pillar",
+    "south": "cemm:block/mountain_quartz_pillar",
+    "west": "cemm:block/mountain_quartz_pillar",
+    "particle": "cemm:block/mountain_quartz_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "Blocks.BLACKSTONE"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:BlackNetherBrick"
+    },
+    "name": "s_black_nether_brick",
+    "namespace": "mod"
+  }
+}

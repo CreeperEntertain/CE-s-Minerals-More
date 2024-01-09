@@ -1,0 +1,12 @@
+{
+  "type": "cemm:shungite_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:shungite"
+    },
+    "radius": 12
+  }
+}

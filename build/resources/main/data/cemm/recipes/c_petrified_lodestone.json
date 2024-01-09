@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:lodestone"
+    }
+  },
+  "result": {
+    "item": "cemm:petrified_lodestone",
+    "count": 1
+  }
+}

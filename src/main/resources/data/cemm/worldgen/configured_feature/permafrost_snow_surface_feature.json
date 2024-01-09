@@ -1,0 +1,37 @@
+{
+  "type": "cemm:permafrost_snow_surface_feature",
+  "config": {
+    "size": 33,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:snowed_packed_ice"
+        },
+        "state": {
+          "Name": "cemm:icy_snow"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "random_block_match",
+          "block": "minecraft:packed_ice",
+          "probability": 0.2
+        },
+        "state": {
+          "Name": "cemm:icy_snow"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:packed_ice"
+        },
+        "state": {
+          "Name": "minecraft:snow_block"
+        }
+      }
+    ]
+  }
+}

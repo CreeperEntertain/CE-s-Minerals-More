@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/terrazzo_tile_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/terrazzo_tile_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/terrazzo_tile_slab_full"
+    }
+  }
+}

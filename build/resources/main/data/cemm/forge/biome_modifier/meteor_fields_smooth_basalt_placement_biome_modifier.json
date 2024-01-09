@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:meteor_fields",
+  "features": "cemm:meteor_fields_smooth_basalt_placement",
+  "step": "underground_decoration"
+}

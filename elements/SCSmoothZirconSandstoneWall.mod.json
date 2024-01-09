@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:SmoothZirconSandstone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:SmoothZirconSandstoneWall"
+    },
+    "name": "sc_smooth_zircon_sandstone_wall",
+    "namespace": "mod"
+  }
+}

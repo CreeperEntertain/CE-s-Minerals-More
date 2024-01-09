@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:smooth_mountain_quartz"
+    },
+    "1": {
+      "item": "cemm:smooth_mountain_quartz"
+    },
+    "2": {
+      "item": "cemm:smooth_mountain_quartz"
+    },
+    "3": {
+      "item": "cemm:smooth_mountain_quartz"
+    },
+    "4": {
+      "item": "cemm:smooth_mountain_quartz"
+    },
+    "5": {
+      "item": "cemm:smooth_mountain_quartz"
+    }
+  },
+  "result": {
+    "item": "cemm:smooth_mountain_quartz_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:permafrost",
+  "features": "cemm:permafrost_rock_feature",
+  "step": "lakes"
+}

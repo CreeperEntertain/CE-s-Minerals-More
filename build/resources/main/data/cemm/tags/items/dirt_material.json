@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:silt_soil",
+    "cemm:scorched_dirt",
+    "minecraft:rooted_dirt",
+    "cemm:sandy_soil",
+    "minecraft:dirt"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:RawCitrinePillar"
+      },
+      {
+        "value": "CUSTOM:RawCitrinePillarTop"
+      },
+      {
+        "value": "CUSTOM:RawCitrinePillarMiddle"
+      },
+      {
+        "value": "CUSTOM:RawCitrinePillarBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "raw_citrine_pillar",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chalk_steppes",
+    "cemm:shungite_mines",
+    "cemm:lignite_flats",
+    "cemm:limestone_steppes",
+    "cemm:amber_forest"
+  ]
+}

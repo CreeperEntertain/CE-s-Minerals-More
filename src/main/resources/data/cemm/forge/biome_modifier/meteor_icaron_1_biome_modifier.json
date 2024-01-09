@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:meteor_fields",
+  "features": "cemm:meteor_icaron_1",
+  "step": "surface_structures"
+}

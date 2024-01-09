@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/amber_sentinel_leaf_carpet",
+  "textures": {
+    "all": "cemm:block/amber_sentinel_leaf_carpet",
+    "particle": "cemm:block/amber_sentinel_leaf_carpet",
+    "Leaf Carpet": "cemm:block/amber_sentinel_leaf_carpet"
+  },
+  "render_type": "cutout_mipped"
+}

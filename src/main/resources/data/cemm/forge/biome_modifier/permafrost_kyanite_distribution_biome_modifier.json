@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:permafrost",
+  "features": "cemm:permafrost_kyanite_distribution",
+  "step": "top_layer_modification"
+}

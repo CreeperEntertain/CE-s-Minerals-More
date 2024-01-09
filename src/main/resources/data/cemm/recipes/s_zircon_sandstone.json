@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:zircon_sand"
+    },
+    "1": {
+      "item": "cemm:zircon_sand"
+    },
+    "2": {
+      "item": "cemm:zircon_sand"
+    },
+    "3": {
+      "item": "cemm:zircon_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:zircon_sandstone",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "type": "cemm:amber_forest_additional_lapis_ore",
+  "config": {
+    "size": 7,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "stone_ore_replaceables"
+        },
+        "state": {
+          "Name": "minecraft:lapis_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "deepslate_ore_replaceables"
+        },
+        "state": {
+          "Name": "minecraft:deepslate_lapis_ore"
+        }
+      }
+    ]
+  }
+}

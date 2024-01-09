@@ -1,0 +1,30 @@
+{
+  "type": "cemm:hot_springs_magma",
+  "config": {
+    "size": 32,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:salt_block"
+        },
+        "state": {
+          "Name": "minecraft:magma_block"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:water"
+        },
+        "state": {
+          "Name": "minecraft:bubble_column",
+          "Properties": {
+            "drag": "true"
+          }
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:citrine_bricks",
+    "cemm:chiseled_raw_citrine_bricks",
+    "cemm:polished_raw_citrine",
+    "cemm:citrine_pillar",
+    "cemm:raw_citrine_bricks",
+    "cemm:chiseled_raw_citrine",
+    "cemm:raw_citrine_pillar",
+    "cemm:chiseled_citrine_block",
+    "cemm:raw_citrine",
+    "cemm:citrine_block"
+  ]
+}

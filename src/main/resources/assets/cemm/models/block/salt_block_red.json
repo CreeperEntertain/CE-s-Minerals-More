@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/salt_block",
+    "top": "cemm:block/red_salt",
+    "side": "cemm:block/salt_block",
+    "overlay": "cemm:block/red_salt_overlay",
+    "particle": "cemm:block/salt_block"
+  },
+  "render_type": "cutout_mipped"
+}

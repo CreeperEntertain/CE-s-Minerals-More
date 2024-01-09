@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "1": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "2": {
+      "item": "cemm:mountain_laurel_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:mountain_laurel_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/phyllite",
+    "particle": "cemm:block/phyllite"
+  },
+  "render_type": "solid"
+}

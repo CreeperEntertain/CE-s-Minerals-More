@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "1": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "2": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "3": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "4": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "5": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "6": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "7": {
+      "item": "cemm:magnesium_ingot"
+    },
+    "8": {
+      "item": "cemm:magnesium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:magnesium_block",
+    "count": 1
+  }
+}

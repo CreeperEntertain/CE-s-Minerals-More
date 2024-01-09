@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      },
+      {
+        "value": "CUSTOM:ShellwoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ShellwoodStairs"
+    },
+    "name": "c_shellwood_stairs",
+    "namespace": "mod"
+  }
+}

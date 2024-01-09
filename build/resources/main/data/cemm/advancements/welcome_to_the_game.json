@@ -1,0 +1,23 @@
+{
+  "display": {
+    "background": "cemm:textures/screens/schorl.png",
+    "icon": {
+      "item": "cemm:fluorite_crystal"
+    },
+    "title": {
+      "translate": "advancements.welcome_to_the_game.title"
+    },
+    "description": {
+      "translate": "advancements.welcome_to_the_game.descr"
+    },
+    "frame": "task",
+    "show_toast": false,
+    "announce_to_chat": false,
+    "hidden": false
+  },
+  "criteria": {
+    "welcome_to_the_game": {
+      "trigger": "minecraft:tick"
+    }
+  }
+}

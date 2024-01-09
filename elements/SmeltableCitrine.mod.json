@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrineBricks"
+      },
+      {
+        "value": "CUSTOM:PolishedRawCitrine"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawCitrineBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawCitrine"
+      },
+      {
+        "value": "CUSTOM:RawCitrinePillar"
+      },
+      {
+        "value": "CUSTOM:CitrineBlock"
+      },
+      {
+        "value": "CUSTOM:CitrineBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledCitrineBlock"
+      },
+      {
+        "value": "CUSTOM:CitrinePillar"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "smeltable_citrine",
+    "namespace": "mod"
+  }
+}

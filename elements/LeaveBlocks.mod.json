@@ -1,0 +1,288 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:NightbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves1"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves2"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves3"
+      },
+      {
+        "value": "CUSTOM:LunarbarkLeaves"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves4"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves5"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves6"
+      },
+      {
+        "value": "CUSTOM:NightbarkLeaves7"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves0"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves1"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves2"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves3"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves4"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves5"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodLeaves6"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves0"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves1"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves2"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves3"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves4"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves5"
+      },
+      {
+        "value": "CUSTOM:EbonyLeaves6"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves0"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves1"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves2"
+      },
+      {
+        "value": "CUSTOM:AshenLeaves3"
+      },
+      {
+        "value": "Blocks.LEAVES#0"
+      },
+      {
+        "value": "Blocks.LEAVES#1"
+      },
+      {
+        "value": "Blocks.LEAVES#2"
+      },
+      {
+        "value": "Blocks.LEAVES#3"
+      },
+      {
+        "value": "Blocks.LEAVES2#0"
+      },
+      {
+        "value": "Blocks.LEAVES2#1"
+      },
+      {
+        "value": "Blocks.MANGROVE_LEAVES"
+      },
+      {
+        "value": "Blocks.AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.FLOWERING_AZALEA_LEAVES"
+      },
+      {
+        "value": "Blocks.CHERRY_LEAVES"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves1"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves2"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves3"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves4"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves5"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves6"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves7"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodLeaves8"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves1"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves2"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves4"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves3"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves5"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves7"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves6"
+      },
+      {
+        "value": "CUSTOM:ShinewoodLeaves8"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves1"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves2"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves3"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves4"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves5"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves6"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves7"
+      },
+      {
+        "value": "CUSTOM:ShellwoodLeaves8"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves0"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves1"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves2"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves3"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves4"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves5"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelLeaves6"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves0"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves6"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves0"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves6"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves1"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves2"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves3"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves4"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelLeaves5"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves1"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves2"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves3"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves4"
+      },
+      {
+        "value": "CUSTOM:FloweringMountainLaurelLeaves5"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "leaves",
+    "namespace": "minecraft"
+  }
+}

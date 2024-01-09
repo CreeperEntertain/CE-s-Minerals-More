@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.SNOW"
+      },
+      {
+        "value": "TAG:cemm:ice_materials"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:cemm:ice_materials"
+      },
+      {
+        "value": "Blocks.SNOW"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:IcySnow"
+    },
+    "name": "c_icy_snow",
+    "namespace": "mod"
+  }
+}

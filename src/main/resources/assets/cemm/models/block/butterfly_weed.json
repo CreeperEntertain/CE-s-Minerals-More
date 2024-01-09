@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "cemm:block/butterfly_weed",
+    "particle": "cemm:block/butterfly_weed"
+  },
+  "render_type": "cutout"
+}

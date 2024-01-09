@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cut_zircon_sandstone"
+  },
+  "result": "cemm:chiseled_zircon_sandstone"
+}

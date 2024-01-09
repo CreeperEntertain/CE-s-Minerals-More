@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "frozen_river",
+    "beach",
+    "plains",
+    "river",
+    "snowy_beach"
+  ],
+  "features": "cemm:arsenic_ore",
+  "step": "underground_ores"
+}

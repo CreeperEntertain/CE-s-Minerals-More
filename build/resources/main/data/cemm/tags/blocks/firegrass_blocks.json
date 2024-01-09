@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:firegrass_block_dirt",
+    "cemm:firegrass_block_moss",
+    "cemm:firegrass_block_dripstone",
+    "cemm:firegrass_block_tuff",
+    "cemm:firegrass_block_diorite",
+    "cemm:firegrass_block_andesite",
+    "cemm:firegrass_block_stone",
+    "cemm:firegrass_block_granite"
+  ]
+}

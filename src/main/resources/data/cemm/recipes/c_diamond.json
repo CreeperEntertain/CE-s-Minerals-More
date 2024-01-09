@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:diamond_shard"
+    },
+    "1": {
+      "item": "cemm:diamond_shard"
+    },
+    "2": {
+      "item": "cemm:diamond_shard"
+    },
+    "3": {
+      "item": "cemm:diamond_shard"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond",
+    "count": 1
+  }
+}

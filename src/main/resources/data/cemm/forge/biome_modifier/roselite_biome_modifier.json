@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "badlands",
+    "savanna_plateau",
+    "savanna",
+    "plains",
+    "windswept_savanna",
+    "wooded_badlands",
+    "eroded_badlands"
+  ],
+  "features": "cemm:roselite",
+  "step": "underground_ores"
+}

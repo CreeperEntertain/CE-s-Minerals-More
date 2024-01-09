@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:anti_gravity_field"
+    },
+    "title": {
+      "translate": "advancements.gravizone.title"
+    },
+    "description": {
+      "translate": "advancements.gravizone.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "gravizone": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:fake_diamonds"
+}

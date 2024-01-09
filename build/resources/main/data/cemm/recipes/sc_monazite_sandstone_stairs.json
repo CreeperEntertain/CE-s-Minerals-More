@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:monazite_sandstone"
+  },
+  "result": "cemm:monazite_sandstone_stairs"
+}

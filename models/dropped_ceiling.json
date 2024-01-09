@@ -1,0 +1,56 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "dropped_ceiling",
+		"Dropped Ceiling": "dropped_ceiling"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [0, 8, 0],
+			"to": [16, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#Dropped Ceiling"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#Dropped Ceiling"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#Dropped Ceiling"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#Dropped Ceiling"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#Dropped Ceiling"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#Dropped Ceiling"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 4.25, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

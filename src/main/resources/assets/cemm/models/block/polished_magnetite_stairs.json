@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_magnetite",
+    "top": "cemm:block/polished_magnetite",
+    "side": "cemm:block/polished_magnetite"
+  },
+  "render_type": "solid"
+}

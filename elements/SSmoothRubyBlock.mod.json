@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:cemm:smeltable_ruby"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmoothRubyBlock"
+    },
+    "name": "s_smooth_ruby_block",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "cemm:smokey_quartz_feature_2",
+  "config": {
+    "target": {
+      "Name": "minecraft:deepslate",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:deepslate_smokey_quartz_ore"
+    },
+    "radius": 5
+  }
+}

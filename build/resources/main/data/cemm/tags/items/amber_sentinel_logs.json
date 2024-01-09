@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:stripped_amber_sentinel_wood",
+    "cemm:amber_sentinel_log",
+    "cemm:stripped_amber_sentinel_log",
+    "cemm:cut_stripped_amber_sentinel",
+    "cemm:amber_sentinel_wood",
+    "cemm:cut_amber_sentinel"
+  ]
+}

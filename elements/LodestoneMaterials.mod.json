@@ -1,0 +1,30 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:NeodymiumIngot"
+      },
+      {
+        "value": "CUSTOM:Magnetite"
+      },
+      {
+        "value": "CUSTOM:Magnet"
+      },
+      {
+        "value": "CUSTOM:MagnetiteSand"
+      },
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "lodestone_materials",
+    "namespace": "mod"
+  }
+}

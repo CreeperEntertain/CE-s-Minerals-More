@@ -1,0 +1,108 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:LunarbarkDoor"
+      },
+      {
+        "value": "CUSTOM:ChlorowoodDoor"
+      },
+      {
+        "value": "CUSTOM:EbonyDoor"
+      },
+      {
+        "value": "CUSTOM:AshenDoor"
+      },
+      {
+        "value": "CUSTOM:ShiverwoodDoor"
+      },
+      {
+        "value": "CUSTOM:ShellwoodDoor"
+      },
+      {
+        "value": "CUSTOM:ShinewoodDoor"
+      },
+      {
+        "value": "Blocks.OAK_DOOR"
+      },
+      {
+        "value": "Blocks.SPRUCE_DOOR"
+      },
+      {
+        "value": "Blocks.BIRCH_DOOR"
+      },
+      {
+        "value": "Blocks.JUNGLE_DOOR"
+      },
+      {
+        "value": "Blocks.ACACIA_DOOR"
+      },
+      {
+        "value": "Blocks.DARK_OAK_DOOR"
+      },
+      {
+        "value": "Blocks.CRIMSON_DOOR"
+      },
+      {
+        "value": "Blocks.WARPED_DOOR"
+      },
+      {
+        "value": "Blocks.MANGROVE_DOOR"
+      },
+      {
+        "value": "Blocks.CHERRY_DOOR"
+      },
+      {
+        "value": "Blocks.BAMBOO_DOOR"
+      },
+      {
+        "value": "Items.OAK_DOOR"
+      },
+      {
+        "value": "Items.SPRUCE_DOOR"
+      },
+      {
+        "value": "Items.BIRCH_DOOR"
+      },
+      {
+        "value": "Items.JUNGLE_DOOR"
+      },
+      {
+        "value": "Items.ACACIA_DOOR"
+      },
+      {
+        "value": "Items.DARK_OAK_DOOR"
+      },
+      {
+        "value": "Items.CRIMSON_DOOR"
+      },
+      {
+        "value": "Items.WARPED_DOOR"
+      },
+      {
+        "value": "Items.MANGROVE_DOOR"
+      },
+      {
+        "value": "Items.CHERRY_DOOR"
+      },
+      {
+        "value": "Items.BAMBOO_DOOR"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelDoor"
+      },
+      {
+        "value": "CUSTOM:MountainLaurelDoor"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "wooden_doors",
+    "namespace": "minecraft"
+  }
+}

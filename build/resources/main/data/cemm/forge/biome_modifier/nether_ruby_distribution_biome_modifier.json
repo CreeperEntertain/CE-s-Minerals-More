@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nether_wastes",
+  "features": "cemm:nether_ruby_distribution",
+  "step": "underground_decoration"
+}

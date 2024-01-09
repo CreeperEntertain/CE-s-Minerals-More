@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cut_cherry",
+    "cemm:cut_stripped_cherry",
+    "minecraft:stripped_cherry_wood",
+    "minecraft:stripped_cherry_log",
+    "minecraft:cherry_log",
+    "minecraft:cherry_wood"
+  ]
+}

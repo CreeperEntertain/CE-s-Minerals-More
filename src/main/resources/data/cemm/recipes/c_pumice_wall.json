@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:pumice"
+    },
+    "1": {
+      "item": "cemm:pumice"
+    },
+    "2": {
+      "item": "cemm:pumice"
+    },
+    "3": {
+      "item": "cemm:pumice"
+    },
+    "4": {
+      "item": "cemm:pumice"
+    },
+    "5": {
+      "item": "cemm:pumice"
+    }
+  },
+  "result": {
+    "item": "cemm:pumice_wall",
+    "count": 6
+  }
+}

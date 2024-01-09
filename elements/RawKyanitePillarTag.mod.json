@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:RawKyanitePillar"
+      },
+      {
+        "value": "CUSTOM:RawKyanitePillarTop"
+      },
+      {
+        "value": "CUSTOM:RawKyanitePillarMiddle"
+      },
+      {
+        "value": "CUSTOM:RawKyanitePillarBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "raw_kyanite_pillar",
+    "namespace": "mod"
+  }
+}

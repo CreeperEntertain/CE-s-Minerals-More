@@ -1,0 +1,18 @@
+{
+  "type": "cemm:nether_slag_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:netherrack"
+    },
+    "state": {
+      "Name": "cemm:slag"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 4
+      }
+    }
+  }
+}

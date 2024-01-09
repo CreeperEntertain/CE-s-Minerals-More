@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/dropped_ceiling",
+  "textures": {
+    "all": "cemm:block/dropped_ceiling",
+    "particle": "cemm:block/dropped_ceiling",
+    "Dropped Ceiling": "cemm:block/dropped_ceiling"
+  },
+  "render_type": "solid"
+}

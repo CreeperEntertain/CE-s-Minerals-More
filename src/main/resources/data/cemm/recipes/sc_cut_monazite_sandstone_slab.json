@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:cut_monazite_sandstone"
+  },
+  "result": "cemm:cut_monazite_sandstone_slab"
+}

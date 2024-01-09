@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/obsidian_pillar_top",
+    "up": "cemm:block/obsidian_pillar_top",
+    "north": "cemm:block/obsidian_pillar",
+    "east": "cemm:block/obsidian_pillar",
+    "south": "cemm:block/obsidian_pillar",
+    "west": "cemm:block/obsidian_pillar",
+    "particle": "cemm:block/obsidian_pillar_top"
+  },
+  "render_type": "solid"
+}

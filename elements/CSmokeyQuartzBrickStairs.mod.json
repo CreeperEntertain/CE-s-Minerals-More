@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      },
+      {
+        "value": "CUSTOM:SmokeyQuartzBricks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:SmokeyQuartzBrickStairs"
+    },
+    "name": "c_smokey_quartz_brick_stairs",
+    "namespace": "mod"
+  }
+}

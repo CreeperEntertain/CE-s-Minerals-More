@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "oak_support_bottom",
+        "Support Side": "oak_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

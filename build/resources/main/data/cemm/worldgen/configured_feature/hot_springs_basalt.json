@@ -1,0 +1,21 @@
+{
+  "type": "cemm:hot_springs_basalt",
+  "config": {
+    "target": {
+      "Name": "cemm:salt_block"
+    },
+    "state": {
+      "Name": "minecraft:basalt",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 2,
+        "max_inclusive": 4
+      }
+    }
+  }
+}

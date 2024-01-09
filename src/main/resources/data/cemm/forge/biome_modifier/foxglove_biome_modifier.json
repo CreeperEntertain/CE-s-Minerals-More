@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "grove",
+    "snowy_plains",
+    "plains",
+    "flower_forest",
+    "cherry_grove",
+    "meadow"
+  ],
+  "features": "cemm:foxglove",
+  "step": "vegetal_decoration"
+}

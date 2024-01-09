@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:oak_trapdoor",
+    "cemm:c_chlorowood_trapdoor",
+    "minecraft:bamboo_trapdoor",
+    "minecraft:dark_oak_trapdoor",
+    "minecraft:spruce_trapdoor",
+    "minecraft:mangrove_trapdoor",
+    "minecraft:crimson_trapdoor",
+    "minecraft:warped_trapdoor",
+    "cemm:lunarbark_trapdoor",
+    "cemm:ashen_trapdoor",
+    "cemm:shellwood_trapdoor",
+    "minecraft:cherry_trapdoor",
+    "minecraft:jungle_trapdoor",
+    "cemm:amber_sentinel_trapdoor",
+    "cemm:shiverwood_trapdoor",
+    "minecraft:birch_trapdoor",
+    "cemm:ebony_trap_door",
+    "minecraft:acacia_trapdoor",
+    "cemm:mountain_laurel_trapdoor",
+    "cemm:shinewood_trapdoor"
+  ]
+}

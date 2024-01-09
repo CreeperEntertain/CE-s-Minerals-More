@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:the_emptiness",
+  "features": "cemm:the_emptiness_sanidine_underground_placement",
+  "step": "local_modifications"
+}

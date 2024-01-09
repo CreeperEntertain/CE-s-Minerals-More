@@ -1,0 +1,42 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:nyline_fungus"
+    },
+    "1": {
+      "item": "cemm:nyline_fungus"
+    },
+    "2": {
+      "item": "cemm:nyline_fungus"
+    },
+    "3": {
+      "item": "cemm:nyline_fungus"
+    },
+    "4": {
+      "item": "cemm:nyline_fungus"
+    },
+    "5": {
+      "item": "cemm:nyline_fungus"
+    },
+    "6": {
+      "item": "cemm:nyline_fungus"
+    },
+    "7": {
+      "item": "minecraft:bowl"
+    },
+    "8": {
+      "item": "cemm:nyline_fungus"
+    }
+  },
+  "result": {
+    "item": "cemm:nightstew",
+    "count": 1
+  }
+}

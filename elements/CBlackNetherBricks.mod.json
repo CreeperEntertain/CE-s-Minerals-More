@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": "TAG:cemm:black_ice_crafting_material"
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Items.NETHERBRICK"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlackNetherBrick"
+    },
+    "name": "c_black_nether_bricks",
+    "namespace": "mod"
+  }
+}

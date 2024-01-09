@@ -1,0 +1,18 @@
+{
+  "type": "cemm:bromian_thicket_serandine_underground_placement",
+  "config": {
+    "target": {
+      "Name": "cemm:anorthite"
+    },
+    "state": {
+      "Name": "cemm:serandite"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 6,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

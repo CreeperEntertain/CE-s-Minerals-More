@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/industrial_iron",
+    "top": "cemm:block/industrial_iron",
+    "side": "cemm:block/industrial_iron"
+  },
+  "render_type": "solid"
+}

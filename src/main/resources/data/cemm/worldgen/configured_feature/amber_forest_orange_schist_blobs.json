@@ -1,0 +1,18 @@
+{
+  "type": "cemm:amber_forest_orange_schist_blobs",
+  "config": {
+    "size": 32,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:overworld_soapstone"
+        },
+        "state": {
+          "Name": "cemm:orange_schist"
+        }
+      }
+    ]
+  }
+}

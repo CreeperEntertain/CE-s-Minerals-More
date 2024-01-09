@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RawKyanite"
+      },
+      {
+        "value": "CUSTOM:RawKyaniteBricks"
+      },
+      {
+        "value": "CUSTOM:PolishedRawKyanite"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawKyaniteBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawKyanite"
+      },
+      {
+        "value": "CUSTOM:RawKyanitePillar"
+      },
+      {
+        "value": "CUSTOM:KyaniteBlock"
+      },
+      {
+        "value": "CUSTOM:KyaniteBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledKyaniteBlock"
+      },
+      {
+        "value": "CUSTOM:KyanitePillar"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "smeltable_kyanite",
+    "namespace": "mod"
+  }
+}

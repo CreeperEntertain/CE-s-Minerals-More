@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chalk_steppes",
+  "features": "cemm:chalk_spike_chalk_steppes",
+  "step": "surface_structures"
+}

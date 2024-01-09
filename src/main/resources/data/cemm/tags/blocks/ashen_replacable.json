@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:ashen_leaves_3",
+    "cemm:ashen_leaves_2",
+    "minecraft:cave_air",
+    "cemm:ashen_leaves",
+    "minecraft:void_air",
+    "minecraft:air",
+    "cemm:ashen_leaves_1",
+    "cemm:ashen_leaves_0"
+  ]
+}

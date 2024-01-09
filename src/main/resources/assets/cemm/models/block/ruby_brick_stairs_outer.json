@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/ruby_bricks",
+    "top": "cemm:block/ruby_bricks",
+    "side": "cemm:block/ruby_bricks"
+  },
+  "render_type": "solid"
+}

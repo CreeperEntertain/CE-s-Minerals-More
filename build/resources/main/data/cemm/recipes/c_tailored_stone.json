@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:stone"
+    },
+    "1": {
+      "tag": "cemm:tailored_stone_material"
+    },
+    "2": {
+      "tag": "cemm:tailored_stone_material"
+    },
+    "3": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:tailored_stone",
+    "count": 4
+  }
+}

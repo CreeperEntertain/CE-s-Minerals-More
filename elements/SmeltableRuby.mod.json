@@ -1,0 +1,45 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:RawRuby"
+      },
+      {
+        "value": "CUSTOM:RawRubyBricks"
+      },
+      {
+        "value": "CUSTOM:PolishedRawRuby"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawRubyBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledRawRuby"
+      },
+      {
+        "value": "CUSTOM:RawRubyPillar"
+      },
+      {
+        "value": "CUSTOM:RubyBlock"
+      },
+      {
+        "value": "CUSTOM:RubyBricks"
+      },
+      {
+        "value": "CUSTOM:ChiseledRubyBlock"
+      },
+      {
+        "value": "CUSTOM:RubyPillar"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "smeltable_ruby",
+    "namespace": "mod"
+  }
+}

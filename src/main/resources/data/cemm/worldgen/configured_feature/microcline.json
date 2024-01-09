@@ -1,0 +1,42 @@
+{
+  "type": "cemm:microcline",
+  "config": {
+    "size": 18,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:soapstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:microcline"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:bordeaux_soapstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:microcline"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:anorthite"
+          }
+        },
+        "state": {
+          "Name": "cemm:microcline"
+        }
+      }
+    ]
+  }
+}

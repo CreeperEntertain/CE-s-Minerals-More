@@ -1,0 +1,31 @@
+{
+  "type": "cemm:ash_iron_ore",
+  "config": {
+    "size": 12,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:ash"
+          }
+        },
+        "state": {
+          "Name": "cemm:ash_iron_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:hardened_ash"
+          }
+        },
+        "state": {
+          "Name": "cemm:ash_iron_ore"
+        }
+      }
+    ]
+  }
+}

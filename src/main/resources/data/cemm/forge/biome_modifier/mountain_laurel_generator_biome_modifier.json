@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:amber_forest",
+  "features": "cemm:mountain_laurel_generator",
+  "step": "surface_structures"
+}

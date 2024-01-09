@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/amber_sentinel_leaf_carpet"
+  },
+  "render_type": "translucent"
+}

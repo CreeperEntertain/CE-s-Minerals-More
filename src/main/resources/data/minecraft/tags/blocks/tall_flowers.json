@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:pitcher_plant",
+    "cemm:hibiscus",
+    "minecraft:peony",
+    "minecraft:rose_bush",
+    "cemm:foxglove",
+    "minecraft:lilac",
+    "cemm:amber_sentinel_sapling",
+    "minecraft:sunflower"
+  ]
+}

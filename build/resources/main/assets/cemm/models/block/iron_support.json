@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/iron_support",
+  "textures": {
+    "all": "cemm:block/iron_support_side",
+    "particle": "cemm:block/iron_support_side",
+    "Scaffolding Top": "cemm:block/iron_scaffolding_top",
+    "Scaffolding Side": "cemm:block/iron_scaffolding_side",
+    "Support Side": "cemm:block/iron_support_side"
+  },
+  "render_type": "cutout_mipped"
+}

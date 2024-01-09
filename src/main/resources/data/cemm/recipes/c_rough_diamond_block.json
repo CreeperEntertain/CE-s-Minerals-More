@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "01",
+    "23"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:rough_diamond"
+    },
+    "1": {
+      "item": "cemm:rough_diamond"
+    },
+    "2": {
+      "item": "cemm:rough_diamond"
+    },
+    "3": {
+      "item": "cemm:rough_diamond"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_diamond_block",
+    "count": 1
+  }
+}

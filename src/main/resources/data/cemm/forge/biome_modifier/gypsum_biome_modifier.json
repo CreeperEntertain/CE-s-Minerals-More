@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:gypsum_cave",
+  "features": "cemm:gypsum",
+  "step": "underground_ores"
+}

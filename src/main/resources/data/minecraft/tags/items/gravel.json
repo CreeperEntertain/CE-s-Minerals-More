@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:suspicious_gravel",
+    "cemm:slag",
+    "cemm:raked_gravel",
+    "cemm:raked_slag",
+    "cemm:raked_washed_gravel",
+    "cemm:washed_gravel",
+    "cemm:bank_run_gravel",
+    "minecraft:gravel",
+    "cemm:raked_bank_run_gravel"
+  ]
+}

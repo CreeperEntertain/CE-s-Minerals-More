@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:CutBamboo"
+      },
+      {
+        "value": "CUSTOM:CutStrippedBamboo"
+      },
+      {
+        "value": "Blocks.BAMBOO_BLOCK"
+      },
+      {
+        "value": "Blocks.STRIPPED_BAMBOO_BLOCK"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "bamboo_blocks",
+    "namespace": "minecraft"
+  }
+}

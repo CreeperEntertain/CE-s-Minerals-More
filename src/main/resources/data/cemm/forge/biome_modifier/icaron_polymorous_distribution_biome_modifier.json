@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "cemm:icaron_polymorous_distribution",
+  "step": "top_layer_modification"
+}

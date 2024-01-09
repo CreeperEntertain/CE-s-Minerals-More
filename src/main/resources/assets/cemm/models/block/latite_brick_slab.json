@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/latite_bricks",
+    "top": "cemm:block/latite_bricks",
+    "side": "cemm:block/latite_bricks"
+  },
+  "render_type": "solid"
+}

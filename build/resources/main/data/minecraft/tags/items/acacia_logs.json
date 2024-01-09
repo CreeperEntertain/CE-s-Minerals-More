@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:acacia_wood",
+    "cemm:cut_stripped_acacia",
+    "cemm:cut_acacia",
+    "minecraft:stripped_acacia_wood",
+    "minecraft:acacia_log",
+    "minecraft:stripped_acacia_log"
+  ]
+}

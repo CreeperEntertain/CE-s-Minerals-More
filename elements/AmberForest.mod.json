@@ -1,0 +1,189 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Amber Forest",
+    "groundBlock": {
+      "value": "Blocks.GRASS"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.DIRT#0"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:BankRunGravel"
+    },
+    "grassColor": {
+      "value": -20953,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -24056,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -11495449,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -12949865,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": ""
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:ChlorophylSporeParticle"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.19999999999999998,
+    "temperature": 0.5,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.238784,
+      "max": 0.45
+    },
+    "genHumidity": {
+      "min": -0.3217723,
+      "max": 0.2087
+    },
+    "genContinentalness": {
+      "min": -0.061253,
+      "max": 0.7153
+    },
+    "genErosion": {
+      "min": -0.86734,
+      "max": 0.82345
+    },
+    "genWeirdness": {
+      "min": 0.2768,
+      "max": 1.18726
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "ForestGrass",
+      "ForestFlowers",
+      "Bamboo",
+      "ExtraEmeraldOre",
+      "Fossils",
+      "MeadowVegetation",
+      "PlainsTallGrass",
+      "TaigaLargeFerns"
+    ],
+    "spawnStronghold": true,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "plains",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": true,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityCat"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 20,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityFox"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 30,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityGoat"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 25,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityLlama"
+        },
+        "minGroup": 2,
+        "maxGroup": 4,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityOcelot"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityPanda"
+        },
+        "minGroup": 3,
+        "maxGroup": 5,
+        "weight": 15,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntityParrot"
+        },
+        "minGroup": 2,
+        "maxGroup": 6,
+        "weight": 20,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

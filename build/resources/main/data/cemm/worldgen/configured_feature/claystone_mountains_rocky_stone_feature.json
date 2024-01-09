@@ -1,0 +1,18 @@
+{
+  "type": "cemm:claystone_mountains_rocky_stone_feature",
+  "config": {
+    "target": {
+      "Name": "cemm:claystone"
+    },
+    "state": {
+      "Name": "cemm:rocky_stone"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

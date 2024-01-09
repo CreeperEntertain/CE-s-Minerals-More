@@ -1,0 +1,18 @@
+{
+  "type": "cemm:meteor_fields_crying_obsiaster_placement",
+  "config": {
+    "target": {
+      "Name": "cemm:obsiaster"
+    },
+    "state": {
+      "Name": "cemm:crysing_obsiaster"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 6,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

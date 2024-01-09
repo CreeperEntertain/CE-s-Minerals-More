@@ -1,0 +1,23 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:brimstone"
+    },
+    "title": {
+      "translate": "advancements.ouch.title"
+    },
+    "description": {
+      "translate": "advancements.ouch.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "ouch": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "parent": "minecraft:nether/root"
+}

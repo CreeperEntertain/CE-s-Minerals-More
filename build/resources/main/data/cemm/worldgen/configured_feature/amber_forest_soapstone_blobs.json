@@ -1,0 +1,54 @@
+{
+  "type": "cemm:amber_forest_soapstone_blobs",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "cemm:overworld_soapstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:gravel"
+        },
+        "state": {
+          "Name": "cemm:overworld_soapstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:andesite"
+        },
+        "state": {
+          "Name": "cemm:overworld_soapstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:granite"
+        },
+        "state": {
+          "Name": "cemm:overworld_soapstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:diorite"
+        },
+        "state": {
+          "Name": "cemm:overworld_soapstone"
+        }
+      }
+    ]
+  }
+}

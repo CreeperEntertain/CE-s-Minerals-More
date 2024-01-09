@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/dried_mud",
+    "top": "cemm:block/dried_mud",
+    "side": "cemm:block/dried_mud"
+  },
+  "render_type": "solid"
+}

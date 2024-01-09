@@ -1,0 +1,152 @@
+{
+  "_fv": 47,
+  "_type": "biome",
+  "definition": {
+    "name": "Chalk Cliffs",
+    "groundBlock": {
+      "value": "CUSTOM:GrassedChalk"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:Chalk"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:Chalk"
+    },
+    "grassColor": {
+      "value": -11503536,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -12879557,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "CUSTOM:music.chalk"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "EXPLOSION_NORMAL"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.8,
+    "temperature": 0.4,
+    "spawnBiome": true,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -0.8728745,
+      "max": -0.42344
+    },
+    "genHumidity": {
+      "min": -0.9821,
+      "max": 1.2000000000000002
+    },
+    "genContinentalness": {
+      "min": -0.2141,
+      "max": 0.0854
+    },
+    "genErosion": {
+      "min": -0.6,
+      "max": 0.6
+    },
+    "genWeirdness": {
+      "min": -0.8614425392436512,
+      "max": 0.33855746075634874
+    },
+    "treesPerChunk": 1,
+    "vanillaTreeType": "Birch trees",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer",
+      "ForestGrass",
+      "TaigaLargeFerns",
+      "JungleGrass",
+      "PlainsTallGrass",
+      "TaigaGrassAndMushrooms",
+      "ForestFlowers"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": true,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "STANDARD",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntitySkeleton"
+        },
+        "minGroup": 4,
+        "maxGroup": 6,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySkeletonHorse"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 4,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityGoat"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 10,
+        "spawnType": "creature"
+      },
+      {
+        "entity": {
+          "value": "EntitySheep"
+        },
+        "minGroup": 2,
+        "maxGroup": 5,
+        "weight": 20,
+        "spawnType": "creature"
+      }
+    ]
+  }
+}

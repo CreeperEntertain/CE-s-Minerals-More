@@ -1,0 +1,17 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:red_wastes",
+    "badlands",
+    "savanna_plateau",
+    "savanna",
+    "windswept_savanna",
+    "wooded_badlands",
+    "cemm:monazite_desert",
+    "desert",
+    "eroded_badlands",
+    "cemm:zirconian_desert"
+  ],
+  "features": "cemm:creosote_bush",
+  "step": "vegetal_decoration"
+}

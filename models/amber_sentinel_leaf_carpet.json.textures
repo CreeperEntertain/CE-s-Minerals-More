@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Leaf Carpet": "amber_sentinel_leaf_carpet"
+      },
+      "name": "default"
+    }
+  }
+}

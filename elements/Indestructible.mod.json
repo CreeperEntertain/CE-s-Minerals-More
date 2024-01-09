@@ -1,0 +1,330 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "Blocks.AIR"
+      },
+      {
+        "value": "Blocks.VOID_AIR"
+      },
+      {
+        "value": "Blocks.CAVE_AIR"
+      },
+      {
+        "value": "CUSTOM:Laser"
+      },
+      {
+        "value": "Blocks.BEDROCK"
+      },
+      {
+        "value": "Blocks.FLOWING_WATER"
+      },
+      {
+        "value": "Blocks.WATER"
+      },
+      {
+        "value": "Blocks.FLOWING_LAVA"
+      },
+      {
+        "value": "Blocks.LAVA"
+      },
+      {
+        "value": "CUSTOM:Acid"
+      },
+      {
+        "value": "Blocks.BUBBLE_COLUMN"
+      },
+      {
+        "value": "Blocks.LIGHT"
+      },
+      {
+        "value": "Blocks.COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.REPEATING_COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.CHAIN_COMMAND_BLOCK"
+      },
+      {
+        "value": "Blocks.END_PORTAL"
+      },
+      {
+        "value": "Blocks.END_PORTAL_FRAME"
+      },
+      {
+        "value": "Blocks.END_GATEWAY"
+      },
+      {
+        "value": "Blocks.BARRIER"
+      },
+      {
+        "value": "Blocks.STRUCTURE_VOID"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#1"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#2"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#3"
+      },
+      {
+        "value": "Blocks.STRUCTURE_BLOCK#4"
+      },
+      {
+        "value": "Blocks.JIGSAW"
+      },
+      {
+        "value": "CUSTOM:TungstenBlock"
+      },
+      {
+        "value": "Blocks.OBSIDIAN"
+      },
+      {
+        "value": "Blocks.CRYING_OBSIDIAN"
+      },
+      {
+        "value": "Blocks.OBSERVER"
+      },
+      {
+        "value": "CUSTOM:OvergrownObsidian"
+      },
+      {
+        "value": "CUSTOM:OvergrownCryingObsidian"
+      },
+      {
+        "value": "CUSTOM:TitaniumBlock"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedTintedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGreenStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightBlueStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightGrayStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforedLimeStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBrownStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlas"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBrownStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGreenStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightBlueStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightGrayStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedTintedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlackStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassMidle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBlueStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBrownStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedBrownStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCyanStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGrayStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGreenStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedGreenStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightBlueStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightBlueStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightGrayStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLightGrayStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedLimeStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedMagentaStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedOrangeStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPinkStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedRedStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedTintedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedTintedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedWhiteStainedGlassBottom"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedYellowStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "indestructible",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:blue_sage"
+    }
+  },
+  "result": {
+    "item": "minecraft:cyan_dye",
+    "count": 2
+  }
+}

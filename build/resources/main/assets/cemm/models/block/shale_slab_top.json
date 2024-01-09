@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/shale",
+    "top": "cemm:block/shale",
+    "side": "cemm:block/shale"
+  },
+  "render_type": "solid"
+}

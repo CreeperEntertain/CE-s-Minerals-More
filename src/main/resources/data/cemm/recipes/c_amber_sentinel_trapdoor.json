@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:amber_sentinel_planks"
+    },
+    "1": {
+      "item": "cemm:amber_sentinel_planks"
+    },
+    "2": {
+      "item": "cemm:amber_sentinel_planks"
+    },
+    "3": {
+      "item": "cemm:amber_sentinel_planks"
+    },
+    "4": {
+      "item": "cemm:amber_sentinel_planks"
+    },
+    "5": {
+      "item": "cemm:amber_sentinel_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:amber_sentinel_trapdoor",
+    "count": 2
+  }
+}

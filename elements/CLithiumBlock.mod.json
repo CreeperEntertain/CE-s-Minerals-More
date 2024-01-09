@@ -1,0 +1,48 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      },
+      {
+        "value": "CUSTOM:LithiumIngot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LithiumBlock"
+    },
+    "name": "c_lithium_block",
+    "namespace": "mod"
+  }
+}

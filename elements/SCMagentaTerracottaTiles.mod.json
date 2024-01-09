@@ -1,0 +1,22 @@
+{
+  "_fv": 47,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "Blocks.MAGENTA_GLAZED_TERRACOTTA"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:MagentaTerracottaTiles"
+    },
+    "name": "sc_magenta_terracotta_tiles",
+    "namespace": "mod"
+  }
+}

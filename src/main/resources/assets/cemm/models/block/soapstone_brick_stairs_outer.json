@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/soapstone_bricks",
+    "top": "cemm:block/soapstone_bricks",
+    "side": "cemm:block/soapstone_bricks"
+  },
+  "render_type": "solid"
+}

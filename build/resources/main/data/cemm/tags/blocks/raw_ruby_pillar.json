@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:raw_ruby_pillar_middle",
+    "cemm:raw_ruby_pillar_bottom",
+    "cemm:raw_ruby_pillar",
+    "cemm:raw_ruby_pillar_top"
+  ]
+}

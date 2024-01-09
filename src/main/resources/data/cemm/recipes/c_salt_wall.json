@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:salt_block"
+    },
+    "1": {
+      "item": "cemm:salt_block"
+    },
+    "2": {
+      "item": "cemm:salt_block"
+    },
+    "3": {
+      "item": "cemm:salt_block"
+    },
+    "4": {
+      "item": "cemm:salt_block"
+    },
+    "5": {
+      "item": "cemm:salt_block"
+    }
+  },
+  "result": {
+    "item": "cemm:salt_wall",
+    "count": 6
+  }
+}

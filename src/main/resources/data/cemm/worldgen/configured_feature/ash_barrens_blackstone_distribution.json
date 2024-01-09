@@ -1,0 +1,8 @@
+{
+  "type": "cemm:ash_barrens_blackstone_distribution",
+  "config": {
+    "state": {
+      "Name": "minecraft:blackstone"
+    }
+  }
+}

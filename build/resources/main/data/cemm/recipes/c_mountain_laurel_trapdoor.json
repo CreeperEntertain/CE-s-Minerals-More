@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "012",
+    "345"
+  ],
+  "key": {
+    "0": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "1": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "2": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "3": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "4": {
+      "item": "cemm:mountain_laurel_planks"
+    },
+    "5": {
+      "item": "cemm:mountain_laurel_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:mountain_laurel_trapdoor",
+    "count": 2
+  }
+}

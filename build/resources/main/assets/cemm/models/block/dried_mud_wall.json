@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/dried_mud",
+    "particle": "cemm:block/dried_mud"
+  },
+  "render_type": "solid"
+}

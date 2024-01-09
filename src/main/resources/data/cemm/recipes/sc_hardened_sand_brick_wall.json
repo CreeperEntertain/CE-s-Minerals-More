@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:hardened_sand_bricks"
+  },
+  "result": "cemm:hardened_sand_brick_wall"
+}

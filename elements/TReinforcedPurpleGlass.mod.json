@@ -1,0 +1,27 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Blocks",
+    "items": [],
+    "blocks": [
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlass"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassTop"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassMiddle"
+      },
+      {
+        "value": "CUSTOM:ReinforcedPurpleStainedGlassBottom"
+      }
+    ],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "t_reinforced_purple_glass",
+    "namespace": "mod"
+  }
+}

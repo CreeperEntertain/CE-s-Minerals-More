@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cut_bamboo",
+    "minecraft:stripped_bamboo_block",
+    "cemm:cut_stripped_bamboo",
+    "minecraft:bamboo_block"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "_fv": 47,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "RAW_GENERATION",
+    "restrictionDimensions": [
+      "Surface"
+    ],
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:Permafrost"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_random_patch\" inline=\"false\"><field name=\"tries\">8</field><field name=\"xzSpread\">15</field><field name=\"ySpread\">64</field><value name=\"feature\"><block type=\"feature_random_patch\" inline=\"false\"><field name=\"tries\">10</field><field name=\"xzSpread\">12</field><field name=\"ySpread\">3</field><value name=\"feature\"><block type=\"placed_feature_inline\"><value name=\"feature\"><block type=\"feature_random_patch_simple\" inline=\"false\"><field name=\"tries\">300</field><field name=\"xzSpread\">6</field><field name=\"ySpread\">2</field><value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.PACKED_ICE</field><comment pinned=\"false\" h=\"80\" w=\"160\">This is the block that will be placed by the feature (in this case blackstone)</comment></block></value><value name=\"condition\"><block type=\"block_predicate_all_of\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"2\"></mutation><value name=\"condition0\"><block type=\"block_predicate_any_of\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"2\"></mutation><value name=\"condition0\"><block type=\"block_predicate_solid\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field></block></value><value name=\"condition1\"><block type=\"block_predicate_solid\"><field name=\"x\">0</field><field name=\"y\">0</field><field name=\"z\">0</field></block></value></block></value><value name=\"condition1\"><block type=\"block_predicate_is_air\"></block></value></block></value></block></value><statement name=\"placement\"><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">1</field><field name=\"max\">3</field></block></value></block></statement></block></value></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">25</field><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">3</field><field name=\"max\">6</field></block></value><next><block type=\"placement_count_on_every_layer\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">2</field><field name=\"max\">4</field></block></value><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

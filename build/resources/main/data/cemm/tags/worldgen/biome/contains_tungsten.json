@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "warped_forest",
+    "old_growth_birch_forest",
+    "forest",
+    "dark_forest",
+    "birch_forest",
+    "crimson_forest",
+    "flower_forest",
+    "windswept_forest"
+  ]
+}

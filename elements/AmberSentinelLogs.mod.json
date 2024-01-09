@@ -1,0 +1,33 @@
+{
+  "_fv": 47,
+  "_type": "tag",
+  "definition": {
+    "type": "Items",
+    "items": [
+      {
+        "value": "CUSTOM:AmberSentinelLog"
+      },
+      {
+        "value": "CUSTOM:AmberSentinelWood"
+      },
+      {
+        "value": "CUSTOM:CutAmberSentinel"
+      },
+      {
+        "value": "CUSTOM:StrippedAmberSentinelLog"
+      },
+      {
+        "value": "CUSTOM:StrippedAmberSentinelWood"
+      },
+      {
+        "value": "CUSTOM:CutStrippedAmberSentinel"
+      }
+    ],
+    "blocks": [],
+    "functions": [],
+    "entities": [],
+    "biomes": [],
+    "name": "amber_sentinel_logs",
+    "namespace": "mod"
+  }
+}
