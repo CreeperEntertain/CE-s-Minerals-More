@@ -1,4 +1,4 @@
-# Version 2.17.330 of "CE's Minerals & More"
+# Version 2.18.378 of "CE's Minerals & More"
 To visit the download pages for this mod, visit the main branch.
 
 ## Version 2.18.378 Changelog
