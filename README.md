@@ -1,1 +1,175 @@
-"# CE-s-Minerals-More" 
+# Version 2.18.378 of "CE's Minerals & More"
+To visit the download pages for this mod, visit the main branch.
+
+## MCreator Version
+2024.1
+
+## MCreator Plugins Used
+- Forge Mixins
+- End Biomes
+- Blockstates
+- Easy Code
+- Custom Plugin: More Blocks
+- World Renderer
+- Data Organizer
+- Math Utils
+
+## Version 2.19.520 Changelog
+- Updated block textures
+- Added smooth andesite, diorite, and granite, as well as their variants
+- Pure carbon can now be purified into diamond and emerald shards
+- Netherrack now purified into quartz instead of blaze powder
+- Recipes for workstations are now also accessible from their menus
+- The shape of the crowns of amber sentinel and mountain laurel trees has been changed
+- Added Packed ice block variants
+- Added smooth variants of andesite, dirote, and granite as well as their variants
+- Added coarse sand and its overgrown variant
+- Added rubblestone
+- Added mossy sand and dirt
+- Added umbre and tan shale as well as their block and overgrown variants
+- Added old moss and sludge
+- Added a large palette of Vanilla-like blocks from Minecraft's Universal Studio crossover; the list includes...
+  - Diorite: Bricks, thin bricks, small bricks, cobbled bricks, herringbone bricks, mixed bricks, tiles, cut, pillar;
+  - Wood: Large planks, jointed planks, shutters, skirting, panelling, lattices, lattice fencing, crate;
+  - Sakura wood set;
+  - Stone: Small tiles, tiles, pillar, roofing, vertical bricks, herringbone bricks, skirting, thin bricks, small bricks, mixed bricks, stone wall, polished;
+  - Smooth stone: Bricks, chiseled, pillar;
+  - Cracked stone: Regular, tiles, thin bricks, missing cracked brick variants, skirting, small bricks, mixed bricks, polished;
+  - Mossy stone: Regular, skirting, thin bricks, small bricks, tiles, mixed bricks, polished;
+  - Dirty stone: Grubby tiles, dirty tiles;
+  - Sandstone: Pillar, chiseled pillar, bricks, small bricks;
+  - Plaster (regular, ochre, red): Regular, bricks, snaking, meandering;
+  - Granite: Bricks, herringbone bricks, pillar, tiles, small bricks, mossy bricks, mossy tiles;
+  - Terracotta (regular, orange, dark): Bricks, cobbled bricks, skirting, pillar, chiseled pillar;
+  - Deepslate: Small bricks, herringbone bricks, thin bricks, tiles, pillar;
+  - Dark Prismarine: Bricks, herringbone bricks, pillar, skirting, tiles, small bricks, thin bricks, vertical bricks;
+  - Andesite: Bricks, herringbone bricks, pillar, cobbled bricks, cut, mixed bricks, small bricks, thin bricks, tiles
+- Added a large palette of blocks from Minecraft Dungeons; the list includes...
+  - Basalt: Covered, tiles, chiseled tiles, gilded tiles, layered tiles, (regular, gilded) mixed tiles, (regular, gilded) missing tiles;
+  - Blackstone: Rough, rocky, damaged bricks, small bricks, small cracked bricks, wrecked small bricks, tile, tiles, pillar, carved pillar, paving, golden, gilded tile, destroyed tiles, broken tiles, (sprouted, overgrown, consumed) tiles, missing tiles, target, chiseled, ornament, runes;
+  - Bone: Decayed, mixed, dry, pillar, pillar cover;
+  - Decorative bookshelf variants;
+  - Brass, bronze: Tile, cracked tile, decorative, flower pot, ornament, (horizontal, vertical) chiseled;
+  - Block refinery (workstation for making special stylized versions of certain blocks);
+  - Rough Marble: Regular, cracked, chiseled, carved, framed, crowned, gilded, lined, ornament, painted;
+  - Dark Marble: Regular, rough, cobbled, rough bricks, polished, broken, tile, broken tile, chiseled, carvings, dotted, framed, regular bricks, lamp, polished bricks, diagonal bricks, mixed bricks;
+  - Dripstone: Polished, missing regular variants, cobbled, bricks, tiles, chiseled bricks, etched, tile, cracked tile, dirty cracked tile, old polished, broken tile, decorative, motif;
+  - Cliffdirt and cliffpeat variants, cliffgravel;
+  - Cliffstone: Regular, smooth, cobbled, amber deposit, fossils, dirty, mossy, paving, pathing, bricks, layered bricks, vertical bricks, tiles, chiseled, ornament, rough bricks, shingles;
+  - Dark andesite: Regular, cobbled, rough, dark rubblestone, bricks, masonry, rocky, small bricks, cliffrocky, polished, smooth, tile, chiseled, wrecked, grassed, gilded, ornament;
+  - Chert: Regular, cobbled, dirty cobbled, bricks, tile, mossy tile, dirty tile, cut, chiseled;
+  - Granite: Sandy bricks, sandy tiles, leafy, leafy bricks, leafy tiles;
+  - Gray Granite: Regular, cobbled, leafy, bricks, sandy cobbled, mossy bricks, cracked bricks, chiseled bricks, mossy chiseled bricks, polished, mossy polished, tile, polished tile, cut, chiseled, horizontal chiseled, engraved, motif, ornament;
+  - Grimstone: Regular, cobbled, cracked, broken, polished, bricks, tiles, broken polished, chiseled, tiled bricks, layered bricks, pillar, brick ornament, ornament, patterned bricks, diagonal bricks, diagonal bricks, lined, carved, chiseled pillar, smooth pillar, rune, XP storage;
+  - Junglerock: Regular, cobbled, pillar, bricks, layered bricks, painted, dark pillar, dark bricks, layered dark bricks;
+  - Rocky obsidian;
+  - Frost: Freezing snow, cyan ice, clear cyan ice, transparent cyan ice, frozen cyan ice, frosted rock, icicles, broken packed ice, frost bricks, frost tile, frost flooring;
+  - Gold: Stairs, slab, wall, fence, bricks, decorative, tile, hammered, engraved, frame, expression, chiseled, stack, etched, trophy, trapdoor, decorative ingot, chains, framed chains, mixed framed chains, huge chains
+  - Iron: Tile, bricks, frame, lamp, rope box, caging, crowning, large chains, thick chains, phat chains, giant chains, framed chains, huge chains;
+  - Dirty netherrack;
+  - Nether bricks: Broken, smooth, mixed, polished, foundation, thin, chiseled, tiles, broken tiles, wrecked tiles, burnt tiles;
+  - Red nether bricks: Broken, smooth, polished, chiseled, carved, tiles, cracked tiles, wrecked tiles;
+  - Warpstone: Regular, cobbled, rough, polished, bricks, alternate bricks, chiseled bricks;
+  - Soul soil: Stony, rocky, infested, skull soil, coarse, dirty;
+  - Silt: Regular, warped, coarse, hardened, bricks;
+  - Ravenstone: Regular, cobbled, polished, broken polished, bricks, chiseled bricks, tiles, thin bricks, layered bricks, patterned bricks, diagonal bricks, chiseled, tile, pillar, flooring, decorated flooring, carved pillar, gilded, framed, crowned, ornament, lined, pathing, obelisks
+- Added the ice cave biome to the overworld underground
+- Added the howling cliffs and autumn fields biomes to Megachloron
+- Fixed snow accumulation in the void dimension during rain; it does no longer rain
+- Fixed void forest island generation
+- Decreased the amount of ruby found in the nether
+- Mountain laurel trees now generate in meadows
+- Tropical fish can now be cooked
+- Ash wanderers should no longer spawn on bedrock or inside fluids
+- Boulders, spikes, hills, and pillars no longer generate on the nether roof of crimson and warped forests
+- Malachite now generates more often inside dripstone caves as opposed to its overground form
+- Minium now only generates inside jungle type biomes
+- Mud structures now no longer generate outside of swamp type biomes
+- Tinaksite now only generates above ground in monazite and zirconian deserts
+- Tokyoite now only generates above ground in meadows
+- Lunarbark leaves no longer drop their items if mined in creative mode
+- Packed mud can now be crafted into stairs, slabs, and walls
+- Updated some plant textures
+- Wild versions of growable plants have been added to replace the removed structures
+- Added new variants of regular bricks which can be made using burnt clay
+- Added wild versions of potato, carrot, and beetroot
+- Added rope, rope ladder, and coiled rope
+- Added regular and dry versions of hay bales, thatch, smooth thatch, and rough thatch
+- Fixed shiverwood trees not generating
+- Added redstone and lapis lazuli crystals
+- Added blue, green, and gray urns which can be smashed for loot or slik touched
+- Added the leather tile block
+- The red cactus now visually connects to others of itself
+- Fixed some naming issues
+- Added netherrack stairs, slabs, and walls
+- Added spider succulents and eggs
+- Added the spider cavern biome to the nether
+- Fixed a desync issue with conveyors
+- If the step height of an entity that enters a conveyor is lower than 0.6 blocks, it will now be set to that instead
+- Added nine flowers and sea buckthorn
+- Added crimson and warped moss
+- Added ten new plants that generate around warped forests, crison forests and spider caverns
+- Added various new end stone blocks to build with
+- Added midori, a green stone type found in the end, as well as purpur stone
+- Added end spruce, purpur wood, and their dark variants
+- Added end wax which can be found as ore and made into building blocks and a staff
+- Added four new biomes to the end which generate close to another (these are separated into highlands, midlands, and barrens sub-biomes respectively)
+- End wax can be used in basic vanilla recipes as a replacement for honeycomb; the item tag is called "forge:wax"
+- Fixed sandstone pile features generating outside their designated biomes
+- Fixed a bug where chlorowood supports did not rotate
+- Added the missing button, pressure plate, and support to the ashen wood set
+- Poisonous potatoes can now be composted
+- Changed stone distribution inside ash barrens slightly so that bedrock should not be replaced anymore
+- Decreased the size of chlorophyl caves to make room for other biomes
+- Added the hellscape biome to the nether
+- 6 types of flesh blocks have been added, as well as vegetation that grows on top
+- Maggots live in some of the flesh and will attack the player if freed
+- Blood has been added which can be used in a number of ways, one of which is bottling it to spread flesh to certain nether blocks
+- Bloodstone and lavaslate have been added which can be made into various types of blocks
+- 4 new types of dirt-like nether blocks have been added named cinderloam, soot, mulch, and volcanic soil
+- Volcanic soil can be crafted into volcanic sand, which can be used to make sandstone variants
+- Two tree types have been added called fireshade and smolderbark, which have a burnt appearance
+- New building blocks have been added for netherrack, basalt, and gilded blackstone to fill out the nether block palette more
+- Basalt can now be turned into basalt sand using a stonecutter
+- Soulrock has been added to soulsand valleys, which can be crafted using soul sand and made into more variants
+- Made hematite generate in larger veins
+- Removed todorokite
+- Fixed a bug where the regular purpurite wall was named and textured like its polished variant
+- Jaspilite now has one texture and is no longer rotatable
+- In its place, smooth jaspilite has now been renamed to layered jaspilite and took on its properties
+- Many of the older block textures have been reworked
+- Overhauled the Purifier interface and added a recipe page
+- Purifiers now do operations on each tick as opposed to every tenth
+- The purifier has been overhauled
+- Added new purifier recipes, and reballanced some other ones
+- Gilded blackstone is now craftable
+- Fixed tools losing durability in creative mode for shearing overgrown blocks or raking rakable blocks
+- Added raw variants of dripstone bricks, tiles, pillar, and sanded dripstone
+- Added new calcite block variants including bricks, tiles, polished, smooth, chiseled, crossed, meandering pillar/ornament, and columns
+- Added new amethyst block variants including stairs, slab, wall, bricks, tiles, polished, smooth, chiseled, trim, and slanted
+- Added the chute, which will slowly drop items one by one
+- Added the wooden bin to go along with the chute
+- Added seven new tracks that will play in the update added this and the last major release
+- Fixed the name of the aerinite wall
+- Added cross compatibility for the block tag "bountifulblocks:nether_portal_frames"
+- Fixed snowed blocks not connecting to blocks around them
+- Resorted the technical tab
+- Added a fan that can push entities
+- Renamed the technical tab to "CE's Technical Collection"
+- Fixed the conveyors playing their sound twice when switched between top and bottom half
+
+## Version 2.20.532 Changelog
+- Fixed a crash caused by chutes attempting to suck items from blocks without a slot
+- Cast iron and copper are now craftable into ingots
+- Cast iron and copper are now craftable using 3 ingots in a shapeless recipe
+- Fixed the "cemm:snow_ingredients" item tag
+- Fixed the name for iconic, doric, and corinthian calcite columns
+- Fixed all recipes having to do with items that can be smelted to glass
+- Removed transparent parts in mountain laurel log textures for added compatibility with "Every Compat"
+- Added missing crafting recipes for previously unintentionally unobtainable items
+- Removed falsely added recipes for overgrown blocks
+- Crafting sulfur blocks back into sulfur now results in 4 instead of 9 crystals to fix a duplication exploit
+- Fixed an error relating to wrong tag naming
+- Added the missing tag "cemm:blackstone"
+
+### [Main Branch](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/main)
