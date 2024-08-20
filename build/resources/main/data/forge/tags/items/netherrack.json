@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:dirty_netherrack",
+    "cemm:polished_netherrack",
+    "cemm:netherrack_bricks",
+    "cemm:netherrack_paving",
+    "cemm:netherrack_tiles",
+    "cemm:thin_netherrack_bricks",
+    "cemm:small_netherrack_bricks",
+    "cemm:netherrack_pillar",
+    "minecraft:netherrack"
+  ]
+}

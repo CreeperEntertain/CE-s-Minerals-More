@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/jungle_large_planks",
+    "particle": "cemm:block/jungle_large_planks"
+  },
+  "render_type": "solid"
+}

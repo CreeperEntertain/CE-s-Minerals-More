@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/red_nether_tiles",
+    "particle": "cemm:block/red_nether_tiles"
+  },
+  "render_type": "solid"
+}

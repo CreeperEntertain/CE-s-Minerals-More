@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/terrazzo_tiles",
+    "top": "cemm:block/terrazzo_tiles",
+    "side": "cemm:block/terrazzo_tiles"
+  },
+  "render_type": "solid"
+}

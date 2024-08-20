@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/limestone_top",
+    "top": "cemm:block/limestone_top",
+    "side": "cemm:block/limestone"
+  },
+  "render_type": "solid"
+}

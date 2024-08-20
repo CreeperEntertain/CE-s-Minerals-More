@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:plastic_sheets"
+    },
+    {
+      "item": "cemm:microchip"
+    },
+    {
+      "item": "cemm:plastic_sheets"
+    },
+    {
+      "item": "cemm:microchip"
+    },
+    {
+      "item": "cemm:capacitor"
+    },
+    {
+      "item": "cemm:indium_ingot"
+    },
+    {
+      "item": "cemm:microchip"
+    },
+    {
+      "item": "cemm:capacitor"
+    },
+    {
+      "item": "cemm:microchip"
+    }
+  ],
+  "result": {
+    "item": "cemm:board",
+    "count": 1
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dirt"
+    },
+    "b": {
+      "item": "minecraft:coarse_dirt"
+    }
+  },
+  "result": {
+    "item": "cemm:rammed_earth",
+    "count": 2
+  }
+}

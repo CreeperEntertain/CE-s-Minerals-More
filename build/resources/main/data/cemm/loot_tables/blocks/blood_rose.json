@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/blood_rose",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:blood_rose"
+        }
+      ]
+    }
+  ]
+}

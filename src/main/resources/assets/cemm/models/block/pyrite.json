@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/pyrite",
+    "particle": "cemm:block/pyrite"
+  },
+  "render_type": "solid"
+}

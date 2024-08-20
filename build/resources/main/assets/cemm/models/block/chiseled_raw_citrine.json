@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_raw_citrine_top",
+    "up": "cemm:block/chiseled_raw_citrine_top",
+    "north": "cemm:block/chiseled_raw_citrine_side",
+    "east": "cemm:block/chiseled_raw_citrine_side",
+    "south": "cemm:block/chiseled_raw_citrine_side",
+    "west": "cemm:block/chiseled_raw_citrine_side",
+    "particle": "cemm:block/chiseled_raw_citrine_top"
+  },
+  "render_type": "solid"
+}

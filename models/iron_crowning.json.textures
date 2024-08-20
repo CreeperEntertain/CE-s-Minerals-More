@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "top": "iron_crowning_top",
+        "crowning": "iron_crowning"
+      },
+      "name": "default"
+    }
+  }
+}

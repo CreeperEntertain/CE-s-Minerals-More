@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/stony_soul_soil",
+    "particle": "cemm:block/stony_soul_soil"
+  },
+  "render_type": "solid"
+}

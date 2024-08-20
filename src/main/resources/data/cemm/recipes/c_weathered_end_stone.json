@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:end_stone"
+    },
+    "b": {
+      "item": "cemm:smooth_end_stone"
+    }
+  },
+  "result": {
+    "item": "cemm:weathered_end_stone",
+    "count": 4
+  }
+}

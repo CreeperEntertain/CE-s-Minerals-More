@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:chiseled_bronze"
+    },
+    "b": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "cemm:bronze_flower_pot",
+    "count": 1
+  }
+}

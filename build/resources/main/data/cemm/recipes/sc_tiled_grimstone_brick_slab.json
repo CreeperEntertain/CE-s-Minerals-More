@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:tiled_grimstone_bricks"
+  },
+  "result": "cemm:tiled_grimstone_brick_slab"
+}

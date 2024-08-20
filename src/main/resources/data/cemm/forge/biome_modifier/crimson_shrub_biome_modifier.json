@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "crimson_forest",
+  "features": "cemm:crimson_shrub",
+  "step": "vegetal_decoration"
+}

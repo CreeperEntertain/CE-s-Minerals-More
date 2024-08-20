@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dark_marble"
+    },
+    "b": {
+      "item": "cemm:bronze_tile"
+    }
+  },
+  "result": {
+    "item": "cemm:bronze_ornament",
+    "count": 9
+  }
+}

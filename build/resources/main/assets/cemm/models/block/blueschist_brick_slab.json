@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/blueschist_bricks",
+    "top": "cemm:block/blueschist_bricks",
+    "side": "cemm:block/blueschist_bricks"
+  },
+  "render_type": "solid"
+}

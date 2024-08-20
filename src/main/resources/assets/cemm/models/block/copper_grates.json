@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/copper_grates",
+  "textures": {
+    "all": "cemm:block/copper_scaffolding_top",
+    "particle": "cemm:block/copper_scaffolding_top",
+    "Scaffolding Top": "cemm:block/copper_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

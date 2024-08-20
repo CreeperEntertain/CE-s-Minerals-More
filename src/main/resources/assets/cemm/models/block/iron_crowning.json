@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/iron_crowning",
+  "textures": {
+    "all": "cemm:block/iron_crowning_top",
+    "particle": "cemm:block/iron_crowning_top",
+    "top": "cemm:block/iron_crowning_top",
+    "crowning": "cemm:block/iron_crowning"
+  },
+  "render_type": "cutout"
+}

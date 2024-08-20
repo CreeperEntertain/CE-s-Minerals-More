@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:rough_warpstone"
+  },
+  "result": "cemm:rough_warpstone_stairs"
+}

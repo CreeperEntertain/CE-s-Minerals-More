@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_brass_top_left",
+    "up": "cemm:block/chiseled_brass_bottom_left",
+    "north": "cemm:block/chiseled_brass_middle",
+    "east": "cemm:block/chiseled_brass_middle",
+    "south": "cemm:block/chiseled_brass_horizontal_left",
+    "west": "cemm:block/chiseled_brass_horizontal_right",
+    "particle": "cemm:block/chiseled_brass_top_left"
+  },
+  "render_type": "solid"
+}

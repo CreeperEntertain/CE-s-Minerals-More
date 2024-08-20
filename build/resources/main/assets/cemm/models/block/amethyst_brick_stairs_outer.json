@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/amethyst_bricks",
+    "top": "cemm:block/amethyst_bricks",
+    "side": "cemm:block/amethyst_bricks"
+  },
+  "render_type": "solid"
+}

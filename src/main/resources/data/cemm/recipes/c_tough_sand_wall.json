@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:tough_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_sand_wall",
+    "count": 6
+  }
+}

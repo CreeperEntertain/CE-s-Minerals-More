@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/shiverwood_planks",
+    "top": "cemm:block/shiverwood_planks",
+    "side": "cemm:block/shiverwood_planks"
+  },
+  "render_type": "solid"
+}

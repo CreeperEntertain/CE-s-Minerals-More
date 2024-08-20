@@ -1,0 +1,10 @@
+{
+  "type": "cemm:cucumber_generator_feature",
+  "config": {
+    "structure": "cemm:cucumber_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

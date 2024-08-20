@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/framed_chains",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/framed_chains"
+    },
+    "axis=z": {
+      "model": "cemm:block/framed_chains",
+      "x": 90
+    }
+  }
+}

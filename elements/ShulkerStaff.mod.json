@@ -1,0 +1,58 @@
+{
+  "_fv": 60,
+  "_type": "item",
+  "definition": {
+    "renderType": 0,
+    "texture": "shulker_staff",
+    "customModelName": "Normal",
+    "customProperties": {},
+    "states": [],
+    "name": "Shulker Staff",
+    "rarity": "UNCOMMON",
+    "creativeTab": {
+      "value": "CUSTOM:DungeonsCrossover"
+    },
+    "stackSize": 1,
+    "enchantability": 28,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 100,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": true,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "Can shoot shulker bullets"
+      ]
+    },
+    "glowCondition": {
+      "fixedValue": false
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "ShootShulkerBullet"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "projectile": {
+      "value": "Arrow"
+    },
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "none"
+  }
+}

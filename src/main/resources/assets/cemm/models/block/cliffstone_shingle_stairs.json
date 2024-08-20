@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cliffstone_shingles",
+    "top": "cemm:block/cliffstone_shingles",
+    "side": "cemm:block/cliffstone_shingles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/concrete_steps",
+  "textures": {
+    "all": "cemm:block/tiled_concrete",
+    "particle": "cemm:block/tiled_concrete",
+    "Tiled Concrete": "cemm:block/tiled_concrete"
+  },
+  "render_type": "solid"
+}

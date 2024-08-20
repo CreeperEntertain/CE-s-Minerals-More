@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:thin_polished_basalt_bricks"
+  },
+  "result": "cemm:thin_polished_basalt_brick_slab"
+}

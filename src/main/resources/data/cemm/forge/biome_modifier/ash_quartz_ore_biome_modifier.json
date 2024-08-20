@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_nether",
+  "features": "cemm:ash_quartz_ore",
+  "step": "underground_ores"
+}

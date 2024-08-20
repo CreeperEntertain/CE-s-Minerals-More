@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ash_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_plinth",
+    "count": 2
+  }
+}

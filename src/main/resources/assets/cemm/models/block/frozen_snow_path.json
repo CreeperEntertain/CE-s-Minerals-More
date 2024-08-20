@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/frozen_snow_path",
+  "textures": {
+    "all": "cemm:block/frozen_snow_path",
+    "particle": "cemm:block/frozen_snow_path",
+    "Icy Snow": "cemm:block/icy_snow",
+    "Dirt": "cemm:block/frozen_dirt",
+    "Snow Path": "cemm:block/frozen_snow_path"
+  },
+  "render_type": "solid"
+}

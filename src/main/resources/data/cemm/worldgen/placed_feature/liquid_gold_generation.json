@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:liquid_gold_generation",
+  "placement": [
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "above_bottom": 5
+        },
+        "max_inclusive": {
+          "below_top": 5
+        }
+      }
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 3,
+          "max_inclusive": 10
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

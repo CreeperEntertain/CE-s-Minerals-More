@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:galvanized_steel_ingot"
+    },
+    "b": {
+      "item": "cemm:coal_generator"
+    },
+    "c": {
+      "item": "cemm:aluminum_block"
+    },
+    "d": {
+      "item": "minecraft:hopper"
+    }
+  },
+  "result": {
+    "item": "cemm:oil_generator",
+    "count": 1
+  }
+}

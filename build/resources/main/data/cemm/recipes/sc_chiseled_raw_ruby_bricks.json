@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:raw_ruby"
+  },
+  "result": "cemm:chiseled_raw_ruby_bricks"
+}

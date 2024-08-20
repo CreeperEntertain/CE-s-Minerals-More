@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:cracked_bronze_tile_slab"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    },
+    {
+      "item": "cemm:cracked_bronze_tile_slab"
+    }
+  ],
+  "result": {
+    "item": "cemm:decorative_bronze_slab",
+    "count": 2
+  }
+}

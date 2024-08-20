@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:titanium_ingot"
+    },
+    "b": {
+      "item": "cemm:titanium_rod"
+    }
+  },
+  "result": {
+    "item": "cemm:titanium_sword",
+    "count": 1
+  }
+}

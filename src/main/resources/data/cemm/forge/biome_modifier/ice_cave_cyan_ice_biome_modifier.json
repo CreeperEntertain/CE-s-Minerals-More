@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ice_cave",
+  "features": "cemm:ice_cave_cyan_ice",
+  "step": "vegetal_decoration"
+}

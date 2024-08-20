@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "wild_grapes"
+      },
+      "name": "default"
+    }
+  }
+}

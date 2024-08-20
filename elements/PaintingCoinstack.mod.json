@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting_coinstack.png",
+    "width": 48,
+    "height": 48,
+    "title": "Coinstack",
+    "author": "Minecraft Dungeons"
+  }
+}

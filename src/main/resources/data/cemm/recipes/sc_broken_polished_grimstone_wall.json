@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:broken_polished_grimstone"
+  },
+  "result": "cemm:broken_polished_grimstone_wall"
+}

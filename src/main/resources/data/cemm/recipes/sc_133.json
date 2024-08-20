@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:lorenzenite"
+  },
+  "result": "cemm:lorenzenite_slab"
+}

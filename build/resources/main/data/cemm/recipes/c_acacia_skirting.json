@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:acacia_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:acacia_skirting",
+    "count": 2
+  }
+}

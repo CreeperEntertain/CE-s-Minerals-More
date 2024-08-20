@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/mossy_mixed_stone_bricks_up_down",
+    "top": "cemm:block/mossy_mixed_stone_bricks_up_down",
+    "side": "cemm:block/mossy_mixed_stone_bricks_up_down"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:claystone"
+  },
+  "result": "cemm:claystone_stairs"
+}

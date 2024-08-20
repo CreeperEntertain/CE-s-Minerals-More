@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cliffgrassed_dark_andesite",
+    "cemm:grassed_cliffdirt",
+    "cemm:grassed_cliffpeat",
+    "cemm:grassed_cliffstone",
+    "cemm:grassed_cliffcobbles",
+    "cemm:snowy_grassed_cliffcobbles",
+    "cemm:snowy_grassed_cliffdirt",
+    "cemm:snowy_grassed_cliffpeat",
+    "cemm:snowy_grassed_cliffstone",
+    "cemm:snowy_cliffgrassed_dark_andesite"
+  ]
+}

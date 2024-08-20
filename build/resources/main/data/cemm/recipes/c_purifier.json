@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bab",
+    "bcb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_ingot"
+    },
+    "b": {
+      "item": "cemm:tailored_stone"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "cemm:purifier",
+    "count": 1
+  }
+}

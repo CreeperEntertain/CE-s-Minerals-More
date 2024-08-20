@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:marble"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_marble",
+    "count": 4
+  }
+}

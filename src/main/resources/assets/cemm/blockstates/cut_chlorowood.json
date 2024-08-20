@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/cut_chlorowood",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/cut_chlorowood"
+    },
+    "axis=z": {
+      "model": "cemm:block/cut_chlorowood",
+      "x": 90
+    }
+  }
+}

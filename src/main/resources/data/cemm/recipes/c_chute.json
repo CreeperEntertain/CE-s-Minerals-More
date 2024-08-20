@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aaa",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:logs"
+    },
+    "b": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "cemm:chute",
+    "count": 1
+  }
+}

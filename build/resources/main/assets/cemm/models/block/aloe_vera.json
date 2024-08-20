@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/aloe_vera",
+  "textures": {
+    "all": "cemm:block/aloe_vera",
+    "particle": "cemm:block/aloe_vera",
+    "Aloe Vera": "cemm:block/aloe_vera"
+  },
+  "render_type": "cutout"
+}

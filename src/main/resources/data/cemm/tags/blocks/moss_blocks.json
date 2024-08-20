@@ -1,0 +1,19 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chlorograss_block_moss",
+    "cemm:firegrass_block_moss",
+    "minecraft:moss_block",
+    "minecraft:moss_carpet",
+    "cemm:vibrating_moss",
+    "cemm:bordeaux_moss",
+    "cemm:crimson_moss_block",
+    "cemm:warped_moss_block",
+    "cemm:end_moss_block",
+    "cemm:purpur_moss_block",
+    "cemm:old_moss",
+    "cemm:old_moss_carpet",
+    "cemm:crimson_moss_carpet",
+    "cemm:warped_moss_carpet"
+  ]
+}

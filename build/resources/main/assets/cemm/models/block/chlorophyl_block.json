@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chlorophyl_block",
+    "particle": "cemm:block/chlorophyl_block"
+  },
+  "render_type": "solid"
+}

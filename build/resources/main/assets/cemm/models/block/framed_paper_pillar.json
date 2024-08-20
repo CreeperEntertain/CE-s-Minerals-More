@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/framed_paper",
+    "up": "cemm:block/framed_paper",
+    "north": "cemm:block/framed_paper_pillar",
+    "east": "cemm:block/framed_paper_pillar",
+    "south": "cemm:block/framed_paper_pillar",
+    "west": "cemm:block/framed_paper_pillar",
+    "particle": "cemm:block/framed_paper"
+  },
+  "render_type": "solid"
+}

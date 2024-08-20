@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/tan_shale",
+    "top": "cemm:block/tan_shale",
+    "side": "cemm:block/tan_shale"
+  },
+  "render_type": "solid"
+}

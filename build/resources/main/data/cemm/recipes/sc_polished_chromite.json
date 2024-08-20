@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:chromite"
+  },
+  "result": "cemm:polished_chromite"
+}

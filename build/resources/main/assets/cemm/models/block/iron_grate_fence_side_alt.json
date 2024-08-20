@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_side_alt",
+  "textures": {
+    "edge": "cemm:block/iron_grate_fene_top",
+    "pane": "cemm:block/iron_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/tomato_11_bottom",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:placed_stick_bottom"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "mangrove_support_bottom",
+        "Support Side": "mangrove_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

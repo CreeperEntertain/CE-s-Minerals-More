@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/blue_sage",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:blue_sage",
+          "conditions": [
+            {
+              "block": "cemm:blue_sage",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

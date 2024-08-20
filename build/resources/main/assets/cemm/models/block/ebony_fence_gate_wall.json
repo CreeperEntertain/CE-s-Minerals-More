@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall",
+  "textures": {
+    "texture": "cemm:block/ebony_planks_new"
+  },
+  "render_type": "solid"
+}

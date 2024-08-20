@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/blackstone_rune_g",
+    "particle": "cemm:block/blackstone_rune_g"
+  },
+  "render_type": "solid"
+}

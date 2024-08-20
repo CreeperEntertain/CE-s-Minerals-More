@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      },
+      {
+        "value": "CUSTOM:DarkEndSprucePlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkEndSpruceStairs"
+    },
+    "name": "c_dark_end_spruce_stairs",
+    "namespace": "mod"
+  }
+}

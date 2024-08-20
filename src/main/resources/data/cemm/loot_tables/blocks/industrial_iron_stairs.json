@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/industrial_iron_stairs",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:industrial_iron_stairs"
+        }
+      ]
+    }
+  ]
+}

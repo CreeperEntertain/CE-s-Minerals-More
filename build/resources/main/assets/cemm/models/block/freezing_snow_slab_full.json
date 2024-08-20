@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/freezing_snow",
+    "top": "cemm:block/freezing_snow",
+    "side": "cemm:block/freezing_snow"
+  },
+  "render_type": "solid"
+}

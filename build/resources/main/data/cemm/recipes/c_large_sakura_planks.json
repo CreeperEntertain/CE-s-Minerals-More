@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:sakura_planks"
+    },
+    "b": {
+      "item": "cemm:cut_stripped_sakura"
+    }
+  },
+  "result": {
+    "item": "cemm:large_sakura_planks",
+    "count": 12
+  }
+}

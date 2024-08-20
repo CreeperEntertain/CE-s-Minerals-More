@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:overworld_soapstone"
+  },
+  "result": "cemm:soapstone_wall"
+}

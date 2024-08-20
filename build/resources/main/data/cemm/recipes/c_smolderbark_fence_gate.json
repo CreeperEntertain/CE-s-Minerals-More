@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:smolderbark_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:smolderbark_fence_gate",
+    "count": 1
+  }
+}

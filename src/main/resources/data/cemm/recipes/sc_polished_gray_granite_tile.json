@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:gray_granite_tile"
+  },
+  "result": "cemm:polished_gray_granite_tile"
+}

@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:redstone_crystal_feature",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 0,
+          "max_inclusive": 3
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -96
+        },
+        "max_inclusive": {
+          "absolute": -32
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

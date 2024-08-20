@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/decorative_brass",
+    "particle": "cemm:block/decorative_brass"
+  },
+  "render_type": "solid"
+}

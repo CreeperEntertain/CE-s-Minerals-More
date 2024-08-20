@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:gold_chains",
+    "count": 1
+  }
+}

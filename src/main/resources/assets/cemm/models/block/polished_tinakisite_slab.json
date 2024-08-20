@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_tinakisite",
+    "top": "cemm:block/polished_tinakisite",
+    "side": "cemm:block/polished_tinakisite"
+  },
+  "render_type": "solid"
+}

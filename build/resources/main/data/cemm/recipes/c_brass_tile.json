@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:copper_tile"
+    },
+    {
+      "item": "cemm:zinc_block"
+    },
+    {
+      "item": "cemm:copper_tile"
+    }
+  ],
+  "result": {
+    "item": "cemm:brass_tile",
+    "count": 3
+  }
+}

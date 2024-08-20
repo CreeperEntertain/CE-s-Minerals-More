@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snow_block",
+    "minecraft:powder_snow",
+    "cemm:black_ice",
+    "cemm:packed_black_ice",
+    "cemm:tough_black_ice",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:blue_ice",
+    "cemm:icy_snow",
+    "cemm:freezing_snow",
+    "cemm:snowed_packed_ice",
+    "cemm:snowed_blue_ice",
+    "cemm:snowed_packed_black_ice",
+    "cemm:snowed_tough_black_ice",
+    "cemm:ice_bricks",
+    "cemm:black_ice_bricks",
+    "cemm:cyan_ice",
+    "cemm:clear_cyan_ice",
+    "cemm:transparent_cyan_ice",
+    "cemm:frozen_cyan_ice"
+  ]
+}

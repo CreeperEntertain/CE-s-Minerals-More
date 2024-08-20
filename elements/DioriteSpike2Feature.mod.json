@@ -1,0 +1,112 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionBiomes": [
+      {
+        "value": "taiga_hills"
+      },
+      {
+        "value": "taiga"
+      },
+      {
+        "value": "mutated_swampland"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_plains"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "taiga_cold_hills"
+      },
+      {
+        "value": "taiga_cold"
+      },
+      {
+        "value": "snowy_tundra"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mutated_redwood_taiga"
+      },
+      {
+        "value": "redwood_taiga"
+      },
+      {
+        "value": "mutated_birch_forest"
+      },
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "mutated_jungle"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "mangrove_swamp"
+      },
+      {
+        "value": "lush_caves"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "mutated_ice_flats"
+      },
+      {
+        "value": "grove"
+      },
+      {
+        "value": "forest_hills"
+      },
+      {
+        "value": "forest"
+      },
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "dripstone_caves"
+      },
+      {
+        "value": "mutated_roofed_forest"
+      },
+      {
+        "value": "roofed_forest"
+      },
+      {
+        "value": "birch_forest_hills"
+      },
+      {
+        "value": "birch_forest"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "CUSTOM:RedWastes"
+      }
+    ],
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_custom_structure\"><field name=\"structure\">diorite_spike_2</field><field name=\"x\">0</field><field name=\"y\">-2</field><field name=\"z\">0</field><field name=\"random_rotation\">TRUE</field><field name=\"random_mirror\">TRUE</field><value name=\"ignored_blocks\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"1\"></mutation><field name=\"block0\">Blocks.STRUCTURE_BLOCK</field></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">1000</field><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">1</field><field name=\"max\">3</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

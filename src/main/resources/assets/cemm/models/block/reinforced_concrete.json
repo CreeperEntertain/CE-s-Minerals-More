@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/reinforced_concrete_top",
+    "up": "cemm:block/reinforced_concrete_top",
+    "north": "cemm:block/reinforced_concrete_side",
+    "east": "cemm:block/reinforced_concrete_side",
+    "south": "cemm:block/reinforced_concrete_side",
+    "west": "cemm:block/reinforced_concrete_side",
+    "particle": "cemm:block/reinforced_concrete_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/fluorescence",
+    "particle": "cemm:block/fluorescence"
+  },
+  "render_type": "solid"
+}

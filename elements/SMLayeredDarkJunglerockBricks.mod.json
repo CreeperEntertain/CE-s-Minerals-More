@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:LayeredJunglerockBricks"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:LayeredDarkJunglerockBricks"
+    },
+    "name": "sm_layered_dark_junglerock_bricks",
+    "namespace": "mod"
+  }
+}

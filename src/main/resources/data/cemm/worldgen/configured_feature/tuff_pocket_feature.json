@@ -1,0 +1,17 @@
+{
+  "type": "cemm:tuff_pocket_feature",
+  "config": {
+    "fluid": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:tuff"
+      }
+    },
+    "barrier": {
+      "type": "minecraft:simple_state_provider",
+      "state": {
+        "Name": "minecraft:air"
+      }
+    }
+  }
+}

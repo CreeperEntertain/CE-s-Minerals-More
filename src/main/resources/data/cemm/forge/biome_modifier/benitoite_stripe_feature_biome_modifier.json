@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:benitoite_stripe_feature",
+  "step": "underground_structures"
+}

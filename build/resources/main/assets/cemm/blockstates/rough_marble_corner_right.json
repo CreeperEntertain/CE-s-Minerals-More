@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/rough_marble_corner_right"
+    },
+    "facing=east": {
+      "model": "cemm:block/rough_marble_corner_right",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/rough_marble_corner_right",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/rough_marble_corner_right",
+      "y": 270
+    }
+  }
+}

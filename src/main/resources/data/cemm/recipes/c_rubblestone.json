@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:cobblestone"
+    },
+    {
+      "tag": "minecraft:gravel"
+    },
+    {
+      "tag": "minecraft:gravel"
+    },
+    {
+      "item": "minecraft:cobblestone"
+    }
+  ],
+  "result": {
+    "item": "cemm:rubblestone",
+    "count": 4
+  }
+}

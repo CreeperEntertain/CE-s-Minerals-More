@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warped_forest",
+    "crimson_forest",
+    "cemm:spider_cavern"
+  ],
+  "features": "cemm:snapper_flower",
+  "step": "vegetal_decoration"
+}

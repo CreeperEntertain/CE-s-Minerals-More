@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/basalt_top",
+    "up": "cemm:block/stone",
+    "north": "cemm:block/basalt_side_upper",
+    "east": "cemm:block/basalt_side_upper",
+    "south": "cemm:block/basalt_side_upper",
+    "west": "cemm:block/basalt_side_upper",
+    "particle": "cemm:block/basalt_top"
+  },
+  "render_type": "solid"
+}

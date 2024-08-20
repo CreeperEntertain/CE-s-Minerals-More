@@ -1,0 +1,129 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "End Forest",
+    "groundBlock": {
+      "value": "CUSTOM:MossedEndStone"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.END_STONE"
+    },
+    "underwaterBlock": {
+      "value": "Blocks.END_STONE"
+    },
+    "airColor": {
+      "value": -15462380,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -14513,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -14513,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -6258528,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -6258528,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": ""
+    },
+    "additionsSound": {
+      "value": ""
+    },
+    "music": {
+      "value": "music.end"
+    },
+    "moodSound": {
+      "value": ""
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": false,
+    "particleToSpawn": {
+      "value": "CUSTOM:ChlorophylSporeParticle"
+    },
+    "particlesProbability": 0.5,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "spawnBiome": false,
+    "spawnInCaves": false,
+    "spawnBiomeNether": false,
+    "genTemperature": {
+      "min": -1.0,
+      "max": -0.5
+    },
+    "genHumidity": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "genContinentalness": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "genErosion": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "genWeirdness": {
+      "min": -1.0,
+      "max": 1.0
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": true,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityEnderman"
+        },
+        "minGroup": 1,
+        "maxGroup": 4,
+        "weight": 1,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

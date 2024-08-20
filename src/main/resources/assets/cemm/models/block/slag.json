@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/slag",
+    "particle": "cemm:block/slag"
+  },
+  "render_type": "solid"
+}

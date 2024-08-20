@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:large_oak_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:oak_panelling",
+    "count": 4
+  }
+}

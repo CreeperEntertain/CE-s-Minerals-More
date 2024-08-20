@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:sakura_log",
+    "cemm:stripped_sakura_log",
+    "cemm:sakura_wood",
+    "cemm:stripped_sakura_wood",
+    "cemm:cut_sakura",
+    "cemm:cut_stripped_sakura"
+  ]
+}

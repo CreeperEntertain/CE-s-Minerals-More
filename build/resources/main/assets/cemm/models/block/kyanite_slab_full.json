@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/kyanite_block",
+    "top": "cemm:block/kyanite_block",
+    "side": "cemm:block/kyanite_block"
+  },
+  "render_type": "solid"
+}

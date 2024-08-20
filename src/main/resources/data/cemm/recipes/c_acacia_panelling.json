@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:large_acacia_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:acacia_panelling",
+    "count": 4
+  }
+}

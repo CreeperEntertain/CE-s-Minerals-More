@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/acacia_skirting_up_down",
+    "up": "cemm:block/acacia_skirting_up_down",
+    "north": "cemm:block/acacia_skirting",
+    "east": "cemm:block/acacia_skirting",
+    "south": "cemm:block/acacia_skirting",
+    "west": "cemm:block/acacia_skirting",
+    "particle": "cemm:block/acacia_skirting_up_down"
+  },
+  "render_type": "solid"
+}

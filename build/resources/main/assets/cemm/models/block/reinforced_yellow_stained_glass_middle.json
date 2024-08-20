@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/empty",
+    "up": "cemm:block/empty",
+    "north": "cemm:block/reinforced_yellow_stained_glass_middle",
+    "east": "cemm:block/reinforced_yellow_stained_glass_middle",
+    "south": "cemm:block/reinforced_yellow_stained_glass_middle",
+    "west": "cemm:block/reinforced_yellow_stained_glass_middle",
+    "particle": "cemm:block/empty"
+  },
+  "render_type": "translucent"
+}

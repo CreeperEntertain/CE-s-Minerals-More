@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ebony_log"
+    }
+  },
+  "result": {
+    "item": "cemm:ebony_wood",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ravenstone",
+    "up": "cemm:block/ravenstone",
+    "north": "cemm:block/lined_ravenstone",
+    "east": "cemm:block/lined_ravenstone",
+    "south": "cemm:block/lined_ravenstone",
+    "west": "cemm:block/lined_ravenstone",
+    "particle": "cemm:block/ravenstone"
+  },
+  "render_type": "solid"
+}

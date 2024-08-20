@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:ash_wanderer",
+    "cemm:red_skeleton",
+    "cemm:saltleech",
+    "cemm:shadow_walker",
+    "cemm:shadowleech",
+    "wither",
+    "wither_skull",
+    "ender_dragon",
+    "dragon_fireball"
+  ]
+}

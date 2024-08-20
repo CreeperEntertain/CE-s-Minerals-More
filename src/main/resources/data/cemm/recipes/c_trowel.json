@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab ",
+    " bb"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:trowel",
+    "count": 1
+  }
+}

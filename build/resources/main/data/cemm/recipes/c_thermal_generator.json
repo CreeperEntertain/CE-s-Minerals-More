@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "ada"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:aluminum_scaffolding"
+    },
+    "b": {
+      "item": "cemm:lead_ingot"
+    },
+    "c": {
+      "item": "cemm:tellurium_ingot"
+    },
+    "d": {
+      "item": "cemm:bismuth_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:thermal_generator",
+    "count": 1
+  }
+}

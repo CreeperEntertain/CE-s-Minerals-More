@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:lunarbark_sapling"
+    },
+    {
+      "item": "cemm:primedust"
+    }
+  ],
+  "result": {
+    "item": "cemm:insta_lunarbark_sapling",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/granite",
+    "up": "cemm:block/leafy_granite",
+    "north": "cemm:block/leafy_granite_side",
+    "east": "cemm:block/leafy_granite_side",
+    "south": "cemm:block/leafy_granite_side",
+    "west": "cemm:block/leafy_granite_side",
+    "particle": "cemm:block/granite"
+  },
+  "render_type": "solid"
+}

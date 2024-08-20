@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/cracked_rough_marble",
+    "top": "cemm:block/cracked_rough_marble",
+    "side": "cemm:block/cracked_rough_marble"
+  },
+  "render_type": "solid"
+}

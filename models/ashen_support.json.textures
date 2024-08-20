@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "ashen_support_bottom",
+        "Support Side": "ashen_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

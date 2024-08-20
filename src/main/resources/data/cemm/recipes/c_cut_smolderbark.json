@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smolderbark_log"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_smolderbark",
+    "count": 3
+  }
+}

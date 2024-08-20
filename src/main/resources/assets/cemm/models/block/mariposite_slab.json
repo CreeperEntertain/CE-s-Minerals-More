@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/mariposite",
+    "top": "cemm:block/mariposite",
+    "side": "cemm:block/mariposite"
+  },
+  "render_type": "solid"
+}

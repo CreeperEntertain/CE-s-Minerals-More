@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/blackstone_pillar_top",
+    "up": "cemm:block/blackstone_pillar_top_carved",
+    "north": "cemm:block/blackstone_pillar_side_carved",
+    "east": "cemm:block/blackstone_pillar_side_carved",
+    "south": "cemm:block/blackstone_pillar_side_carved",
+    "west": "cemm:block/blackstone_pillar_side_carved",
+    "particle": "cemm:block/blackstone_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:paper_block"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_paper",
+    "count": 2
+  }
+}

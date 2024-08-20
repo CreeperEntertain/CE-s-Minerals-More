@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/dirty_stone_brick_tiles",
+    "top": "cemm:block/dirty_stone_brick_tiles",
+    "side": "cemm:block/dirty_stone_brick_tiles"
+  },
+  "render_type": "solid"
+}

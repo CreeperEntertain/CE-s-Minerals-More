@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/processed_aluminum_stairs"
+    },
+    "facing=east": {
+      "model": "cemm:block/processed_aluminum_stairs",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/processed_aluminum_stairs",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/processed_aluminum_stairs",
+      "y": 270
+    }
+  }
+}

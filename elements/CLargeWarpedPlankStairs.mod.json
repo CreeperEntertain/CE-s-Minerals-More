@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeWarpedPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LargeWarpedPlankStairs"
+    },
+    "name": "c_large_warped_plank_stairs",
+    "namespace": "mod"
+  }
+}

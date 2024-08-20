@@ -1,0 +1,27 @@
+{
+  "feature": "cemm:shungite_mines_slate_feature",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 45
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 150
+        },
+        "max_inclusive": {
+          "absolute": 350
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

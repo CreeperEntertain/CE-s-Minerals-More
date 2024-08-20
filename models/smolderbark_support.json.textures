@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "smolderbark_support_bottom",
+        "Support Side": "smolderbark_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

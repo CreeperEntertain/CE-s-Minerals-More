@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "cemm:aloe_vera",
+  "step": "vegetal_decoration"
+}

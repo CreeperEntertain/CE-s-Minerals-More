@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/icicles",
+  "textures": {
+    "all": "cemm:block/icicles",
+    "particle": "cemm:block/icicles",
+    "0": "cemm:block/icicles"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:strawberry"
+    }
+  },
+  "result": {
+    "item": "cemm:strawberry_00",
+    "count": 1
+  }
+}

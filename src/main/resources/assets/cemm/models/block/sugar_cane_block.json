@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/sugar_cane_block_top",
+    "up": "cemm:block/sugar_cane_block_top",
+    "north": "cemm:block/suger_cane_block_side",
+    "east": "cemm:block/suger_cane_block_side",
+    "south": "cemm:block/suger_cane_block_side",
+    "west": "cemm:block/suger_cane_block_side",
+    "particle": "cemm:block/sugar_cane_block_top"
+  },
+  "render_type": "solid"
+}

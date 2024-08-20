@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "cemm:hornfels_overhangs"
+  ],
+  "features": "cemm:malachite",
+  "step": "underground_ores"
+}

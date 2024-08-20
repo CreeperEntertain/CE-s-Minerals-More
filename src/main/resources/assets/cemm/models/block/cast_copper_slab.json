@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/cast_copper",
+    "top": "cemm:block/cast_copper",
+    "side": "cemm:block/cast_copper"
+  },
+  "render_type": "solid"
+}

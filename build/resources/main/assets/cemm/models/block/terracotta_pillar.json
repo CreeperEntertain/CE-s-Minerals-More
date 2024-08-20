@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/terracotta_pillar_up_down",
+    "up": "cemm:block/terracotta_pillar_up_down",
+    "north": "cemm:block/terracotta_pillar",
+    "east": "cemm:block/terracotta_pillar",
+    "south": "cemm:block/terracotta_pillar",
+    "west": "cemm:block/terracotta_pillar",
+    "particle": "cemm:block/terracotta_pillar_up_down"
+  },
+  "render_type": "solid"
+}

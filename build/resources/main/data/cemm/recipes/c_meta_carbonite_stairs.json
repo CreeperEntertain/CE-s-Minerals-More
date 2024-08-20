@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:meta_carbonite"
+    }
+  },
+  "result": {
+    "item": "cemm:meta_carbonite_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "cemm:structure_feature",
+  "config": {
+    "structure": "cemm:tuff_boulder_3",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -3,
+      0
+    ]
+  }
+}

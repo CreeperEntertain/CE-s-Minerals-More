@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/smooth_end_wax",
+    "top": "cemm:block/smooth_end_wax",
+    "side": "cemm:block/smooth_end_wax"
+  },
+  "render_type": "solid"
+}

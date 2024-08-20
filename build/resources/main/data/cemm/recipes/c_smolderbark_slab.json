@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smolderbark_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:smolderbark_slab",
+    "count": 6
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chiseled_brass",
+    "cemm:chiseled_brass_bottom",
+    "cemm:chiseled_brass_bottom_left",
+    "cemm:chiseled_brass_bottom_right",
+    "cemm:chiseled_brass_middle",
+    "cemm:chiseled_brass_left",
+    "cemm:chiseled_brass_right",
+    "cemm:chiseled_brass_top",
+    "cemm:chiseled_brass_top_left",
+    "cemm:chiseled_brass_top_right",
+    "cemm:chiseled_brass_vertical_top",
+    "cemm:chiseled_brass_vertical_bottom",
+    "cemm:chiseled_brass_horizontal_left",
+    "cemm:chiseled_brass_horizontal_right",
+    "cemm:chiseled_brass_horizontal",
+    "cemm:chiseled_brass_vertial"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "comparer_side_lit",
+        "back": "comparer_back_lit",
+        "front": "comparer_front_lit"
+      },
+      "name": "default"
+    }
+  }
+}

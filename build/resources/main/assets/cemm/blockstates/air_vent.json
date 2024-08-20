@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/air_vent"
+    },
+    "facing=east": {
+      "model": "cemm:block/air_vent",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/air_vent",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/air_vent",
+      "y": 270
+    }
+  }
+}

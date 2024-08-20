@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/cobbled_dark_terracotta_bricks",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:cobbled_dark_terracotta_bricks"
+        }
+      ]
+    }
+  ]
+}

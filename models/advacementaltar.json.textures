@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "advancement_altar_side",
+        "Glint": "blue_glint",
+        "Top": "advancement_altar_top",
+        "Fire": "blue_flame",
+        "Bottom": "meta_carbonite"
+      },
+      "name": "default"
+    }
+  }
+}

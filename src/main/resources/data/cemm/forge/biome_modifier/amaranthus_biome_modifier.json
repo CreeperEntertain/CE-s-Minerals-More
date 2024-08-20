@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hellscape",
+  "features": "cemm:amaranthus",
+  "step": "vegetal_decoration"
+}

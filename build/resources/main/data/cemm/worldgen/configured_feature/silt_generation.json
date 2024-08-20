@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 33,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:grass_block"
+                },
+                "state": {
+                  "Name": "cemm:silt"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:dirt"
+                },
+                "state": {
+                  "Name": "cemm:silt"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 33,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:grass_block"
+                },
+                "state": {
+                  "Name": "cemm:coarse_silt"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:dirt"
+                },
+                "state": {
+                  "Name": "cemm:coarse_silt"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

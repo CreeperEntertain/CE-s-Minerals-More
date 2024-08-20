@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/daylily",
+    "particle": "cemm:block/daylily"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:gray_granite_bricks"
+    },
+    "b": {
+      "tag": "forge:mossy_ingredients"
+    }
+  },
+  "result": {
+    "item": "cemm:mossy_gray_granite_bricks",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/smolderbark_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/smolderbark_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/smolderbark_slab_full"
+    }
+  }
+}

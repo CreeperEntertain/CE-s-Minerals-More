@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:chlorophyl",
+  "features": "cemm:olivine",
+  "step": "underground_ores"
+}

@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/quartzite",
+    "top": "cemm:block/shadowfern_overlay",
+    "side": "cemm:block/quartzite",
+    "overlay": "cemm:block/shadowfern_overlay_side",
+    "particle": "cemm:block/quartzite"
+  },
+  "render_type": "cutout_mipped"
+}

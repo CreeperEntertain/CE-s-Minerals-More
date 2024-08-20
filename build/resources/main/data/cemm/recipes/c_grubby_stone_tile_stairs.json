@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dirty_stone_tile_stairs"
+    }
+  },
+  "result": {
+    "item": "cemm:grubby_stone_tile_stairs",
+    "count": 1
+  }
+}

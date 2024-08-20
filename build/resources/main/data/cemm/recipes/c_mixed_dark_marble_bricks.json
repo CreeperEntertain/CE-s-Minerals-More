@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "cemm:dark_marble_bricks"
+    },
+    {
+      "item": "minecraft:dripstone_block"
+    },
+    {
+      "tag": "cemm:dark_marble_bricks"
+    }
+  ],
+  "result": {
+    "item": "cemm:mixed_dark_marble_bricks",
+    "count": 3
+  }
+}

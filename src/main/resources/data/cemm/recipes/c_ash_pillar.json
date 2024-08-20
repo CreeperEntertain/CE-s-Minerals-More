@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ash_brick_slab"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_pillar",
+    "count": 1
+  }
+}

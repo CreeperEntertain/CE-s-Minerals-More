@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/end_spruce_sapling",
+    "particle": "cemm:block/end_spruce_sapling"
+  },
+  "render_type": "cutout"
+}

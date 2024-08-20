@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/black_tough_ice",
+    "particle": "cemm:block/black_tough_ice"
+  },
+  "render_type": "solid"
+}

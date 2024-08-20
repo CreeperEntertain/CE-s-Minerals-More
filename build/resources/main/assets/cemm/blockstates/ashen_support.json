@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/ashen_support"
+    },
+    "facing=east": {
+      "model": "cemm:block/ashen_support",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/ashen_support",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/ashen_support",
+      "y": 270
+    }
+  }
+}

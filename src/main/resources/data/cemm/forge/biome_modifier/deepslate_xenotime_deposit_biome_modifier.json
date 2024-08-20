@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shungite_mines",
+  "features": "cemm:deepslate_xenotime_deposit",
+  "step": "underground_ores"
+}

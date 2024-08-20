@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cliffpeat",
+    "particle": "cemm:block/cliffpeat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:scorched_dirt",
+    "minecraft:dirt",
+    "minecraft:rooted_dirt",
+    "cemm:sandy_soil",
+    "cemm:silt_soil",
+    "cemm:dirty_mud",
+    "cemm:cliffdirt",
+    "cemm:mossy_cliffdirt",
+    "cemm:coarse_cliffdirt",
+    "cemm:cliffpeat",
+    "cemm:old_cliffpeat",
+    "cemm:coarse_cliffpeat",
+    "cemm:silt",
+    "cemm:coarse_silt",
+    "cemm:soot",
+    "cemm:peat",
+    "cemm:mulch",
+    "cemm:cinderloam",
+    "cemm:volcanic_soil"
+  ]
+}

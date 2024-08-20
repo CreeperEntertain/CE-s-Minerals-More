@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:calcite_bricks"
+  },
+  "result": "cemm:calcite_brick_stairs"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/warped_panelling",
+    "particle": "cemm:block/warped_panelling"
+  },
+  "render_type": "solid"
+}

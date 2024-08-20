@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "sunflower_plains",
+  "features": "cemm:daffodil",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:SolidifiedOil"
+      },
+      {
+        "value": "TAG:minecraft:sand"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:minecraft:gravel"
+      },
+      {
+        "value": "CUSTOM:SolidifiedOil"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Asphalt"
+    },
+    "name": "c_asphalt_3",
+    "namespace": "mod"
+  }
+}

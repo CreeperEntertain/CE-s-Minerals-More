@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:megachloron_surface",
+  "features": "cemm:meteor_2_feature",
+  "step": "surface_structures"
+}

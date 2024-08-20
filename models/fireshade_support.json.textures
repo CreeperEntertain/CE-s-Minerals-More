@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "fireshade_support_bottom",
+        "Support Side": "fireshade_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

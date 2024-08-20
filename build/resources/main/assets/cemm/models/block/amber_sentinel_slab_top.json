@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/amber_sentinel_planks",
+    "top": "cemm:block/amber_sentinel_planks",
+    "side": "cemm:block/amber_sentinel_planks"
+  },
+  "render_type": "solid"
+}

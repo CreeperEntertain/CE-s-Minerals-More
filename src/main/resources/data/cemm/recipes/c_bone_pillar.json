@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:decayed_bone_block"
+    }
+  },
+  "result": {
+    "item": "cemm:bone_pillar",
+    "count": 2
+  }
+}

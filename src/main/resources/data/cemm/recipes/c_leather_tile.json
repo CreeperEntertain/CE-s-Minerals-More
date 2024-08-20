@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "item": "cemm:leather_tile",
+    "count": 1
+  }
+}

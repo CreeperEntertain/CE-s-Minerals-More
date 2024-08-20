@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/polished_limestone",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/polished_limestone"
+    },
+    "axis=z": {
+      "model": "cemm:block/polished_limestone",
+      "x": 90
+    }
+  }
+}

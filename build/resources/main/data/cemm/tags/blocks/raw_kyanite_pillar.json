@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:raw_kyanite_pillar",
+    "cemm:raw_kyanite_pillar_top",
+    "cemm:raw_kyanite_pillar_middle",
+    "cemm:raw_kyanite_pillar_bottom"
+  ]
+}

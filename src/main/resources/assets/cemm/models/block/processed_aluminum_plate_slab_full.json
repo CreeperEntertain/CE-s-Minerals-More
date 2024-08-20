@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/processed_aluminum_plates",
+    "top": "cemm:block/processed_aluminum_plates",
+    "side": "cemm:block/processed_aluminum_plates"
+  },
+  "render_type": "solid"
+}

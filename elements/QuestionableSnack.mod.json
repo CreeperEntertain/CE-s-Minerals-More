@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Questionable Snack",
+    "achievementDescription": "Make and consume a nightstew.",
+    "achievementIcon": {
+      "value": "CUSTOM:NylineFungus"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 100,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:Lullaby"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"custom_trigger\" x=\"41\" y=\"45\"/></next></block></xml>"
+  }
+}
