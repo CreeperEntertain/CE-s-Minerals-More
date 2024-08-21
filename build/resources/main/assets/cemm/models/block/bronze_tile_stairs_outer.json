@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/bronze_tile",
+    "top": "cemm:block/bronze_tile",
+    "side": "cemm:block/bronze_tile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/fireshade_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/fireshade_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/fireshade_slab_full"
+    }
+  }
+}

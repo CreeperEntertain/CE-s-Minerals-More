@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/wild_cabbage",
+    "particle": "cemm:block/wild_cabbage"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smooth_red_nether_brick"
+  },
+  "result": "cemm:carved_red_nether_brick"
+}

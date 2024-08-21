@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/diorite_pillar_up_down",
+    "up": "cemm:block/diorite_pillar_up_down",
+    "north": "cemm:block/diorite_pillar",
+    "east": "cemm:block/diorite_pillar",
+    "south": "cemm:block/diorite_pillar",
+    "west": "cemm:block/diorite_pillar",
+    "particle": "cemm:block/diorite_pillar_up_down"
+  },
+  "render_type": "solid"
+}

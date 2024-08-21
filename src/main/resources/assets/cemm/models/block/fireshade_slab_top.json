@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/fireshade_planks",
+    "top": "cemm:block/fireshade_planks",
+    "side": "cemm:block/fireshade_planks"
+  },
+  "render_type": "solid"
+}

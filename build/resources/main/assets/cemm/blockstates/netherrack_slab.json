@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/netherrack_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/netherrack_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/netherrack_slab_full"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:flesh",
+    "cemm:porous_flesh",
+    "cemm:scarred_flesh",
+    "cemm:infested_flesh",
+    "cemm:peering_flesh",
+    "cemm:hungering_flesh"
+  ]
+}

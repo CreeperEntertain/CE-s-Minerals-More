@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:acacia_planks"
+    },
+    "b": {
+      "item": "cemm:cut_stripped_acacia"
+    }
+  },
+  "result": {
+    "item": "cemm:large_acacia_planks",
+    "count": 12
+  }
+}

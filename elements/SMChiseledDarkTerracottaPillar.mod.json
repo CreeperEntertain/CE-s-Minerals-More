@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 20,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:ChiseledTerracottaPillar"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:ChiseledDarkTerracottaPillar"
+    },
+    "name": "sm_chiseled_dark_terracotta_pillar",
+    "namespace": "mod"
+  }
+}

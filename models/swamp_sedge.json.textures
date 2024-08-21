@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Swamp Sedge": "swamp_sedge"
+      },
+      "name": "default"
+    }
+  }
+}

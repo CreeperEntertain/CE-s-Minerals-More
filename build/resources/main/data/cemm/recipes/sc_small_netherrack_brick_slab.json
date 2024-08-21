@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:small_netherrack_bricks"
+  },
+  "result": "cemm:small_netherrack_brick_slab"
+}

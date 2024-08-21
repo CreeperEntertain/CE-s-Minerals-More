@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/smokey_quartz_block_bottom",
+    "particle": "cemm:block/smokey_quartz_block_bottom"
+  },
+  "render_type": "solid"
+}

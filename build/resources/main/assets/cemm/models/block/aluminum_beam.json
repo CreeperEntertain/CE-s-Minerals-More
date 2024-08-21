@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/aluminumbeam",
+  "textures": {
+    "all": "cemm:block/aluminum_beam",
+    "particle": "cemm:block/aluminum_beam",
+    "Main": "cemm:block/aluminum_beam"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/conveyor_improved_top"
+    },
+    "facing=east": {
+      "model": "cemm:block/conveyor_improved_top",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/conveyor_improved_top",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/conveyor_improved_top",
+      "y": 270
+    }
+  }
+}

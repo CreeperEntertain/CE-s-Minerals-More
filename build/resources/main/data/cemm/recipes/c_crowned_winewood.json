@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_ingot"
+    },
+    "b": {
+      "item": "cemm:winewood_log"
+    }
+  },
+  "result": {
+    "item": "cemm:crowned_winewood",
+    "count": 1
+  }
+}

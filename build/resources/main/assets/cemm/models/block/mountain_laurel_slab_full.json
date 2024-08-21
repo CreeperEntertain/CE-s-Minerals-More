@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mountain_laurel_planks",
+    "top": "cemm:block/mountain_laurel_planks",
+    "side": "cemm:block/mountain_laurel_planks"
+  },
+  "render_type": "solid"
+}

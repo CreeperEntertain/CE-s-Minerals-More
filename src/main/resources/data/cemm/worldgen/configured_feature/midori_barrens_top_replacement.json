@@ -1,0 +1,124 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 16,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:rough_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:end_stone_lined_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:midori_lined_end_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 32,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:rough_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:end_stone_lined_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:midori_lined_end_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 48,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:rough_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:end_stone_lined_midori"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:midori_lined_end_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

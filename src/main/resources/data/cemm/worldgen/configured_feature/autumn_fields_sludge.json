@@ -1,0 +1,127 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_grass"
+                },
+                "state": {
+                  "Name": "cemm:mossed_sludge"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_dirt"
+                },
+                "state": {
+                  "Name": "cemm:sludge"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_grass"
+                },
+                "state": {
+                  "Name": "cemm:old_moss"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_dirt"
+                },
+                "state": {
+                  "Name": "cemm:sludge"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_grass"
+                },
+                "state": {
+                  "Name": "cemm:mossed_sludge"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_dirt"
+                },
+                "state": {
+                  "Name": "cemm:old_cliffpeat"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_grass"
+                },
+                "state": {
+                  "Name": "cemm:old_moss"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "cemm:autumn_fields_dirt"
+                },
+                "state": {
+                  "Name": "cemm:old_cliffpeat"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

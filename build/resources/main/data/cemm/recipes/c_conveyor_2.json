@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "b b",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:coated_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:conveyor_bottom",
+    "count": 1
+  }
+}

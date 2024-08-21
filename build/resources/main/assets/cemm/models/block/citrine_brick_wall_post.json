@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/citrine_bricks",
+    "particle": "cemm:block/citrine_bricks"
+  },
+  "render_type": "solid"
+}

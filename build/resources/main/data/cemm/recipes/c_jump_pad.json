@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "cec"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "b": {
+      "item": "minecraft:slime_block"
+    },
+    "c": {
+      "item": "cemm:plastic_sheets"
+    },
+    "d": {
+      "item": "minecraft:sticky_piston"
+    },
+    "e": {
+      "item": "cemm:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:jump_pad",
+    "count": 1
+  }
+}

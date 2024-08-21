@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/ash_bricks",
+    "top": "cemm:block/ash_bricks",
+    "side": "cemm:block/ash_bricks"
+  },
+  "render_type": "solid"
+}

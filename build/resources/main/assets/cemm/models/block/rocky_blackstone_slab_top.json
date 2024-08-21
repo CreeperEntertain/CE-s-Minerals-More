@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/rocky_blackstone",
+    "top": "cemm:block/rocky_blackstone",
+    "side": "cemm:block/rocky_blackstone"
+  },
+  "render_type": "solid"
+}

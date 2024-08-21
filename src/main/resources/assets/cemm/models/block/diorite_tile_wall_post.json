@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/diorite_tiles",
+    "particle": "cemm:block/diorite_tiles"
+  },
+  "render_type": "solid"
+}

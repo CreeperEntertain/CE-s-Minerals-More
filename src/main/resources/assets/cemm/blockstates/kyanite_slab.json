@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/kyanite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/kyanite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/kyanite_slab_full"
+    }
+  }
+}

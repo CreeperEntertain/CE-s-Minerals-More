@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ocelot_chiseled_dripstone",
+    "up": "cemm:block/ocelot_chiseled_dripstone",
+    "north": "cemm:block/ocelot_chiseled_dripstone_right",
+    "east": "cemm:block/ocelot_chiseled_dripstone_left",
+    "south": "cemm:block/ocelot_chiseled_dripstone_right",
+    "west": "cemm:block/ocelot_chiseled_dripstone_left",
+    "particle": "cemm:block/ocelot_chiseled_dripstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:winewood_log",
+    "cemm:stripped_winewood_log",
+    "cemm:winewood_wood",
+    "cemm:stripped_winewood_wood",
+    "cemm:cut_winewood",
+    "cemm:cut_stripped_winewood"
+  ]
+}

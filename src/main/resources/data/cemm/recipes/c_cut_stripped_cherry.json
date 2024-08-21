@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " b "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stripped_cherry_log"
+    },
+    "b": {
+      "item": "minecraft:stripped_cherry_wood"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_stripped_cherry",
+    "count": 3
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:rough_basalt"
+  },
+  "result": "cemm:rough_basalt_stairs"
+}

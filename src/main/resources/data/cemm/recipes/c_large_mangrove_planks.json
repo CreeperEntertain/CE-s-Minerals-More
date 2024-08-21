@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:mangrove_planks"
+    },
+    "b": {
+      "item": "cemm:cut_stripped_mangrove"
+    }
+  },
+  "result": {
+    "item": "cemm:large_mangrove_planks",
+    "count": 12
+  }
+}

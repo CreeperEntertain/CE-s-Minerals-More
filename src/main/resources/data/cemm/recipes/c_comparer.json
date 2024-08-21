@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b",
+    "c"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:comparator"
+    },
+    "b": {
+      "item": "minecraft:observer"
+    },
+    "c": {
+      "item": "minecraft:redstone_torch"
+    }
+  },
+  "result": {
+    "item": "cemm:comparer",
+    "count": 1
+  }
+}

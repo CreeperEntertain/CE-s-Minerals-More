@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/solarpanel",
+  "textures": {
+    "all": "cemm:block/solar_panel",
+    "particle": "cemm:block/solar_panel",
+    "Main": "cemm:block/solar_panel"
+  },
+  "render_type": "solid"
+}

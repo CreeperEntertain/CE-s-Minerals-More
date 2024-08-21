@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/flesh_vine_end",
+    "particle": "cemm:block/flesh_vine"
+  },
+  "render_type": "cutout_mipped"
+}

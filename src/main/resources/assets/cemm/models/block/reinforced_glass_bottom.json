@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/reinforced_glass",
+    "up": "cemm:block/empty",
+    "north": "cemm:block/reinforced_glass_bottom",
+    "east": "cemm:block/reinforced_glass_bottom",
+    "south": "cemm:block/reinforced_glass_bottom",
+    "west": "cemm:block/reinforced_glass_bottom",
+    "particle": "cemm:block/reinforced_glass"
+  },
+  "render_type": "cutout"
+}

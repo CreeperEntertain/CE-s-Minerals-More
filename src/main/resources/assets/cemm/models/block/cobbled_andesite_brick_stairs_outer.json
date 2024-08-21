@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/cobbled_andesite_bricks",
+    "top": "cemm:block/cobbled_andesite_bricks",
+    "side": "cemm:block/cobbled_andesite_bricks"
+  },
+  "render_type": "solid"
+}

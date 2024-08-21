@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/gold_chains",
+  "textures": {
+    "all": "cemm:block/gold_chains",
+    "particle": "cemm:block/gold_chains",
+    "0": "cemm:block/gold_chains"
+  },
+  "render_type": "cutout_mipped"
+}

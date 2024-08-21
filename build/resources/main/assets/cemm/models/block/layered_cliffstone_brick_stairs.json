@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cliffstone_pillar_top",
+    "top": "cemm:block/cliffstone_pillar_top",
+    "side": "cemm:block/layered_cliffstone_bricks"
+  },
+  "render_type": "solid"
+}

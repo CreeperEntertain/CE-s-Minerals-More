@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/foxglove_top",
+    "particle": "cemm:block/foxglove_top"
+  },
+  "render_type": "cutout"
+}

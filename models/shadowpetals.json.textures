@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "shadowpetals",
+        "missing": "shadowpetals"
+      },
+      "name": "default"
+    }
+  }
+}

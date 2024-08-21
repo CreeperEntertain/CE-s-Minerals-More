@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "plants": "tomato_06",
+        "missing": "tomato_06",
+        "stick": "placed_stick"
+      },
+      "name": "default"
+    }
+  }
+}

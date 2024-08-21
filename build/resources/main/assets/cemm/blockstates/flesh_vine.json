@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/flesh_vine"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/flesh_vine_states_blockstate_0"
+    }
+  }
+}

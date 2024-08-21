@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:purpur_log"
+    }
+  },
+  "result": {
+    "item": "cemm:purpur_wood",
+    "count": 3
+  }
+}

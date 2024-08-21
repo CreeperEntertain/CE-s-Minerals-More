@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:vibrating_timberland",
+  "features": "cemm:vibrating_timberland_pyroxene_underground_placement",
+  "step": "local_modifications"
+}

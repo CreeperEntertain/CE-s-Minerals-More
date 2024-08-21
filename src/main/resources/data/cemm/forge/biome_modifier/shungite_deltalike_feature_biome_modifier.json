@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shungite_mines",
+  "features": "cemm:shungite_deltalike_feature",
+  "step": "local_modifications"
+}

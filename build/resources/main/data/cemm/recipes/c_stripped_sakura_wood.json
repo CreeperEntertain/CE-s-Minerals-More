@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:stripped_sakura_log"
+    }
+  },
+  "result": {
+    "item": "cemm:stripped_sakura_wood",
+    "count": 3
+  }
+}

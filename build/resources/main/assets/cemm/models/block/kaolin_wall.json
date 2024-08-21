@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/kaolin",
+    "particle": "cemm:block/kaolin"
+  },
+  "render_type": "solid"
+}

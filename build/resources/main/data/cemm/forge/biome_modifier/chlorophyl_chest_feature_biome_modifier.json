@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:acid_ocean",
+    "cemm:bordeaux_boscage",
+    "cemm:bromian_thicket",
+    "cemm:meteor_fields",
+    "cemm:salt_fields",
+    "cemm:the_emptiness",
+    "cemm:vibrating_timberland"
+  ],
+  "features": "cemm:chlorophyl_chest_feature",
+  "step": "surface_structures"
+}

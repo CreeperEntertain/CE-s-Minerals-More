@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/orange_shingles",
+    "top": "cemm:block/orange_shingles",
+    "side": "cemm:block/orange_shingles"
+  },
+  "render_type": "solid"
+}

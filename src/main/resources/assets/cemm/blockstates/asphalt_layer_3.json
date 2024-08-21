@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/asphalt_layer_3"
+    },
+    "facing=east": {
+      "model": "cemm:block/asphalt_layer_3",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/asphalt_layer_3",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/asphalt_layer_3",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:aluminum_block"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_ingot",
+    "count": 9
+  }
+}

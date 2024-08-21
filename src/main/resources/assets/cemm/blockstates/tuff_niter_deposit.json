@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cemm:block/tuff_niter_deposit"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/windswept_planks",
+    "top": "cemm:block/windswept_planks",
+    "side": "cemm:block/windswept_planks"
+  },
+  "render_type": "solid"
+}

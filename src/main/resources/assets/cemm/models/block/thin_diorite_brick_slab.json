@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/thin_diorite_bricks",
+    "top": "cemm:block/thin_diorite_bricks",
+    "side": "cemm:block/thin_diorite_bricks"
+  },
+  "render_type": "solid"
+}

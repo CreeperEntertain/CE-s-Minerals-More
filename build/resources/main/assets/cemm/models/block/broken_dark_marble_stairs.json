@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/broken_polished_dark_marble",
+    "top": "cemm:block/broken_polished_dark_marble",
+    "side": "cemm:block/broken_polished_dark_marble"
+  },
+  "render_type": "solid"
+}

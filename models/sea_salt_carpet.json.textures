@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "sea_salt_block"
+      },
+      "name": "default"
+    }
+  }
+}

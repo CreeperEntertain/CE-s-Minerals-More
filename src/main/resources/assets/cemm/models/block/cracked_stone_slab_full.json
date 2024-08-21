@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/cracked_stone",
+    "top": "cemm:block/cracked_stone",
+    "side": "cemm:block/cracked_stone"
+  },
+  "render_type": "solid"
+}

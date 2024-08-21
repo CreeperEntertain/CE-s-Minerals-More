@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/end_spruce_leaves",
+    "particle": "cemm:block/end_spruce_leaves"
+  }
+}

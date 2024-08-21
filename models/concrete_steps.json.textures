@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Tiled Concrete": "tiled_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

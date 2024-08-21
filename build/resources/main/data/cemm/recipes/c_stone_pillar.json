@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:f_stone_pillar",
+    "count": 2
+  }
+}

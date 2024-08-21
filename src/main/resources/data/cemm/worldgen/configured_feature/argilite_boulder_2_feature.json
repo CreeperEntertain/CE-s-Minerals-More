@@ -1,0 +1,14 @@
+{
+  "type": "cemm:structure_feature",
+  "config": {
+    "structure": "cemm:argilite_boulder_2",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -2,
+      0
+    ]
+  }
+}

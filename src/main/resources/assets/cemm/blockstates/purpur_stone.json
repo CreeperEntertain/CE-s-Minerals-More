@@ -1,0 +1,31 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/purpur_stone"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/purpur_stone_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "cemm:block/purpur_stone_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "cemm:block/purpur_stone_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "cemm:block/purpur_stone_states_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "cemm:block/purpur_stone_states_blockstate_4"
+    },
+    "blockstate=6": {
+      "model": "cemm:block/purpur_stone_states_blockstate_5"
+    },
+    "blockstate=7": {
+      "model": "cemm:block/purpur_stone_states_blockstate_6"
+    },
+    "blockstate=8": {
+      "model": "cemm:block/purpur_stone_states_blockstate_7"
+    }
+  }
+}

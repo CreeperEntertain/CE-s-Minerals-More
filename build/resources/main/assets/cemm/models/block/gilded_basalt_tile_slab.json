@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/gilded_basalt_tiles",
+    "top": "cemm:block/gilded_basalt_tiles",
+    "side": "cemm:block/gilded_basalt_tiles"
+  },
+  "render_type": "solid"
+}

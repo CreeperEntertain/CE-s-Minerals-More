@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ash_shrub"
+    }
+  },
+  "result": {
+    "item": "minecraft:stick",
+    "count": 1
+  }
+}

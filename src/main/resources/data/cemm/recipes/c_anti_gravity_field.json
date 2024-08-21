@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "cdc"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "minecraft:redstone_torch"
+    },
+    "c": {
+      "item": "minecraft:phantom_membrane"
+    },
+    "d": {
+      "item": "cemm:magnet"
+    }
+  },
+  "result": {
+    "item": "cemm:anti_gravity_field",
+    "count": 1
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/gray_terracotta_tiles"
+    },
+    "facing=east": {
+      "model": "cemm:block/gray_terracotta_tiles",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/gray_terracotta_tiles",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/gray_terracotta_tiles",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/gray_terracotta_tiles",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/gray_terracotta_tiles",
+      "x": 90
+    }
+  }
+}

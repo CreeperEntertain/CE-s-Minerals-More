@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:fireshade_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:fireshade_button",
+    "count": 1
+  }
+}

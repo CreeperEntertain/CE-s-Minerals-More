@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/tailored_stone",
+    "top": "cemm:block/tailored_stone",
+    "side": "cemm:block/tailored_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/tough_sand_bricks",
+    "particle": "cemm:block/tough_sand_bricks"
+  },
+  "render_type": "solid"
+}

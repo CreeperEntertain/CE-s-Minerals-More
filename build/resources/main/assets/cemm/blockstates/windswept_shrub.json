@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/windswept_shrub"
+    },
+    "half=lower": {
+      "model": "cemm:block/windswept_shrub_bottom"
+    }
+  }
+}

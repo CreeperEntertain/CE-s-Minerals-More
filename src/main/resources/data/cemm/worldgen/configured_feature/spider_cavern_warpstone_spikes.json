@@ -1,0 +1,99 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 96,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_random_selector",
+        "config": {
+          "features": [
+            {
+              "feature": {
+                "type": "minecraft:block_column",
+                "config": {
+                  "allowed_placement": {
+                    "type": "minecraft:matching_blocks",
+                    "blocks": "minecraft:air"
+                  },
+                  "direction": "up",
+                  "layers": [
+                    {
+                      "height": {
+                        "type": "biased_to_bottom",
+                        "value": {
+                          "min_inclusive": 1,
+                          "max_inclusive": 7
+                        }
+                      },
+                      "provider": {
+                        "type": "minecraft:simple_state_provider",
+                        "state": {
+                          "Name": "cemm:warpstone"
+                        }
+                      }
+                    }
+                  ],
+                  "prioritize_tip": false
+                }
+              },
+              "placement": []
+            },
+            {
+              "feature": {
+                "type": "minecraft:block_column",
+                "config": {
+                  "allowed_placement": {
+                    "type": "minecraft:matching_blocks",
+                    "blocks": "minecraft:air"
+                  },
+                  "direction": "up",
+                  "layers": [
+                    {
+                      "height": {
+                        "type": "biased_to_bottom",
+                        "value": {
+                          "min_inclusive": 1,
+                          "max_inclusive": 7
+                        }
+                      },
+                      "provider": {
+                        "type": "minecraft:simple_state_provider",
+                        "state": {
+                          "Name": "cemm:rough_warpstone"
+                        }
+                      }
+                    }
+                  ],
+                  "prioritize_tip": false
+                }
+              },
+              "placement": []
+            }
+          ]
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": "minecraft:air"
+              },
+              {
+                "type": "minecraft:solid",
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

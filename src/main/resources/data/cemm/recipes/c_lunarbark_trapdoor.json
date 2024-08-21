@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lunarbark_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:lunarbark_trapdoor",
+    "count": 2
+  }
+}

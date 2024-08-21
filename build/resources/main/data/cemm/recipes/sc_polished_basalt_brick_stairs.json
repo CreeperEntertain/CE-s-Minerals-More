@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_basalt_bricks"
+  },
+  "result": "cemm:polished_basalt_brick_stairs"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/ashen_plank_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/ashen_plank_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/ashen_plank_slab_full"
+    }
+  }
+}

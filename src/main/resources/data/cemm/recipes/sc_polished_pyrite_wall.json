@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_pyrite"
+  },
+  "result": "cemm:polished_pyrite_wall"
+}

@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting_mushroom.png",
+    "width": 48,
+    "height": 48,
+    "title": "Mushroom",
+    "author": "Minecraft Dungeons"
+  }
+}

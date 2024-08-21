@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_bronze_horizontal_right",
+    "up": "cemm:block/chiseled_bronze_horizontal_right",
+    "north": "cemm:block/chiseled_bronze_horizontal_left",
+    "east": "cemm:block/chiseled_bronze",
+    "south": "cemm:block/chiseled_bronze_horizontal_right",
+    "west": "cemm:block/chiseled_bronze_middle",
+    "particle": "cemm:block/chiseled_bronze_horizontal_right"
+  },
+  "render_type": "solid"
+}

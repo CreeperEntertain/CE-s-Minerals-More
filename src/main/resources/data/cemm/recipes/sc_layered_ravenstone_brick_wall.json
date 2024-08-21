@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:layered_ravenstone_bricks"
+  },
+  "result": "cemm:layered_ravenstone_brick_wall"
+}

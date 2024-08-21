@@ -1,0 +1,54 @@
+{
+  "_fv": 60,
+  "_type": "fluid",
+  "definition": {
+    "name": "Blood",
+    "bucketName": "Blood Bucket",
+    "textureStill": "blood_still",
+    "textureFlowing": "blood_flow",
+    "tintType": "No tint",
+    "canMultiply": false,
+    "flowRate": 10,
+    "levelDecrease": 1,
+    "slopeFindDistance": 6,
+    "spawnParticles": false,
+    "dripParticle": {
+      "value": "DRIP_WATER"
+    },
+    "flowStrength": 0.7,
+    "luminosity": 0,
+    "density": 1060,
+    "viscosity": 1500,
+    "temperature": 300,
+    "type": "WATER",
+    "generateBucket": true,
+    "textureBucket": "blood_bucket",
+    "creativeTab": {
+      "value": "CUSTOM:Materials"
+    },
+    "emptySound": {
+      "value": "item.bucket.empty_lava"
+    },
+    "rarity": "COMMON",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "resistance": 100.0,
+    "luminance": 0,
+    "lightOpacity": 7,
+    "emissiveRendering": false,
+    "tickRate": 0,
+    "flammability": 0,
+    "fireSpreadSpeed": 0,
+    "colorOnMap": "DEFAULT",
+    "onBlockAdded": {
+      "name": "BloodFluidMixing"
+    },
+    "onNeighbourChanges": {
+      "name": "BloodFluidMixing"
+    },
+    "onEntityCollides": {
+      "name": "BloodCollision"
+    }
+  }
+}

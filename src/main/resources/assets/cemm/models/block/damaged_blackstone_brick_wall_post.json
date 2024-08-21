@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/missing_blackstone_bricks",
+    "particle": "cemm:block/missing_blackstone_bricks"
+  },
+  "render_type": "solid"
+}

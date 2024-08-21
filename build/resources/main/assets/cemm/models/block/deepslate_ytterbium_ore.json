@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/deepslate_ytterbium_ore",
+    "particle": "cemm:block/deepslate_ytterbium_ore"
+  },
+  "render_type": "solid"
+}

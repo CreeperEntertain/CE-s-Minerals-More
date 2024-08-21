@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:plaster"
+    },
+    {
+      "item": "cemm:red_plaster"
+    }
+  ],
+  "result": {
+    "item": "cemm:ochre_plaster",
+    "count": 2
+  }
+}

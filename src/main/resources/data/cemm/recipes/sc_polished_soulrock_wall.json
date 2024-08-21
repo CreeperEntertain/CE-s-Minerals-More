@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_soulrock"
+  },
+  "result": "cemm:polished_soulrock_wall"
+}

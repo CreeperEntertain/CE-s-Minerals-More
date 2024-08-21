@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:purpur_spikes_barrens",
+  "features": "cemm:purpur_spikes_barrens_spikes",
+  "step": "strongholds"
+}

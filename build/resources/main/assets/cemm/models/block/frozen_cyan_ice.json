@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cyan_ice",
+    "up": "cemm:block/frozen_cyan_ice_top",
+    "north": "cemm:block/frozen_cyan_ice_side",
+    "east": "cemm:block/frozen_cyan_ice_side",
+    "south": "cemm:block/frozen_cyan_ice_side",
+    "west": "cemm:block/frozen_cyan_ice_side",
+    "particle": "cemm:block/cyan_ice"
+  },
+  "render_type": "solid"
+}

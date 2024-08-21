@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cast_copper_brick"
+    }
+  },
+  "result": {
+    "item": "cemm:copper_support",
+    "count": 1
+  }
+}

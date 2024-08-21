@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:rough_cliffstone_bricks"
+  },
+  "result": "cemm:rough_cliffstone_brick_slab"
+}

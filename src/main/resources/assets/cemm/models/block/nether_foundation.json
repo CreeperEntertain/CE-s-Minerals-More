@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/nether_foundation_top",
+    "up": "cemm:block/nether_foundation_top",
+    "north": "cemm:block/nether_foundation_side",
+    "east": "cemm:block/nether_foundation_side",
+    "south": "cemm:block/nether_foundation_side",
+    "west": "cemm:block/nether_foundation_side",
+    "particle": "cemm:block/nether_foundation_top"
+  },
+  "render_type": "solid"
+}

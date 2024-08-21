@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/rough_midori",
+    "up": "cemm:block/layered_end_stone_top",
+    "north": "cemm:block/midori_lined_endstone",
+    "east": "cemm:block/midori_lined_endstone",
+    "south": "cemm:block/midori_lined_endstone",
+    "west": "cemm:block/midori_lined_endstone",
+    "particle": "cemm:block/rough_midori"
+  },
+  "render_type": "solid"
+}

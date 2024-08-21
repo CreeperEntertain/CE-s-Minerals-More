@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:nyline_fungus"
+    },
+    "b": {
+      "item": "minecraft:bowl"
+    }
+  },
+  "result": {
+    "item": "cemm:nightstew",
+    "count": 1
+  }
+}

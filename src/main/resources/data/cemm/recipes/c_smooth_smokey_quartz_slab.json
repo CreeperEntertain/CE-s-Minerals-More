@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smooth_smokey_quartz"
+    }
+  },
+  "result": {
+    "item": "cemm:smooth_smokey_quartz_slab",
+    "count": 6
+  }
+}

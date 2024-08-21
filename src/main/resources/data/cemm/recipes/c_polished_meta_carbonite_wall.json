@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:polished_meta_carbonite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_meta_carbonite_wall",
+    "count": 6
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/rammed_earth",
+    "top": "cemm:block/rammed_earth",
+    "side": "cemm:block/rammed_earth"
+  },
+  "render_type": "solid"
+}

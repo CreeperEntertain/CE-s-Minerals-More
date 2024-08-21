@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/blood_growth_1",
+    "particle": "cemm:block/blood_growth_1"
+  },
+  "render_type": "cutout"
+}

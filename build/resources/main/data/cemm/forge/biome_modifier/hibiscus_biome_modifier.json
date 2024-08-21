@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "bamboo_jungle",
+    "jungle",
+    "sparse_jungle",
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "features": "cemm:hibiscus",
+  "step": "vegetal_decoration"
+}

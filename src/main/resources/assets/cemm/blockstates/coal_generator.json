@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/coal_generator"
+    },
+    "facing=east": {
+      "model": "cemm:block/coal_generator",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/coal_generator",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/coal_generator",
+      "y": 270
+    }
+  }
+}

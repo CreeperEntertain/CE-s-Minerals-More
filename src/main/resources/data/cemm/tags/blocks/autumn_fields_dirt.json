@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cliffdirt",
+    "cemm:cliffpeat",
+    "cemm:cliffgravel",
+    "cemm:coarse_cliffdirt",
+    "cemm:coarse_cliffpeat",
+    "cemm:dirty_cliffpeat"
+  ]
+}

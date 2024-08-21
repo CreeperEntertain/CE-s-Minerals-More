@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/dark_end_spruce_log_top",
+    "up": "cemm:block/dark_end_spruce_log_top",
+    "north": "cemm:block/dark_end_spruce_log_side",
+    "east": "cemm:block/dark_end_spruce_log_side",
+    "south": "cemm:block/dark_end_spruce_log_side",
+    "west": "cemm:block/dark_end_spruce_log_side",
+    "particle": "cemm:block/dark_end_spruce_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/decorative_bookshelf_09"
+    },
+    "facing=east": {
+      "model": "cemm:block/decorative_bookshelf_09",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/decorative_bookshelf_09",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/decorative_bookshelf_09",
+      "y": 270
+    }
+  }
+}

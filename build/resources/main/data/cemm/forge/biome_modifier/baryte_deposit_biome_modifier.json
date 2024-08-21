@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "plains",
+    "cemm:bauxite_steppes",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands"
+  ],
+  "features": "cemm:baryte_deposit",
+  "step": "underground_ores"
+}

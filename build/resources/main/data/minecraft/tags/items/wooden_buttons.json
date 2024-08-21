@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:lunarbark_button",
+    "cemm:chlorowood_button",
+    "cemm:ebony_button",
+    "minecraft:oak_button",
+    "minecraft:spruce_button",
+    "minecraft:birch_button",
+    "minecraft:jungle_button",
+    "minecraft:acacia_button",
+    "minecraft:dark_oak_button",
+    "minecraft:crimson_button",
+    "minecraft:warped_button",
+    "minecraft:mangrove_button",
+    "minecraft:cherry_button",
+    "minecraft:bamboo_button",
+    "cemm:amber_sentinel_button",
+    "cemm:mountain_laurel_button",
+    "cemm:ashen_button",
+    "cemm:fireshade_button",
+    "cemm:smolderbark_button"
+  ]
+}

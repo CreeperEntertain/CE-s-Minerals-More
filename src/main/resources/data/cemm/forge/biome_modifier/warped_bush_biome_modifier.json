@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "warped_forest",
+    "cemm:spider_cavern"
+  ],
+  "features": "cemm:warped_bush",
+  "step": "vegetal_decoration"
+}

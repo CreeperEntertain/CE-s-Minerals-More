@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:lunarbark_crown_2_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 1000000
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "absolute": 63
+        },
+        "max_inclusive": {
+          "below_top": 0
+        }
+      }
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "OCEAN_FLOOR_WG",
+      "min_inclusive": 16,
+      "max_inclusive": 80
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

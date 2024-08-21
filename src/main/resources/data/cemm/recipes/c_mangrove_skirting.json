@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:mangrove_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:mangrove_skirting",
+    "count": 2
+  }
+}

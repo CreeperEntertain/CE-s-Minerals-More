@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/andesite",
+    "top": "cemm:block/snow",
+    "side": "cemm:block/andesite",
+    "overlay": "cemm:block/snow_side_overlay",
+    "particle": "cemm:block/andesite"
+  },
+  "render_type": "cutout_mipped"
+}

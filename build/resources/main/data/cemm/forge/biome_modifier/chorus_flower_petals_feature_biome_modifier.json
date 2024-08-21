@@ -1,0 +1,15 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "end_highlands",
+    "end_midlands",
+    "cemm:end_forest_barrens",
+    "cemm:end_forest_highland",
+    "cemm:end_forest_midland",
+    "cemm:purpur_forest_barrens",
+    "cemm:purpur_forest_highland",
+    "cemm:purpur_forest_midland"
+  ],
+  "features": "cemm:chorus_flower_petals_feature",
+  "step": "vegetal_decoration"
+}

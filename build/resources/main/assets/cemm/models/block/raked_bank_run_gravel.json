@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/bank_run_gravel",
+    "up": "cemm:block/raked_bank_run_gravel",
+    "north": "cemm:block/bank_run_gravel",
+    "east": "cemm:block/bank_run_gravel",
+    "south": "cemm:block/bank_run_gravel",
+    "west": "cemm:block/bank_run_gravel",
+    "particle": "cemm:block/bank_run_gravel"
+  },
+  "render_type": "solid"
+}

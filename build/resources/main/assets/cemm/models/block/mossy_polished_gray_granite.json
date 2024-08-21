@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/mossy_polished_gray_granite",
+    "particle": "cemm:block/mossy_polished_gray_granite"
+  },
+  "render_type": "solid"
+}

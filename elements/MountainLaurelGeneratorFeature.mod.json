@@ -1,0 +1,16 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:AmberForest"
+      }
+    ],
+    "generateCondition": {
+      "name": "MountainLaurelGeneratorExtension"
+    },
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_custom_structure\"><field name=\"structure\">ebony_generator</field><field name=\"x\">0</field><field name=\"y\">1</field><field name=\"z\">0</field><field name=\"random_rotation\">FALSE</field><field name=\"random_mirror\">FALSE</field><value name=\"ignored_blocks\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"2\"></mutation><field name=\"block0\">Blocks.STRUCTURE_BLOCK</field><field name=\"block1\">Blocks.AIR</field></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">33</field><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">1</field><field name=\"max\">2</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_block_predicate_filter\"><value name=\"condition\"><block type=\"block_predicate_matching_blocks\"><field name=\"x\">0</field><field name=\"y\">-1</field><field name=\"z\">0</field><value name=\"blockSet\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"17\"></mutation><field name=\"block0\">CUSTOM:DirtyCobblestone</field><field name=\"block1\">CUSTOM:OvergrownDirtyCobblestone</field><field name=\"block2\">CUSTOM:OvergrownDirt</field><field name=\"block3\">CUSTOM:OvergrownRootedDirt</field><field name=\"block4\">CUSTOM:OvergrownCoarseDirt</field><field name=\"block5\">CUSTOM:ScorchedDirt</field><field name=\"block6\">CUSTOM:GrassedScorchedDirt</field><field name=\"block7\">CUSTOM:OvergrownScorchedDirt</field><field name=\"block8\">CUSTOM:DirtyMud</field><field name=\"block9\">CUSTOM:OvergrownDirtyMud</field><field name=\"block10\">CUSTOM:GrassedDirtyMud</field><field name=\"block11\">Blocks.DIRT#0</field><field name=\"block12\">Blocks.DIRT#1</field><field name=\"block13\">Blocks.DIRT#2</field><field name=\"block14\">Blocks.ROOTED_DIRT</field><field name=\"block15\">CUSTOM:GrassedDriedMud</field><field name=\"block16\">Blocks.GRASS</field></block></value></block></value><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

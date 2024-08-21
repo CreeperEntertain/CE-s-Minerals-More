@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "red_cactus_side",
+        "top": "red_cactus_top",
+        "bottom": "red_cactus_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

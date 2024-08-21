@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:cobblestone"
+    },
+    "b": {
+      "item": "cemm:smokey_quartz"
+    }
+  },
+  "result": {
+    "item": "minecraft:andesite",
+    "count": 2
+  }
+}

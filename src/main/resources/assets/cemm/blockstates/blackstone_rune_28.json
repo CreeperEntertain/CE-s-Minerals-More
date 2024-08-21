@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/blackstone_rune_28"
+    },
+    "facing=east": {
+      "model": "cemm:block/blackstone_rune_28",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/blackstone_rune_28",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/blackstone_rune_28",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:vertical_dark_marble_ornament"
+    }
+  },
+  "result": {
+    "item": "cemm:dark_marble_ornament",
+    "count": 1
+  }
+}

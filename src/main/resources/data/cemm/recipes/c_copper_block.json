@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:copper_tile"
+    }
+  },
+  "result": {
+    "item": "minecraft:copper_block",
+    "count": 1
+  }
+}

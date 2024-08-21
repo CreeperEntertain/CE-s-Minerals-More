@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Main": "solar_panel"
+      },
+      "name": "default"
+    }
+  }
+}

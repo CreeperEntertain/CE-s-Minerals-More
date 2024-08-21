@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/andesite_tiles",
+    "top": "cemm:block/andesite_tiles",
+    "side": "cemm:block/andesite_tiles"
+  },
+  "render_type": "solid"
+}

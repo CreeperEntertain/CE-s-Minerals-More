@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/tailored_stone",
+    "particle": "cemm:block/tailored_stone"
+  },
+  "render_type": "solid"
+}

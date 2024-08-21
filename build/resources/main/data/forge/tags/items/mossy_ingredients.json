@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:moss_block",
+    "minecraft:vine",
+    "cemm:vibrating_moss",
+    "cemm:bordeaux_moss",
+    "cemm:old_moss",
+    "cemm:crimson_moss_block",
+    "cemm:warped_moss_block",
+    "cemm:end_moss_block",
+    "cemm:purpur_moss_block"
+  ]
+}

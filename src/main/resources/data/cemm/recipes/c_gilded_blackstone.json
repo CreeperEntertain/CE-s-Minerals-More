@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:blackstone"
+    },
+    {
+      "item": "minecraft:raw_gold"
+    }
+  ],
+  "result": {
+    "item": "minecraft:gilded_blackstone",
+    "count": 1
+  }
+}

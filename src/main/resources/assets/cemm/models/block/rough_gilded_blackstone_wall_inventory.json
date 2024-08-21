@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/rough_gilded_blackstone",
+    "particle": "cemm:block/rough_gilded_blackstone"
+  },
+  "render_type": "solid"
+}

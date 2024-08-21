@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 4,
+  "ingredient": {
+    "item": "cemm:burnt_clay_block"
+  },
+  "result": "minecraft:brick"
+}

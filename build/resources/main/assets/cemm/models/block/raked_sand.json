@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/sand",
+    "up": "cemm:block/raked_sand",
+    "north": "cemm:block/sand",
+    "east": "cemm:block/sand",
+    "south": "cemm:block/sand",
+    "west": "cemm:block/sand",
+    "particle": "cemm:block/sand"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/midori",
+    "top": "cemm:block/midori",
+    "side": "cemm:block/midori"
+  },
+  "render_type": "solid"
+}

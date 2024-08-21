@@ -1,0 +1,127 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:mulch"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_sand"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:volcanic_soil"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_sand"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:mulch"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_soil"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:volcanic_soil"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_sand"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:mulch"
+                },
+                "state": {
+                  "Name": "cemm:cinderloam"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:volcanic_soil"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_sand"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:mulch"
+                },
+                "state": {
+                  "Name": "cemm:soot"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:volcanic_soil"
+                },
+                "state": {
+                  "Name": "cemm:volcanic_sand"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

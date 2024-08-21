@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:red_salt_carpet"
+    },
+    "b": {
+      "item": "cemm:salt_block"
+    }
+  },
+  "result": {
+    "item": "cemm:salt_block_red",
+    "count": 1
+  }
+}

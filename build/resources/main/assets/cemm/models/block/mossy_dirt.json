@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/mossy_dirt",
+    "particle": "cemm:block/mossy_dirt"
+  },
+  "render_type": "solid"
+}

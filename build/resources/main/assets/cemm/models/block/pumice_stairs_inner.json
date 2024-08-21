@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/pumice",
+    "top": "cemm:block/pumice",
+    "side": "cemm:block/pumice"
+  },
+  "render_type": "solid"
+}

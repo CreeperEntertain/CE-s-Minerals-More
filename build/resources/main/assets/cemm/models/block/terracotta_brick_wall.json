@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/terracotta_bricks",
+    "particle": "cemm:block/terracotta_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river",
+    "beach",
+    "stony_shore"
+  ],
+  "features": "cemm:wild_cabbage",
+  "step": "vegetal_decoration"
+}

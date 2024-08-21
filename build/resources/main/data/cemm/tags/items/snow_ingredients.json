@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:snow_block",
+    "cemm:icy_snow",
+    "cemm:freezing_snow",
+    "minecraft:powder_snow_bucket",
+    "minecraft:snow"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:dark_oak_planks"
+    },
+    "b": {
+      "item": "cemm:cut_stripped_dark_oak"
+    }
+  },
+  "result": {
+    "item": "cemm:large_dark_oak_planks",
+    "count": 12
+  }
+}

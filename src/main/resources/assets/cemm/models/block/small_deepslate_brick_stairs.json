@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/small_deepslate_bricks",
+    "top": "cemm:block/small_deepslate_bricks",
+    "side": "cemm:block/small_deepslate_bricks"
+  },
+  "render_type": "solid"
+}

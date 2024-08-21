@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:block/framed_paper"
+  },
+  "render_type": "solid"
+}

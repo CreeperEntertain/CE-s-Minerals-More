@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/chalk",
+    "top": "cemm:block/chalk",
+    "side": "cemm:block/chalk"
+  },
+  "render_type": "solid"
+}

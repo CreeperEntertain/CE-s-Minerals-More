@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:gold_bricks"
+  },
+  "result": "cemm:gold_brick_stairs"
+}

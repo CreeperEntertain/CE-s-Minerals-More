@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/mixed_dark_marble_bricks",
+    "particle": "cemm:block/mixed_dark_marble_bricks"
+  },
+  "render_type": "solid"
+}

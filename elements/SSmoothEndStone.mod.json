@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:forge:end_stone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmoothEndStone"
+    },
+    "name": "s_smooth_end_stone",
+    "namespace": "mod"
+  }
+}

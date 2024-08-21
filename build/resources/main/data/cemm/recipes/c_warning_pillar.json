@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:f_stone_pillar"
+    },
+    {
+      "item": "cemm:warning_tape"
+    }
+  ],
+  "result": {
+    "item": "cemm:f_warning_pillar",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/polished_claystone",
+    "particle": "cemm:block/polished_claystone"
+  },
+  "render_type": "solid"
+}

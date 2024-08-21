@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:purpur_forest",
+  "features": "cemm:dense_purpur_fern",
+  "step": "vegetal_decoration"
+}

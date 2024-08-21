@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:cracked_dripstone_tile"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "cemm:cracked_dripstone_tile"
+    }
+  ],
+  "result": {
+    "item": "cemm:dirty_cracked_dripstone_tile",
+    "count": 2
+  }
+}

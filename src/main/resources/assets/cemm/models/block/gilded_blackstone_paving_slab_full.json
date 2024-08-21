@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/gilded_blackstone_paving",
+    "top": "cemm:block/gilded_blackstone_paving",
+    "side": "cemm:block/gilded_blackstone_paving"
+  },
+  "render_type": "solid"
+}

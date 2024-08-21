@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:NetherTiles"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:BurntNetherTiles"
+    },
+    "name": "sm_burnt_nether_tiles",
+    "namespace": "mod"
+  }
+}

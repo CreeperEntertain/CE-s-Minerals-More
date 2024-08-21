@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:tungsten_block"
+    }
+  },
+  "result": {
+    "item": "cemm:tungsten_ingot",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:zirconium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:zirconium_ingot",
+    "count": 9
+  }
+}

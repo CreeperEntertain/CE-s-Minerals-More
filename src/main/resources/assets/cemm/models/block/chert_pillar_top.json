@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chert",
+    "up": "cemm:block/chert",
+    "north": "cemm:block/chert_pillar_top",
+    "east": "cemm:block/chert_pillar_top",
+    "south": "cemm:block/chert_pillar_top",
+    "west": "cemm:block/chert_pillar_top",
+    "particle": "cemm:block/chert"
+  },
+  "render_type": "solid"
+}

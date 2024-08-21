@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/hardened_silt",
+    "top": "cemm:block/hardened_silt",
+    "side": "cemm:block/hardened_silt"
+  },
+  "render_type": "solid"
+}
