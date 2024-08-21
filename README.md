@@ -23,4 +23,5 @@ This is to make it easier to work with MCreator's own git management system, and
 **[2.16.254](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.16.254)**  
 **[2.17.330](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.17.330)**  
 **[2.18.378](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.18.378)**  
-**[2.20.532](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.20.532)**
+**[2.20.532](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.20.532)**  
+**[2.21.539](https://github.com/CreeperEntertain/CE-s-Minerals-More/tree/2.21.539)**
