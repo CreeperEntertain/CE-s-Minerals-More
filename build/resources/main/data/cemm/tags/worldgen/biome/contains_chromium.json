@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna",
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "deep_lukewarm_ocean",
+    "lukewarm_ocean",
+    "warm_ocean",
+    "meadow",
+    "bamboo_jungle",
+    "jungle",
+    "sparse_jungle",
+    "mushroom_fields",
+    "stony_shore",
+    "beach",
+    "river"
+  ]
+}

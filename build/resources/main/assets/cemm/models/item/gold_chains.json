@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/gold_chains_item"
+  },
+  "render_type": "translucent"
+}

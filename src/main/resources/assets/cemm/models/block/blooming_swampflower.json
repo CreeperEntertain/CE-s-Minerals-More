@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/blooming_swampflower",
+  "textures": {
+    "all": "cemm:block/swampflower",
+    "particle": "cemm:block/swampflower",
+    "Swampflower": "cemm:block/swampflower"
+  },
+  "render_type": "cutout"
+}

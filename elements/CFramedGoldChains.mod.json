@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldChains"
+      },
+      {
+        "value": "CUSTOM:GoldChains"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:GoldChains"
+      },
+      {
+        "value": "CUSTOM:GoldChains"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:FramedGoldChains"
+    },
+    "name": "c_framed_gold_chains",
+    "namespace": "mod"
+  }
+}

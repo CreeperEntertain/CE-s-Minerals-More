@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/end_spruce_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/end_spruce_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/end_spruce_slab_full"
+    }
+  }
+}

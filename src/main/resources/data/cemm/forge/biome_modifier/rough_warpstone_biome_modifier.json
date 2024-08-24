@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warped_forest",
+  "features": "cemm:rough_warpstone",
+  "step": "underground_ores"
+}

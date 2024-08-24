@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/polished_calcite",
+    "up": "cemm:block/calcite_pillar_top",
+    "north": "cemm:block/corinthian_calcite_pillar_bottom",
+    "east": "cemm:block/corinthian_calcite_pillar_bottom",
+    "south": "cemm:block/corinthian_calcite_pillar_bottom",
+    "west": "cemm:block/corinthian_calcite_pillar_bottom",
+    "particle": "cemm:block/polished_calcite"
+  },
+  "render_type": "solid"
+}

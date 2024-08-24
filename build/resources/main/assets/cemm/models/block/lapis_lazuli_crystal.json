@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/lapis_lazuli_crystal",
+  "textures": {
+    "all": "cemm:block/lapis_crystal",
+    "particle": "cemm:block/lapis_crystal",
+    "0": "cemm:block/lapis_crystal"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,66 @@
+{
+  "type": "minecraft:random_patch",
+  "config": {
+    "tries": 2,
+    "xz_spread": 0,
+    "y_spread": 0,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_random_selector",
+        "config": {
+          "features": [
+            {
+              "feature": {
+                "type": "minecraft:netherrack_replace_blobs",
+                "config": {
+                  "target": {
+                    "Name": "minecraft:water",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  },
+                  "state": {
+                    "Name": "cemm:transparent_cyan_ice"
+                  },
+                  "radius": {
+                    "type": "uniform",
+                    "value": {
+                      "min_inclusive": 10,
+                      "max_inclusive": 12
+                    }
+                  }
+                }
+              },
+              "placement": []
+            },
+            {
+              "feature": {
+                "type": "minecraft:netherrack_replace_blobs",
+                "config": {
+                  "target": {
+                    "Name": "minecraft:water",
+                    "Properties": {
+                      "level": "0"
+                    }
+                  },
+                  "state": {
+                    "Name": "cemm:transparent_cyan_ice"
+                  },
+                  "radius": {
+                    "type": "uniform",
+                    "value": {
+                      "min_inclusive": 10,
+                      "max_inclusive": 12
+                    }
+                  }
+                }
+              },
+              "placement": []
+            }
+          ]
+        }
+      },
+      "placement": []
+    }
+  }
+}

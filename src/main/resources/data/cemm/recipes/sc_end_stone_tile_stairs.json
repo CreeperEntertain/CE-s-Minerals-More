@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:end_stone_tiles"
+  },
+  "result": "cemm:end_stone_tile_stairs"
+}

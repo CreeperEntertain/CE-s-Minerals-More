@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:weathered_end_stone",
+    "cemm:smooth_end_stone",
+    "cemm:layered_end_stone",
+    "minecraft:end_stone"
+  ]
+}

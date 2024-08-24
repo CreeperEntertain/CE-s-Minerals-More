@@ -1,0 +1,382 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 450,
+    "height": 250,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "gold_ingot.png",
+          "use1Xscale": false,
+          "x": 25,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "framed_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 61,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "cyan_dye.png",
+          "use1Xscale": false,
+          "x": 25,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 61,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_stairs_preview.png",
+          "use1Xscale": true,
+          "x": 79,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_slab_preview.png",
+          "use1Xscale": true,
+          "x": 97,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_wall_preview.png",
+          "use1Xscale": true,
+          "x": 115,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_frame_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_bottom_preview.png",
+          "use1Xscale": true,
+          "x": 151,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_top_preview.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_crowned_preview.png",
+          "use1Xscale": true,
+          "x": 187,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_middle_preview.png",
+          "use1Xscale": true,
+          "x": 205,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_board_preview.png",
+          "use1Xscale": true,
+          "x": 223,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "painted_rough_marble_chiseled_frame_preview.png",
+          "use1Xscale": true,
+          "x": 241,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "crowned_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 79,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "crowned_rough_marble_facing_preview.png",
+          "use1Xscale": true,
+          "x": 97,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ornamented_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 115,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ornamented_rough_marble_facing_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lined_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 151,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lined_rough_marble_facing_preview.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gilded_rough_marble_preview.png",
+          "use1Xscale": true,
+          "x": 187,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gilded_rough_marble_facing_preview.png",
+          "use1Xscale": true,
+          "x": 205,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_corner_top_left_preview.png",
+          "use1Xscale": true,
+          "x": 223,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_corner_top_right_preview.png",
+          "use1Xscale": true,
+          "x": 241,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_corner_bottom_left_preview.png",
+          "use1Xscale": true,
+          "x": 259,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rough_marble_corner_bottom_right_preview.png",
+          "use1Xscale": true,
+          "x": 277,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 51,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 51,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 51,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "iron_ingot.png",
+          "use1Xscale": false,
+          "x": 25,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ravenstone_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ravenstone_flooring_preview.png",
+          "use1Xscale": true,
+          "x": 61,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "decorated_ravenstone_flooring_preview.png",
+          "use1Xscale": true,
+          "x": 79,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "framed_ravenstone_preview.png",
+          "use1Xscale": true,
+          "x": 97,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "rimmed_ravenstone_preview.png",
+          "use1Xscale": true,
+          "x": 115,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "crowned_ravenstone_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "ravenstone_ornament_preview.png",
+          "use1Xscale": true,
+          "x": 151,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "lined_ravenstone_preview.png",
+          "use1Xscale": true,
+          "x": 169,
+          "y": 44
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 12,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

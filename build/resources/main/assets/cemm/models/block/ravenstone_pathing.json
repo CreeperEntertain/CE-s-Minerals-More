@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/ravenstone_pathing",
+    "particle": "cemm:block/ravenstone_pathing"
+  },
+  "render_type": "solid"
+}

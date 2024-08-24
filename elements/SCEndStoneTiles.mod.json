@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:forge:all_end_stone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:EndStoneTiles"
+    },
+    "name": "sc_end_stone_tiles",
+    "namespace": "mod"
+  }
+}

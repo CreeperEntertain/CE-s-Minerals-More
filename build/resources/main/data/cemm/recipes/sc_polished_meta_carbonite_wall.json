@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_meta_carbonite"
+  },
+  "result": "cemm:polished_meta_carbonite_wall"
+}

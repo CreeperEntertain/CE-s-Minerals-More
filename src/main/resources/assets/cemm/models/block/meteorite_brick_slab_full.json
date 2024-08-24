@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/meteorite_bricks",
+    "top": "cemm:block/meteorite_bricks",
+    "side": "cemm:block/meteorite_bricks"
+  },
+  "render_type": "solid"
+}

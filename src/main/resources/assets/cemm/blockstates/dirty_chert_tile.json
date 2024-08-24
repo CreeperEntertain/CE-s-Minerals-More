@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "cemm:block/dirty_chert_tile"
+    },
+    "face=floor,facing=east": {
+      "model": "cemm:block/dirty_chert_tile",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "cemm:block/dirty_chert_tile",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "cemm:block/dirty_chert_tile",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "cemm:block/dirty_chert_tile",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

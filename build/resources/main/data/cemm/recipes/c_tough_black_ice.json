@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:packed_black_ice"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_black_ice",
+    "count": 1
+  }
+}

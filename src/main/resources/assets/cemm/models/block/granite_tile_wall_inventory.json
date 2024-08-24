@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/granite_tiles",
+    "particle": "cemm:block/granite_tiles"
+  },
+  "render_type": "solid"
+}

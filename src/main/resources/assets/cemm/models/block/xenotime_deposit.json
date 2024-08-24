@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/xenotime_deposit",
+    "particle": "cemm:block/xenotime_deposit"
+  },
+  "render_type": "solid"
+}

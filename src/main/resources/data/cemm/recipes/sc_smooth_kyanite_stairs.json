@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smooth_kyanite_block"
+  },
+  "result": "cemm:smooth_kyanite_stairs"
+}

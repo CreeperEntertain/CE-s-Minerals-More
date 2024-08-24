@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/lanthanum_block",
+    "particle": "cemm:block/lanthanum_block"
+  },
+  "render_type": "solid"
+}

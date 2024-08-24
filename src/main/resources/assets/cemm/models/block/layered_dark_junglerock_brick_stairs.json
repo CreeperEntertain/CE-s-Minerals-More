@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/tiled_dark_junglerock_bricks",
+    "top": "cemm:block/tiled_dark_junglerock_bricks",
+    "side": "cemm:block/tiled_dark_junglerock_bricks"
+  },
+  "render_type": "solid"
+}

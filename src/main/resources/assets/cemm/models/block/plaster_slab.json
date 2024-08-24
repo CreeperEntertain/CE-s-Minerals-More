@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/plaster",
+    "top": "cemm:block/plaster",
+    "side": "cemm:block/plaster"
+  },
+  "render_type": "solid"
+}

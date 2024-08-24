@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_raw_kyanite_bricks_top",
+    "up": "cemm:block/chiseled_raw_kyanite_bricks_top",
+    "north": "cemm:block/raw_kyanite_pillar",
+    "east": "cemm:block/raw_kyanite_pillar",
+    "south": "cemm:block/raw_kyanite_pillar",
+    "west": "cemm:block/raw_kyanite_pillar",
+    "particle": "cemm:block/chiseled_raw_kyanite_bricks_top"
+  },
+  "render_type": "solid"
+}

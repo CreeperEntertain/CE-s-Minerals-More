@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:cemm:chiseled_bronze"
+      },
+      {
+        "value": "TAG:minecraft:dirt"
+      },
+      {
+        "value": "TAG:cemm:chiseled_bronze"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:cemm:chiseled_bronze"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BronzeFlowerPot"
+    },
+    "name": "c_bronze_flower_pot",
+    "namespace": "mod"
+  }
+}

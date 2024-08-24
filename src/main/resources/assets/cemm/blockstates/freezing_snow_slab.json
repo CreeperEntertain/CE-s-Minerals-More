@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/freezing_snow_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/freezing_snow_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/freezing_snow_slab_full"
+    }
+  }
+}

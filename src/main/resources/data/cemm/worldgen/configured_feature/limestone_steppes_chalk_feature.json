@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "cemm:limestone",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:chalk"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 1,
+        "max_inclusive": 3
+      }
+    }
+  }
+}

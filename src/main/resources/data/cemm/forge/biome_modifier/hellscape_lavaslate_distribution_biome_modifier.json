@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hellscape",
+  "features": "cemm:hellscape_lavaslate_distribution",
+  "step": "lakes"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cliffpeat"
+    },
+    "b": {
+      "item": "minecraft:cobweb"
+    }
+  },
+  "result": {
+    "item": "cemm:old_cliffpeat",
+    "count": 1
+  }
+}

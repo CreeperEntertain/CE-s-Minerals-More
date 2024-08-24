@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:mountain_quartz",
+    "cemm:smokey_quartz",
+    "cemm:quartzite",
+    "minecraft:quartz"
+  ]
+}

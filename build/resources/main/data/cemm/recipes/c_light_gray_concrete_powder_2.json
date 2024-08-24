@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:limestone_powder"
+    },
+    "b": {
+      "item": "minecraft:light_gray_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:light_gray_concrete_powder",
+    "count": 2
+  }
+}

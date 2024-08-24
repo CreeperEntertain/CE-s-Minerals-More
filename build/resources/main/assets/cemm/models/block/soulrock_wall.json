@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/soulrock",
+    "particle": "cemm:block/soulrock"
+  },
+  "render_type": "solid"
+}

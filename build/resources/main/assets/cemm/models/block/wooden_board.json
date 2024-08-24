@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/board_small",
+    "up": "cemm:block/board_small",
+    "north": "cemm:block/board_middle",
+    "east": "cemm:block/board_left",
+    "south": "cemm:block/board_small",
+    "west": "cemm:block/board_right",
+    "particle": "cemm:block/board_small"
+  },
+  "render_type": "solid"
+}

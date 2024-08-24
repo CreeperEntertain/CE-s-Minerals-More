@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cinnabar_deposit",
+    "particle": "cemm:block/cinnabar_deposit"
+  },
+  "render_type": "solid"
+}

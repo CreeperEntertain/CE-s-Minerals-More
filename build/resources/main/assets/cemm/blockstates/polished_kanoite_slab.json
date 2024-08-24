@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/polished_kanoite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/polished_kanoite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/polished_kanoite_slab_full"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:orange_schist_bricks"
+  },
+  "result": "cemm:orange_schist_brick_slab"
+}

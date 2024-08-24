@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cut_cherry"
+    }
+  },
+  "result": {
+    "item": "minecraft:cherry_planks",
+    "count": 4
+  }
+}

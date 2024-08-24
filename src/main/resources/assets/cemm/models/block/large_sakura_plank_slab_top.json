@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/sakura_large_planks",
+    "top": "cemm:block/sakura_large_planks",
+    "side": "cemm:block/sakura_large_planks"
+  },
+  "render_type": "solid"
+}

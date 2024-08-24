@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mossy_polished_gray_granite",
+    "top": "cemm:block/mossy_polished_gray_granite",
+    "side": "cemm:block/mossy_polished_gray_granite"
+  },
+  "render_type": "solid"
+}

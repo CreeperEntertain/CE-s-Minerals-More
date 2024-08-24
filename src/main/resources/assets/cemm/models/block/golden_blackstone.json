@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/blackstone_top",
+    "up": "cemm:block/gold_block",
+    "north": "cemm:block/golden_blackstone",
+    "east": "cemm:block/golden_blackstone",
+    "south": "cemm:block/golden_blackstone",
+    "west": "cemm:block/golden_blackstone",
+    "particle": "cemm:block/blackstone_top"
+  },
+  "render_type": "solid"
+}

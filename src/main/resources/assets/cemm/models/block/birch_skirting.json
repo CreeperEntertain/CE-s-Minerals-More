@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/birch_skirting_up_down",
+    "up": "cemm:block/birch_skirting_up_down",
+    "north": "cemm:block/birch_skirting",
+    "east": "cemm:block/birch_skirting",
+    "south": "cemm:block/birch_skirting",
+    "west": "cemm:block/birch_skirting",
+    "particle": "cemm:block/birch_skirting_up_down"
+  },
+  "render_type": "solid"
+}

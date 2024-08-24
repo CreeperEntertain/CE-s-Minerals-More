@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/red_bush",
+  "textures": {
+    "all": "cemm:block/red_bush",
+    "particle": "cemm:block/red_bush",
+    "overgrowth_top": "cemm:block/red_overgrowth_overlay",
+    "bush": "cemm:block/red_bush",
+    "overgrowth_side": "cemm:block/red_overgrowth_overlay_side"
+  },
+  "render_type": "cutout"
+}

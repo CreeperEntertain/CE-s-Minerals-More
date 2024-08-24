@@ -1,0 +1,39 @@
+{
+  "type": "cemm:hellscape_fireshade_trees",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "cemm:structure_feature",
+          "config": {
+            "structure": "cemm:ebony_generator",
+            "ignored_blocks": "minecraft:air"
+          }
+        },
+        "placement": [
+          {
+            "type": "minecraft:block_predicate_filter",
+            "predicate": {
+              "type": "minecraft:all_of",
+              "predicates": [
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "minecraft:air"
+                },
+                {
+                  "type": "minecraft:matching_blocks",
+                  "blocks": "cemm:cinderloam",
+                  "offset": [
+                    0,
+                    -1,
+                    0
+                  ]
+                }
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

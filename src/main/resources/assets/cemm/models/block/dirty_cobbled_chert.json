@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/dirty_cobbled_chert",
+    "particle": "cemm:block/dirty_cobbled_chert"
+  },
+  "render_type": "solid"
+}

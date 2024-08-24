@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/rocky_obsidian",
+    "top": "cemm:block/rocky_obsidian",
+    "side": "cemm:block/rocky_obsidian"
+  },
+  "render_type": "solid"
+}

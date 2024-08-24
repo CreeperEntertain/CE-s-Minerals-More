@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:limestone_steppes",
+  "features": "cemm:limestone_feature",
+  "step": "underground_decoration"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:netherrack_paving"
+  },
+  "result": "cemm:netherrack_paving_stairs"
+}

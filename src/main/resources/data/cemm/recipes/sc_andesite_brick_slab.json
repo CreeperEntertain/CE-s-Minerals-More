@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:andesite_bricks"
+  },
+  "result": "cemm:andesite_brick_slab"
+}

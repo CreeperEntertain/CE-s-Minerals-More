@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:black_nether_brick_slab"
+    }
+  },
+  "result": {
+    "item": "cemm:chiseled_black_nether_bricks",
+    "count": 1
+  }
+}

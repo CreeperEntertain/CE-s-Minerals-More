@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_breccia",
+    "top": "cemm:block/polished_breccia",
+    "side": "cemm:block/polished_breccia"
+  },
+  "render_type": "solid"
+}

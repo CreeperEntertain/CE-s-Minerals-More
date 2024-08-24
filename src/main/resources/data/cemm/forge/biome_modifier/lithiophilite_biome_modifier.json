@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:blueschist_formations",
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "cemm:shungite_mines"
+  ],
+  "features": "cemm:lithiophilite",
+  "step": "underground_ores"
+}

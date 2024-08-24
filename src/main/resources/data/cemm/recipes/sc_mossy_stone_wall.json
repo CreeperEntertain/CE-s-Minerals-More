@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:mossy_stone"
+  },
+  "result": "cemm:mossy_stone_wall"
+}

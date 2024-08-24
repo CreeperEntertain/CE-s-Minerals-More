@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/dirty_cliffcobbles",
+    "top": "cemm:block/dirty_cliffcobbles",
+    "side": "cemm:block/dirty_cliffcobbles"
+  },
+  "render_type": "solid"
+}

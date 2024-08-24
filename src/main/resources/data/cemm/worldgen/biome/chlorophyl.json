@@ -1,0 +1,247 @@
+{
+  "has_precipitation": true,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "effects": {
+    "music": {
+      "sound": "cemm:music.hush",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "cemm:chlorophyl_spore"
+      },
+      "probability": 0.015
+    },
+    "foliage_color": -13369549,
+    "grass_color": -10027162,
+    "sky_color": -6684775,
+    "fog_color": -6684775,
+    "water_color": -13369396,
+    "water_fog_color": -16737895
+  },
+  "spawners": {
+    "monster": [],
+    "creature": [
+      {
+        "type": "cat",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "chicken",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "donkey",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "fox",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "frog",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "goat",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "horse",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "llama",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "mule",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "ocelot",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "parrot",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "pig",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "rabbit",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "sheep",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "turtle",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "wolf",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      }
+    ],
+    "ambient": [],
+    "axolotls": [
+      {
+        "type": "axolotl",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      }
+    ],
+    "underground_water_creature": [
+      {
+        "type": "glow_squid",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      }
+    ],
+    "water_creature": [
+      {
+        "type": "cod",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "pufferfish",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "squid",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      },
+      {
+        "type": "tropical_fish",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 8
+      }
+    ],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {
+    "air": [
+      "minecraft:cave",
+      "minecraft:cave_extra_underground",
+      "minecraft:canyon"
+    ]
+  },
+  "features": [
+    [],
+    [
+      "minecraft:lake_lava_underground"
+    ],
+    [
+      "minecraft:amethyst_geode",
+      "minecraft:large_dripstone",
+      "minecraft:forest_rock"
+    ],
+    [
+      "minecraft:fossil_upper",
+      "minecraft:fossil_lower",
+      "minecraft:monster_room",
+      "minecraft:monster_room_deep"
+    ],
+    [
+      "minecraft:desert_well"
+    ],
+    [],
+    [
+      "minecraft:ore_coal_upper",
+      "minecraft:ore_coal_lower",
+      "minecraft:ore_iron_upper",
+      "minecraft:ore_iron_middle",
+      "minecraft:ore_iron_small",
+      "minecraft:ore_gold",
+      "minecraft:ore_gold_lower",
+      "minecraft:ore_redstone",
+      "minecraft:ore_redstone_lower",
+      "minecraft:ore_diamond",
+      "minecraft:ore_diamond_large",
+      "minecraft:ore_diamond_buried",
+      "minecraft:ore_lapis",
+      "minecraft:ore_lapis_buried",
+      "minecraft:ore_copper",
+      "minecraft:underwater_magma",
+      "minecraft:ore_gold_extra",
+      "minecraft:ore_emerald"
+    ],
+    [],
+    [],
+    [
+      "minecraft:patch_large_fern",
+      "minecraft:patch_tall_grass",
+      "minecraft:patch_grass_taiga_2",
+      "minecraft:brown_mushroom_taiga",
+      "minecraft:red_mushroom_taiga",
+      "minecraft:patch_grass_forest",
+      "minecraft:bamboo_light",
+      "minecraft:patch_grass_jungle",
+      "minecraft:lush_caves_ceiling_vegetation",
+      "minecraft:cave_vines",
+      "minecraft:lush_caves_clay",
+      "minecraft:lush_caves_vegetation",
+      "minecraft:rooted_azalea_tree",
+      "minecraft:spore_blossom",
+      "minecraft:classic_vines_cave_feature",
+      "minecraft:patch_grass_plain",
+      "minecraft:flower_meadow",
+      "minecraft:trees_meadow",
+      "minecraft:patch_sugar_cane",
+      "minecraft:patch_pumpkin"
+    ],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

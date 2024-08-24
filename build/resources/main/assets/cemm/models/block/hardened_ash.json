@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/hardened_ash",
+    "particle": "cemm:block/hardened_ash"
+  },
+  "render_type": "solid"
+}

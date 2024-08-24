@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:granite_tiles"
+    },
+    "b": {
+      "tag": "minecraft:leaves"
+    }
+  },
+  "result": {
+    "item": "cemm:leafy_granite_tiles",
+    "count": 2
+  }
+}

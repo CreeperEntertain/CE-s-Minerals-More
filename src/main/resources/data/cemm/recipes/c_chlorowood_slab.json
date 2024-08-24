@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chlorowood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:chlorowood_slab",
+    "count": 6
+  }
+}

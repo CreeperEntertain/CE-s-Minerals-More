@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/terracotta_bricks",
+    "top": "cemm:block/terracotta_bricks",
+    "side": "cemm:block/terracotta_bricks"
+  },
+  "render_type": "solid"
+}

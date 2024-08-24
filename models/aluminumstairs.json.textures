@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "aluminum_stairs_side",
+        "Top": "aluminum_stairs_top",
+        "Front": "aluminum_stairs_front",
+        "Back": "aluminum_scaffolding"
+      },
+      "name": "default"
+    }
+  }
+}

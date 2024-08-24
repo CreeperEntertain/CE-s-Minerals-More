@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:dirty_mud"
+    },
+    {
+      "item": "cemm:dirty_mud"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "cemm:dirty_mud"
+    },
+    {
+      "item": "cemm:dirty_mud"
+    }
+  ],
+  "result": {
+    "item": "cemm:sludge",
+    "count": 4
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/end_stone",
+    "up": "cemm:block/purpur_moss",
+    "north": "cemm:block/purpur_moss_block",
+    "east": "cemm:block/purpur_moss_block",
+    "south": "cemm:block/purpur_moss_block",
+    "west": "cemm:block/purpur_moss_block",
+    "particle": "cemm:block/end_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/sakura_panelling",
+    "particle": "cemm:block/sakura_panelling"
+  },
+  "render_type": "solid"
+}

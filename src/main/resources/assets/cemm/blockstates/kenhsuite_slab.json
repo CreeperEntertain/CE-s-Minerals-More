@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/kenhsuite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/kenhsuite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/kenhsuite_slab_full"
+    }
+  }
+}

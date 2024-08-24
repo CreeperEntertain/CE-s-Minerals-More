@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cable_redirect",
+    "particle": "cemm:block/cable_redirect"
+  },
+  "render_type": "solid"
+}

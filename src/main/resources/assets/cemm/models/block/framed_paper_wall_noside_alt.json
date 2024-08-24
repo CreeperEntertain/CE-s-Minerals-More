@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside_alt",
+  "textures": {
+    "pane": "cemm:block/framed_paper"
+  },
+  "render_type": "solid"
+}

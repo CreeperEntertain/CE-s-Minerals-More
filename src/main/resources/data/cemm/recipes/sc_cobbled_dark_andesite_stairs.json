@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cobbled_dark_andesite"
+  },
+  "result": "cemm:cobbled_dark_andesite_stairs"
+}

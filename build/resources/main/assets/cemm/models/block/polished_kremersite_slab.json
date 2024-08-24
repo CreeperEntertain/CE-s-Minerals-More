@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_kremersite",
+    "top": "cemm:block/polished_kremersite",
+    "side": "cemm:block/polished_kremersite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/leafy_granite_tiles",
+    "top": "cemm:block/leafy_granite_tiles",
+    "side": "cemm:block/leafy_granite_tiles"
+  },
+  "render_type": "solid"
+}

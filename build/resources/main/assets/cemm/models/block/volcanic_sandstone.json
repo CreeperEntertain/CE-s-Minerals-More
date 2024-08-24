@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/volcanic_sandstone_bottom",
+    "up": "cemm:block/volcanic_sandstone_top",
+    "north": "cemm:block/volcanic_sandstone",
+    "east": "cemm:block/volcanic_sandstone",
+    "south": "cemm:block/volcanic_sandstone",
+    "west": "cemm:block/volcanic_sandstone",
+    "particle": "cemm:block/volcanic_sandstone_bottom"
+  },
+  "render_type": "solid"
+}

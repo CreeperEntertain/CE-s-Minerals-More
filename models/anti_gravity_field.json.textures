@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Anti Gravity Field Bottom": "anti_gravity_field",
+        "Anti Gravity Field Top": "anti_gravity_field_top",
+        "Jump Pad Side": "jump_pad_side"
+      },
+      "name": "default"
+    }
+  }
+}

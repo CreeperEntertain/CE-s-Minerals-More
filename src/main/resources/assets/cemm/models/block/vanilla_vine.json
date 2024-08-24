@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/vanilla_vine_top",
+    "particle": "cemm:block/vanilla_vine_top"
+  },
+  "render_type": "cutout"
+}

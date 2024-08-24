@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:tailored_stone"
+    },
+    "b": {
+      "item": "cemm:copper_wire"
+    },
+    "c": {
+      "item": "minecraft:blast_furnace"
+    }
+  },
+  "result": {
+    "item": "cemm:coal_generator",
+    "count": 1
+  }
+}

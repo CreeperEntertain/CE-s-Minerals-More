@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/hibiscus_top",
+    "particle": "cemm:block/hibiscus_top"
+  },
+  "render_type": "cutout"
+}

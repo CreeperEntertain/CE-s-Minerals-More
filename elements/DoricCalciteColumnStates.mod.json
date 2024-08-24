@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "DoricCalciteColumn",
+    "blockstateList": [
+      {
+        "texture": "calcite_pillar_top",
+        "textureTop": "calcite_pillar_top",
+        "textureLeft": "calcite_pillar_side",
+        "textureFront": "calcite_pillar_side",
+        "textureRight": "calcite_pillar_side",
+        "textureBack": "calcite_pillar_side",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "polished_calcite",
+        "textureTop": "calcite_pillar_top",
+        "textureLeft": "doric_calcite_pillar_bottom",
+        "textureFront": "doric_calcite_pillar_bottom",
+        "textureRight": "doric_calcite_pillar_bottom",
+        "textureBack": "doric_calcite_pillar_bottom",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "calcite_pillar_top",
+        "textureTop": "polished_calcite",
+        "textureLeft": "doric_calcite_pillar_top",
+        "textureFront": "doric_calcite_pillar_top",
+        "textureRight": "doric_calcite_pillar_top",
+        "textureBack": "doric_calcite_pillar_top",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

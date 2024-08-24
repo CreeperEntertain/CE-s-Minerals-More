@@ -1,0 +1,10 @@
+{
+  "type": "cemm:shellwood_tree_generator_feature",
+  "config": {
+    "structure": "cemm:ebony_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

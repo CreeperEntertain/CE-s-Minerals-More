@@ -1,0 +1,73 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "cemm:icy_snow"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "cemm:icy_snow"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "minecraft:snow_block"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "minecraft:snow_block"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "minecraft:ice"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "cemm:black_ice"
+            }
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

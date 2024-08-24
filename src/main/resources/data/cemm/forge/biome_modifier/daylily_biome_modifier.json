@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "sunflower_plains",
+    "swamp"
+  ],
+  "features": "cemm:daylily",
+  "step": "vegetal_decoration"
+}

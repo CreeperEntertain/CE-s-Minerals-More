@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "crimson_moss_block"
+      },
+      "name": "default"
+    }
+  }
+}

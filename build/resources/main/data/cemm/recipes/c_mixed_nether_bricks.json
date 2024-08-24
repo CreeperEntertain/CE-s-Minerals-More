@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:nether_bricks"
+    },
+    {
+      "item": "minecraft:red_nether_bricks"
+    },
+    {
+      "item": "minecraft:red_nether_bricks"
+    },
+    {
+      "item": "minecraft:nether_bricks"
+    }
+  ],
+  "result": {
+    "item": "cemm:mixed_nether_bricks",
+    "count": 4
+  }
+}

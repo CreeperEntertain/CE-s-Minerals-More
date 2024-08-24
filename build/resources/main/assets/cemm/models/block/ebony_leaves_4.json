@@ -1,0 +1,8 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "cemm:block/ebony_leaves",
+    "particle": "cemm:block/ebony_leaves"
+  },
+  "render_type": "cutout_mipped"
+}

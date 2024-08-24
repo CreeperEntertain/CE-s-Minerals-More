@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Gold": "oil_still",
+        "Cauldron Inner": "cauldron_inner",
+        "Cauldron Side": "cauldron_side",
+        "Cauldron Top": "cauldron_top"
+      },
+      "name": "default"
+    }
+  }
+}

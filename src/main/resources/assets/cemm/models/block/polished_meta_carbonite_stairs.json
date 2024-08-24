@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_meta_carbonite",
+    "top": "cemm:block/polished_meta_carbonite",
+    "side": "cemm:block/polished_meta_carbonite"
+  },
+  "render_type": "solid"
+}

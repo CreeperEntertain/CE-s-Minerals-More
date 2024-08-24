@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:amber_forest",
+  "features": "cemm:amber_bush",
+  "step": "vegetal_decoration"
+}

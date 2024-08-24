@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "improved_mobile_battery",
+        "Main": "improved_mobile_battery"
+      },
+      "name": "default"
+    }
+  }
+}

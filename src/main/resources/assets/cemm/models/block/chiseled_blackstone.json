@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chiseled_blackstone_tile",
+    "particle": "cemm:block/chiseled_blackstone_tile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:RockyBlackstone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:RockyBlackstoneWall"
+    },
+    "name": "sc_rocky_blackstone_wall",
+    "namespace": "mod"
+  }
+}

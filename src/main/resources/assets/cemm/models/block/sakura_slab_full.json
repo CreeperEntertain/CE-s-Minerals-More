@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/sakura_planks",
+    "top": "cemm:block/sakura_planks",
+    "side": "cemm:block/sakura_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/rope_ladder",
+    "particle": "cemm:block/rope_ladder"
+  },
+  "render_type": "cutout_mipped"
+}

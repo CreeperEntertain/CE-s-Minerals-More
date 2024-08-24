@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/painted_rough_marble_frame",
+    "particle": "cemm:block/painted_rough_marble_frame"
+  },
+  "render_type": "solid"
+}

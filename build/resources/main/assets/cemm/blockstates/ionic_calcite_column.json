@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/ionic_calcite_column"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/ionic_calcite_column_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "cemm:block/ionic_calcite_column_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "cemm:block/ionic_calcite_column_states_blockstate_2"
+    }
+  }
+}

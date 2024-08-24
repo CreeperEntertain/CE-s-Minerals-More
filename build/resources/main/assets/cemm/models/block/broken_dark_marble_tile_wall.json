@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/broken_dark_marble_tile",
+    "particle": "cemm:block/broken_dark_marble_tile"
+  },
+  "render_type": "solid"
+}

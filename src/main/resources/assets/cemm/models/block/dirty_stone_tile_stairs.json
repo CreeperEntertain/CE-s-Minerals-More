@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/dirty_stone_brick_tiles_transition",
+    "top": "cemm:block/dirty_stone_brick_tiles_transition",
+    "side": "cemm:block/dirty_stone_brick_tiles_transition"
+  },
+  "render_type": "solid"
+}

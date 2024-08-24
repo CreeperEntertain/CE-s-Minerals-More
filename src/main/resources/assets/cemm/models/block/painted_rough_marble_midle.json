@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/rough_marble",
+    "up": "cemm:block/rough_marble",
+    "north": "cemm:block/painted_rough_marble_middle",
+    "east": "cemm:block/painted_rough_marble_middle",
+    "south": "cemm:block/painted_rough_marble_middle",
+    "west": "cemm:block/painted_rough_marble_middle",
+    "particle": "cemm:block/rough_marble"
+  },
+  "render_type": "solid"
+}

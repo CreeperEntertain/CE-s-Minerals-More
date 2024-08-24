@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "bamboo_support_bottom",
+        "Support Side": "bamboo_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "b ",
+    "b "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chlorophyl_ingot"
+    },
+    "b": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cemm:chlorophyl_hoe",
+    "count": 1
+  }
+}

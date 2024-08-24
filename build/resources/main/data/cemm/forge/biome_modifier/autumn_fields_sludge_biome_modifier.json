@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:autumn_fields",
+  "features": "cemm:autumn_fields_sludge",
+  "step": "vegetal_decoration"
+}

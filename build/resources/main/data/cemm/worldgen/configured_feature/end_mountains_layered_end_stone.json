@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "minecraft:end_stone"
+    },
+    "state": {
+      "Name": "cemm:layered_end_stone",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 5,
+        "max_inclusive": 12
+      }
+    }
+  }
+}

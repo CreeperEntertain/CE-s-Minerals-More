@@ -1,0 +1,34 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "nighthoe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Nighthoe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "harvestLevel": 4,
+    "efficiency": 9.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 1.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:LunarbarkPlanks"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/kremersite",
+    "top": "cemm:block/kremersite",
+    "side": "cemm:block/kremersite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:vibrating_timberland",
+  "features": "cemm:shellwood_tree_generator_feature",
+  "step": "surface_structures"
+}

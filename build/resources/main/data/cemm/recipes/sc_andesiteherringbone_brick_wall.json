@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:andesite_herringbone_bricks"
+  },
+  "result": "cemm:andesite_herringbone_brick_wall"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chert_tile"
+    },
+    "b": {
+      "tag": "minecraft:dirt"
+    }
+  },
+  "result": {
+    "item": "cemm:dirty_chert_tile",
+    "count": 2
+  }
+}

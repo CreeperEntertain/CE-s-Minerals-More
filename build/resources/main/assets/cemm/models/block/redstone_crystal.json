@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/redstone_crystal",
+  "textures": {
+    "all": "cemm:block/redstone_crystal",
+    "particle": "cemm:block/redstone_crystal",
+    "0": "cemm:block/redstone_crystal"
+  },
+  "render_type": "solid"
+}

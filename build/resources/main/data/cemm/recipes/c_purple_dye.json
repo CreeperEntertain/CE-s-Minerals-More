@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:purpurite"
+    }
+  ],
+  "result": {
+    "item": "minecraft:purple_dye",
+    "count": 4
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:motor"
+    },
+    "b": {
+      "item": "cemm:conveyor_improved_bottom"
+    }
+  },
+  "result": {
+    "item": "cemm:conveyor_advanced_bottom",
+    "count": 1
+  }
+}

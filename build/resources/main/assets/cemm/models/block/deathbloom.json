@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/deathbloom",
+    "particle": "cemm:block/deathbloom"
+  },
+  "render_type": "cutout"
+}

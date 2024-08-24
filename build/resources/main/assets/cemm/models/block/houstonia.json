@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/houstonia",
+    "particle": "cemm:block/houstonia"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chiseled_gray_granite_bricks"
+    },
+    "b": {
+      "tag": "forge:mossy_ingredients"
+    }
+  },
+  "result": {
+    "item": "cemm:mossy_chiseled_gray_granite_bricks",
+    "count": 1
+  }
+}

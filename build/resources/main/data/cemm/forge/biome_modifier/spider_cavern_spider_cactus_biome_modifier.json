@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:spider_cavern",
+  "features": "cemm:spider_cavern_spider_cactus",
+  "step": "surface_structures"
+}

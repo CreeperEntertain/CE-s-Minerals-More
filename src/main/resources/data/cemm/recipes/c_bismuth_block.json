@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bismuth_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:bismuth_block",
+    "count": 1
+  }
+}

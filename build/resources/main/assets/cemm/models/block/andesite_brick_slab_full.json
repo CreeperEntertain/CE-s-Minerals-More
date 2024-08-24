@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/andesite_bricks",
+    "top": "cemm:block/andesite_bricks",
+    "side": "cemm:block/andesite_bricks"
+  },
+  "render_type": "solid"
+}

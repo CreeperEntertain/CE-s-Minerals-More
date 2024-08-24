@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate_wall_open",
+  "textures": {
+    "texture": "cemm:block/dark_end_spruce_planks"
+  },
+  "render_type": "solid"
+}

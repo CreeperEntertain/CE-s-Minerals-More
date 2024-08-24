@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/argilite_top",
+    "up": "cemm:block/argilite_top",
+    "north": "cemm:block/argilite",
+    "east": "cemm:block/argilite",
+    "south": "cemm:block/argilite",
+    "west": "cemm:block/argilite",
+    "particle": "cemm:block/argilite_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/mangrove_large_planks",
+    "top": "cemm:block/mangrove_large_planks",
+    "side": "cemm:block/mangrove_large_planks"
+  },
+  "render_type": "solid"
+}

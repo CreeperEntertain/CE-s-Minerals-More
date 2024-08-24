@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/ochre_plaster",
+    "top": "cemm:block/ochre_plaster",
+    "side": "cemm:block/ochre_plaster"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:amber_sentinel_logs"
+    }
+  },
+  "result": {
+    "item": "cemm:amber_sentinel_planks",
+    "count": 4
+  }
+}

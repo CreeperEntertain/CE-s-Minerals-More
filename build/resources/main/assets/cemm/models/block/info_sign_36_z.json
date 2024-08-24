@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is36z",
+  "textures": {
+    "all": "cemm:block/info_sign_empty",
+    "particle": "cemm:block/info_sign_empty",
+    "Front": "cemm:block/info_sign_z",
+    "Back": "cemm:block/info_sign_empty"
+  },
+  "render_type": "solid"
+}

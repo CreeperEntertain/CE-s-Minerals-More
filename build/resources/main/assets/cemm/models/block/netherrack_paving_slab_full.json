@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/netherrack_paving",
+    "top": "cemm:block/netherrack_paving",
+    "side": "cemm:block/netherrack_paving"
+  },
+  "render_type": "solid"
+}

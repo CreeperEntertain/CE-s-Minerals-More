@@ -1,0 +1,14 @@
+{
+  "type": "cemm:chlorophyl_chest_feature",
+  "config": {
+    "structure": "cemm:chlorophyl_chest",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      0,
+      -18,
+      0
+    ]
+  }
+}

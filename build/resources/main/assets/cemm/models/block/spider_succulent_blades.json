@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/spider_succulent_blades",
+    "particle": "cemm:block/spider_succulent_blades"
+  },
+  "render_type": "cutout"
+}

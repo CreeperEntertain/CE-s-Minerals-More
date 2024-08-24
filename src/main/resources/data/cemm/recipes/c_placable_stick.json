@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "cemm:placed_stick_bottom",
+    "count": 1
+  }
+}

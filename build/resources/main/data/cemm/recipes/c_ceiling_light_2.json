@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "bbb"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:processed_aluminum_bar"
+    },
+    "b": {
+      "item": "cemm:light_dust"
+    }
+  },
+  "result": {
+    "item": "cemm:ceiling_light",
+    "count": 2
+  }
+}

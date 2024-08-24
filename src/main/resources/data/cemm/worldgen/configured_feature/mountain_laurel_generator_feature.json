@@ -1,0 +1,15 @@
+{
+  "type": "cemm:mountain_laurel_generator_feature",
+  "config": {
+    "structure": "cemm:ebony_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ],
+    "offset": [
+      0,
+      1,
+      0
+    ]
+  }
+}

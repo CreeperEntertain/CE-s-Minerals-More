@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/coarse_sand",
+    "particle": "cemm:block/coarse_sand"
+  },
+  "render_type": "solid"
+}

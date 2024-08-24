@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/mylonite",
+    "particle": "cemm:block/mylonite"
+  },
+  "render_type": "solid"
+}

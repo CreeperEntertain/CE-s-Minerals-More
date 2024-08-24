@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/crimson_bush",
+  "textures": {
+    "all": "cemm:block/crimson_bush_destruction",
+    "particle": "cemm:block/crimson_bush_break",
+    "0": "cemm:block/crimson_bush"
+  },
+  "render_type": "cutout"
+}

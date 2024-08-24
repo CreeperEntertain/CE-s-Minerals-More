@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdd",
+    "e e"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lead_ingot"
+    },
+    "b": {
+      "item": "cemm:tin_ingot"
+    },
+    "c": {
+      "item": "cemm:capacitor"
+    },
+    "d": {
+      "item": "cemm:copper_wire"
+    },
+    "e": {
+      "item": "cemm:tantalum_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:oscillator",
+    "count": 1
+  }
+}

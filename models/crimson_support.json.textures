@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "crimson_support_bottom",
+        "Support Side": "crimson_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

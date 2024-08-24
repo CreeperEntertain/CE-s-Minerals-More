@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_nugget"
+    },
+    "b": {
+      "item": "cemm:petroleum_coke"
+    }
+  },
+  "result": {
+    "item": "minecraft:lantern",
+    "count": 2
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "cemm:end_forest_midland_end_spruce",
+  "config": {
+    "structure": "cemm:ebony_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ],
+    "offset": [
+      0,
+      1,
+      0
+    ]
+  }
+}

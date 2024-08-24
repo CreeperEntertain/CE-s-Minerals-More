@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ochre_plaster",
+    "up": "cemm:block/ochre_plaster",
+    "north": "cemm:block/snaking_ochre_plaster",
+    "east": "cemm:block/snaking_ochre_plaster",
+    "south": "cemm:block/snaking_ochre_plaster",
+    "west": "cemm:block/snaking_ochre_plaster",
+    "particle": "cemm:block/ochre_plaster"
+  },
+  "render_type": "solid"
+}

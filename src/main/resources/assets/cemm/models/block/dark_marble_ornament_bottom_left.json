@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/dark_marble_ornament_flooring_top_left",
+    "up": "cemm:block/dark_marble_ornament_flooring_bottom_left",
+    "north": "cemm:block/dark_marble_ornament_middle",
+    "east": "cemm:block/dark_marble_ornament_middle",
+    "south": "cemm:block/dark_marble_ornament_horizontal_left",
+    "west": "cemm:block/dark_marble_ornament_horizontal_right",
+    "particle": "cemm:block/dark_marble_ornament_flooring_top_left"
+  },
+  "render_type": "solid"
+}

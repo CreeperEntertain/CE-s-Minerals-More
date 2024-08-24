@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:misery_shovel",
+    "cemm:meta_carbonite_shovel",
+    "cemm:nightshovel",
+    "cemm:steel_shovel",
+    "cemm:chlorophyl_shovel",
+    "cemm:titanium_shovel",
+    "minecraft:wooden_shovel",
+    "minecraft:stone_shovel",
+    "minecraft:iron_shovel",
+    "minecraft:golden_shovel",
+    "minecraft:diamond_shovel",
+    "minecraft:netherite_shovel"
+  ]
+}

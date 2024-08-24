@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_raw_kyanite",
+    "top": "cemm:block/polished_raw_kyanite",
+    "side": "cemm:block/polished_raw_kyanite_slab"
+  },
+  "render_type": "solid"
+}

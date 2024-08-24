@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:stone_tile_slab"
+    },
+    {
+      "item": "cemm:stone_tile_slab"
+    },
+    {
+      "tag": "cemm:dirt_material"
+    }
+  ],
+  "result": {
+    "item": "cemm:dirty_stone_tile_slab",
+    "count": 2
+  }
+}

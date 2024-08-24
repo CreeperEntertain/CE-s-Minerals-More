@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/wild_grapes"
+    },
+    "facing=east": {
+      "model": "cemm:block/wild_grapes",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/wild_grapes",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/wild_grapes",
+      "y": 270
+    }
+  }
+}

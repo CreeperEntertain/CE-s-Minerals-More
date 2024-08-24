@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:marble"
+    },
+    "b": {
+      "item": "cemm:acid_bucket"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_marble",
+    "count": 8
+  }
+}

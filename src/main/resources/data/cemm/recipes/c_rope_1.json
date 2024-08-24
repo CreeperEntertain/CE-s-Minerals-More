@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:coiled_rope"
+    }
+  },
+  "result": {
+    "item": "cemm:rope",
+    "count": 9
+  }
+}

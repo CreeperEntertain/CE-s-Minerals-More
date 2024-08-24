@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:basalt_tiles"
+  },
+  "result": "cemm:basalt_tile_wall"
+}
