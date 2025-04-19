@@ -97,7 +97,7 @@ To visit the download pages for this mod, visit the main branch.
 - Made meteorites containing titanium or diamonds generate 2 times more often
 - Meteorites with diamonds now contain rough diamond blocks instead of regular ones
 - Void forests now display a fourth of the particles they did before
-- 1 powder snow bucket can now be crafted into 3 nowballs
+- 1 powder snow bucket can now be crafted into 3 snowballs
 - 4 snow blocks can now be crafted into 2 ice
 - Graphite can now be crafted into black dye
 
