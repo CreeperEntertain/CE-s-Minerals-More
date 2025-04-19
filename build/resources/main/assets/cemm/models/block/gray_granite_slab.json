@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/gray_granite",
+    "top": "cemm:block/gray_granite",
+    "side": "cemm:block/gray_granite"
+  },
+  "render_type": "solid"
+}

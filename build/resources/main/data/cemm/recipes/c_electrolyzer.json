@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:zinc_ingot"
+    },
+    "c": {
+      "item": "cemm:acid_bucket"
+    }
+  },
+  "result": {
+    "item": "cemm:electrolyzer",
+    "count": 1
+  }
+}

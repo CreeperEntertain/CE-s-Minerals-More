@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/fireshade_leaves",
+    "particle": "cemm:block/fireshade_leaves"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:shellwood_log"
+    }
+  },
+  "result": {
+    "item": "cemm:shellwood_wood",
+    "count": 3
+  }
+}

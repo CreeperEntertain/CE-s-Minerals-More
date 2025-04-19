@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:dark_marble_tile"
+  },
+  "result": "cemm:dark_marble_tile_wall"
+}

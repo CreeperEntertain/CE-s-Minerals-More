@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ebony_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:ebony_trap_door",
+    "count": 2
+  }
+}

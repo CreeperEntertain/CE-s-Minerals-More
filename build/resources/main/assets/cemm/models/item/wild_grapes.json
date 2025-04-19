@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/wild_grapes"
+  },
+  "render_type": "translucent"
+}

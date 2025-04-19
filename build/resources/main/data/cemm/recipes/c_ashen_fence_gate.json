@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:ashen_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:ashen_plank_fence_gate",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/dripstone_motif"
+    },
+    "facing=east": {
+      "model": "cemm:block/dripstone_motif",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/dripstone_motif",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/dripstone_motif",
+      "y": 270
+    }
+  }
+}

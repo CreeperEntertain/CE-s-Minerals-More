@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "minecraft:stone"
+    },
+    "state": {
+      "Name": "cemm:limestone",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "radius": 12
+  }
+}

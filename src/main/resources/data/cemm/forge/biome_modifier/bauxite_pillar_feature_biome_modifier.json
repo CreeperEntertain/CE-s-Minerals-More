@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:bauxite_steppes",
+    "cemm:red_wastes"
+  ],
+  "features": "cemm:bauxite_pillar_feature",
+  "step": "surface_structures"
+}

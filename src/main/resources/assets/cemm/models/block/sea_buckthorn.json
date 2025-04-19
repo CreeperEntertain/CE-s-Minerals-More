@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/sea_buckthorn_bush",
+    "particle": "cemm:block/sea_buckthorn_bush"
+  },
+  "render_type": "cutout"
+}

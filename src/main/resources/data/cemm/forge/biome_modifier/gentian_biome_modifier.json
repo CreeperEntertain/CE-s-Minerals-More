@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest"
+  ],
+  "features": "cemm:gentian",
+  "step": "vegetal_decoration"
+}

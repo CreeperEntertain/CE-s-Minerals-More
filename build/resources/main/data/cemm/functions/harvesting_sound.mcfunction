@@ -1,0 +1,1 @@
+playsound minecraft:block.sweet_berry_bush.pick_berries block @a ~ ~ ~ 1 1 0

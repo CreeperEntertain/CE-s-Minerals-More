@@ -1,0 +1,19 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "plains",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands",
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna",
+    "cemm:bauxite_steppes",
+    "cemm:red_wastes"
+  ],
+  "features": "cemm:red_sandstone_feature_2",
+  "step": "surface_structures"
+}

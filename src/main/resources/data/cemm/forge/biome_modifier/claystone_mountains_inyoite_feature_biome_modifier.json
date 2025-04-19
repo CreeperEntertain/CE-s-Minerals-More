@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:claystone_mountains",
+  "features": "cemm:claystone_mountains_inyoite_feature",
+  "step": "underground_decoration"
+}

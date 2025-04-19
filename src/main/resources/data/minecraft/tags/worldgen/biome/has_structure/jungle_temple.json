@@ -1,0 +1,20 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:shellcoast",
+    "cemm:ice_cave",
+    "cemm:autumn_fields",
+    "cemm:megachloron_surface",
+    "cemm:chlorophyl",
+    "cemm:niter_cave",
+    "cemm:granite_cave",
+    "cemm:andesite_cave",
+    "cemm:diorite_cave",
+    "cemm:sulfur_cave",
+    "cemm:quartz_cave",
+    "cemm:bismuth_cave",
+    "cemm:jasper_cave",
+    "cemm:marble_cave",
+    "cemm:gypsum_cave"
+  ]
+}

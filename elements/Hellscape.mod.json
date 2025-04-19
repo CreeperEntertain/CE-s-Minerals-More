@@ -1,0 +1,185 @@
+{
+  "_fv": 60,
+  "_type": "biome",
+  "definition": {
+    "name": "Hellscape",
+    "groundBlock": {
+      "value": "CUSTOM:Mulch"
+    },
+    "undergroundBlock": {
+      "value": "CUSTOM:VolcanicSoil"
+    },
+    "underwaterBlock": {
+      "value": "CUSTOM:Lavaslate"
+    },
+    "airColor": {
+      "value": -12969696,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -8511435,
+      "falpha": 0.0
+    },
+    "foliageColor": {
+      "value": -8511435,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -12969696,
+      "falpha": 0.0
+    },
+    "waterFogColor": {
+      "value": -12969696,
+      "falpha": 0.0
+    },
+    "ambientSound": {
+      "value": "ambient.nether_wastes.loop"
+    },
+    "additionsSound": {
+      "value": "ambient.nether_wastes.additions"
+    },
+    "music": {
+      "value": "CUSTOM:music.ashes"
+    },
+    "moodSound": {
+      "value": "ambient.nether_wastes.mood"
+    },
+    "moodSoundDelay": 6000,
+    "spawnParticles": true,
+    "particleToSpawn": {
+      "value": "CUSTOM:EmberParticle"
+    },
+    "particlesProbability": 1.5,
+    "rainingPossibility": 0.0,
+    "temperature": 1.0,
+    "spawnBiome": false,
+    "spawnInCaves": false,
+    "spawnBiomeNether": true,
+    "genTemperature": {
+      "min": 0.3286,
+      "max": 0.6898875764
+    },
+    "genHumidity": {
+      "min": 0.0,
+      "max": 1.0
+    },
+    "genContinentalness": {
+      "min": -1.0,
+      "max": -0.5
+    },
+    "genErosion": {
+      "min": 0.0,
+      "max": 0.55
+    },
+    "genWeirdness": {
+      "min": -0.3,
+      "max": 1.0
+    },
+    "treesPerChunk": 0,
+    "vanillaTreeType": "Default",
+    "treeType": 0,
+    "minHeight": 7,
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeVines": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "defaultFeatures": [
+      "Caves",
+      "Ores",
+      "FrozenTopLayer"
+    ],
+    "spawnStronghold": false,
+    "spawnMineshaft": false,
+    "spawnMineshaftMesa": false,
+    "spawnPillagerOutpost": false,
+    "villageType": "none",
+    "spawnWoodlandMansion": false,
+    "spawnJungleTemple": false,
+    "spawnDesertPyramid": false,
+    "spawnSwampHut": false,
+    "spawnIgloo": false,
+    "spawnOceanMonument": false,
+    "spawnShipwreck": false,
+    "spawnShipwreckBeached": false,
+    "spawnBuriedTreasure": false,
+    "oceanRuinType": "NONE",
+    "spawnNetherBridge": false,
+    "spawnNetherFossil": false,
+    "spawnBastionRemnant": false,
+    "spawnEndCity": false,
+    "spawnRuinedPortal": "NONE",
+    "spawnEntries": [
+      {
+        "entity": {
+          "value": "EntityMagmaCube"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 80,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityBlaze"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 20,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityWitherSkeleton"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 32,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityGhast"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 4,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntitySkeletonHorse"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 1,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityZombieHorse"
+        },
+        "minGroup": 1,
+        "maxGroup": 1,
+        "weight": 1,
+        "spawnType": "monster"
+      },
+      {
+        "entity": {
+          "value": "EntityPigZombie"
+        },
+        "minGroup": 1,
+        "maxGroup": 2,
+        "weight": 120,
+        "spawnType": "monster"
+      }
+    ]
+  }
+}

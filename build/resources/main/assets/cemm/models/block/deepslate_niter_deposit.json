@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/deepslate_niter_deposit_top",
+    "up": "cemm:block/deepslate_niter_deposit_top",
+    "north": "cemm:block/deepslate_niter_deposit",
+    "east": "cemm:block/deepslate_niter_deposit",
+    "south": "cemm:block/deepslate_niter_deposit",
+    "west": "cemm:block/deepslate_niter_deposit",
+    "particle": "cemm:block/deepslate_niter_deposit_top"
+  },
+  "render_type": "solid"
+}

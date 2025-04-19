@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna",
+    "cemm:shellcoast"
+  ],
+  "features": "cemm:sandy_soil_generation",
+  "step": "underground_decoration"
+}

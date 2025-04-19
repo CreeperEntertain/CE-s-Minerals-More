@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:end_biomes",
+  "features": "cemm:weathered_end_stone_feature",
+  "step": "underground_structures"
+}

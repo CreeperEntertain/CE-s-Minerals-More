@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/charred_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/charred_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/charred_slab_full"
+    }
+  }
+}

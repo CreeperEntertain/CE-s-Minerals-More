@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lanthanum_block"
+    }
+  },
+  "result": {
+    "item": "cemm:lanthanum_lump",
+    "count": 9
+  }
+}

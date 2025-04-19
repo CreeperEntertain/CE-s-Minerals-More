@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:PolishedFlint"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:PolishedFlintSlab"
+    },
+    "name": "sc_polished_flint_slab",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:thin_topaz_bricks"
+  },
+  "result": "cemm:thin_topaz_brick_slab"
+}

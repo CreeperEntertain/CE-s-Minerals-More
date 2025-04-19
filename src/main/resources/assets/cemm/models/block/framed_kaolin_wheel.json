@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/framed_kaolin_square",
+    "up": "cemm:block/framed_kaolin_square",
+    "north": "cemm:block/framed_kaolin_vertical_rotated",
+    "east": "cemm:block/framed_kaolin_vertical_rotated",
+    "south": "cemm:block/framed_kaolin_vertical_rotated",
+    "west": "cemm:block/framed_kaolin_vertical_rotated",
+    "particle": "cemm:block/framed_kaolin_square"
+  },
+  "render_type": "solid"
+}

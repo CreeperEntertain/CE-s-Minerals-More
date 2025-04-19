@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/dense_purpur_fern",
+    "particle": "cemm:block/dense_purpur_fern"
+  },
+  "render_type": "cutout"
+}

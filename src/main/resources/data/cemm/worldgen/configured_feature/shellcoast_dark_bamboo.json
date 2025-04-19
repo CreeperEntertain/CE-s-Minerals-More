@@ -1,0 +1,10 @@
+{
+  "type": "cemm:shellcoast_dark_bamboo",
+  "config": {
+    "structure": "cemm:ebony_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

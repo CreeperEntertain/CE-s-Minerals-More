@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:thin_smooth_basalt_bricks"
+  },
+  "result": "cemm:thin_smooth_basalt_brick_wall"
+}

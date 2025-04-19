@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lead_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:lead_ingot",
+    "count": 1
+  }
+}

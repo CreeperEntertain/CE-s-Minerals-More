@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:bauxite_steppes",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands",
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna"
+  ]
+}

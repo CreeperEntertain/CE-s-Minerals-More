@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/alternate_warpstone_bricks",
+    "particle": "cemm:block/alternate_warpstone_bricks"
+  },
+  "render_type": "solid"
+}

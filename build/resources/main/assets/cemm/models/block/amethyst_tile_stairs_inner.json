@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/amethyst_tiles",
+    "top": "cemm:block/amethyst_tiles",
+    "side": "cemm:block/amethyst_tiles"
+  },
+  "render_type": "solid"
+}

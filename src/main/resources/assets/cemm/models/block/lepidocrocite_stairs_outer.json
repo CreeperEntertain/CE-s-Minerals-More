@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/lepidocrocite",
+    "top": "cemm:block/lepidocrocite",
+    "side": "cemm:block/lepidocrocite"
+  },
+  "render_type": "solid"
+}

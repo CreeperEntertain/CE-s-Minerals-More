@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:end_forest_barrens",
+    "cemm:end_forest_highland",
+    "cemm:end_forest_midland"
+  ]
+}

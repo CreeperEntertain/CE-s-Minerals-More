@@ -1,0 +1,27 @@
+[19Apr2025 00:00:51.327] [Server thread/INFO] [net.minecraft.client.server.IntegratedServer/]: Saving and pausing game...
+[19Apr2025 00:00:51.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:overworld
+[19Apr2025 00:00:51.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:chlorophyl_dimension
+[19Apr2025 00:00:51.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:the_void
+[19Apr2025 00:00:51.362] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:icaron
+[19Apr2025 00:00:51.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:the_nether
+[19Apr2025 00:00:51.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:the_end
+[19Apr2025 00:00:51.982] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Dev lost connection: Disconnected
+[19Apr2025 00:00:51.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Dev left the game
+[19Apr2025 00:00:51.997] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Stopping singleplayer server as player logged out
+[19Apr2025 00:00:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19Apr2025 00:00:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19Apr2025 00:00:52.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19Apr2025 00:00:52.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:overworld
+[19Apr2025 00:00:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:chlorophyl_dimension
+[19Apr2025 00:00:52.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:the_void
+[19Apr2025 00:00:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/cemm:icaron
+[19Apr2025 00:00:52.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:the_nether
+[19Apr2025 00:00:52.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[TESTING TAKE 3]'/minecraft:the_end
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (TESTING TAKE 3): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (chlorophyl_dimension): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (the_void): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (icaron): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[19Apr2025 00:00:52.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[19Apr2025 00:00:54.434] [Render thread/INFO] [net.minecraft.client.Minecraft/]: Stopping!

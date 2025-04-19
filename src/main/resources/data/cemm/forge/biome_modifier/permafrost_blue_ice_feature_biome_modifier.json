@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:permafrost",
+  "features": "cemm:permafrost_blue_ice_feature",
+  "step": "underground_decoration"
+}

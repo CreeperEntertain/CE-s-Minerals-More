@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/shellwood_sapling",
+    "particle": "cemm:block/shellwood_sapling"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chromite",
+    "particle": "cemm:block/chromite"
+  },
+  "render_type": "solid"
+}

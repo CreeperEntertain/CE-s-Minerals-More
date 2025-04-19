@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "cemm:block/rotten_oak_planks",
+    "particle": "cemm:block/rotten_oak_planks"
+  },
+  "render_type": "solid"
+}

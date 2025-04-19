@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:improved_battery"
+    },
+    "c": {
+      "item": "cemm:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:improved_mobile_battery",
+    "count": 1
+  }
+}

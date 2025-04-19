@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:end_stone_lined_midori",
+    "cemm:rough_midori",
+    "cemm:midori",
+    "cemm:midori_wax_ore",
+    "cemm:cracked_midori"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smoking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 20,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smokingInputStack": {
+      "value": "CUSTOM:CobbledTerracottaBrickSlab"
+    },
+    "smokingReturnStack": {
+      "value": "CUSTOM:CobbledDarkTerracottaBrickSlab"
+    },
+    "name": "sm_cobble_dark_terracotta_brick_slab",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cloud",
+    "particle": "cemm:block/cloud"
+  },
+  "render_type": "translucent"
+}

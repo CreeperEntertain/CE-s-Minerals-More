@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/destroyed_blackstone_tiles",
+    "top": "cemm:block/destroyed_blackstone_tiles",
+    "side": "cemm:block/destroyed_blackstone_tiles"
+  },
+  "render_type": "solid"
+}

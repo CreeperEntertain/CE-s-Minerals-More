@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Campfire cooking",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 600,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "campfireCookingInputStack": {
+      "value": "TAG:minecraft:logs"
+    },
+    "campfireCookingReturnStack": {
+      "value": "CUSTOM:CharredLog"
+    },
+    "name": "cf_charred_log",
+    "namespace": "mod"
+  }
+}

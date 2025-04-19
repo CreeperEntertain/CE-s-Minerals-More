@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/broken_packed_ice",
+    "top": "cemm:block/broken_packed_ice",
+    "side": "cemm:block/broken_packed_ice"
+  },
+  "render_type": "solid"
+}

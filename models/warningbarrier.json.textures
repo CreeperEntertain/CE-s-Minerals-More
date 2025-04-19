@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Warning Stripe": "warning_stripe",
+        "Main": "stone"
+      },
+      "name": "default"
+    }
+  }
+}

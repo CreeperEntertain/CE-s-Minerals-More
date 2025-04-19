@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/frost_tile",
+    "particle": "cemm:block/frost_tile"
+  },
+  "render_type": "solid"
+}

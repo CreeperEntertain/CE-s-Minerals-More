@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:hyaloclastite"
+    }
+  },
+  "result": {
+    "item": "cemm:polished_hyaloclastite",
+    "count": 4
+  }
+}

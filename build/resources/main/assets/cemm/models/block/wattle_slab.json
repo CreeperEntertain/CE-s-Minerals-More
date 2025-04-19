@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/wattle",
+    "top": "cemm:block/wattle",
+    "side": "cemm:block/wattle"
+  },
+  "render_type": "solid"
+}

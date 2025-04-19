@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "minecraft:terracotta"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    },
+    {
+      "tag": "cemm:concretes"
+    }
+  ],
+  "result": {
+    "item": "cemm:terrazzo",
+    "count": 8
+  }
+}

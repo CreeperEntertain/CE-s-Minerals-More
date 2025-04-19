@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:misery_axe",
+    "cemm:meta_carbonite_axe",
+    "cemm:nightaxe",
+    "cemm:steel_axe",
+    "cemm:chlorophyl_axe",
+    "cemm:titanium_axe",
+    "minecraft:wooden_axe",
+    "minecraft:stone_axe",
+    "minecraft:iron_axe",
+    "minecraft:golden_axe",
+    "minecraft:diamond_axe",
+    "minecraft:netherite_axe"
+  ]
+}

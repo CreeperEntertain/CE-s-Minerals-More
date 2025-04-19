@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:jungle_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:jungle_skirting",
+    "count": 2
+  }
+}

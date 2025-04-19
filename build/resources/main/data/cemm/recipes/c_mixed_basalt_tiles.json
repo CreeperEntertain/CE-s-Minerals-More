@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:chiseled_basalt_tiles"
+    },
+    {
+      "item": "cemm:basalt_tiles"
+    }
+  ],
+  "result": {
+    "item": "cemm:mixed_basalt_tiles",
+    "count": 2
+  }
+}

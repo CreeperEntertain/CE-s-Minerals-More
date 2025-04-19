@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/ectoplasm_specs",
+    "particle": "cemm:block/ectoplasm_specs"
+  },
+  "render_type": "solid"
+}

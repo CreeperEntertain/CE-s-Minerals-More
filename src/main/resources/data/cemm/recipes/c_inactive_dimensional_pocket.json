@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:primedust"
+    },
+    "b": {
+      "item": "cemm:shiftfabric"
+    },
+    "c": {
+      "item": "cemm:xanthanium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:dimensional_pocket_inactive",
+    "count": 1
+  }
+}

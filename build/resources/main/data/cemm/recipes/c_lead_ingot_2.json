@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lead_block"
+    }
+  },
+  "result": {
+    "item": "cemm:lead_ingot",
+    "count": 9
+  }
+}

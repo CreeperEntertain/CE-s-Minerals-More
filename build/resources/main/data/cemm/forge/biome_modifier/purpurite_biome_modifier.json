@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:limestone_steppes",
+    "cemm:claystone_mountains",
+    "plains",
+    "stony_peaks",
+    "frozen_peaks",
+    "jagged_peaks"
+  ],
+  "features": "cemm:purpurite",
+  "step": "underground_ores"
+}

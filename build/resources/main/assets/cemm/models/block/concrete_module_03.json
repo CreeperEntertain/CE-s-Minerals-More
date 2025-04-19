@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/concrete_module_03",
+  "textures": {
+    "all": "cemm:block/concrete_tile",
+    "particle": "cemm:block/concrete_tile",
+    "square_concrete_hole.png": "cemm:block/square_concrete_hole",
+    "ziggurat_concrete.png": "cemm:block/ziggurat_concrete",
+    "reinforced_concrete.png": "cemm:block/rough_concrete"
+  },
+  "render_type": "solid"
+}

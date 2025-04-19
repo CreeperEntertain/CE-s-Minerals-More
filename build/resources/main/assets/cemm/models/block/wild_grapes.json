@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/grape_vine",
+  "textures": {
+    "all": "cemm:block/wild_grapes",
+    "particle": "cemm:block/wild_grapes",
+    "0": "cemm:block/wild_grapes"
+  },
+  "render_type": "cutout_mipped"
+}

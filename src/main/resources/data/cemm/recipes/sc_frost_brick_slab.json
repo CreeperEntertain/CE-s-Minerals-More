@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:frost_bricks"
+  },
+  "result": "cemm:frost_brick_slab"
+}

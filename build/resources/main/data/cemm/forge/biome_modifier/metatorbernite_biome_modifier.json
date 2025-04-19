@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:hornfels_overhangs",
+    "old_growth_pine_taiga",
+    "plains",
+    "old_growth_spruce_taiga",
+    "snowy_taiga",
+    "taiga"
+  ],
+  "features": "cemm:metatorbernite",
+  "step": "underground_ores"
+}

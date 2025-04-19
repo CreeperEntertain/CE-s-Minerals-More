@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "endbiome",
+  "definition": {
+    "biome": "PurpurSpikesHighland",
+    "generationType": "Highlands",
+    "weight": 1.25,
+    "midlands": "PurpurSpikesMidland",
+    "barrens": "PurpurSpikesBarrens",
+    "mixins": [
+      "BiomeSourceMixin",
+      "TheEndBiomeSourceMixin",
+      "ClimateSamplerMixin",
+      "NoiseConfigMixin",
+      "ChunkNoiseSamplerMixin",
+      "NoiseGeneratorSettingsAccess"
+    ]
+  }
+}

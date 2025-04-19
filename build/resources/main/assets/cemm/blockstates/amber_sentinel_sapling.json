@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/amber_sentinel_sapling"
+    },
+    "half=lower": {
+      "model": "cemm:block/amber_sentinel_sapling_bottom"
+    }
+  }
+}

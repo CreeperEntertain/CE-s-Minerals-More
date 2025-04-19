@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:jaspilite_brick_slab",
+    "count": 6
+  }
+}

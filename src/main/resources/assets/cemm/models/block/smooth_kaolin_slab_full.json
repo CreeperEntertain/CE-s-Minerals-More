@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/smooth_kaolin",
+    "top": "cemm:block/smooth_kaolin",
+    "side": "cemm:block/smooth_kaolin"
+  },
+  "render_type": "solid"
+}

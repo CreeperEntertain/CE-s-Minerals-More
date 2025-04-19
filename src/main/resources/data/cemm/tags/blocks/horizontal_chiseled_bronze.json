@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chiseled_bronze",
+    "cemm:chiseled_bronze_bottom",
+    "cemm:chiseled_bronze_bottom_left",
+    "cemm:chiseled_bronze_bottom_right",
+    "cemm:chiseled_bronze_horizontal",
+    "cemm:chiseled_bronze_horizontal_left",
+    "cemm:chiseled_bronze_horizontal_right",
+    "cemm:chiseled_bronze_left",
+    "cemm:chiseled_bronze_middle",
+    "cemm:chiseled_bronze_right",
+    "cemm:chiseled_bronze_top",
+    "cemm:chiseled_bronze_top_left",
+    "cemm:chiseled_bronze_top_right",
+    "cemm:chiseled_bronze_vertical",
+    "cemm:chiseled_bronze_vertical_bottom",
+    "cemm:chiseled_bronze_vertical_top"
+  ]
+}

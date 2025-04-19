@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blackstone"
+    },
+    "b": {
+      "item": "cemm:brimstone_block"
+    }
+  },
+  "result": {
+    "item": "cemm:blackstone_brimstone_deposit",
+    "count": 4
+  }
+}

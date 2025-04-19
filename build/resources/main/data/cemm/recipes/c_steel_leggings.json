@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:steel_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:steel_armor_leggings",
+    "count": 1
+  }
+}

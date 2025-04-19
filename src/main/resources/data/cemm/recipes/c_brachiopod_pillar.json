@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:brachiopod_fossil"
+    },
+    {
+      "item": "cemm:murkstone"
+    }
+  ],
+  "result": {
+    "item": "cemm:brachiopod_pillar",
+    "count": 1
+  }
+}

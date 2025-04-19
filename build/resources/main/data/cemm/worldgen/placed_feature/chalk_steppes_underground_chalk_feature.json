@@ -1,0 +1,27 @@
+{
+  "feature": "cemm:chalk_steppes_underground_chalk_feature",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 50
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -265
+        },
+        "max_inclusive": {
+          "absolute": 265
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

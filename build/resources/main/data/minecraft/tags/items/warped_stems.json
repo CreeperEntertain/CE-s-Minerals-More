@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cut_warped_stem",
+    "cemm:cut_stripped_warped_stem",
+    "minecraft:warped_stem",
+    "minecraft:stripped_warped_stem",
+    "minecraft:warped_hyphae",
+    "minecraft:stripped_warped_hyphae"
+  ]
+}

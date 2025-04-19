@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/dead_horn_coral_block",
+    "top": "cemm:block/azalea_top",
+    "side": "cemm:block/dead_horn_coral_block",
+    "overlay": "cemm:block/overgrowth_overlay",
+    "particle": "cemm:block/dead_horn_coral_block"
+  },
+  "render_type": "cutout_mipped"
+}

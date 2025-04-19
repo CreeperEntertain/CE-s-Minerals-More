@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:platinum_bit",
+    "cemm:amber",
+    "cemm:algae_carpet",
+    "cemm:decaying_algae_carpet",
+    "cemm:decayed_algae_carpet",
+    "cemm:dying_algae_carpet",
+    "cemm:dead_algae_carpet",
+    "cemm:placed_gold_ingot",
+    "cemm:orthocone_shell",
+    "cemm:blue_clam"
+  ]
+}

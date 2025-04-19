@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/broken_red_nether_bricks",
+    "top": "cemm:block/broken_red_nether_bricks",
+    "side": "cemm:block/broken_red_nether_bricks"
+  },
+  "render_type": "solid"
+}

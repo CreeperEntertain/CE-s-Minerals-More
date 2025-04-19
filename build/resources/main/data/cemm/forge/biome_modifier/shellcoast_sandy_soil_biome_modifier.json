@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shellcoast",
+  "features": "cemm:shellcoast_sandy_soil",
+  "step": "underground_decoration"
+}

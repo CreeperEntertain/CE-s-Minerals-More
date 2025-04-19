@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/polished_olivine_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/polished_olivine_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/polished_olivine_slab_full"
+    }
+  }
+}

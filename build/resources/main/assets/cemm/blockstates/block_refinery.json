@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/block_refinery"
+    },
+    "facing=east": {
+      "model": "cemm:block/block_refinery",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/block_refinery",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/block_refinery",
+      "y": 270
+    }
+  }
+}

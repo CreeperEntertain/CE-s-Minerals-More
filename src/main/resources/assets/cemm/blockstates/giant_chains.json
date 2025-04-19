@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/giant_chains",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/giant_chains"
+    },
+    "axis=z": {
+      "model": "cemm:block/giant_chains",
+      "x": 90
+    }
+  }
+}

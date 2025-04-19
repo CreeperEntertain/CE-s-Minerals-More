@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "cemm:cyan_ice"
+    },
+    "state": {
+      "Name": "cemm:clear_cyan_ice"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 4,
+        "max_inclusive": 8
+      }
+    }
+  }
+}

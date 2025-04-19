@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting_banner.png",
+    "width": 48,
+    "height": 48,
+    "title": "Banner",
+    "author": "Minecraft Dungeons"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:block/netherite_bars"
+  },
+  "render_type": "cutout_mipped"
+}

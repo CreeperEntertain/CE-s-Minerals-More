@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/limestone_tiles",
+    "particle": "cemm:block/limestone_tiles"
+  },
+  "render_type": "solid"
+}

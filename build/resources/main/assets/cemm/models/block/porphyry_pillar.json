@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/porphyry_pillar_top",
+    "up": "cemm:block/porphyry_pillar_top",
+    "north": "cemm:block/porphyry_pillar",
+    "east": "cemm:block/porphyry_pillar",
+    "south": "cemm:block/porphyry_pillar",
+    "west": "cemm:block/porphyry_pillar",
+    "particle": "cemm:block/porphyry_pillar_top"
+  },
+  "render_type": "solid"
+}

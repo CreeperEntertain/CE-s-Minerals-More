@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chiseled_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_planks",
+    "count": 1
+  }
+}

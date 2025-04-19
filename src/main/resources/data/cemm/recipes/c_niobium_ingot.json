@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:niobium_crystals"
+    }
+  },
+  "result": {
+    "item": "cemm:niobium_ingot",
+    "count": 1
+  }
+}

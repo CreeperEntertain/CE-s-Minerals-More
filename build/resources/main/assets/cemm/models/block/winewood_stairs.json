@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/winewood_planks",
+    "top": "cemm:block/winewood_planks",
+    "side": "cemm:block/winewood_planks"
+  },
+  "render_type": "solid"
+}

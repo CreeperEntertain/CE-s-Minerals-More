@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/hardened_sand_bricks",
+    "top": "cemm:block/hardened_sand_bricks",
+    "side": "cemm:block/hardened_sand_bricks"
+  },
+  "render_type": "solid"
+}

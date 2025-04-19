@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpurLog"
+      },
+      {
+        "value": "CUSTOM:PurpurLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:PurpurLog"
+      },
+      {
+        "value": "CUSTOM:PurpurLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:PurpurWood"
+    },
+    "name": "c_purpur_wood",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:dark_marble_ornament",
+    "cemm:dark_marble_ornament_bottom",
+    "cemm:dark_marble_ornament_bottom_left",
+    "cemm:dark_marble_ornament_bottom_right",
+    "cemm:dark_marble_ornament_top",
+    "cemm:darkmarble_ornament_top_left",
+    "cemm:dark_marble_ornament_top_right",
+    "cemm:dark_marble_ornament_left",
+    "cemm:dark_marble_ornament_right",
+    "cemm:dark_marble_ornament_middle",
+    "cemm:dark_marble_ornament_vertical",
+    "cemm:dark_marble_ornament_vertical_top",
+    "cemm:dark_marble_ornament_vertical_bottom",
+    "cemm:dark_marble_ornament_horizontal",
+    "cemm:dark_marble_ornament_horizontal_left",
+    "cemm:dark_marble_ornament_horizontal_right"
+  ]
+}

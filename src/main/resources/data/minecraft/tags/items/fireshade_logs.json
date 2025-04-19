@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:fireshade_log",
+    "cemm:stripped_fireshade_log",
+    "cemm:fireshade_wood",
+    "cemm:stripped_fireshade_wood",
+    "cemm:cut_fireshade",
+    "cemm:cut_stripped_fireshade"
+  ]
+}

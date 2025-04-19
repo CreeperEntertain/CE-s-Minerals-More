@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/packed_ice",
+    "top": "cemm:block/packed_ice",
+    "side": "cemm:block/packed_ice"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bcb",
+    "bdb"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chiseled_rough_marble"
+    },
+    "b": {
+      "item": "cemm:carved_rough_marble"
+    },
+    "c": {
+      "item": "minecraft:smithing_table"
+    },
+    "d": {
+      "item": "cemm:rough_marble"
+    }
+  },
+  "result": {
+    "item": "cemm:block_refinery",
+    "count": 1
+  }
+}

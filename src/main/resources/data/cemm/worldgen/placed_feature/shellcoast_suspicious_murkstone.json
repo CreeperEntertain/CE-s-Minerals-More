@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:shellcoast_suspicious_murkstone",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 2,
+          "max_inclusive": 10
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 40
+        },
+        "max_inclusive": {
+          "absolute": 72
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

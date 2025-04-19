@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/orpiment_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/orpiment_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/orpiment_slab_full"
+    }
+  }
+}

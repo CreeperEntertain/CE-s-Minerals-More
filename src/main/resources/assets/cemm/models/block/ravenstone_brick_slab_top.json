@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/ravenstone_bricks",
+    "top": "cemm:block/ravenstone_bricks",
+    "side": "cemm:block/ravenstone_bricks"
+  },
+  "render_type": "solid"
+}

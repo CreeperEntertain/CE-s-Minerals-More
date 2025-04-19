@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/tall_saltgrass_top",
+    "particle": "cemm:block/tall_saltgrass_top"
+  },
+  "render_type": "cutout"
+}

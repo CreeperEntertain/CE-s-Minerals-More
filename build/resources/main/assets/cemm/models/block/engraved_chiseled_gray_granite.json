@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_gray_granite_top",
+    "up": "cemm:block/chiseled_gray_granite_top",
+    "north": "cemm:block/chiseled_gray_granite_side_alt",
+    "east": "cemm:block/chiseled_gray_granite_side_alt",
+    "south": "cemm:block/chiseled_gray_granite_side_alt",
+    "west": "cemm:block/chiseled_gray_granite_side_alt",
+    "particle": "cemm:block/chiseled_gray_granite_top"
+  },
+  "render_type": "solid"
+}

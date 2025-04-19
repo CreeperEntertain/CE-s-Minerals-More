@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:aluminum_scrap"
+    },
+    {
+      "item": "cemm:aluminum_scrap"
+    },
+    {
+      "item": "cemm:aluminum_scrap"
+    },
+    {
+      "item": "cemm:aluminum_scrap"
+    }
+  ],
+  "result": {
+    "item": "cemm:aluminum_ingot",
+    "count": 1
+  }
+}

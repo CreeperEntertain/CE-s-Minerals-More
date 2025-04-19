@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/warped_bush",
+  "textures": {
+    "all": "cemm:block/warped_bush_destruction",
+    "particle": "cemm:block/warped_bush_break",
+    "0": "cemm:block/warped_bush"
+  },
+  "render_type": "cutout"
+}

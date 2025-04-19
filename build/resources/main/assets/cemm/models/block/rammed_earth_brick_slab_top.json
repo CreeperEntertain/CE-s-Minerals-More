@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/rammed_earth_bricks",
+    "top": "cemm:block/rammed_earth_bricks",
+    "side": "cemm:block/rammed_earth_bricks"
+  },
+  "render_type": "solid"
+}

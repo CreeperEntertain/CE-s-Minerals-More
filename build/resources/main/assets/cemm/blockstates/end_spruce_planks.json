@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/end_spruce_planks",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/end_spruce_planks"
+    },
+    "axis=z": {
+      "model": "cemm:block/end_spruce_planks",
+      "x": 90
+    }
+  }
+}

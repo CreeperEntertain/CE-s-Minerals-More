@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:wattle_tiles"
+  },
+  "result": "cemm:wattle_tile_stairs"
+}

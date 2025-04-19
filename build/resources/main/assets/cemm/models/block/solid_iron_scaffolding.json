@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/solid_iron_scaffolding",
+  "textures": {
+    "all": "cemm:block/iron_scaffolding_side",
+    "particle": "cemm:block/iron_scaffolding_side",
+    "Side": "cemm:block/iron_scaffolding_side",
+    "Top": "cemm:block/iron_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

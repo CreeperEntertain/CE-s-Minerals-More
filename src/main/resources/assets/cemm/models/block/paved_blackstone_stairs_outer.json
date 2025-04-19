@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/blackstone_paving",
+    "top": "cemm:block/blackstone_paving",
+    "side": "cemm:block/blackstone_paving"
+  },
+  "render_type": "solid"
+}

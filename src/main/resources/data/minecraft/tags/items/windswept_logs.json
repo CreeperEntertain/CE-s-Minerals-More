@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:windswept_log",
+    "cemm:stripped_windswept_log",
+    "cemm:windswept_wood",
+    "cemm:stripped_windswept_wood",
+    "cemm:cut_windswept",
+    "cemm:cut_stripped_windswept"
+  ]
+}

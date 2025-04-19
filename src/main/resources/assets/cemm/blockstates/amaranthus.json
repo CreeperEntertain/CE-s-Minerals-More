@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/amaranthus"
+    },
+    "half=lower": {
+      "model": "cemm:block/amaranthus_bottom"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/blackstone_paving",
+    "top": "cemm:block/blackstone_paving",
+    "side": "cemm:block/blackstone_paving"
+  },
+  "render_type": "solid"
+}

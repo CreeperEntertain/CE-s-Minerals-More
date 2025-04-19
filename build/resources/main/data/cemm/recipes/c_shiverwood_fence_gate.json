@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:shiverwood_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:shiverwood_fence_gate",
+    "count": 1
+  }
+}

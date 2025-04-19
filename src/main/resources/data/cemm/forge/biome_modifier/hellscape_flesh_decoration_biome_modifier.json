@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hellscape",
+  "features": "cemm:hellscape_flesh_decoration",
+  "step": "underground_ores"
+}

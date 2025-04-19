@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_roselite",
+    "top": "cemm:block/polished_roselite",
+    "side": "cemm:block/polished_roselite"
+  },
+  "render_type": "solid"
+}

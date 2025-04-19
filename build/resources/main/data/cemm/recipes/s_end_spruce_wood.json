@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:end_spruce_log"
+    }
+  },
+  "result": {
+    "item": "cemm:end_spruce_wood",
+    "count": 3
+  }
+}

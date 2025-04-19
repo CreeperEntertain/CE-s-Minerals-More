@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "winter_oak_support_bottom",
+        "Support Side": "winter_oak_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

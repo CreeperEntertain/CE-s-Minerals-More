@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_graphite_block",
+    "top": "cemm:block/polished_graphite_block",
+    "side": "cemm:block/polished_graphite_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:cliffstone"
+    },
+    {
+      "item": "cemm:dark_marble"
+    }
+  ],
+  "result": {
+    "item": "cemm:cliffstone_ornament",
+    "count": 2
+  }
+}

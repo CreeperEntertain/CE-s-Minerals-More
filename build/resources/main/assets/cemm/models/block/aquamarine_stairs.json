@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/aquamarine",
+    "top": "cemm:block/aquamarine",
+    "side": "cemm:block/aquamarine"
+  },
+  "render_type": "solid"
+}

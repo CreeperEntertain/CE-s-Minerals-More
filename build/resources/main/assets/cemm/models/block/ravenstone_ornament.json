@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ravenstone",
+    "up": "cemm:block/framed_ravenstone",
+    "north": "cemm:block/ravenstone_ornament",
+    "east": "cemm:block/ravenstone_ornament",
+    "south": "cemm:block/ravenstone_ornament",
+    "west": "cemm:block/ravenstone_ornament",
+    "particle": "cemm:block/ravenstone"
+  },
+  "render_type": "solid"
+}

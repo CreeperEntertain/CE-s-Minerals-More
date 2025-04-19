@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/polished_nvaculite",
+    "particle": "cemm:block/polished_nvaculite"
+  },
+  "render_type": "solid"
+}

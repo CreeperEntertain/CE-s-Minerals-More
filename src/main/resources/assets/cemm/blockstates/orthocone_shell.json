@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/orthocone_shell"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/orthocone_shell_states_blockstate_0"
+    }
+  }
+}

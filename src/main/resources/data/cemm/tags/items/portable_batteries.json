@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:mobile_battery",
+    "cemm:improved_mobile_battery",
+    "cemm:advanced_mobile_battery"
+  ]
+}

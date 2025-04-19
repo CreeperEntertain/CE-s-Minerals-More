@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/algae_carpet",
+  "textures": {
+    "all": "cemm:block/algae",
+    "particle": "cemm:block/algae",
+    "0": "cemm:block/algae"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "cemm:desert_coarse_sand_feature",
+  "step": "underground_ores"
+}

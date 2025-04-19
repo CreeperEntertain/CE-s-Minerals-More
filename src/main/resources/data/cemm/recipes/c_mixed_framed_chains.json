@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:framed_gold_chains"
+    },
+    {
+      "item": "cemm:framed_chains"
+    }
+  ],
+  "result": {
+    "item": "cemm:mixed_framed_chains",
+    "count": 2
+  }
+}

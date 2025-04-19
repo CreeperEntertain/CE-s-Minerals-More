@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/megachloron_portal_bottom",
+    "up": "cemm:block/megachloron_portal_top",
+    "north": "cemm:block/megachloron_portal_side",
+    "east": "cemm:block/megachloron_portal_side",
+    "south": "cemm:block/megachloron_portal_side",
+    "west": "cemm:block/megachloron_portal_side",
+    "particle": "cemm:block/megachloron_portal_bottom"
+  },
+  "render_type": "cutout_mipped"
+}

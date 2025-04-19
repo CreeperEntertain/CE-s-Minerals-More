@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:midori_quarry_highland",
+  "features": "cemm:midori_highland_midori_feature",
+  "step": "raw_generation"
+}

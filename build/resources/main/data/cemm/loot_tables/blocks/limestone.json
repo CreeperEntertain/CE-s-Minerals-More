@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/limestone",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:limestone_pieces",
+          "functions": [
+            {
+              "count": 4,
+              "function": "minecraft:set_count"
+            },
+            {
+              "function": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

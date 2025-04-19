@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:wooden_slab"
+    }
+  },
+  "result": {
+    "item": "cemm:wooden_bin",
+    "count": 1
+  }
+}

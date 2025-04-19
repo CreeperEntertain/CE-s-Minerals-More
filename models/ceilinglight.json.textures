@@ -1,0 +1,13 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Aluminum": "aluminum",
+        "White Light": "white_light",
+        "missing": "aluminum",
+        "Claystone": "claystone"
+      },
+      "name": "default"
+    }
+  }
+}

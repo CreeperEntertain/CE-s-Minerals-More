@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/gray_urn",
+  "textures": {
+    "all": "cemm:block/gray_urn",
+    "particle": "cemm:block/gray_urn",
+    "0": "cemm:block/gray_urn"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_hornfels"
+  },
+  "result": "cemm:polished_hornfels_stairs"
+}

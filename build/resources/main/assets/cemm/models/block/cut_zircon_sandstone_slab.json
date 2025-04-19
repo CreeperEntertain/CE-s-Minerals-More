@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/zircon_sandstone_top",
+    "top": "cemm:block/zircon_sandstone_top",
+    "side": "cemm:block/cut_zircon_sandstone"
+  },
+  "render_type": "solid"
+}

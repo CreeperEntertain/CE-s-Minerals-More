@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/polished_hornfels_top",
+    "up": "cemm:block/polished_hornfels_top",
+    "north": "cemm:block/polished_hornfels",
+    "east": "cemm:block/polished_hornfels",
+    "south": "cemm:block/polished_hornfels",
+    "west": "cemm:block/polished_hornfels",
+    "particle": "cemm:block/polished_hornfels_top"
+  },
+  "render_type": "solid"
+}

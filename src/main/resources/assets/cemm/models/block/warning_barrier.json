@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/warningbarrier",
+  "textures": {
+    "all": "cemm:block/stone",
+    "particle": "cemm:block/stone",
+    "Warning Stripe": "cemm:block/warning_stripe",
+    "Main": "cemm:block/stone"
+  },
+  "render_type": "solid"
+}

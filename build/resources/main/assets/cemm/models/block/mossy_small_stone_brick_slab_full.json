@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mossy_small_stone_bricks",
+    "top": "cemm:block/mossy_small_stone_bricks",
+    "side": "cemm:block/mossy_small_stone_bricks"
+  },
+  "render_type": "solid"
+}

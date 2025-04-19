@@ -1,0 +1,25 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:lunarbark_sapling",
+    "cemm:insta_lunarbark_sapling",
+    "cemm:chlorowood_sapling",
+    "cemm:ebony_sapling",
+    "cemm:ashen_sapling",
+    "cemm:shiverwood_sapling",
+    "cemm:shinewood_sapling",
+    "cemm:shellwood_sapling",
+    "minecraft:oak_sapling",
+    "minecraft:spruce_sapling",
+    "minecraft:birch_sapling",
+    "minecraft:jungle_sapling",
+    "minecraft:acacia_sapling",
+    "minecraft:dark_oak_sapling",
+    "minecraft:cherry_sapling",
+    "minecraft:azalea",
+    "minecraft:flowering_azalea",
+    "minecraft:mangrove_propagule",
+    "cemm:amber_sentinel_sapling",
+    "cemm:mountain_laurel_sapling"
+  ]
+}

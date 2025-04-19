@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "d d"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:osmium_ingot"
+    },
+    "c": {
+      "item": "cemm:lithium_ingot"
+    },
+    "d": {
+      "item": "cemm:platinum_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:capacitor",
+    "count": 1
+  }
+}

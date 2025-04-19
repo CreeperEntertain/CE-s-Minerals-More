@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:dark_packed_mud"
+  },
+  "result": "cemm:polished_dark_mud"
+}

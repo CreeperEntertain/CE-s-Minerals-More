@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:cemm:aquamarine_blocks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:ThinAquamarineBricks"
+    },
+    "name": "sc_thin_aquamarine_bricks",
+    "namespace": "mod"
+  }
+}

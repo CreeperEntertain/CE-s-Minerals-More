@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "polished_murkstone.png": "polished_murkstone",
+        "brachiopod_pillar.png": "brachiopod_pillar"
+      },
+      "name": "default"
+    }
+  }
+}

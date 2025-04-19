@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/moon_rock_bottom",
+    "up": "cemm:block/moon_rock_top",
+    "north": "cemm:block/moon_rock_side",
+    "east": "cemm:block/moon_rock_side",
+    "south": "cemm:block/moon_rock_side",
+    "west": "cemm:block/moon_rock_side",
+    "particle": "cemm:block/moon_rock_bottom"
+  },
+  "render_type": "solid"
+}

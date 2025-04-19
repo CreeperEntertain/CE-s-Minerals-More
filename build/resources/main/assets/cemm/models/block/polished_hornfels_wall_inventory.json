@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/polished_hornfels_top",
+    "particle": "cemm:block/polished_hornfels_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:spruce_planks"
+    },
+    "b": {
+      "item": "cemm:cut_stripped_spruce"
+    }
+  },
+  "result": {
+    "item": "cemm:large_spruce_planks",
+    "count": 12
+  }
+}

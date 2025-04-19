@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/mossy_packed_mud",
+    "top": "cemm:block/mossy_packed_mud",
+    "side": "cemm:block/mossy_packed_mud"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "aca",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:aluminum_scaffolding"
+    },
+    "b": {
+      "item": "cemm:hafnium_carbide_pellet"
+    },
+    "c": {
+      "item": "cemm:coated_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:thermal_pipes",
+    "count": 1
+  }
+}

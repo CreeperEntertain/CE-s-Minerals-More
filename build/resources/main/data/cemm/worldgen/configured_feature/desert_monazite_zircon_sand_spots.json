@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 30,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sand"
+                },
+                "state": {
+                  "Name": "cemm:monazite_sand"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sandstone"
+                },
+                "state": {
+                  "Name": "cemm:monazite_sandstone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 30,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sand"
+                },
+                "state": {
+                  "Name": "cemm:zircon_sand"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sandstone"
+                },
+                "state": {
+                  "Name": "cemm:zircon_sandstone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

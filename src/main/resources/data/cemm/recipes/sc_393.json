@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:pyroxmangite"
+  },
+  "result": "cemm:polished_pyroxmangite_slab"
+}

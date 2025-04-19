@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:murkstone_tiles"
+  },
+  "result": "cemm:murkstone_tile_stairs"
+}

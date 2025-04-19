@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:salt_bricks"
+  },
+  "result": "cemm:salt_brick_wall"
+}

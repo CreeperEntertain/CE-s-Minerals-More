@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/novaculite_bricks",
+    "top": "cemm:block/novaculite_bricks",
+    "side": "cemm:block/novaculite_bricks"
+  },
+  "render_type": "solid"
+}

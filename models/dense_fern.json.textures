@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Dense Fern": "dense_fern",
+        "Fern": "fern"
+      },
+      "name": "default"
+    }
+  }
+}

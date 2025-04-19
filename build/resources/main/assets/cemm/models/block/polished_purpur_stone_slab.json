@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_purpur_stone",
+    "top": "cemm:block/polished_purpur_stone",
+    "side": "cemm:block/polished_purpur_stone"
+  },
+  "render_type": "solid"
+}

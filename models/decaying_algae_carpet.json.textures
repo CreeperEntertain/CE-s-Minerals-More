@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "decaying_algae"
+      },
+      "name": "default"
+    }
+  }
+}

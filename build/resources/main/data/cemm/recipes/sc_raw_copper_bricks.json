@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "minecraft:raw_copper_block"
+  },
+  "result": "cemm:raw_copper_bricks"
+}

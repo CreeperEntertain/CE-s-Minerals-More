@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/tuff",
+    "up": "cemm:block/firegrass_block_top",
+    "north": "cemm:block/firegrass_block_side_tuff",
+    "east": "cemm:block/firegrass_block_side_tuff",
+    "south": "cemm:block/firegrass_block_side_tuff",
+    "west": "cemm:block/firegrass_block_side_tuff",
+    "particle": "cemm:block/tuff"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/dark_bamboo_ladder",
+  "textures": {
+    "all": "cemm:block/dark_bamboo_ladder",
+    "particle": "cemm:block/dark_bamboo_ladder",
+    "0": "cemm:block/dark_bamboo_ladder"
+  },
+  "render_type": "cutout_mipped"
+}

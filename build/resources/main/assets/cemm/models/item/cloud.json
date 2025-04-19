@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/bottled_cloud"
+  },
+  "render_type": "translucent"
+}

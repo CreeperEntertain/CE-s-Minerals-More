@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/salt_block",
+    "top": "cemm:block/salt_block",
+    "side": "cemm:block/salt_block"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/cobbled_lavaslate",
+    "particle": "cemm:block/cobbled_lavaslate"
+  },
+  "render_type": "solid"
+}

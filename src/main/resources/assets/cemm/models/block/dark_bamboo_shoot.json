@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/dark_bamboo_shoot",
+    "particle": "cemm:block/dark_bamboo_shoot"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shellcoast",
+  "features": "cemm:shellcoast_dark_bamboo",
+  "step": "surface_structures"
+}

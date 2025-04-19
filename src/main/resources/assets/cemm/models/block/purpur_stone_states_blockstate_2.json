@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/layered_end_stone_top",
+    "up": "cemm:block/layered_end_stone_top",
+    "north": "cemm:block/purpur_stone_cover",
+    "east": "cemm:block/purpur_stone_cover",
+    "south": "cemm:block/purpur_stone_cover",
+    "west": "cemm:block/purpur_stone_cover",
+    "particle": "cemm:block/purpur_stone_top"
+  },
+  "render_type": "solid"
+}

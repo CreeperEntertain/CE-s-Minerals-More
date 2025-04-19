@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:wattle_mosaic"
+  },
+  "result": "cemm:wattle_mosaic_wall"
+}

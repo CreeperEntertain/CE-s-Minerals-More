@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:smolderbark_log",
+    "cemm:stripped_smolderbark_log",
+    "cemm:smolderbark_wood",
+    "cemm:stripped_smolderbark_wood",
+    "cemm:cut_smolderbark",
+    "cemm:cut_stripped_smolderbark"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shellcoast",
+  "features": "cemm:shellcoast_murkstone_blobs",
+  "step": "local_modifications"
+}

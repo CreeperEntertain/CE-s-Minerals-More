@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/broken_polished_grimstone",
+    "top": "cemm:block/broken_polished_grimstone",
+    "side": "cemm:block/broken_polished_grimstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/giant_chains",
+    "particle": "cemm:block/giant_chains"
+  },
+  "render_type": "cutout_mipped"
+}

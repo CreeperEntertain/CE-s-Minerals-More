@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:vertical_chiseled_bronze",
+    "cemm:vertical_chiseled_bronze_top",
+    "cemm:vertical_chiseled_bronze_middle",
+    "cemm:vertical_chiseled_bronze_bottom"
+  ]
+}

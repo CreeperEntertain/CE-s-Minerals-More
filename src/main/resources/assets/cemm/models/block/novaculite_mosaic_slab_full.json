@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/novaculite_mosaic",
+    "top": "cemm:block/novaculite_mosaic",
+    "side": "cemm:block/novaculite_mosaic"
+  },
+  "render_type": "solid"
+}

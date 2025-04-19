@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/graywacke_tiles",
+    "particle": "cemm:block/graywacke_tiles"
+  },
+  "render_type": "solid"
+}

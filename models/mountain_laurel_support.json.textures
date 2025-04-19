@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "mountain_laurel_support_bottom",
+        "Support Side": "mountain_laurel_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

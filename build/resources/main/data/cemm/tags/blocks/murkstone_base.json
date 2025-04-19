@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:sand",
+    "#minecraft:stone_ore_replaceables",
+    "#minecraft:deepslate_ore_replaceables",
+    "#cemm:moss_blocks",
+    "cemm:overgrown_clay",
+    "minecraft:clay",
+    "#minecraft:dirt",
+    "#cemm:grassblocks"
+  ]
+}

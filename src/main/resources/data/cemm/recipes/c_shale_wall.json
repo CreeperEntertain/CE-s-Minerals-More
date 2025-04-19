@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:shale"
+    }
+  },
+  "result": {
+    "item": "cemm:shale_wall",
+    "count": 6
+  }
+}

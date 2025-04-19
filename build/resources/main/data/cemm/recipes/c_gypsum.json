@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:gypsum_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:gypsum",
+    "count": 1
+  }
+}

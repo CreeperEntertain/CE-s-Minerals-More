@@ -1,0 +1,26 @@
+{
+  "display": {
+    "icon": {
+      "item": "cemm:concretion"
+    },
+    "title": {
+      "translate": "advancements.geode_breaker.title"
+    },
+    "description": {
+      "translate": "advancements.geode_breaker.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "geode_breaker_0": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "rewards": {
+    "experience": 100
+  },
+  "parent": "cemm:merlins_beach"
+}

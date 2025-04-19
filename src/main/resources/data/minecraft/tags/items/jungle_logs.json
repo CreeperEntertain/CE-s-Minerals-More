@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:cut_jungle",
+    "cemm:cut_stripped_jungle",
+    "minecraft:jungle_log",
+    "minecraft:stripped_jungle_log",
+    "minecraft:jungle_wood",
+    "minecraft:stripped_jungle_wood"
+  ]
+}
