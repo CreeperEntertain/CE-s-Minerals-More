@@ -1,0 +1,67 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 64,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sand"
+                },
+                "state": {
+                  "Name": "cemm:alabaster_sand"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sandstone"
+                },
+                "state": {
+                  "Name": "cemm:alabaster"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 32,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sand"
+                },
+                "state": {
+                  "Name": "cemm:alabaster_sand"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "minecraft:sandstone"
+                },
+                "state": {
+                  "Name": "cemm:alabaster"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

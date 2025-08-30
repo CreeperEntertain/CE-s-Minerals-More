@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cemm:block/tin_block"
+    }
+  }
+}

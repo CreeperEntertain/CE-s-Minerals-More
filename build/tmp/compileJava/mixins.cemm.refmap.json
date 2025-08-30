@@ -1,0 +1,52 @@
+{
+  "mappings": {
+    "net/centertain/cemm/mixins/ChorusPlantBlockMixin": {
+      "canSurvive": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+      "Lnet/minecraft/world/level/block/ChorusPlantBlock;getStateForPlacement(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_51710_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;",
+      "getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_5573_(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;",
+      "updateShape": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_7417_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;"
+    },
+    "net/centertain/cemm/mixins/ChorusFlowerBlockMixin": {
+      "canSurvive": "Lnet/minecraft/world/level/block/ChorusFlowerBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+    },
+    "net/centertain/cemm/mixins/BiomeSourceMixin": {
+      "possibleBiomes": "Lnet/minecraft/world/level/biome/BiomeSource;m_207840_()Ljava/util/Set;"
+    },
+    "net/centertain/cemm/mixins/ChunkNoiseSamplerMixin": {
+      "cachedClimateSampler": "Lnet/minecraft/world/level/levelgen/NoiseChunk;m_224359_(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;)Lnet/minecraft/world/level/biome/Climate$Sampler;"
+    },
+    "net/centertain/cemm/mixins/TheEndBiomeSourceMixin": {
+      "create": "Lnet/minecraft/world/level/biome/TheEndBiomeSource;m_254978_(Lnet/minecraft/core/HolderGetter;)Lnet/minecraft/world/level/biome/TheEndBiomeSource;",
+      "getNoiseBiome": "Lnet/minecraft/world/level/biome/TheEndBiomeSource;m_203407_(IIILnet/minecraft/world/level/biome/Climate$Sampler;)Lnet/minecraft/core/Holder;"
+    },
+    "net/centertain/cemm/mixins/NoiseGeneratorSettingsAccess": {
+      "surfaceRule": "f_188871_:Lnet/minecraft/world/level/levelgen/SurfaceRules$RuleSource;"
+    }
+  },
+  "data": {
+    "searge": {
+      "net/centertain/cemm/mixins/ChorusPlantBlockMixin": {
+        "canSurvive": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z",
+        "Lnet/minecraft/world/level/block/ChorusPlantBlock;getStateForPlacement(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_51710_(Lnet/minecraft/world/level/BlockGetter;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;",
+        "getStateForPlacement(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_5573_(Lnet/minecraft/world/item/context/BlockPlaceContext;)Lnet/minecraft/world/level/block/state/BlockState;",
+        "updateShape": "Lnet/minecraft/world/level/block/ChorusPlantBlock;m_7417_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/core/Direction;Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelAccessor;Lnet/minecraft/core/BlockPos;Lnet/minecraft/core/BlockPos;)Lnet/minecraft/world/level/block/state/BlockState;"
+      },
+      "net/centertain/cemm/mixins/ChorusFlowerBlockMixin": {
+        "canSurvive": "Lnet/minecraft/world/level/block/ChorusFlowerBlock;m_7898_(Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z"
+      },
+      "net/centertain/cemm/mixins/BiomeSourceMixin": {
+        "possibleBiomes": "Lnet/minecraft/world/level/biome/BiomeSource;m_207840_()Ljava/util/Set;"
+      },
+      "net/centertain/cemm/mixins/ChunkNoiseSamplerMixin": {
+        "cachedClimateSampler": "Lnet/minecraft/world/level/levelgen/NoiseChunk;m_224359_(Lnet/minecraft/world/level/levelgen/NoiseRouter;Ljava/util/List;)Lnet/minecraft/world/level/biome/Climate$Sampler;"
+      },
+      "net/centertain/cemm/mixins/TheEndBiomeSourceMixin": {
+        "create": "Lnet/minecraft/world/level/biome/TheEndBiomeSource;m_254978_(Lnet/minecraft/core/HolderGetter;)Lnet/minecraft/world/level/biome/TheEndBiomeSource;",
+        "getNoiseBiome": "Lnet/minecraft/world/level/biome/TheEndBiomeSource;m_203407_(IIILnet/minecraft/world/level/biome/Climate$Sampler;)Lnet/minecraft/core/Holder;"
+      },
+      "net/centertain/cemm/mixins/NoiseGeneratorSettingsAccess": {
+        "surfaceRule": "f_188871_:Lnet/minecraft/world/level/levelgen/SurfaceRules$RuleSource;"
+      }
+    }
+  }
+}

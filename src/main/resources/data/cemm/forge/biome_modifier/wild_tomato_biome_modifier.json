@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna"
+  ],
+  "features": "cemm:wild_tomato",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/ebony_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/ebony_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/ebony_slab_full"
+    }
+  }
+}

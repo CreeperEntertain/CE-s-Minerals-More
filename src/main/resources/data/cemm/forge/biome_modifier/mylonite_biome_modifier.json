@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bromian_thicket",
+  "features": "cemm:mylonite",
+  "step": "underground_ores"
+}

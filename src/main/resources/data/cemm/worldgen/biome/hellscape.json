@@ -1,0 +1,106 @@
+{
+  "has_precipitation": false,
+  "temperature": 1,
+  "downfall": 0,
+  "effects": {
+    "ambient_sound": "ambient.nether_wastes.loop",
+    "mood_sound": {
+      "sound": "ambient.nether_wastes.mood",
+      "tick_delay": 6000,
+      "offset": 8,
+      "block_search_extent": 2
+    },
+    "additions_sound": {
+      "sound": "ambient.nether_wastes.additions",
+      "tick_chance": 0.0111
+    },
+    "music": {
+      "sound": "cemm:music.ashes",
+      "min_delay": 12000,
+      "max_delay": 24000,
+      "replace_current_music": true
+    },
+    "particle": {
+      "options": {
+        "type": "cemm:ember_particle"
+      },
+      "probability": 0.015
+    },
+    "foliage_color": -8511435,
+    "grass_color": -8511435,
+    "sky_color": -12969696,
+    "fog_color": -12969696,
+    "water_color": -12969696,
+    "water_fog_color": -12969696
+  },
+  "spawners": {
+    "monster": [
+      {
+        "type": "magma_cube",
+        "weight": 80,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "blaze",
+        "weight": 20,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "wither_skeleton",
+        "weight": 32,
+        "minCount": 1,
+        "maxCount": 2
+      },
+      {
+        "type": "ghast",
+        "weight": 4,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "skeleton_horse",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "zombie_horse",
+        "weight": 1,
+        "minCount": 1,
+        "maxCount": 1
+      },
+      {
+        "type": "zombified_piglin",
+        "weight": 120,
+        "minCount": 1,
+        "maxCount": 2
+      }
+    ],
+    "creature": [],
+    "ambient": [],
+    "axolotls": [],
+    "underground_water_creature": [],
+    "water_creature": [],
+    "water_ambient": [],
+    "misc": []
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:freeze_top_layer"
+    ]
+  ]
+}

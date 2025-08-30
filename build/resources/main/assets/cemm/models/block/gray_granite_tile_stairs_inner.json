@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/gray_granite_tile",
+    "top": "cemm:block/gray_granite_tile",
+    "side": "cemm:block/gray_granite_tile"
+  },
+  "render_type": "solid"
+}

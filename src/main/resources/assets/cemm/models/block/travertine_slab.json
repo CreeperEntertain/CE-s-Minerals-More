@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/travertine",
+    "top": "cemm:block/travertine",
+    "side": "cemm:block/travertine"
+  },
+  "render_type": "solid"
+}

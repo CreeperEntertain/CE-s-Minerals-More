@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/roselite",
+    "top": "cemm:block/roselite",
+    "side": "cemm:block/roselite"
+  },
+  "render_type": "solid"
+}

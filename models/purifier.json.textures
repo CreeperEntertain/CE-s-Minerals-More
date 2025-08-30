@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "side": "purifier_side",
+        "top": "purifier_top",
+        "tailored": "tailored_stone"
+      },
+      "name": "default"
+    }
+  }
+}

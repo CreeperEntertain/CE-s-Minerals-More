@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:water",
+    "cemm:black_ice",
+    "cemm:packed_black_ice",
+    "cemm:tough_black_ice",
+    "minecraft:ice",
+    "minecraft:packed_ice",
+    "minecraft:frosted_ice",
+    "minecraft:blue_ice"
+  ]
+}

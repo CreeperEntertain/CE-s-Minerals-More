@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/mossy_gray_granite_bricks",
+    "top": "cemm:block/mossy_gray_granite_bricks",
+    "side": "cemm:block/mossy_gray_granite_bricks"
+  },
+  "render_type": "solid"
+}

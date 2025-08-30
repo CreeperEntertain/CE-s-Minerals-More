@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/sea_salt_bricks",
+    "particle": "cemm:block/sea_salt_bricks"
+  },
+  "render_type": "solid"
+}

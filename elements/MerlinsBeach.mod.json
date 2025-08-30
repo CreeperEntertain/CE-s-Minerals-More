@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Merlin's Beach",
+    "achievementDescription": "Travel to a shellcoast.",
+    "achievementIcon": {
+      "value": "CUSTOM:OvergrownCoarseSand"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 100,
+    "achievementType": "goal",
+    "parent": {
+      "value": "CUSTOM:Megachloron"
+    },
+    "triggerxml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"advancement_trigger\" deletable=\"false\" x=\"40\" y=\"80\"><next><block type=\"biome_entered\"><field name=\"biome\">CUSTOM:Shellcoast</field></block></next></block></xml>"
+  }
+}

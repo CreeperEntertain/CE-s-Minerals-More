@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cliffdirt",
+    "up": "cemm:block/cliff_grassblock_top",
+    "north": "cemm:block/grassed_cliffdirt",
+    "east": "cemm:block/grassed_cliffdirt",
+    "south": "cemm:block/grassed_cliffdirt",
+    "west": "cemm:block/grassed_cliffdirt",
+    "particle": "cemm:block/cliffdirt"
+  },
+  "render_type": "solid"
+}

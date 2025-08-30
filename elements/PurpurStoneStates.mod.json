@@ -1,0 +1,113 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "PurpurStone",
+    "blockstateList": [
+      {
+        "texture": "purpur_stone_top",
+        "textureTop": "layered_end_stone_top",
+        "textureLeft": "purpur_stone_cover_top",
+        "textureFront": "purpur_stone_cover_top",
+        "textureRight": "purpur_stone_cover_top",
+        "textureBack": "purpur_stone_cover_top",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "layered_end_stone_top",
+        "textureTop": "purpur_stone_top",
+        "textureLeft": "purpur_stone_cover_bottom",
+        "textureFront": "purpur_stone_cover_bottom",
+        "textureRight": "purpur_stone_cover_bottom",
+        "textureBack": "purpur_stone_cover_bottom",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "layered_end_stone_top",
+        "textureTop": "layered_end_stone_top",
+        "textureLeft": "purpur_stone_cover",
+        "textureFront": "purpur_stone_cover",
+        "textureRight": "purpur_stone_cover",
+        "textureBack": "purpur_stone_cover",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "purpur_stone_top",
+        "textureTop": "rough_midori",
+        "textureLeft": "purpur_stone_midori_cover_top",
+        "textureFront": "purpur_stone_midori_cover_top",
+        "textureRight": "purpur_stone_midori_cover_top",
+        "textureBack": "purpur_stone_midori_cover_top",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "rough_midori",
+        "textureTop": "purpur_stone_top",
+        "textureLeft": "purpur_stone_midori_cover_bottom",
+        "textureFront": "purpur_stone_midori_cover_bottom",
+        "textureRight": "purpur_stone_midori_cover_bottom",
+        "textureBack": "purpur_stone_midori_cover_bottom",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "rough_midori",
+        "textureTop": "rough_midori",
+        "textureLeft": "purpur_stone_midori_cover",
+        "textureFront": "purpur_stone_midori_cover",
+        "textureRight": "purpur_stone_midori_cover",
+        "textureBack": "purpur_stone_midori_cover",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "layered_end_stone_top",
+        "textureTop": "rough_midori",
+        "textureLeft": "purpur_stone_midori_cover_mixed_1",
+        "textureFront": "purpur_stone_midori_cover_mixed_1",
+        "textureRight": "purpur_stone_midori_cover_mixed_1",
+        "textureBack": "purpur_stone_midori_cover_mixed_1",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "rough_midori",
+        "textureTop": "layered_end_stone_top",
+        "textureLeft": "purpur_stone_midori_cover_mixed_0",
+        "textureFront": "purpur_stone_midori_cover_mixed_0",
+        "textureRight": "purpur_stone_midori_cover_mixed_0",
+        "textureBack": "purpur_stone_midori_cover_mixed_0",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

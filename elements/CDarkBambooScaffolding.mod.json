@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 6,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkBamboo"
+      },
+      {
+        "value": "Items.STRING"
+      },
+      {
+        "value": "CUSTOM:DarkBamboo"
+      },
+      {
+        "value": "CUSTOM:DarkBamboo"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBamboo"
+      },
+      {
+        "value": "CUSTOM:DarkBamboo"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DarkBamboo"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "Blocks.SCAFFOLDING"
+    },
+    "name": "c_dark_bamboo_scaffolding",
+    "namespace": "mod"
+  }
+}

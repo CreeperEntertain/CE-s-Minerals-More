@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:shellcoast_murkstone_blobs",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "biased_to_bottom",
+        "value": {
+          "min_inclusive": 4,
+          "max_inclusive": 12
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 40
+        },
+        "max_inclusive": {
+          "absolute": 60
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

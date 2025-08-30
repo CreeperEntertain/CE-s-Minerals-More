@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/graywacke",
+    "top": "cemm:block/graywacke",
+    "side": "cemm:block/graywacke"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:charcoal_pieces"
+    },
+    {
+      "item": "cemm:charcoal_pieces"
+    },
+    {
+      "item": "cemm:charcoal_pieces"
+    }
+  ],
+  "result": {
+    "item": "minecraft:charcoal",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/washed_gravel",
+    "up": "cemm:block/raked_washed_gravel",
+    "north": "cemm:block/washed_gravel",
+    "east": "cemm:block/washed_gravel",
+    "south": "cemm:block/washed_gravel",
+    "west": "cemm:block/washed_gravel",
+    "particle": "cemm:block/washed_gravel"
+  },
+  "render_type": "solid"
+}

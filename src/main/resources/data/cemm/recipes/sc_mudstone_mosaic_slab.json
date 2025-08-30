@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:mudstone_mosaic"
+  },
+  "result": "cemm:mudstone_mosaic_slab"
+}

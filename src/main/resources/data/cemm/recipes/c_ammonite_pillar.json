@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:ammonite_fossil"
+    },
+    {
+      "item": "cemm:murkstone"
+    }
+  ],
+  "result": {
+    "item": "cemm:ammonite_pillar",
+    "count": 1
+  }
+}

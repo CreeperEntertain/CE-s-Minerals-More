@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/pink_wallpaper",
+    "particle": "cemm:block/pink_wallpaper"
+  },
+  "render_type": "solid"
+}

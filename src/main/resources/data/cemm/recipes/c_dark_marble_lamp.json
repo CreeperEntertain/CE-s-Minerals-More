@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aca"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dark_marble"
+    },
+    "b": {
+      "item": "minecraft:glowstone"
+    },
+    "c": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "item": "cemm:dark_marble_lamp",
+    "count": 2
+  }
+}

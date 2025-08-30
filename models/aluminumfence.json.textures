@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Top": "aluminum_fence_top",
+        "Front": "aluminum_fence"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:coal",
+    "minecraft:charcoal",
+    "cemm:lignite",
+    "cemm:petroleum_coke"
+  ]
+}

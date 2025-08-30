@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 48,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:dirty_cliffpeat"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:cliffpeat"
+        },
+        "state": {
+          "Name": "cemm:dirty_cliffpeat"
+        }
+      }
+    ]
+  }
+}

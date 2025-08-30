@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/polished_dripstone",
+    "particle": "cemm:block/polished_dripstone"
+  },
+  "render_type": "solid"
+}

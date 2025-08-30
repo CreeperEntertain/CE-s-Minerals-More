@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/chalk_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/chalk_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/chalk_slab_full"
+    }
+  }
+}

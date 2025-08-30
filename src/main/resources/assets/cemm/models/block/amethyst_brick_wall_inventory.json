@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/amethyst_bricks",
+    "particle": "cemm:block/amethyst_bricks"
+  },
+  "render_type": "solid"
+}

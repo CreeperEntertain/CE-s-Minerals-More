@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "thread_grid": "thread_grid",
+        "vine": "plant_vine"
+      },
+      "name": "default"
+    }
+  }
+}

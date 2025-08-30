@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/thick_bamboo_top",
+    "up": "cemm:block/thick_bamboo_top",
+    "north": "cemm:block/thick_bamboo_side",
+    "east": "cemm:block/thick_bamboo_side",
+    "south": "cemm:block/thick_bamboo_side",
+    "west": "cemm:block/thick_bamboo_side",
+    "particle": "cemm:block/thick_bamboo_top"
+  },
+  "render_type": "solid"
+}

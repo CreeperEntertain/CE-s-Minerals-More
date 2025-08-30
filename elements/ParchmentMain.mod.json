@@ -1,0 +1,46 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 450,
+    "height": 250,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": true,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "parchment_background.png",
+          "use1Xscale": false,
+          "x": 142,
+          "y": 30
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "parchment_foreground.png",
+          "use1Xscale": false,
+          "x": 142,
+          "y": 30
+        }
+      }
+    ],
+    "onOpen": {
+      "name": "ParchmentMainOpened"
+    },
+    "onClosed": {
+      "name": "ParchmentMainOpened"
+    },
+    "gridSettings": {
+      "sx": 17,
+      "sy": 52,
+      "ox": 10,
+      "oy": 7,
+      "snapOnGrid": true
+    }
+  }
+}

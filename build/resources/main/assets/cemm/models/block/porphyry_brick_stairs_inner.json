@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/porphyry_bricks",
+    "top": "cemm:block/porphyry_bricks",
+    "side": "cemm:block/porphyry_bricks"
+  },
+  "render_type": "solid"
+}

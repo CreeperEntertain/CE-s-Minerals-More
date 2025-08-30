@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/netherrack_paving",
+    "top": "cemm:block/netherrack_paving",
+    "side": "cemm:block/netherrack_paving"
+  },
+  "render_type": "solid"
+}

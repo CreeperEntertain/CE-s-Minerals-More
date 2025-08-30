@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/decaying_oak_planks",
+    "top": "cemm:block/decaying_oak_planks",
+    "side": "cemm:block/decaying_oak_planks"
+  },
+  "render_type": "solid"
+}

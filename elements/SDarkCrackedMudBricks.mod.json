@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:DarkMudBricks"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:CrackedDarkMudBricks"
+    },
+    "name": "s_dark_cracked_mud_bricks",
+    "namespace": "mod"
+  }
+}

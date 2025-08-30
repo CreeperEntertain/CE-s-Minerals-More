@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/soul_soil",
+    "up": "cemm:block/decayed_bone_block_bottom",
+    "north": "cemm:block/bone_covered_soul_soil",
+    "east": "cemm:block/bone_covered_soul_soil",
+    "south": "cemm:block/bone_covered_soul_soil",
+    "west": "cemm:block/bone_covered_soul_soil",
+    "particle": "cemm:block/soul_soil"
+  },
+  "render_type": "solid"
+}

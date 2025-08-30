@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo"
+    },
+    "b": {
+      "item": "cemm:dark_marble"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_dark_marble",
+    "count": 1
+  }
+}

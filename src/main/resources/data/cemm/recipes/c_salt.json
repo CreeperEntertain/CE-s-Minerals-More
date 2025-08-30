@@ -1,0 +1,37 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "minecraft:water_bucket"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    },
+    {
+      "item": "cemm:sea_salt"
+    }
+  ],
+  "result": {
+    "item": "cemm:salt",
+    "count": 8
+  }
+}

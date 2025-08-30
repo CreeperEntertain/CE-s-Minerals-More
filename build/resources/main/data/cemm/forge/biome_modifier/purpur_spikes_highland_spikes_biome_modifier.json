@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:purpur_spikes_highland",
+  "features": "cemm:purpur_spikes_highland_spikes",
+  "step": "strongholds"
+}

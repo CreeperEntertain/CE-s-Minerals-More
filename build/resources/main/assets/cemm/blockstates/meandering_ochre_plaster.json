@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/meandering_ochre_plaster",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/meandering_ochre_plaster"
+    },
+    "axis=z": {
+      "model": "cemm:block/meandering_ochre_plaster",
+      "x": 90
+    }
+  }
+}

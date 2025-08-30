@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "CorinthianCalciteColumn",
+    "blockstateList": [
+      {
+        "texture": "calcite_pillar_top",
+        "textureTop": "calcite_pillar_top",
+        "textureLeft": "calcite_pillar_side",
+        "textureFront": "calcite_pillar_side",
+        "textureRight": "calcite_pillar_side",
+        "textureBack": "calcite_pillar_side",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "polished_calcite",
+        "textureTop": "calcite_pillar_top",
+        "textureLeft": "corinthian_calcite_pillar_bottom",
+        "textureFront": "corinthian_calcite_pillar_bottom",
+        "textureRight": "corinthian_calcite_pillar_bottom",
+        "textureBack": "corinthian_calcite_pillar_bottom",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      },
+      {
+        "texture": "calcite_pillar_top",
+        "textureTop": "polished_calcite",
+        "textureLeft": "corinthian_calcite_pillar_top",
+        "textureFront": "corinthian_calcite_pillar_top",
+        "textureRight": "corinthian_calcite_pillar_top",
+        "textureBack": "corinthian_calcite_pillar_top",
+        "particleTexture": "",
+        "renderType": 0,
+        "customModelName": "Normal",
+        "luminance": 0,
+        "boundingBoxes": []
+      }
+    ]
+  }
+}

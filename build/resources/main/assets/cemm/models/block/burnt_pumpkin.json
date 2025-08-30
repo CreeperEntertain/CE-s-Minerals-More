@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/burnt_pumpkin_bottom",
+    "up": "cemm:block/burnt_pumpkin_top",
+    "north": "cemm:block/burnt_pumpkin_side",
+    "east": "cemm:block/burnt_pumpkin_side",
+    "south": "cemm:block/burnt_pumpkin_side",
+    "west": "cemm:block/burnt_pumpkin_side",
+    "particle": "cemm:block/burnt_pumpkin_bottom"
+  },
+  "render_type": "solid"
+}

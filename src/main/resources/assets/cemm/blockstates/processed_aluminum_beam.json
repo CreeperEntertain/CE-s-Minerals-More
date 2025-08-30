@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/processed_aluminum_beam"
+    },
+    "facing=east": {
+      "model": "cemm:block/processed_aluminum_beam",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/processed_aluminum_beam",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/processed_aluminum_beam",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/processed_aluminum_beam",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/processed_aluminum_beam",
+      "x": 90
+    }
+  }
+}

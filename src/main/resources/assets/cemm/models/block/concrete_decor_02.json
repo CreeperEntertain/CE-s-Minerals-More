@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/concrete_decor_02",
+  "textures": {
+    "all": "cemm:block/rough_concrete",
+    "particle": "cemm:block/rough_concrete",
+    "ribbed_concrete.png": "cemm:block/ribbed_concrete",
+    "reinforced_concrete.png": "cemm:block/rough_concrete"
+  },
+  "render_type": "solid"
+}

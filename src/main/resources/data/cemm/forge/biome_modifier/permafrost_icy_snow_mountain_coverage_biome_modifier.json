@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:permafrost",
+  "features": "cemm:permafrost_icy_snow_mountain_coverage",
+  "step": "top_layer_modification"
+}

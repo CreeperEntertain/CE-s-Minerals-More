@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:aluminum_scaffolding",
+    "cemm:processed_aluminum_scaffolding",
+    "cemm:iron_scaffolding",
+    "cemm:copper_scaffolding",
+    "minecraft:scaffolding",
+    "cemm:solid_iron_scaffolding",
+    "cemm:solid_copper_scaffolding"
+  ]
+}

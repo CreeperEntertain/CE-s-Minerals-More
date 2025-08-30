@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/mossy_smooth_murkstone",
+    "top": "cemm:block/mossy_smooth_murkstone",
+    "side": "cemm:block/mossy_smooth_murkstone"
+  },
+  "render_type": "solid"
+}

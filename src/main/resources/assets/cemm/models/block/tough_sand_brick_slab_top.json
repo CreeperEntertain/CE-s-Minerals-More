@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/tough_sand_bricks",
+    "top": "cemm:block/tough_sand_bricks",
+    "side": "cemm:block/tough_sand_bricks"
+  },
+  "render_type": "solid"
+}

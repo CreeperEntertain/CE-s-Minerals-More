@@ -1,0 +1,18 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:overgrown_obsidian",
+    "cemm:overgrown_crying_obsidian",
+    "cemm:smooth_obsidian",
+    "cemm:polished_obsidian",
+    "cemm:obsidian_bricks",
+    "cemm:obsidian_pillar",
+    "cemm:chiseled_obsidian",
+    "cemm:crying_obsidian_bricks",
+    "cemm:snowed_obsidian",
+    "cemm:snowed_crying_obsidian",
+    "cemm:rocky_obsidian",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian"
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/junglerock",
+    "top": "cemm:block/junglerock",
+    "side": "cemm:block/junglerock"
+  },
+  "render_type": "solid"
+}

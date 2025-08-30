@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:layered_dark_junglerock_bricks"
+  },
+  "result": "cemm:layered_dark_junglerock_brick_slab"
+}

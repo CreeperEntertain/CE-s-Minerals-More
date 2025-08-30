@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/amber_leaf_carpet"
+    },
+    "facing=east": {
+      "model": "cemm:block/amber_leaf_carpet",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/amber_leaf_carpet",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/amber_leaf_carpet",
+      "y": 270
+    }
+  }
+}

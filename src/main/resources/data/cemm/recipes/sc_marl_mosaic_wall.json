@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:marl_mosaic"
+  },
+  "result": "cemm:marl_mosaic_wall"
+}

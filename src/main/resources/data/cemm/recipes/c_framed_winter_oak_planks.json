@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:iron_nugget"
+    },
+    "b": {
+      "item": "cemm:chiseled_winter_oak_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_winter_oak_planks",
+    "count": 1
+  }
+}

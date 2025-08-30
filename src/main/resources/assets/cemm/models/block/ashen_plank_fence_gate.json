@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_fence_gate",
+  "textures": {
+    "texture": "cemm:block/ashen_planks"
+  },
+  "render_type": "solid"
+}

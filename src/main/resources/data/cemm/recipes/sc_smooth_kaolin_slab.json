@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:smooth_kaolin"
+  },
+  "result": "cemm:smooth_kaolin_slab"
+}

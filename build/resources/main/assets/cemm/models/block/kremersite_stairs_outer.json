@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/kremersite",
+    "top": "cemm:block/kremersite",
+    "side": "cemm:block/kremersite"
+  },
+  "render_type": "solid"
+}

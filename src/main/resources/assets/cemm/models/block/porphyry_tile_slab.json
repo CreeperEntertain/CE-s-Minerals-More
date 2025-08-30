@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/porphyry_tiles",
+    "top": "cemm:block/porphyry_tiles",
+    "side": "cemm:block/porphyry_tiles"
+  },
+  "render_type": "solid"
+}

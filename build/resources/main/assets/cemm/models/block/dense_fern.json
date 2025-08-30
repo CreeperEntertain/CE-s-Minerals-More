@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/dense_fern",
+  "textures": {
+    "all": "cemm:block/dense_fern",
+    "particle": "cemm:block/dense_fern",
+    "Dense Fern": "cemm:block/dense_fern",
+    "Fern": "cemm:block/fern"
+  },
+  "render_type": "cutout"
+}

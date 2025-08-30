@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/windswept_shrub",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:windswept_shrub",
+          "conditions": [
+            {
+              "block": "cemm:windswept_shrub",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

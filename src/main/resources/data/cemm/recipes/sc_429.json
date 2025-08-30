@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:lepidocrocite"
+  },
+  "result": "cemm:polished_lepidocrocite_stairs"
+}

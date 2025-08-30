@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:broken_packed_ice"
+    }
+  },
+  "result": {
+    "item": "minecraft:packed_ice",
+    "count": 1
+  }
+}

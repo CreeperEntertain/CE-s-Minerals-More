@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/meta_carbonite_bricks",
+    "top": "cemm:block/meta_carbonite_bricks",
+    "side": "cemm:block/meta_carbonite_bricks"
+  },
+  "render_type": "solid"
+}

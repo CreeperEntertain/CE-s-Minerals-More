@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/xp_storage",
+    "particle": "cemm:block/xp_storage"
+  },
+  "render_type": "solid"
+}

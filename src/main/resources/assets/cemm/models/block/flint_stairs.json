@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/flint_block",
+    "top": "cemm:block/flint_block",
+    "side": "cemm:block/flint_block"
+  },
+  "render_type": "solid"
+}

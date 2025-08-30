@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cliffstone_pillar_top",
+    "up": "cemm:block/cliffstone_pillar_top",
+    "north": "cemm:block/cliffstone_pillar",
+    "east": "cemm:block/cliffstone_pillar",
+    "south": "cemm:block/cliffstone_pillar",
+    "west": "cemm:block/cliffstone_pillar",
+    "particle": "cemm:block/cliffstone_pillar_top"
+  },
+  "render_type": "solid"
+}

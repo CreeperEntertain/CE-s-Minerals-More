@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:silt",
+    "cemm:coarse_silt",
+    "cemm:warped_silt",
+    "cemm:rocky_warped_silt"
+  ]
+}

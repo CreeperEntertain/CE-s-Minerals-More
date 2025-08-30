@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:rough_blackstone"
+  },
+  "result": "cemm:rough_blackstone_wall"
+}

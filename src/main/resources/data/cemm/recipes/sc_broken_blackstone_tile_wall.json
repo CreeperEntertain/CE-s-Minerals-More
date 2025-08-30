@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:broken_blackstone_tiles"
+  },
+  "result": "cemm:broken_blackstone_tile_wall"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/hay_block_top",
+    "up": "cemm:block/hay_block_top",
+    "north": "cemm:block/thatch_side",
+    "east": "cemm:block/thatch_side",
+    "south": "cemm:block/thatch_side",
+    "west": "cemm:block/thatch_side",
+    "particle": "cemm:block/hay_block_top"
+  },
+  "render_type": "solid"
+}

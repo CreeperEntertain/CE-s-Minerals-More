@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:komatiite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "minecraft:grassblock"
+        },
+        "state": {
+          "Name": "cemm:komatiite"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "cemm:moss_blocks"
+        },
+        "state": {
+          "Name": "cemm:komatiite"
+        }
+      }
+    ]
+  }
+}

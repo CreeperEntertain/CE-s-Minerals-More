@@ -1,0 +1,37 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Sword",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "chlorophyl_sword",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Chlorophyl Sword",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "harvestLevel": 4,
+    "efficiency": 10.0,
+    "attackSpeed": 1.6,
+    "enchantability": 22,
+    "damageVsEntity": 8.0,
+    "usageCount": 3121,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:GalvanizedSteelIngot"
+      },
+      {
+        "value": "CUSTOM:ChlorophylIngot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/murkstone",
+    "particle": "cemm:block/murkstone"
+  },
+  "render_type": "solid"
+}

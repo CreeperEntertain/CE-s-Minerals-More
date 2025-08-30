@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/bauxite_block",
+    "particle": "cemm:block/bauxite_block"
+  },
+  "render_type": "solid"
+}

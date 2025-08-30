@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.0,
+    "scaling": "never",
+    "effects": "drowning",
+    "normalDeathMessage": "%1$s suffocated",
+    "itemDeathMessage": "%1$s stole %2$s's air using %3$s",
+    "playerDeathMessage": "%1$s's air ran out when running from %2$s"
+  }
+}

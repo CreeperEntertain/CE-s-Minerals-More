@@ -1,0 +1,21 @@
+{
+  "type": "cemm:moss_blob_feature",
+  "config": {
+    "target": {
+      "Name": "minecraft:grass_block",
+      "Properties": {
+        "snowy": "false"
+      }
+    },
+    "state": {
+      "Name": "minecraft:moss_block"
+    },
+    "radius": {
+      "type": "uniform",
+      "value": {
+        "min_inclusive": 3,
+        "max_inclusive": 7
+      }
+    }
+  }
+}

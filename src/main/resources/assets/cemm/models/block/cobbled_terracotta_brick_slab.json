@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/cobbled_terracotta_brick",
+    "top": "cemm:block/cobbled_terracotta_brick",
+    "side": "cemm:block/cobbled_terracotta_brick"
+  },
+  "render_type": "solid"
+}

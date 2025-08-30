@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/mussels",
+  "textures": {
+    "all": "cemm:block/mussels",
+    "particle": "cemm:block/mussels",
+    "0": "cemm:block/mussels"
+  },
+  "render_type": "cutout_mipped"
+}

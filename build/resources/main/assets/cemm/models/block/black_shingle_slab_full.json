@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/black_shingles",
+    "top": "cemm:block/black_shingles",
+    "side": "cemm:block/black_shingles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/iron_tile",
+    "particle": "cemm:block/iron_tile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/concrete_slab_flat"
+    },
+    "type=top": {
+      "model": "cemm:block/concrete_slab_flat_top"
+    },
+    "type=double": {
+      "model": "cemm:block/concrete_slab_flat_full"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:CrackedPolishedStone"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:CrackedPolishedStoneSlab"
+    },
+    "name": "sc_cracked_polished_stone_slab",
+    "namespace": "mod"
+  }
+}

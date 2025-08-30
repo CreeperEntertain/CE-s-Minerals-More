@@ -1,0 +1,91 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 8,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:purpur_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 16,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:purpur_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 24,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:purpur_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 32,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:purpur_stone"
+                },
+                "state": {
+                  "Name": "minecraft:end_stone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

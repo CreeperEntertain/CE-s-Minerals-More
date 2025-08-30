@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bbb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:bamboo"
+    },
+    "b": {
+      "item": "minecraft:bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:thick_bamboo",
+    "count": 1
+  }
+}

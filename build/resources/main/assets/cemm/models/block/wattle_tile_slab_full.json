@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/wattle_tiles",
+    "top": "cemm:block/wattle_tiles",
+    "side": "cemm:block/wattle_tiles"
+  },
+  "render_type": "solid"
+}

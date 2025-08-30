@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/winewood_leaves",
+    "particle": "cemm:block/winewood_leaves"
+  }
+}

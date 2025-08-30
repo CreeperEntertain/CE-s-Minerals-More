@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smokey_quartz_bricks"
+  },
+  "result": "cemm:smokey_quartz_brick_stairs"
+}

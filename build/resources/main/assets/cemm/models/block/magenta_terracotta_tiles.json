@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/magenta_terracotta_tiles",
+    "particle": "cemm:block/magenta_terracotta_tiles"
+  },
+  "render_type": "solid"
+}

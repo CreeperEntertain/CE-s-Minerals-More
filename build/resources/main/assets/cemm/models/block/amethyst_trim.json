@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_amethyst",
+    "up": "cemm:block/chiseled_amethyst",
+    "north": "cemm:block/amethyst_trim",
+    "east": "cemm:block/amethyst_trim",
+    "south": "cemm:block/amethyst_trim",
+    "west": "cemm:block/amethyst_trim",
+    "particle": "cemm:block/chiseled_amethyst"
+  },
+  "render_type": "solid"
+}

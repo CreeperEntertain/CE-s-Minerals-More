@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dark_end_spruce_log"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_dark_end_spruce",
+    "count": 3
+  }
+}

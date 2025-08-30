@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/lithiophilite",
+    "top": "cemm:block/lithiophilite",
+    "side": "cemm:block/lithiophilite"
+  },
+  "render_type": "solid"
+}

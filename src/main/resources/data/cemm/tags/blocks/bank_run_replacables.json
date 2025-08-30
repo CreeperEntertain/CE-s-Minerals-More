@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:dirty_cobblestone",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:grass_block",
+    "minecraft:sand",
+    "minecraft:gravel"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_novaculite"
+  },
+  "result": "cemm:polished_novaculite_wall"
+}

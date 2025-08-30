@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 25,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:warped_silt"
+        },
+        "state": {
+          "Name": "minecraft:soul_soil"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:silt"
+        },
+        "state": {
+          "Name": "minecraft:soul_soil"
+        }
+      }
+    ]
+  }
+}

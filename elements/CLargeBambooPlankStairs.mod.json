@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 4,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      },
+      {
+        "value": "CUSTOM:LargeBambooPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LargeBambooPlankStairs"
+    },
+    "name": "c_large_bamboo_plank_stairs",
+    "namespace": "mod"
+  }
+}

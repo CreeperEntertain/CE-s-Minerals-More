@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/netherrack",
+    "top": "cemm:block/netherrack",
+    "side": "cemm:block/netherrack"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "cemm:mossy_end_stone"
+            }
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:forest_rock",
+          "config": {
+            "state": {
+              "Name": "cemm:end_moss_block"
+            }
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

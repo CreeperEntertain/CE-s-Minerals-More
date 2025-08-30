@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:chert_pillar",
+    "cemm:chert_pillar_top",
+    "cemm:chert_pillar_middle",
+    "cemm:chert_pillar_bottom"
+  ]
+}

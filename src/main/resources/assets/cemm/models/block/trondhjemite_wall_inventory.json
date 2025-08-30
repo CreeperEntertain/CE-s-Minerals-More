@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/trondhjemite_top",
+    "particle": "cemm:block/trondhjemite_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lithium_block"
+    }
+  },
+  "result": {
+    "item": "cemm:lithium_ingot",
+    "count": 9
+  }
+}

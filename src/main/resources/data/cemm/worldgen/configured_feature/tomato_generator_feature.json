@@ -1,0 +1,10 @@
+{
+  "type": "cemm:structure_feature",
+  "config": {
+    "structure": "cemm:tomato_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

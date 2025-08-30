@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cliffstone",
+    "up": "cemm:block/snow",
+    "north": "cemm:block/snowed_cliffstone",
+    "east": "cemm:block/snowed_cliffstone",
+    "south": "cemm:block/snowed_cliffstone",
+    "west": "cemm:block/snowed_cliffstone",
+    "particle": "cemm:block/cliffstone"
+  },
+  "render_type": "solid"
+}

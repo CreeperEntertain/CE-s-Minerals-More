@@ -1,0 +1,24 @@
+{
+  "feature": "cemm:chalk_calcite_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 1
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 32
+        },
+        "max_inclusive": {
+          "absolute": 128
+        }
+      }
+    }
+  ]
+}

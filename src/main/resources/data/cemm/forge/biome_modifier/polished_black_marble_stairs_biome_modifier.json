@@ -1,0 +1,8 @@
+{
+  "type": "forge:add_features",
+  "biomes": {
+    "type": "forge:any"
+  },
+  "features": "cemm:polished_black_marble_stairs",
+  "step": "underground_ores"
+}

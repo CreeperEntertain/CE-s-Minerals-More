@@ -1,0 +1,27 @@
+{
+  "feature": "cemm:hot_springs_basalt",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 5
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": 96
+        },
+        "max_inclusive": {
+          "absolute": 320
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

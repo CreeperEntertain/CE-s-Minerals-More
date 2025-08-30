@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "achievement",
+  "definition": {
+    "achievementName": "Phoenix",
+    "achievementDescription": "Enter ash barrens.",
+    "achievementIcon": {
+      "value": "CUSTOM:Deathbloom"
+    },
+    "background": "Default",
+    "disableDisplay": false,
+    "showPopup": true,
+    "announceToChat": true,
+    "hideIfNotCompleted": false,
+    "rewardLoot": [],
+    "rewardRecipes": [],
+    "rewardFunction": "No function",
+    "rewardXP": 25,
+    "achievementType": "task",
+    "parent": {
+      "value": "nether/root"
+    },
+    "triggerxml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"advancement_trigger\" x=\"40\" y=\"80\"><next><block type=\"biome_entered\" x=\"44\" y=\"47\"><field name=\"biome\">CUSTOM:AshBarrens</field></block></next></block></xml>"
+  }
+}

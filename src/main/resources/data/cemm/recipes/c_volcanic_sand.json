@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:volcanic_soil"
+    }
+  },
+  "result": {
+    "item": "cemm:volcanic_sand",
+    "count": 1
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/netherrack_bricks",
+    "top": "cemm:block/netherrack_bricks",
+    "side": "cemm:block/netherrack_bricks"
+  },
+  "render_type": "solid"
+}

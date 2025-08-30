@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "blue_clam_top.png": "blue_clam_top",
+        "blue_clam_bottom.png": "blue_clam_bottom",
+        "blue_clam_side.png": "blue_clam_side"
+      },
+      "name": "default"
+    }
+  }
+}

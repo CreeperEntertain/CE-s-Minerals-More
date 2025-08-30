@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_orientable_trapdoor_open",
+  "textures": {
+    "texture": "cemm:block/amber_sentinel_trapdoor",
+    "particle": "cemm:block/amber_sentinel_trapdoor"
+  },
+  "render_type": "cutout_mipped"
+}

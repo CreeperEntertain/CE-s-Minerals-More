@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warm_ocean",
+  "features": "cemm:algae_feature",
+  "step": "vegetal_decoration"
+}

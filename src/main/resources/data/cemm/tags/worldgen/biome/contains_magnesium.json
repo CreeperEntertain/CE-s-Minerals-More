@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "deep_frozen_ocean",
+    "frozen_ocean",
+    "frozen_peaks",
+    "frozen_river",
+    "cold_ocean",
+    "deep_cold_ocean",
+    "ice_spikes",
+    "snowy_taiga",
+    "taiga",
+    "snowy_beach",
+    "snowy_plains",
+    "cemm:ice_cave"
+  ]
+}

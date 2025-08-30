@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/wooden_crate_up_down",
+    "up": "cemm:block/wooden_crate_up_down",
+    "north": "cemm:block/wooden_crate",
+    "east": "cemm:block/wooden_crate",
+    "south": "cemm:block/wooden_crate",
+    "west": "cemm:block/wooden_crate",
+    "particle": "cemm:block/wooden_crate_up_down"
+  },
+  "render_type": "solid"
+}

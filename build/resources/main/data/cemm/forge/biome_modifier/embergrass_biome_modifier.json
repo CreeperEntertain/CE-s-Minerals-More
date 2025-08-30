@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hellscape",
+  "features": "cemm:embergrass",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/lavaslate",
+    "top": "cemm:block/lavaslate",
+    "side": "cemm:block/lavaslate"
+  },
+  "render_type": "solid"
+}

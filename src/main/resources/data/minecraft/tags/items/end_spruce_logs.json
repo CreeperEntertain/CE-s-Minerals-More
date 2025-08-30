@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:end_spruce_log",
+    "cemm:end_spruce_wood",
+    "cemm:cut_end_spruce"
+  ]
+}

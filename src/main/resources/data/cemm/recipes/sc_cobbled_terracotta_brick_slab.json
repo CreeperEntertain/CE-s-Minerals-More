@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:cobbled_terracotta_bricks"
+  },
+  "result": "cemm:cobbled_terracotta_brick_slab"
+}

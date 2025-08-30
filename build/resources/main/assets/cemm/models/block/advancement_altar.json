@@ -1,0 +1,13 @@
+{
+  "parent": "cemm:custom/advacementaltar",
+  "textures": {
+    "all": "cemm:block/advancement_altar_top",
+    "particle": "cemm:block/advancement_altar_top",
+    "Side": "cemm:block/advancement_altar_side",
+    "Glint": "cemm:block/blue_glint",
+    "Top": "cemm:block/advancement_altar_top",
+    "Fire": "cemm:block/blue_flame",
+    "Bottom": "cemm:block/meta_carbonite"
+  },
+  "render_type": "cutout_mipped"
+}

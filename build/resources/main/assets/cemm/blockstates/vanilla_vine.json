@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/vanilla_vine"
+    },
+    "half=lower": {
+      "model": "cemm:block/vanilla_vine_bottom"
+    }
+  }
+}

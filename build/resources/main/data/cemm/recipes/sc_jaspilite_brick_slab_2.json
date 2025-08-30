@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:sanded_jaspilite"
+  },
+  "result": "cemm:jaspilite_brick_slab"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/deepslate_pillar_up_down",
+    "up": "cemm:block/deepslate_pillar_up_down",
+    "north": "cemm:block/deepslate_pillar",
+    "east": "cemm:block/deepslate_pillar",
+    "south": "cemm:block/deepslate_pillar",
+    "west": "cemm:block/deepslate_pillar",
+    "particle": "cemm:block/deepslate_pillar_up_down"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/bronze_tile",
+    "particle": "cemm:block/bronze_tile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "_fv": 60,
+  "_type": "endstone",
+  "definition": {
+    "block": {
+      "value": "CUSTOM:MossedEndStone"
+    },
+    "mixins": [
+      "ChorusFlowerBlockMixin",
+      "ChorusPlantBlockMixin"
+    ]
+  }
+}

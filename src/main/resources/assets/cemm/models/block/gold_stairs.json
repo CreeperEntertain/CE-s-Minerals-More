@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/gold_block",
+    "top": "cemm:block/gold_block",
+    "side": "cemm:block/gold_slab"
+  },
+  "render_type": "solid"
+}

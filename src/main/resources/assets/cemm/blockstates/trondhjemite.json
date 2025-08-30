@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/trondhjemite",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/trondhjemite"
+    },
+    "axis=z": {
+      "model": "cemm:block/trondhjemite",
+      "x": 90
+    }
+  }
+}

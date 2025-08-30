@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:midori_quarry_barrens",
+    "cemm:midori_quarry_highland",
+    "cemm:midori_quarry_midland"
+  ],
+  "features": "cemm:midori_quarry_midori_replacement",
+  "step": "underground_ores"
+}

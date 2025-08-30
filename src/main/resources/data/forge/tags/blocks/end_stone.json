@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:weathered_end_stone",
+    "cemm:smooth_end_stone",
+    "cemm:layered_end_stone",
+    "minecraft:end_stone",
+    "cemm:midori_lined_end_stone",
+    "cemm:end_wax_ore",
+    "cemm:mossed_end_stone",
+    "cemm:mossy_end_stone",
+    "cemm:purpur_mossed_end_stone",
+    "cemm:purple_mossy_end_stone"
+  ]
+}

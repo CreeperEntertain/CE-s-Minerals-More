@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:scandium_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:scandium_block",
+    "count": 1
+  }
+}

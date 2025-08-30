@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/schorl",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/schorl"
+    },
+    "axis=z": {
+      "model": "cemm:block/schorl",
+      "x": 90
+    }
+  }
+}

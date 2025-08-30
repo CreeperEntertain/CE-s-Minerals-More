@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/dark_mud_tiles",
+    "top": "cemm:block/dark_mud_tiles",
+    "side": "cemm:block/dark_mud_tiles"
+  },
+  "render_type": "solid"
+}

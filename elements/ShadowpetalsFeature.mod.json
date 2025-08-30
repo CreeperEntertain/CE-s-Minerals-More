@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "VEGETAL_DECORATION",
+    "restrictionBiomes": [
+      {
+        "value": "CUSTOM:BromianThicket"
+      },
+      {
+        "value": "CUSTOM:VibratingTimberland"
+      }
+    ],
+    "generateCondition": {
+      "name": "PetalsGenerationCondition"
+    },
+    "featurexml": "<xml><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\">\n<value name=\"feature\"><block type=\"feature_random_patch_simple\">\n\t<field name=\"tries\">16</field><field name=\"xzSpread\">7</field><field name=\"ySpread\">3</field>\n\t<value name=\"block\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Shadowpetals</field></block></value>\n\t<value name=\"condition\"><block type=\"block_predicate_is_air\"></block></value>\n</block>\n</value>\n<next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">3</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_heightmap\"><field name=\"heightmap\">MOTION_BLOCKING</field><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></xml>\n"
+  }
+}

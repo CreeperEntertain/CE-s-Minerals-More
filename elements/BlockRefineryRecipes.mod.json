@@ -1,0 +1,7 @@
+{
+  "_fv": 60,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><variables><variable type=\"Number\" id=\"Count1\">Count1</variable><variable type=\"Number\" id=\"Count2\">Count2</variable><variable type=\"Number\" id=\"Result\">Result</variable></variables><block type=\"event_trigger\" deletable=\"false\" x=\"40\" y=\"40\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"wait\"><value name=\"ticks\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><statement name=\"do\"><block type=\"call_procedure\"><field name=\"procedure\">BRMarbleGold</field><next><block type=\"call_procedure\"><field name=\"procedure\">BRMarbleCyan</field><next><block type=\"call_procedure\"><field name=\"procedure\">BRRavenstoneIron</field><next><block type=\"call_procedure\"><field name=\"procedure\">BRFramedWattle</field><next><block type=\"call_procedure\"><field name=\"procedure\">BRFramedKaolin</field></block></next></block></next></block></next></block></next></block></statement></block></next></block></xml>"
+  }
+}

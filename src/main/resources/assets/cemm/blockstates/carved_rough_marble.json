@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/carved_rough_marble",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/carved_rough_marble"
+    },
+    "axis=z": {
+      "model": "cemm:block/carved_rough_marble",
+      "x": 90
+    }
+  }
+}

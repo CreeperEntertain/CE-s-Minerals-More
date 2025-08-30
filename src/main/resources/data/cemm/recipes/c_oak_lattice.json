@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:large_oak_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:oak_lattice",
+    "count": 1
+  }
+}

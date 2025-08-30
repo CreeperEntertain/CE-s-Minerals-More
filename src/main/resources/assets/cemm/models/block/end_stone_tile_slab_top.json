@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/end_stone_tiles",
+    "top": "cemm:block/end_stone_tiles",
+    "side": "cemm:block/end_stone_tiles"
+  },
+  "render_type": "solid"
+}

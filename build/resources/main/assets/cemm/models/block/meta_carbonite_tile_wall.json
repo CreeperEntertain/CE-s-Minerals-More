@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/meta_carbonite_tiles",
+    "particle": "cemm:block/meta_carbonite_tiles"
+  },
+  "render_type": "solid"
+}

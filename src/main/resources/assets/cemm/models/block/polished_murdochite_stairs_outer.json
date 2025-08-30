@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_murdochite",
+    "top": "cemm:block/polished_murdochite",
+    "side": "cemm:block/polished_murdochite"
+  },
+  "render_type": "solid"
+}

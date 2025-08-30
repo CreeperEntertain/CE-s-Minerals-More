@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bone_pillar"
+    }
+  },
+  "result": {
+    "item": "cemm:bone_pillar_cover",
+    "count": 1
+  }
+}

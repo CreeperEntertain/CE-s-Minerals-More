@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:lignite_flats",
+  "features": "cemm:solidified_oil",
+  "step": "underground_ores"
+}

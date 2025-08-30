@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "features": "cemm:swamp_sedge",
+  "step": "vegetal_decoration"
+}

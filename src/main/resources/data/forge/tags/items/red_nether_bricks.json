@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:broken_red_nether_bricks",
+    "cemm:polished_red_nether_brick",
+    "cemm:chiseled_red_nether_brick",
+    "cemm:carved_red_nether_brick",
+    "cemm:red_nether_tiles",
+    "cemm:cracked_red_nether_tiles",
+    "cemm:wrecked_red_nether_tiles",
+    "cemm:chiseled_red_nether_bricks",
+    "minecraft:red_nether_bricks"
+  ]
+}

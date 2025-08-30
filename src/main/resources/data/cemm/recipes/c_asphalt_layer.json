@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:asphalt"
+    }
+  },
+  "result": {
+    "item": "cemm:asphalt_layer_1",
+    "count": 16
+  }
+}

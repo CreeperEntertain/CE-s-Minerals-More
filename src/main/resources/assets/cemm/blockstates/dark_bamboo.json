@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/dark_bamboo"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/dark_bamboo_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "cemm:block/dark_bamboo_states_blockstate_1"
+    },
+    "blockstate=3": {
+      "model": "cemm:block/dark_bamboo_states_blockstate_2"
+    },
+    "blockstate=4": {
+      "model": "cemm:block/dark_bamboo_states_blockstate_3"
+    },
+    "blockstate=5": {
+      "model": "cemm:block/dark_bamboo_states_blockstate_4"
+    }
+  }
+}

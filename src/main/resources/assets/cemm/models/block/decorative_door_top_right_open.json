@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_top_right_open",
+  "textures": {
+    "bottom": "cemm:block/decorative_door_bottom",
+    "top": "cemm:block/decorative_door_top"
+  },
+  "render_type": "solid"
+}

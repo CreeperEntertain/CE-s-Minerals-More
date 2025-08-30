@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/brimstone_ore",
+    "particle": "cemm:block/brimstone_ore"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/dead_algae",
+    "particle": "cemm:block/dead_algae"
+  },
+  "render_type": "solid"
+}

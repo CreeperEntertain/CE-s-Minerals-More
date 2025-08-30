@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:blackstone_pillar"
+    }
+  },
+  "result": {
+    "item": "cemm:carved_blackstone_pillar",
+    "count": 1
+  }
+}

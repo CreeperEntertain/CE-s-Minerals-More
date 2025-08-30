@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chiseled_aquamarine",
+    "particle": "cemm:block/chiseled_aquamarine"
+  },
+  "render_type": "solid"
+}

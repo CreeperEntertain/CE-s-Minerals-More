@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/porphyry_bricks",
+    "particle": "cemm:block/porphyry_bricks"
+  },
+  "render_type": "solid"
+}

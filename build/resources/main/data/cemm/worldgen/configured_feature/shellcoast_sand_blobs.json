@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 34,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:coarse_sand"
+        },
+        "state": {
+          "Name": "minecraft:sand"
+        }
+      }
+    ]
+  }
+}

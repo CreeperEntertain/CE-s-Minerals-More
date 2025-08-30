@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/etched_gold",
+    "particle": "cemm:block/etched_gold"
+  },
+  "render_type": "solid"
+}

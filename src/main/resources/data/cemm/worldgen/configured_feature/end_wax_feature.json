@@ -1,0 +1,97 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 4,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:end_stone"
+                },
+                "state": {
+                  "Name": "cemm:end_wax_ore"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:midori"
+                },
+                "state": {
+                  "Name": "cemm:midori_wax_ore"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 8,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:end_stone"
+                },
+                "state": {
+                  "Name": "cemm:end_wax_ore"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:midori"
+                },
+                "state": {
+                  "Name": "cemm:midori_wax_ore"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:ore",
+          "config": {
+            "size": 12,
+            "discard_chance_on_air_exposure": 0,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:end_stone"
+                },
+                "state": {
+                  "Name": "cemm:end_wax_ore"
+                }
+              },
+              {
+                "target": {
+                  "predicate_type": "tag_match",
+                  "tag": "forge:midori"
+                },
+                "state": {
+                  "Name": "cemm:midori_wax_ore"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

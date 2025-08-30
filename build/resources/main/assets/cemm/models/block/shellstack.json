@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/shellstack_top",
+    "up": "cemm:block/shellstack_top",
+    "north": "cemm:block/shellstack_side",
+    "east": "cemm:block/shellstack_side",
+    "south": "cemm:block/shellstack_side",
+    "west": "cemm:block/shellstack_side",
+    "particle": "cemm:block/shellstack_top"
+  },
+  "render_type": "solid"
+}

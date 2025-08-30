@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:fourmarierite"
+  },
+  "result": "cemm:polished_fourmarierite_slab"
+}

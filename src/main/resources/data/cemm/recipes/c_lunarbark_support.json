@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:lunarbark_slab"
+    },
+    "b": {
+      "item": "cemm:lunarbark_stick"
+    }
+  },
+  "result": {
+    "item": "cemm:lunarbark_support",
+    "count": 1
+  }
+}

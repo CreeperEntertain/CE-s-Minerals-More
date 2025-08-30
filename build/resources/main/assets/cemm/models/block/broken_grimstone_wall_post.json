@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/broken_grimstone",
+    "particle": "cemm:block/broken_grimstone"
+  },
+  "render_type": "solid"
+}

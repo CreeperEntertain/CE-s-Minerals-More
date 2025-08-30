@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/crimson_moss_carpet",
+  "textures": {
+    "all": "cemm:block/crimson_moss_block",
+    "particle": "cemm:block/crimson_moss_block",
+    "0": "cemm:block/crimson_moss_block"
+  },
+  "render_type": "solid"
+}

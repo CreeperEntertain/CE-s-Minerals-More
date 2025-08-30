@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/warped_moss_block",
+    "particle": "cemm:block/warped_moss_block"
+  },
+  "render_type": "solid"
+}

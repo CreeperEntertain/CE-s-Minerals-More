@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert"
+  ],
+  "features": "cemm:desert_marl_feature",
+  "step": "underground_structures"
+}

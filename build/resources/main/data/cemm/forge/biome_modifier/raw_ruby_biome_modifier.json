@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "nether_wastes",
+  "features": "cemm:raw_ruby",
+  "step": "underground_ores"
+}

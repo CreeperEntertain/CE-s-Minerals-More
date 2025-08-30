@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:purpur_spikes_barrens",
+    "cemm:purpur_spikes_highland",
+    "cemm:purpur_spikes_midland",
+    "cemm:midori_quarry_barrens",
+    "cemm:midori_quarry_highland",
+    "cemm:midori_quarry_midland"
+  ],
+  "features": "cemm:end_mountains_layered_end_stone",
+  "step": "underground_structures"
+}

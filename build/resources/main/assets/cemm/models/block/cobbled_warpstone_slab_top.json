@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/cobbled_warpstone",
+    "top": "cemm:block/cobbled_warpstone",
+    "side": "cemm:block/cobbled_warpstone"
+  },
+  "render_type": "solid"
+}

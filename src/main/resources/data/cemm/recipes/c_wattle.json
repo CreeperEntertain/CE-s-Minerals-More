@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:mudstone"
+    },
+    "b": {
+      "item": "cemm:dirty_mud"
+    }
+  },
+  "result": {
+    "item": "cemm:wattle",
+    "count": 4
+  }
+}

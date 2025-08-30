@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/smokey_quartz_bricks",
+    "top": "cemm:block/smokey_quartz_bricks",
+    "side": "cemm:block/smokey_quartz_bricks"
+  },
+  "render_type": "solid"
+}

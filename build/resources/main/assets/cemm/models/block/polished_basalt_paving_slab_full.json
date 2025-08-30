@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/polished_basalt_paving",
+    "top": "cemm:block/polished_basalt_paving",
+    "side": "cemm:block/polished_basalt_paving"
+  },
+  "render_type": "solid"
+}

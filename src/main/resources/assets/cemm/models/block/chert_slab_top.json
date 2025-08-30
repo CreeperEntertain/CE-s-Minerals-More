@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/chert",
+    "top": "cemm:block/chert",
+    "side": "cemm:block/chert"
+  },
+  "render_type": "solid"
+}

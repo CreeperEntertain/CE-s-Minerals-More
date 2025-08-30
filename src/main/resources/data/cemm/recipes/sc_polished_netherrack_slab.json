@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_netherrack"
+  },
+  "result": "cemm:polished_netherrack_slab"
+}

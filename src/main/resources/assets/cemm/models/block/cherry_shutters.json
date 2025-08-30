@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cherry_skirting_up_down",
+    "up": "cemm:block/cherry_skirting_up_down",
+    "north": "cemm:block/cherry_shutters",
+    "east": "cemm:block/cherry_shutters",
+    "south": "cemm:block/cherry_shutters",
+    "west": "cemm:block/cherry_shutters",
+    "particle": "cemm:block/cherry_skirting_up_down"
+  },
+  "render_type": "solid"
+}

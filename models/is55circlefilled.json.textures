@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Front": "info_sign_circle_filled",
+        "Back": "info_sign_empty"
+      },
+      "name": "default"
+    }
+  }
+}

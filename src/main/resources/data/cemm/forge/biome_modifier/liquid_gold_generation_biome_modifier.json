@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_nether",
+  "features": "cemm:liquid_gold_generation",
+  "step": "underground_decoration"
+}

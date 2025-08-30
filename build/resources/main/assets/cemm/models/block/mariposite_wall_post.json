@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/mariposite",
+    "particle": "cemm:block/mariposite"
+  },
+  "render_type": "solid"
+}

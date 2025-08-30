@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "stony_shore",
+  "features": "cemm:stony_shore_graywacke",
+  "step": "raw_generation"
+}

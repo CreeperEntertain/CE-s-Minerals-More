@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dry_hay_bale"
+    }
+  },
+  "result": {
+    "item": "cemm:dry_thatch",
+    "count": 2
+  }
+}

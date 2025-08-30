@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/chalcopyrite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/chalcopyrite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/chalcopyrite_slab_full"
+    }
+  }
+}

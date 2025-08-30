@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/wattle_mosaic",
+    "top": "cemm:block/wattle_mosaic",
+    "side": "cemm:block/wattle_mosaic"
+  },
+  "render_type": "solid"
+}

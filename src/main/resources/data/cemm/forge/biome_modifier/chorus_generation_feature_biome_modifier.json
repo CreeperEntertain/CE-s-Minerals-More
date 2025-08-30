@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:purpur_forest_barrens",
+    "cemm:purpur_forest_highland",
+    "cemm:purpur_forest_midland",
+    "cemm:end_forest_barrens",
+    "cemm:end_forest_highland",
+    "cemm:end_forest_midland"
+  ],
+  "features": "cemm:chorus_generation_feature",
+  "step": "vegetal_decoration"
+}

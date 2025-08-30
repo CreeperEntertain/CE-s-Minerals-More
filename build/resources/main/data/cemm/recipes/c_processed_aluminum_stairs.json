@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "ba ",
+    "bba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:processed_aluminum_grid"
+    },
+    "b": {
+      "item": "cemm:processed_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:processed_aluminum_stairs",
+    "count": 4
+  }
+}

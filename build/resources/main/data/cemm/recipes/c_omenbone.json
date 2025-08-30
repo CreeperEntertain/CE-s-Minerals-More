@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chronodust"
+    },
+    "b": {
+      "item": "cemm:polymorous_drops"
+    },
+    "c": {
+      "item": "minecraft:bone"
+    }
+  },
+  "result": {
+    "item": "cemm:omenbone",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:small_dark_andesite_bricks"
+    },
+    "b": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:gilded_dark_andesite",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:red_salt_white",
+    "cemm:pyroxene",
+    "cemm:vibrating_serandite",
+    "cemm:obsiaster",
+    "cemm:soapstone",
+    "cemm:anorthite",
+    "cemm:vibrating_pyroxene",
+    "cemm:red_salt",
+    "cemm:bordeaux_soapstone",
+    "cemm:bordeaux_quartzite",
+    "cemm:magnetite_sand",
+    "cemm:quartzite",
+    "cemm:serandite",
+    "cemm:sanidine",
+    "cemm:grassed_cliffpeat",
+    "minecraft:sand",
+    "cemm:cliffpeat",
+    "minecraft:moss_block",
+    "cemm:hardened_sand",
+    "minecraft:stone",
+    "cemm:snowed_grassed_cliffdirt",
+    "cemm:chlorograss_block_moss",
+    "cemm:cliffdirt",
+    "cemm:meta_carbonite",
+    "cemm:nyline"
+  ]
+}

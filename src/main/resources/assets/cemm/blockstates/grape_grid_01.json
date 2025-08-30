@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/grape_grid_01"
+    },
+    "facing=east": {
+      "model": "cemm:block/grape_grid_01",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/grape_grid_01",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/grape_grid_01",
+      "y": 270
+    }
+  }
+}

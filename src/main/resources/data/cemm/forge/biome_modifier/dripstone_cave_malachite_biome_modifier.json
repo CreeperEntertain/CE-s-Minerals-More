@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "dripstone_caves",
+  "features": "cemm:dripstone_cave_malachite",
+  "step": "surface_structures"
+}

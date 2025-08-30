@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/chalk",
+    "top": "cemm:block/grass_block_top",
+    "side": "cemm:block/chalk",
+    "overlay": "cemm:block/grass_block_side_overlay",
+    "particle": "cemm:block/chalk"
+  },
+  "render_type": "cutout_mipped"
+}

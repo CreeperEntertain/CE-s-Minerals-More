@@ -1,0 +1,21 @@
+{
+  "replace": false,
+  "values": [
+    "frozen_river",
+    "river",
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "beach",
+    "snowy_beach",
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "savanna",
+    "deep_cold_ocean",
+    "deep_dark",
+    "deep_frozen_ocean",
+    "deep_lukewarm_ocean",
+    "deep_ocean"
+  ]
+}

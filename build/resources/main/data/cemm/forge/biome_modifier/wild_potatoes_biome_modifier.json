@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "meadow",
+    "sunflower_plains"
+  ],
+  "features": "cemm:wild_potatoes",
+  "step": "vegetal_decoration"
+}

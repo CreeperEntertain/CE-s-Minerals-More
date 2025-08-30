@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/concrete_screen",
+    "particle": "cemm:block/concrete_screen"
+  },
+  "render_type": "solid"
+}

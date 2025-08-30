@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/midori_bricks",
+    "top": "cemm:block/midori_bricks",
+    "side": "cemm:block/midori_bricks"
+  },
+  "render_type": "solid"
+}

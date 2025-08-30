@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smooth_diorite"
+  },
+  "result": "cemm:smooth_diorite_stairs"
+}

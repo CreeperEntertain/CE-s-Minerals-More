@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bismuthinite_crystal"
+    }
+  },
+  "result": {
+    "item": "cemm:bismuthinite",
+    "count": 1
+  }
+}

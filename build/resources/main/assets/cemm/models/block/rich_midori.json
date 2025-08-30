@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/rich_midori_top",
+    "up": "cemm:block/rich_midori_top",
+    "north": "cemm:block/rich_midori_side",
+    "east": "cemm:block/rich_midori_side",
+    "south": "cemm:block/rich_midori_side",
+    "west": "cemm:block/rich_midori_side",
+    "particle": "cemm:block/rich_midori_top"
+  },
+  "render_type": "solid"
+}

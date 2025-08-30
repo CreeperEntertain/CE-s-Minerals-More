@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:delta_feature",
+  "config": {
+    "contents": {
+      "Name": "cemm:limestone"
+    },
+    "rim": {
+      "Name": "cemm:chalk"
+    },
+    "size": 5,
+    "rim_size": 2
+  }
+}

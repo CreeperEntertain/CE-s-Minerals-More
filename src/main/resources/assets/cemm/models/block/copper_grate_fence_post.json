@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_glass_pane_post",
+  "textures": {
+    "edge": "cemm:block/copper_grate_fence_top",
+    "pane": "cemm:block/copper_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

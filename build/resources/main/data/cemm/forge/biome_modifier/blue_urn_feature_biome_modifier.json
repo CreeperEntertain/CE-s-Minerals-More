@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "warm_ocean",
+  "features": "cemm:blue_urn_feature",
+  "step": "raw_generation"
+}

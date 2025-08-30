@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "meadow",
+    "cherry_grove"
+  ],
+  "features": "cemm:abelia",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/novaculite_mosaic_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/novaculite_mosaic_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/novaculite_mosaic_slab_full"
+    }
+  }
+}

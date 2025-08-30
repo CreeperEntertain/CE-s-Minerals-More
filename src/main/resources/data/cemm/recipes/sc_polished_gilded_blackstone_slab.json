@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_gilded_blackstone"
+  },
+  "result": "cemm:polished_gilded_blackstone_slab"
+}

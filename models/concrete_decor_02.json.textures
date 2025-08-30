@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "ribbed_concrete.png": "ribbed_concrete",
+        "reinforced_concrete.png": "rough_concrete"
+      },
+      "name": "default"
+    }
+  }
+}

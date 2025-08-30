@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/leather_tile",
+    "particle": "cemm:block/leather_tile"
+  },
+  "render_type": "solid"
+}

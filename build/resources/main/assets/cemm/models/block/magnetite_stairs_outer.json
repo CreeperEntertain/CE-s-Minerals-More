@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/magnetite",
+    "top": "cemm:block/magnetite",
+    "side": "cemm:block/magnetite"
+  },
+  "render_type": "solid"
+}

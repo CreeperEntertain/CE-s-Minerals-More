@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "CUSTOM:ThinAndesiteBricks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:ThinAndesiteBrickWall"
+    },
+    "name": "sc_thin_andesite_brick_wall",
+    "namespace": "mod"
+  }
+}

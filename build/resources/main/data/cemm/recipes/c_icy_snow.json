@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:snow_block"
+    },
+    "b": {
+      "tag": "cemm:ice_materials"
+    }
+  },
+  "result": {
+    "item": "cemm:icy_snow",
+    "count": 4
+  }
+}

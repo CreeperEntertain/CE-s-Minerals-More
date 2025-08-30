@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/flower_cactus",
+  "textures": {
+    "all": "cemm:block/flower_cactus",
+    "particle": "cemm:block/flower_cactus",
+    "0": "cemm:block/flower_cactus"
+  },
+  "render_type": "cutout"
+}

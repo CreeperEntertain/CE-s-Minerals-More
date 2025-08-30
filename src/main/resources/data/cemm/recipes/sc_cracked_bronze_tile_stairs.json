@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cracked_bronze_tile"
+  },
+  "result": "cemm:cracked_bronze_tile_stairs"
+}

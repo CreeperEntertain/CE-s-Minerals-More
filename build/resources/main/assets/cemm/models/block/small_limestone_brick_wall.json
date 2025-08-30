@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/small_limestone_bricks",
+    "particle": "cemm:block/small_limestone_bricks"
+  },
+  "render_type": "solid"
+}

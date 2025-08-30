@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 12,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "CUSTOM:CutStrippedCherry"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      },
+      {
+        "value": "Blocks.CHERRY_PLANKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:LargeCherryPlanks"
+    },
+    "name": "c_large_cherry_planks",
+    "namespace": "mod"
+  }
+}

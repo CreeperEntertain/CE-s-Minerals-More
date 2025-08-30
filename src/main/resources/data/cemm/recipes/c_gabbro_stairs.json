@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:gabbro"
+    }
+  },
+  "result": {
+    "item": "cemm:gabbro_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:sanded_mud"
+  },
+  "result": "cemm:sanded_mud_stairs"
+}

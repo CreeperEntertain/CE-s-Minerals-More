@@ -1,0 +1,8 @@
+{
+  "type": "cemm:obsidian_feature",
+  "config": {
+    "state": {
+      "Name": "minecraft:obsidian"
+    }
+  }
+}

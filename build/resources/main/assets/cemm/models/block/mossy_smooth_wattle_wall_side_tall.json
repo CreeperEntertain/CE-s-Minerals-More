@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side_tall",
+  "textures": {
+    "wall": "cemm:block/mossy_smooth_wattle",
+    "particle": "cemm:block/mossy_smooth_wattle"
+  },
+  "render_type": "solid"
+}

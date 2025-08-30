@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:chain"
+    }
+  },
+  "result": {
+    "item": "cemm:framed_chains",
+    "count": 1
+  }
+}

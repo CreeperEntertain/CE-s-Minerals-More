@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:permafrost",
+  "features": "cemm:permafrost_black_ice_feature",
+  "step": "fluid_springs"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/thin_novaculite_bricks",
+    "top": "cemm:block/thin_novaculite_bricks",
+    "side": "cemm:block/thin_novaculite_bricks"
+  },
+  "render_type": "solid"
+}

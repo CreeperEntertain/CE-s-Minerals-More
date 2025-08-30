@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:zirconian_desert",
+  "features": "cemm:zircon_feature",
+  "step": "underground_decoration"
+}

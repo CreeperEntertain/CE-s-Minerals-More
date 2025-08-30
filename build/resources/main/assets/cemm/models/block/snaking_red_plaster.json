@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/red_plaster",
+    "up": "cemm:block/red_plaster",
+    "north": "cemm:block/snaking_red_plaster",
+    "east": "cemm:block/snaking_red_plaster",
+    "south": "cemm:block/snaking_red_plaster",
+    "west": "cemm:block/snaking_red_plaster",
+    "particle": "cemm:block/red_plaster"
+  },
+  "render_type": "solid"
+}

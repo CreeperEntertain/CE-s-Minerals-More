@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:end_forest",
+  "features": "cemm:dense_end_grass",
+  "step": "vegetal_decoration"
+}

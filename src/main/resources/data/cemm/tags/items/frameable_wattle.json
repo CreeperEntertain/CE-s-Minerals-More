@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:wattle",
+    "cemm:smooth_wattle",
+    "cemm:sanded_wattle",
+    "cemm:polished_wattle"
+  ]
+}

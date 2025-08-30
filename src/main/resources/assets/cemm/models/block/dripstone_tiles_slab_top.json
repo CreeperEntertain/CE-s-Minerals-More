@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/dripstone_tiles",
+    "top": "cemm:block/dripstone_tiles",
+    "side": "cemm:block/dripstone_tiles"
+  },
+  "render_type": "solid"
+}

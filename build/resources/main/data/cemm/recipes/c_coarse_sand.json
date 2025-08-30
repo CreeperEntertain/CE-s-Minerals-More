@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:sand"
+    },
+    "b": {
+      "tag": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "cemm:coarse_sand",
+    "count": 4
+  }
+}

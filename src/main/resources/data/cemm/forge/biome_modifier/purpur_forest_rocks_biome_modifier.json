@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:purpur_forest_highland",
+  "features": "cemm:purpur_forest_rocks",
+  "step": "surface_structures"
+}

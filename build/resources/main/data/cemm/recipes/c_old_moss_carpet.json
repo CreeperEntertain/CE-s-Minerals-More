@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:old_moss"
+    }
+  },
+  "result": {
+    "item": "cemm:old_moss_carpet",
+    "count": 8
+  }
+}

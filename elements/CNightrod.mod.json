@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": true,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LunarbarkStick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:MiseryDrops"
+      },
+      {
+        "value": "CUSTOM:LunarbarkStick"
+      },
+      {
+        "value": "CUSTOM:PolymorousDrops"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:LunarbarkStick"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:Nightrod"
+    },
+    "name": "c_nightrod",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:frozen_cyan_ice"
+    }
+  },
+  "result": {
+    "item": "cemm:frost_tile",
+    "count": 1
+  }
+}

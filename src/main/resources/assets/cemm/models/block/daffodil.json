@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/daffodil",
+    "particle": "cemm:block/daffodil"
+  },
+  "render_type": "cutout"
+}

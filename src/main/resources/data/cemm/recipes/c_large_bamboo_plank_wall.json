@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:large_bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:large_bamboo_plank_wall",
+    "count": 6
+  }
+}
