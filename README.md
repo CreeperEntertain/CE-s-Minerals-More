@@ -1,4 +1,4 @@
-# Version 2.23.629 of "CE's Minerals & More"
+# Version 2.24.650 of "CE's Minerals & More"
 To visit the download pages for this mod, visit the main branch.
 
 ## MCreator Version
