@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:aluminum_grid"
+    }
+  },
+  "result": {
+    "item": "cemm:air_vent",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/wooden_board"
+    },
+    "facing=east": {
+      "model": "cemm:block/wooden_board",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/wooden_board",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/wooden_board",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_side",
+  "textures": {
+    "texture": "cemm:block/ashen_planks",
+    "particle": "cemm:block/ashen_planks"
+  },
+  "render_type": "solid"
+}

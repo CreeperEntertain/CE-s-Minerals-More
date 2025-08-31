@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "cemm:desert_alabaster_feature",
+  "step": "underground_decoration"
+}

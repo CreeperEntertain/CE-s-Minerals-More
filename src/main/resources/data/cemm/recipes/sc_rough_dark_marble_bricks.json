@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "cemm:dark_marble_ingredients"
+  },
+  "result": "cemm:rough_dark_marble_bricks"
+}

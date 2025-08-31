@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/weathered_end_stone",
+    "particle": "cemm:block/weathered_end_stone"
+  },
+  "render_type": "solid"
+}

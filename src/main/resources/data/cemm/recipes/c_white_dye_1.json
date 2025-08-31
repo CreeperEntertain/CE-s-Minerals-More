@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:abelia"
+    }
+  },
+  "result": {
+    "item": "minecraft:white_dye",
+    "count": 1
+  }
+}

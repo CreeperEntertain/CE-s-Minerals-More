@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:crimson_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:crimson_skirting",
+    "count": 2
+  }
+}

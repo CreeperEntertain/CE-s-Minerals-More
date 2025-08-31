@@ -1,0 +1,406 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 1,
+    "width": 176,
+    "height": 195,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 14,
+    "renderBgLayer": true,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "block_refinery_output.png",
+          "use1Xscale": false,
+          "x": 241,
+          "y": 30
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_inventory",
+          "text": {
+            "fixedValue": "Inventory"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 133,
+          "y": 120
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 0,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "BlockRefineryRecipes"
+          },
+          "x": 133,
+          "y": 57
+        }
+      },
+      {
+        "type": "inputslot",
+        "data": {
+          "inputLimit": {
+            "value": ""
+          },
+          "disablePlacement": {
+            "fixedValue": false
+          },
+          "id": 1,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": true,
+          "onSlotChanged": {
+            "name": "BlockRefineryRecipes"
+          },
+          "x": 133,
+          "y": 80
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 2,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 241,
+          "y": 30
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 3,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 259,
+          "y": 30
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 4,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 277,
+          "y": 30
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 5,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 241,
+          "y": 48
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 6,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 259,
+          "y": 48
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 7,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 277,
+          "y": 48
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 8,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 241,
+          "y": 66
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 9,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 259,
+          "y": 66
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 10,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 277,
+          "y": 66
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 11,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 241,
+          "y": 84
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 12,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 259,
+          "y": 84
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 13,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 277,
+          "y": 84
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 14,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 241,
+          "y": 102
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 15,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 259,
+          "y": 102
+        }
+      },
+      {
+        "type": "outputslot",
+        "data": {
+          "id": 16,
+          "disablePickup": {
+            "fixedValue": false
+          },
+          "dropItemsWhenNotBound": false,
+          "onTakenFromSlot": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "onStackTransfer": {
+            "name": "BlockRefineryItemTaken"
+          },
+          "x": 277,
+          "y": 102
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_main_block",
+          "text": {
+            "fixedValue": "Main Block"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 61
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_second_ingredient",
+          "text": {
+            "fixedValue": "Second Item"
+          },
+          "color": {
+            "value": -12829636,
+            "falpha": 0.0
+          },
+          "x": 154,
+          "y": 84
+        }
+      },
+      {
+        "type": "button",
+        "data": {
+          "name": "button_recipes",
+          "text": "Recipes",
+          "isUndecorated": false,
+          "onClick": {
+            "name": "RecipeButtonClicked"
+          },
+          "width": 61,
+          "height": 20,
+          "x": 133,
+          "y": 30
+        }
+      }
+    ],
+    "onClosed": {
+      "name": "BlockRefineryClosed"
+    },
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 11,
+      "oy": 15,
+      "snapOnGrid": false
+    }
+  }
+}

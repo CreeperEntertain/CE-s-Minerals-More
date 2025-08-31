@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:topaz_tiles"
+  },
+  "result": "cemm:topaz_tile_wall"
+}

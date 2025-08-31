@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:thin_novaculite_bricks"
+  },
+  "result": "cemm:thin_novaculite_brick_stairs"
+}

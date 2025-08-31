@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "missing": "advanced_mobile_battery",
+        "Main": "advanced_mobile_battery"
+      },
+      "name": "default"
+    }
+  }
+}

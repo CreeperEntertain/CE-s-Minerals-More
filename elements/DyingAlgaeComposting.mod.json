@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "CUSTOM:DyingAlgae"
+    },
+    "enableFuel": true,
+    "fuelPower": {
+      "fixedValue": 800.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 0.2
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:midori_quarry_barrens",
+    "cemm:midori_quarry_highland",
+    "cemm:midori_quarry_midland",
+    "cemm:purpur_forest_barrens",
+    "cemm:purpur_forest_midland",
+    "cemm:purpur_forest_highland",
+    "cemm:end_forest_barrens",
+    "cemm:end_forest_midland",
+    "cemm:end_forest_highland",
+    "cemm:purpur_spikes_barrens",
+    "cemm:purpur_spikes_midland",
+    "cemm:purpur_spikes_highland"
+  ]
+}

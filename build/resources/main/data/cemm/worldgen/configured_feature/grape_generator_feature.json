@@ -1,0 +1,10 @@
+{
+  "type": "cemm:grape_generator_feature",
+  "config": {
+    "structure": "cemm:grape_generator",
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

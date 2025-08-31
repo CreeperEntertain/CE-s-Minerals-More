@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "birch_forest",
+    "crimson_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "warped_forest",
+    "windswept_forest",
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "meadow",
+    "beach",
+    "snowy_beach",
+    "stony_shore",
+    "cold_ocean",
+    "lukewarm_ocean",
+    "ocean",
+    "warm_ocean",
+    "frozen_river",
+    "river"
+  ]
+}

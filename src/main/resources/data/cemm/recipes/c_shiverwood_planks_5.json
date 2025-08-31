@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cut_stripped_shiverwood"
+    }
+  },
+  "result": {
+    "item": "cemm:shiverwood_planks",
+    "count": 4
+  }
+}

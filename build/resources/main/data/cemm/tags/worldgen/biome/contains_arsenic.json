@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "frozen_river",
+    "river",
+    "beach",
+    "snowy_beach"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smooth_dry_thatch"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_dry_thatch",
+    "count": 4
+  }
+}

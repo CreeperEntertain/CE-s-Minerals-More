@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Main": "processed_aluminum_grid"
+      },
+      "name": "default"
+    }
+  }
+}

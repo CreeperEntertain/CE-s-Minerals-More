@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/kanoite",
+    "particle": "cemm:block/kanoite"
+  },
+  "render_type": "solid"
+}

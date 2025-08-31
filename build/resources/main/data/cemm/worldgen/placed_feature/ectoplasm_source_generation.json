@@ -1,0 +1,59 @@
+{
+  "feature": "cemm:ectoplasm_source_generation",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "biased_to_bottom",
+        "value": {
+          "min_inclusive": 3,
+          "max_inclusive": 10
+        }
+      }
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "above_bottom": 4
+        },
+        "max_inclusive": {
+          "below_top": 4
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "environment_scan",
+      "direction_of_search": "down",
+      "target_condition": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "minecraft:soul_sand",
+          "minecraft:soul_soil",
+          "cemm:stony_soul_soil",
+          "cemm:rocky_soul_soil",
+          "cemm:infested_soul_soil",
+          "cemm:coarse_soul_soil",
+          "cemm:dirty_soul_soil"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      },
+      "allowed_search_condition": {
+        "type": "minecraft:matching_blocks",
+        "blocks": "minecraft:air"
+      },
+      "max_steps": 5
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

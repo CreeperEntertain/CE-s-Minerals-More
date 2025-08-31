@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/cliffpeat",
+    "up": "cemm:block/snow",
+    "north": "cemm:block/snowed_cliffpeat",
+    "east": "cemm:block/snowed_cliffpeat",
+    "south": "cemm:block/snowed_cliffpeat",
+    "west": "cemm:block/snowed_cliffpeat",
+    "particle": "cemm:block/cliffpeat"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,34 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Hoe",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "meta_carbonite_hoe",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Meta-Carbonite Hoe",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:VoidItemsAndBlocks"
+    },
+    "harvestLevel": 5,
+    "efficiency": 16.0,
+    "attackSpeed": 5.0,
+    "enchantability": 22,
+    "damageVsEntity": 1.0,
+    "usageCount": 0,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:MetaCarbonite"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": false
+  }
+}

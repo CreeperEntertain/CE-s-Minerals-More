@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/junglerock",
+    "particle": "cemm:block/junglerock"
+  },
+  "render_type": "solid"
+}

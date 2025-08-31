@@ -1,0 +1,941 @@
+{
+  "block.silence": {
+    "sounds": [
+      {
+        "name": "cemm:silence",
+        "stream": false
+      }
+    ]
+  },
+  "mood.void": {
+    "sounds": [
+      {
+        "name": "cemm:01",
+        "stream": false
+      },
+      {
+        "name": "cemm:02",
+        "stream": false
+      },
+      {
+        "name": "cemm:03",
+        "stream": false
+      },
+      {
+        "name": "cemm:07",
+        "stream": false
+      },
+      {
+        "name": "cemm:08",
+        "stream": false
+      },
+      {
+        "name": "cemm:09",
+        "stream": false
+      },
+      {
+        "name": "cemm:10",
+        "stream": false
+      },
+      {
+        "name": "cemm:13",
+        "stream": false
+      },
+      {
+        "name": "cemm:14",
+        "stream": false
+      },
+      {
+        "name": "cemm:15",
+        "stream": false
+      },
+      {
+        "name": "cemm:16",
+        "stream": false
+      },
+      {
+        "name": "cemm:19",
+        "stream": false
+      },
+      {
+        "name": "cemm:21",
+        "stream": false
+      },
+      {
+        "name": "cemm:22",
+        "stream": false
+      },
+      {
+        "name": "cemm:23",
+        "stream": false
+      },
+      {
+        "name": "cemm:24",
+        "stream": false
+      },
+      {
+        "name": "cemm:25",
+        "stream": false
+      }
+    ]
+  },
+  "mood.cave": {
+    "sounds": [
+      {
+        "name": "cemm:04",
+        "stream": false
+      },
+      {
+        "name": "cemm:05",
+        "stream": false
+      },
+      {
+        "name": "cemm:06",
+        "stream": false
+      },
+      {
+        "name": "cemm:11",
+        "stream": false
+      },
+      {
+        "name": "cemm:12",
+        "stream": false
+      },
+      {
+        "name": "cemm:17",
+        "stream": false
+      },
+      {
+        "name": "cemm:18",
+        "stream": false
+      },
+      {
+        "name": "cemm:20",
+        "stream": false
+      },
+      {
+        "name": "cemm:26",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_1": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_1",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_2": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_2",
+        "stream": false
+      }
+    ]
+  },
+  "ambient.wind_0": {
+    "sounds": [
+      {
+        "name": "cemm:void_wind_0",
+        "stream": false
+      }
+    ]
+  },
+  "music.bliss": {
+    "sounds": [
+      {
+        "name": "cemm:bliss",
+        "stream": true
+      }
+    ]
+  },
+  "music.chalk": {
+    "sounds": [
+      {
+        "name": "cemm:chalk",
+        "stream": true
+      }
+    ]
+  },
+  "music.chants": {
+    "sounds": [
+      {
+        "name": "cemm:chants",
+        "stream": true
+      }
+    ]
+  },
+  "music.foehn": {
+    "sounds": [
+      {
+        "name": "cemm:foehn",
+        "stream": true
+      }
+    ]
+  },
+  "music.heptagonal": {
+    "sounds": [
+      {
+        "name": "cemm:heptagonal",
+        "stream": true
+      }
+    ]
+  },
+  "music.hireth": {
+    "sounds": [
+      {
+        "name": "cemm:hireth",
+        "stream": true
+      }
+    ]
+  },
+  "music.hush": {
+    "sounds": [
+      {
+        "name": "cemm:hush",
+        "stream": true
+      }
+    ]
+  },
+  "music.machine": {
+    "sounds": [
+      {
+        "name": "cemm:machine",
+        "stream": true
+      }
+    ]
+  },
+  "music.warped_framework": {
+    "sounds": [
+      {
+        "name": "cemm:warped_framework",
+        "stream": true
+      }
+    ]
+  },
+  "block.electricity": {
+    "subtitle": "subtitles.block.electricity",
+    "sounds": [
+      {
+        "name": "cemm:electricity",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.placed": {
+    "subtitle": "subtitles.block.deepstone.placed",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_place1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place4",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place5",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_place6",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.break": {
+    "subtitle": "subtitles.block.deepstone.break",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.deepstone.step": {
+    "subtitle": "subtitles.block.deepstone.step",
+    "sounds": [
+      {
+        "name": "cemm:deepstone_step1",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step2",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step3",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step4",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step5",
+        "stream": false
+      },
+      {
+        "name": "cemm:deepstone_step6",
+        "stream": false
+      }
+    ]
+  },
+  "item.cosmic_telephone.use": {
+    "subtitle": "subtitles.item.cosmic_telephone.use",
+    "sounds": [
+      {
+        "name": "cemm:cosmic_telephone_use",
+        "stream": false
+      }
+    ]
+  },
+  "block.void_portal.spawn": {
+    "subtitle": "subtitles.block.void_portal.spawn",
+    "sounds": [
+      {
+        "name": "cemm:void_portal_open",
+        "stream": false
+      }
+    ]
+  },
+  "block.icaron_portal.spawn": {
+    "subtitle": "subtitles.block.icaron_portal.spawn",
+    "sounds": [
+      {
+        "name": "cemm:icaron_portal_open",
+        "stream": false
+      }
+    ]
+  },
+  "block.icaron_portal.charge": {
+    "subtitle": "subtitles.block.icaron_portal.charge",
+    "sounds": [
+      {
+        "name": "cemm:icaron_portal_charge_up",
+        "stream": false
+      }
+    ]
+  },
+  "block.hardened_sand.break": {
+    "subtitle": "subtitles.block.hardened_sand.break",
+    "sounds": [
+      {
+        "name": "cemm:hardened_sand_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.hardened_sand.hit": {
+    "subtitle": "subtitles.block.hardened_sand.hit",
+    "sounds": [
+      {
+        "name": "cemm:hardened_sand_hit1",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_hit2",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_hit3",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_hit4",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_hit5",
+        "stream": false
+      }
+    ]
+  },
+  "block.hardened_sand.place": {
+    "subtitle": "subtitles.block.hardened_sand.place",
+    "sounds": [
+      {
+        "name": "cemm:hardened_sand_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.hardened_sand.step": {
+    "subtitle": "subtitles.block.hardened_sand.step",
+    "sounds": [
+      {
+        "name": "cemm:hardened_sand_step1",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_step2",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_step3",
+        "stream": false
+      },
+      {
+        "name": "cemm:hardened_sand_step4",
+        "stream": false
+      }
+    ]
+  },
+  "block.paper_block.break": {
+    "subtitle": "subtitles.block.paper_block.break",
+    "sounds": [
+      {
+        "name": "cemm:paper_block_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.paper_block.place": {
+    "subtitle": "subtitles.block.paper_block.place",
+    "sounds": [
+      {
+        "name": "cemm:paper_block_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_break4",
+        "stream": false
+      }
+    ]
+  },
+  "block.paper_block.step": {
+    "subtitle": "subtitles.block.paper_block.step",
+    "sounds": [
+      {
+        "name": "cemm:paper_block_step1",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_step2",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_step3",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_step4",
+        "stream": false
+      },
+      {
+        "name": "cemm:paper_block_step5",
+        "stream": false
+      }
+    ]
+  },
+  "block.soul_ore.break": {
+    "subtitle": "subtitles.block.soul_ore.break",
+    "sounds": [
+      {
+        "name": "cemm:soul_ore_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break4",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break5",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break6",
+        "stream": false
+      }
+    ]
+  },
+  "block.soul_ore.place": {
+    "subtitle": "subtitles.block.soul_ore.place",
+    "sounds": [
+      {
+        "name": "cemm:soul_ore_break1",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break2",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break3",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break4",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break5",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_break6",
+        "stream": false
+      }
+    ]
+  },
+  "block.soul_ore.step": {
+    "subtitle": "subtitles.block.soul_ore.step",
+    "sounds": [
+      {
+        "name": "cemm:soul_ore_step1",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_step2",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_step3",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_step4",
+        "stream": false
+      },
+      {
+        "name": "cemm:soul_ore_step5",
+        "stream": false
+      }
+    ]
+  },
+  "block.midori.break": {
+    "subtitle": "subtitles.block.midori.break",
+    "sounds": [
+      {
+        "name": "cemm:midori_break_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.midori.place": {
+    "subtitle": "subtitles.block.midori.place",
+    "sounds": [
+      {
+        "name": "cemm:midori_break_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.midori.hit": {
+    "subtitle": "subtitles.block.midori.hit",
+    "sounds": [
+      {
+        "name": "cemm:midori_hit_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_hit_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_hit_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_hit_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.midori.fall": {
+    "subtitle": "subtitles.block.midori.fall",
+    "sounds": [
+      {
+        "name": "cemm:midori_break_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_break_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.midori.step": {
+    "subtitle": "subtitles.block.midori.step",
+    "sounds": [
+      {
+        "name": "cemm:midori_step_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_step_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_step_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:midori_step_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.end_wood.place": {
+    "subtitle": "subtitles.block.end_wood.place",
+    "sounds": [
+      {
+        "name": "cemm:end_wood_break_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.end_wood.break": {
+    "subtitle": "subtitles.block.end_wood.break",
+    "sounds": [
+      {
+        "name": "cemm:end_wood_break_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_break_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.end_wood.dig": {
+    "subtitle": "subtitles.block.end_wood.dig",
+    "sounds": [
+      {
+        "name": "cemm:end_wood_dig_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_4",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_5",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_6",
+        "stream": false
+      }
+    ]
+  },
+  "block.end_wood.fall": {
+    "subtitle": "subtitles.block.end_wood.fall",
+    "sounds": [
+      {
+        "name": "cemm:end_wood_dig_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_4",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_5",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_dig_6",
+        "stream": false
+      }
+    ]
+  },
+  "block.end_wood.step": {
+    "subtitle": "subtitles.block.end_wood.step",
+    "sounds": [
+      {
+        "name": "cemm:end_wood_step_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_step_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_step_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_step_4",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_step_5",
+        "stream": false
+      },
+      {
+        "name": "cemm:end_wood_step_6",
+        "stream": false
+      }
+    ]
+  },
+  "music.ashes": {
+    "sounds": [
+      {
+        "name": "cemm:ashes",
+        "stream": true
+      }
+    ]
+  },
+  "music.eremos": {
+    "sounds": [
+      {
+        "name": "cemm:eremos",
+        "stream": true
+      }
+    ]
+  },
+  "music.metanoia": {
+    "sounds": [
+      {
+        "name": "cemm:metanoia",
+        "stream": true
+      }
+    ]
+  },
+  "music.microcosm": {
+    "sounds": [
+      {
+        "name": "cemm:microcosm",
+        "stream": true
+      }
+    ]
+  },
+  "music.nerveless": {
+    "sounds": [
+      {
+        "name": "cemm:nerveless",
+        "stream": true
+      }
+    ]
+  },
+  "music.the_winds_of_no_atmosphere": {
+    "sounds": [
+      {
+        "name": "cemm:the_winds_of_no_atmosphere",
+        "stream": true
+      }
+    ]
+  },
+  "music.whispers": {
+    "sounds": [
+      {
+        "name": "cemm:whispers",
+        "stream": true
+      }
+    ]
+  },
+  "block.charred_wood.place": {
+    "subtitle": "subtitles.block.charred_wood.place",
+    "sounds": [
+      {
+        "name": "cemm:charred_wood_place_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.charred_wood.break": {
+    "subtitle": "subtitles.block.charred_wood.break",
+    "sounds": [
+      {
+        "name": "cemm:charred_wood_place_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_place_4",
+        "stream": false
+      }
+    ]
+  },
+  "block.charred_wood.step": {
+    "subtitle": "subtitles.block.charred_wood.step",
+    "sounds": [
+      {
+        "name": "cemm:charred_wood_step_1",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_step_2",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_step_3",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_step_4",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_step_5",
+        "stream": false
+      },
+      {
+        "name": "cemm:charred_wood_step_6",
+        "stream": false
+      }
+    ]
+  }
+}

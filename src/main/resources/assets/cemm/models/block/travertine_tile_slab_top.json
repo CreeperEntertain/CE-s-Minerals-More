@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/travertine_tiles",
+    "top": "cemm:block/travertine_tiles",
+    "side": "cemm:block/travertine_tiles"
+  },
+  "render_type": "solid"
+}

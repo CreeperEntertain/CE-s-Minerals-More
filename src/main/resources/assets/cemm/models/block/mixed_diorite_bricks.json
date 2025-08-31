@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/mixed_diorite_bricks_up_down",
+    "up": "cemm:block/mixed_diorite_bricks_up_down",
+    "north": "cemm:block/mixed_diorite_bricks",
+    "east": "cemm:block/mixed_diorite_bricks",
+    "south": "cemm:block/mixed_diorite_bricks",
+    "west": "cemm:block/mixed_diorite_bricks",
+    "particle": "cemm:block/mixed_diorite_bricks_up_down"
+  },
+  "render_type": "solid"
+}

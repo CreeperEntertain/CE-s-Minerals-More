@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:end_spruce_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:end_spruce_slab",
+    "count": 6
+  }
+}

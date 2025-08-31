@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/minium",
+    "top": "cemm:block/minium",
+    "side": "cemm:block/minium"
+  },
+  "render_type": "solid"
+}

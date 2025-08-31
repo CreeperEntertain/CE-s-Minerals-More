@@ -1,0 +1,12 @@
+{
+  "type": "cemm:structure_feature",
+  "config": {
+    "structure": "cemm:lunarbark_crown_3",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": [
+      "minecraft:structure_block",
+      "minecraft:air"
+    ]
+  }
+}

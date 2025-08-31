@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/gilded_blackstone_pillar_top",
+    "up": "cemm:block/gilded_blackstone_pillar_top",
+    "north": "cemm:block/gilded_blackstone_pillar_side",
+    "east": "cemm:block/gilded_blackstone_pillar_side",
+    "south": "cemm:block/gilded_blackstone_pillar_side",
+    "west": "cemm:block/gilded_blackstone_pillar_side",
+    "particle": "cemm:block/gilded_blackstone_pillar_top"
+  },
+  "render_type": "solid"
+}

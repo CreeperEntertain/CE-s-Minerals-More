@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_komatiite"
+  },
+  "result": "cemm:polished_komatiite_slab"
+}

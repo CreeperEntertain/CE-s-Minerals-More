@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/midori_bricks",
+    "particle": "cemm:block/midori_bricks"
+  },
+  "render_type": "solid"
+}

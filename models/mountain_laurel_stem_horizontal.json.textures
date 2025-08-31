@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "mountain_laurel_stem_side",
+        "Top": "mountain_laurel_stem_top"
+      },
+      "name": "default"
+    }
+  }
+}

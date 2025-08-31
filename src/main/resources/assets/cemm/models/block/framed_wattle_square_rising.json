@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/framed_wattle_square_rising",
+    "particle": "cemm:block/framed_wattle_square_rising"
+  },
+  "render_type": "solid"
+}

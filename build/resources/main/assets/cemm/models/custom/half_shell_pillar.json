@@ -1,0 +1,97 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "1",
+      "from": [
+        2,
+        0,
+        2
+      ],
+      "to": [
+        14,
+        8,
+        14
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          2,
+          0,
+          2
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            2,
+            8,
+            14,
+            16
+          ],
+          "texture": "#half_shell_pillar_side.png"
+        },
+        "east": {
+          "uv": [
+            2,
+            8,
+            14,
+            16
+          ],
+          "texture": "#half_shell_pillar_side.png"
+        },
+        "south": {
+          "uv": [
+            2,
+            8,
+            14,
+            16
+          ],
+          "texture": "#half_shell_pillar_side.png"
+        },
+        "west": {
+          "uv": [
+            2,
+            8,
+            14,
+            16
+          ],
+          "texture": "#half_shell_pillar_side.png"
+        },
+        "up": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#shell_pillar_top.png"
+        },
+        "down": {
+          "uv": [
+            2,
+            2,
+            14,
+            14
+          ],
+          "texture": "#shell_pillar_top.png"
+        }
+      }
+    }
+  ],
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    }
+  }
+}

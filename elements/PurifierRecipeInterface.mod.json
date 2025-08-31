@@ -1,0 +1,1222 @@
+{
+  "_fv": 60,
+  "_type": "gui",
+  "definition": {
+    "type": 0,
+    "width": 450,
+    "height": 250,
+    "inventoryOffsetX": 0,
+    "inventoryOffsetY": 0,
+    "renderBgLayer": false,
+    "doesPauseGame": false,
+    "components": [
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_2",
+          "text": {
+            "fixedValue": "2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "charcoal.png",
+          "use1Xscale": false,
+          "x": 7,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "coal.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_1",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dragon_breath.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_11",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "crying_obsidian_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_12",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "deepslate_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_32",
+          "text": {
+            "fixedValue": "16"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "obsidian_preview.png",
+          "use1Xscale": true,
+          "x": 52,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_13",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty",
+          "text": {
+            "fixedValue": "*"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 53
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_any_similar_item",
+          "text": {
+            "fixedValue": "* Any similar item"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 206
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "dirt_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty1",
+          "text": {
+            "fixedValue": "*"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 71
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_21",
+          "text": {
+            "fixedValue": "2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gravel_preview.png",
+          "use1Xscale": true,
+          "x": 52,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_14",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gilded_blackstone_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty2",
+          "text": {
+            "fixedValue": "*"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_15",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 89
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_16",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gold_ingot.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "graphite_block_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_22",
+          "text": {
+            "fixedValue": "2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emerald_shard.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_17",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "diamond_shard.png",
+          "use1Xscale": false,
+          "x": 79,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_18",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 97,
+          "y": 107
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_211",
+          "text": {
+            "fixedValue": "2:1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 106,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_ab_means_random_chance_numbers",
+          "text": {
+            "fixedValue": "A:B means random chance; numbers express weighting"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 224
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gravel_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty3",
+          "text": {
+            "fixedValue": "*"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 125
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_19",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 125
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "flint.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_110",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 125
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "magma_block_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_8",
+          "text": {
+            "fixedValue": "8"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 143
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "magma_cream.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_111",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 143
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mud_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_112",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 161
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "clay_preview.png",
+          "use1Xscale": true,
+          "x": 52,
+          "y": 152
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_113",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 161
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "netherrack_preview.png",
+          "use1Xscale": true,
+          "x": 7,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_23",
+          "text": {
+            "fixedValue": "2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 25,
+          "y": 179
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_empty4",
+          "text": {
+            "fixedValue": "*"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 7,
+          "y": 179
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "quartz.png",
+          "use1Xscale": false,
+          "x": 52,
+          "y": 170
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_114",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 70,
+          "y": 179
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "pure_carbon.png",
+          "use1Xscale": false,
+          "x": 133,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_115",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "emerald_shard.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_116",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 17
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "diamond_shard.png",
+          "use1Xscale": false,
+          "x": 205,
+          "y": 8
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_117",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 223,
+          "y": 17
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_121",
+          "text": {
+            "fixedValue": "1:2"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 232,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "red_sand_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_118",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gold_nugget.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 26
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_3",
+          "text": {
+            "fixedValue": "3"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 35
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "red_sandstone_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_119",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "gold_nugget.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 44
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_31",
+          "text": {
+            "fixedValue": "3"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 53
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "smokey_quartz.png",
+          "use1Xscale": false,
+          "x": 133,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_120",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "mountain_quartz.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 62
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_122",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 71
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "soul_sand_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_123",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bone_meal.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 80
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_124",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 89
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "soul_soil_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_125",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "coal.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 98
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_126",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 107
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "tuff_preview.png",
+          "use1Xscale": true,
+          "x": 133,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_127",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 125
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "bone_meal.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 116
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_128",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 125
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 152
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 43,
+          "y": 170
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 8
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 26
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 44
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 62
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 80
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 98
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 116
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "vertical_line_16.png",
+          "use1Xscale": false,
+          "x": 169,
+          "y": 134
+        }
+      },
+      {
+        "type": "image",
+        "data": {
+          "image": "raw_medicine.png",
+          "use1Xscale": false,
+          "x": 178,
+          "y": 134
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_129",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 196,
+          "y": 143
+        }
+      },
+      {
+        "type": "label",
+        "data": {
+          "name": "label_130",
+          "text": {
+            "fixedValue": "1"
+          },
+          "color": {
+            "value": -1,
+            "falpha": 0.0
+          },
+          "x": 151,
+          "y": 143
+        }
+      }
+    ],
+    "gridSettings": {
+      "sx": 18,
+      "sy": 18,
+      "ox": 12,
+      "oy": 15,
+      "snapOnGrid": true
+    }
+  }
+}

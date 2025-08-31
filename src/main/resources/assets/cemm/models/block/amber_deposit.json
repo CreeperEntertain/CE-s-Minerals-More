@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cliffstone_amber_ore",
+    "particle": "cemm:block/cliffstone_amber_ore"
+  },
+  "render_type": "solid"
+}

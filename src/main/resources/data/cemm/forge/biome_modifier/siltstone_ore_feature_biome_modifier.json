@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#cemm:contains_siltstone",
+  "features": "cemm:siltstone_ore_feature",
+  "step": "top_layer_modification"
+}

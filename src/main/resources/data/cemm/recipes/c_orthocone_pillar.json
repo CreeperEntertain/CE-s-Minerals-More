@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:orthocone_fossil"
+    },
+    {
+      "item": "cemm:murkstone"
+    }
+  ],
+  "result": {
+    "item": "cemm:orthocone_pillar",
+    "count": 1
+  }
+}

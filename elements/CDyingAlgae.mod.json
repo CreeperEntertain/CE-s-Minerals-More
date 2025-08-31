@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DyingAlgaeCarpet"
+      },
+      {
+        "value": "CUSTOM:DyingAlgaeCarpet"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:DyingAlgaeCarpet"
+      },
+      {
+        "value": "CUSTOM:DyingAlgaeCarpet"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DyingAlgae"
+    },
+    "name": "c_dying_algae",
+    "namespace": "mod"
+  }
+}

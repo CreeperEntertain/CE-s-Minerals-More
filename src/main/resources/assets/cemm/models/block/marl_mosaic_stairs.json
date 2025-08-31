@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/marl_mosaic",
+    "top": "cemm:block/marl_mosaic",
+    "side": "cemm:block/marl_mosaic"
+  },
+  "render_type": "solid"
+}

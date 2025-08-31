@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/cracked_bronze_tile",
+    "top": "cemm:block/cracked_bronze_tile",
+    "side": "cemm:block/cracked_bronze_tile"
+  },
+  "render_type": "solid"
+}

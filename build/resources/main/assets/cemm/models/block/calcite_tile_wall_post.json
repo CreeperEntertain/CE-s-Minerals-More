@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/calcite_tiles",
+    "particle": "cemm:block/calcite_tiles"
+  },
+  "render_type": "solid"
+}

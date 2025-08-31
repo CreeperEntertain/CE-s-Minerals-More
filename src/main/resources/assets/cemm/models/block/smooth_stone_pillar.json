@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/smooth_stone_pillar_up_down",
+    "up": "cemm:block/smooth_stone_pillar_up_down",
+    "north": "cemm:block/smooth_stone_pillar",
+    "east": "cemm:block/smooth_stone_pillar",
+    "south": "cemm:block/smooth_stone_pillar",
+    "west": "cemm:block/smooth_stone_pillar",
+    "particle": "cemm:block/smooth_stone_pillar_up_down"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/raw_topaz",
+    "particle": "cemm:block/raw_topaz"
+  },
+  "render_type": "solid"
+}

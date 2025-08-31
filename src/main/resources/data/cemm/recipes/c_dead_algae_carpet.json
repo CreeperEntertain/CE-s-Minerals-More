@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dead_algae"
+    }
+  },
+  "result": {
+    "item": "cemm:dead_algae_carpet",
+    "count": 8
+  }
+}

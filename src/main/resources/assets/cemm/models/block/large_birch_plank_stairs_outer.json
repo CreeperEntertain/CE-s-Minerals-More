@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/birch_large_planks",
+    "top": "cemm:block/birch_large_planks",
+    "side": "cemm:block/birch_large_planks"
+  },
+  "render_type": "solid"
+}

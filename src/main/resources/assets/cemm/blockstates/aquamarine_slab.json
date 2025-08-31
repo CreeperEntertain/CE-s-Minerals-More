@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/aquamarine_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/aquamarine_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/aquamarine_slab_full"
+    }
+  }
+}

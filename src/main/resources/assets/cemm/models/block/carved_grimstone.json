@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chiseled_grimstone",
+    "up": "cemm:block/chiseled_grimstone",
+    "north": "cemm:block/carved_grimstone",
+    "east": "cemm:block/carved_grimstone",
+    "south": "cemm:block/carved_grimstone",
+    "west": "cemm:block/carved_grimstone",
+    "particle": "cemm:block/chiseled_grimstone"
+  },
+  "render_type": "solid"
+}

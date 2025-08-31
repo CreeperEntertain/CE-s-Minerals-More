@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/netherrack_paving",
+    "particle": "cemm:block/netherrack_paving"
+  },
+  "render_type": "solid"
+}

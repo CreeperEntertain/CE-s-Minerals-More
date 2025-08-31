@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:icicles"
+    }
+  },
+  "result": {
+    "item": "minecraft:snow_block",
+    "count": 2
+  }
+}

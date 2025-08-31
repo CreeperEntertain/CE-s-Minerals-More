@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/cracked_dripstone_tile",
+    "top": "cemm:block/cracked_dripstone_tile",
+    "side": "cemm:block/cracked_dripstone_tile"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/orange_schist",
+    "particle": "cemm:block/orange_schist"
+  },
+  "render_type": "solid"
+}

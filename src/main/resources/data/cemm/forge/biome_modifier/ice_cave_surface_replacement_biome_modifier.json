@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ice_cave",
+  "features": "cemm:ice_cave_surface_replacement",
+  "step": "underground_structures"
+}

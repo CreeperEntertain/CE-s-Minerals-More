@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/leather_block_top",
+    "up": "cemm:block/leather_block_top",
+    "north": "cemm:block/leather_block_side",
+    "east": "cemm:block/leather_block_side",
+    "south": "cemm:block/leather_block_side",
+    "west": "cemm:block/leather_block_side",
+    "particle": "cemm:block/leather_block_top"
+  },
+  "render_type": "solid"
+}

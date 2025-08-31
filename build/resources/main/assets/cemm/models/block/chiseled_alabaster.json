@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chiseled_alabaster",
+    "particle": "cemm:block/chiseled_alabaster"
+  },
+  "render_type": "solid"
+}

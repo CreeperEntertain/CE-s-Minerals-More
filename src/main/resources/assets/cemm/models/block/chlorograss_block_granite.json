@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/granite",
+    "up": "cemm:block/chlorograss_block_top",
+    "north": "cemm:block/chlorograss_block_side_granite",
+    "east": "cemm:block/chlorograss_block_side_granite",
+    "south": "cemm:block/chlorograss_block_side_granite",
+    "west": "cemm:block/chlorograss_block_side_granite",
+    "particle": "cemm:block/granite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/verdant_pillar_top",
+    "up": "cemm:block/verdant_pillar_top",
+    "north": "cemm:block/verdant_pillar",
+    "east": "cemm:block/verdant_pillar",
+    "south": "cemm:block/verdant_pillar",
+    "west": "cemm:block/verdant_pillar",
+    "particle": "cemm:block/verdant_pillar_top"
+  },
+  "render_type": "solid"
+}

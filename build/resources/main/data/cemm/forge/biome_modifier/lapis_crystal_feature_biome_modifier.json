@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:is_cave",
+  "features": "cemm:lapis_crystal_feature",
+  "step": "local_modifications"
+}

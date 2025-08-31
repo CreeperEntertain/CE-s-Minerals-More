@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/ammonite_pillar",
+  "textures": {
+    "all": "cemm:block/ammonite_pillar",
+    "particle": "cemm:block/ammonite_pillar",
+    "polished_murkstone.png": "cemm:block/polished_murkstone",
+    "ammonite_pillar.png": "cemm:block/ammonite_pillar"
+  },
+  "render_type": "solid"
+}

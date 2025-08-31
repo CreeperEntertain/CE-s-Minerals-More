@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_block"
+    }
+  },
+  "result": {
+    "item": "cemm:plastic_sheets",
+    "count": 9
+  }
+}

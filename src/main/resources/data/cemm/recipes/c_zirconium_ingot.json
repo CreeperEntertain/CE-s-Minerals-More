@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:zirconium_scrap"
+    }
+  },
+  "result": {
+    "item": "cemm:zirconium_ingot",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/spike_coral_top",
+    "up": "cemm:block/spike_coral_top",
+    "north": "cemm:block/spike_coral",
+    "east": "cemm:block/spike_coral",
+    "south": "cemm:block/spike_coral",
+    "west": "cemm:block/spike_coral",
+    "particle": "cemm:block/spike_coral_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:xanthanium_ingot"
+    },
+    "b": {
+      "item": "cemm:primedust"
+    }
+  },
+  "result": {
+    "item": "cemm:misery_armor_helmet",
+    "count": 1
+  }
+}

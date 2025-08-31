@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "end_barrens",
+    "end_highlands",
+    "end_midlands",
+    "small_end_islands",
+    "the_end",
+    "#forge:end_forest",
+    "#forge:purpur_forest",
+    "#forge:purpur_spikes",
+    "#forge:midori_quarry"
+  ]
+}

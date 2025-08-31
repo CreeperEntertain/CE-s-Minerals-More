@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/polished_midori",
+    "particle": "cemm:block/polished_midori"
+  },
+  "render_type": "solid"
+}

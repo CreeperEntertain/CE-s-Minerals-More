@@ -1,0 +1,27 @@
+{
+  "feature": "cemm:deepslate_mountain_quartz_ore",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": 64
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:trapezoid",
+        "min_inclusive": {
+          "absolute": -32
+        },
+        "max_inclusive": {
+          "absolute": 512
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

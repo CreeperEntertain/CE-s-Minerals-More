@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:silt_bricks"
+  },
+  "result": "cemm:silt_brick_wall"
+}

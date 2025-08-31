@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/shadowbush",
+  "textures": {
+    "all": "cemm:block/shadowbush",
+    "particle": "cemm:block/shadowbush",
+    "overgrowth_top": "cemm:block/shadowfern_overlay",
+    "bush": "cemm:block/shadowbush",
+    "overgrowth_side": "cemm:block/shadowfern_overlay_side"
+  },
+  "render_type": "cutout"
+}

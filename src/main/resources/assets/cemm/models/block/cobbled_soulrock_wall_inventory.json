@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/cobbled_soulrock",
+    "particle": "cemm:block/cobbled_soulrock"
+  },
+  "render_type": "solid"
+}

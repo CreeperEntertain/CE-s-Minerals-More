@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ectoplasm"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_ectoplasm",
+    "count": 2
+  }
+}

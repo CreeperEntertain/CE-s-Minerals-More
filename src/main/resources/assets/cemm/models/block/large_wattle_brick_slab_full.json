@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/large_wattle_bricks",
+    "top": "cemm:block/large_wattle_bricks",
+    "side": "cemm:block/large_wattle_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/large_cherry_plank_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/large_cherry_plank_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/large_cherry_plank_slab_full"
+    }
+  }
+}

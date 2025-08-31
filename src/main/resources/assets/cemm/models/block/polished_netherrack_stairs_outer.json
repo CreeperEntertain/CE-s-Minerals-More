@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_netherrack",
+    "top": "cemm:block/polished_netherrack",
+    "side": "cemm:block/polished_netherrack"
+  },
+  "render_type": "solid"
+}

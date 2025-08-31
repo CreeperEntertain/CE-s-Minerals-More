@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/acacia_large_planks",
+    "top": "cemm:block/acacia_large_planks",
+    "side": "cemm:block/acacia_large_planks"
+  },
+  "render_type": "solid"
+}

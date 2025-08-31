@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:cobbled_chert"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "cemm:cobbled_chert"
+    }
+  ],
+  "result": {
+    "item": "cemm:dirty_cobbled_chert",
+    "count": 3
+  }
+}

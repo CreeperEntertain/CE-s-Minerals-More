@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bamboo_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:bamboo_skirting",
+    "count": 2
+  }
+}

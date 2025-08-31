@@ -1,0 +1,70 @@
+{
+  "type": "minecraft:simple_random_selector",
+  "config": {
+    "features": [
+      {
+        "feature": {
+          "type": "minecraft:scattered_ore",
+          "config": {
+            "size": 2,
+            "discard_chance_on_air_exposure": 0.35,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:murkstone"
+                },
+                "state": {
+                  "Name": "cemm:suspicious_murkstone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:scattered_ore",
+          "config": {
+            "size": 4,
+            "discard_chance_on_air_exposure": 0.75,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:murkstone"
+                },
+                "state": {
+                  "Name": "cemm:suspicious_murkstone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      },
+      {
+        "feature": {
+          "type": "minecraft:scattered_ore",
+          "config": {
+            "size": 6,
+            "discard_chance_on_air_exposure": 0.9,
+            "targets": [
+              {
+                "target": {
+                  "predicate_type": "block_match",
+                  "block": "cemm:murkstone"
+                },
+                "state": {
+                  "Name": "cemm:suspicious_murkstone"
+                }
+              }
+            ]
+          }
+        },
+        "placement": []
+      }
+    ]
+  }
+}

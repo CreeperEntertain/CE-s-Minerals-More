@@ -1,0 +1,14 @@
+{
+  "type": "cemm:mc_boulder_2_feature",
+  "config": {
+    "structure": "cemm:meta_carbonite_boulder_2",
+    "random_rotation": true,
+    "random_mirror": true,
+    "ignored_blocks": "minecraft:structure_block",
+    "offset": [
+      -2,
+      -1,
+      -2
+    ]
+  }
+}

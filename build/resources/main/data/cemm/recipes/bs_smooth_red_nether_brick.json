@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 100,
+  "ingredient": {
+    "tag": "forge:red_nether_bricks"
+  },
+  "result": "cemm:smooth_red_nether_brick"
+}

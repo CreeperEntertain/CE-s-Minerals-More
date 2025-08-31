@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/rotten_oak_planks",
+    "top": "cemm:block/rotten_oak_planks",
+    "side": "cemm:block/rotten_oak_planks"
+  },
+  "render_type": "solid"
+}

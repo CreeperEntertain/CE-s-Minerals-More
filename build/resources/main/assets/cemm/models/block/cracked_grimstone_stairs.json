@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cracked_grimstone",
+    "top": "cemm:block/cracked_grimstone",
+    "side": "cemm:block/cracked_grimstone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/kaolin_bricks",
+    "top": "cemm:block/kaolin_bricks",
+    "side": "cemm:block/kaolin_bricks"
+  },
+  "render_type": "solid"
+}

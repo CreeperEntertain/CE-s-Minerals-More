@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:end_grass",
+    "cemm:dense_end_grass",
+    "cemm:end_fern",
+    "cemm:dense_end_fern"
+  ]
+}

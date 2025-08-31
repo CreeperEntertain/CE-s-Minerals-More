@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:raw_kyanite",
+    "cemm:raw_kyanite_bricks",
+    "cemm:polished_raw_kyanite",
+    "cemm:chiseled_raw_kyanite_bricks",
+    "cemm:chiseled_raw_kyanite",
+    "cemm:raw_kyanite_pillar",
+    "cemm:kyanite_block",
+    "cemm:kyanite_bricks",
+    "cemm:chiseled_kyanite_block",
+    "cemm:kyanite_pillar"
+  ]
+}

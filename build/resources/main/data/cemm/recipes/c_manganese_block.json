@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:manganese_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:manganese_block",
+    "count": 1
+  }
+}

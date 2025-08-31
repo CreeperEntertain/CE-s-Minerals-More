@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:raw_copper_bricks"
+  },
+  "result": "cemm:raw_copper_brick_stairs"
+}

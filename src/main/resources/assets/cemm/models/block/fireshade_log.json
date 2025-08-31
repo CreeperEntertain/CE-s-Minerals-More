@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/fireshade_log_top",
+    "up": "cemm:block/fireshade_log_top",
+    "north": "cemm:block/fireshade_log_side",
+    "east": "cemm:block/fireshade_log_side",
+    "south": "cemm:block/fireshade_log_side",
+    "west": "cemm:block/fireshade_log_side",
+    "particle": "cemm:block/fireshade_log_top"
+  },
+  "render_type": "solid"
+}

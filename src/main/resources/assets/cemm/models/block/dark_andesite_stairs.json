@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/dark_andesite",
+    "top": "cemm:block/dark_andesite",
+    "side": "cemm:block/dark_andesite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/dark_mud_tile_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/dark_mud_tile_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/dark_mud_tile_slab_full"
+    }
+  }
+}

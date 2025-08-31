@@ -1,0 +1,99 @@
+{
+  "_fv": 60,
+  "_type": "plant",
+  "definition": {
+    "renderType": 12,
+    "texture": "end_spruce_sapling",
+    "textureBottom": "",
+    "customModelName": "Cross model",
+    "itemTexture": "end_spruce_sapling",
+    "particleTexture": "",
+    "tintType": "No tint",
+    "isItemTinted": false,
+    "plantType": "normal",
+    "suspiciousStewEffect": "SPEED",
+    "suspiciousStewDuration": 100,
+    "growapableSpawnType": "Plains",
+    "growapableMaxHeight": 3,
+    "customBoundingBox": true,
+    "disableOffset": true,
+    "boundingBoxes": [
+      {
+        "mx": 1.0,
+        "my": 0.0,
+        "mz": 1.0,
+        "Mx": 15.0,
+        "My": 14.0,
+        "Mz": 15.0,
+        "subtract": false
+      }
+    ],
+    "name": "End Spruce Sapling",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:DungeonsCrossover"
+    },
+    "hardness": 0.0,
+    "resistance": 0.0,
+    "luminance": 0,
+    "unbreakable": false,
+    "isSolid": false,
+    "isCustomSoundType": false,
+    "soundOnStep": {
+      "value": "PLANT"
+    },
+    "breakSound": {
+      "value": ""
+    },
+    "stepSound": {
+      "value": ""
+    },
+    "placeSound": {
+      "value": ""
+    },
+    "hitSound": {
+      "value": ""
+    },
+    "fallSound": {
+      "value": ""
+    },
+    "useLootTableForDrops": false,
+    "customDrop": {
+      "value": ""
+    },
+    "dropAmount": 1,
+    "forceTicking": true,
+    "emissiveRendering": false,
+    "hasTileEntity": false,
+    "isReplaceable": false,
+    "colorOnMap": "DEFAULT",
+    "creativePickItem": {
+      "value": ""
+    },
+    "offsetType": "XZ",
+    "aiPathNodeType": "DEFAULT",
+    "flammability": 100,
+    "fireSpreadSpeed": 60,
+    "jumpFactor": 1.0,
+    "speedFactor": 1.0,
+    "canBePlacedOn": [],
+    "placingCondition": {
+      "name": "EndPlantPlacement"
+    },
+    "isBonemealable": true,
+    "onBonemealSuccess": {
+      "name": "EndSpruceBoneMealing"
+    },
+    "frequencyOnChunks": 5,
+    "generateFeature": false,
+    "restrictionBiomes": [],
+    "generationType": "Flower",
+    "patchSize": 64,
+    "generateAtAnyHeight": false,
+    "onTickUpdate": {
+      "name": "EndSpruceSaplingTickUpdate"
+    }
+  }
+}

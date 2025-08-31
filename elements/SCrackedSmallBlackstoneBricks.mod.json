@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:SmallBlackstoneBricks"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmallCrackedBlackstoneBricks"
+    },
+    "name": "s_cracked_small_blackstone_bricks",
+    "namespace": "mod"
+  }
+}

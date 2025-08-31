@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:rough_dark_marble_bricks",
+    "cemm:dark_marble_bricks",
+    "cemm:diagonal_dark_marble_bricks",
+    "cemm:polished_dark_marble_bricks"
+  ]
+}

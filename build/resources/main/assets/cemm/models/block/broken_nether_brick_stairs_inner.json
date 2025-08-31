@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/broken_nether_bricks",
+    "top": "cemm:block/broken_nether_bricks",
+    "side": "cemm:block/broken_nether_bricks"
+  },
+  "render_type": "solid"
+}

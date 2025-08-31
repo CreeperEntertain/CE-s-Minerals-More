@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/medium_dark_bamboo_crown",
+  "textures": {
+    "all": "cemm:block/medium_dark_bamboo_crown",
+    "particle": "cemm:block/dark_bamboo_block",
+    "0": "cemm:block/medium_dark_bamboo_crown"
+  },
+  "render_type": "cutout_mipped"
+}

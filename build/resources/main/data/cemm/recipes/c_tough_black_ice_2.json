@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:blue_ice"
+    },
+    "b": {
+      "tag": "cemm:black_ice_crafting_material"
+    }
+  },
+  "result": {
+    "item": "cemm:tough_black_ice",
+    "count": 8
+  }
+}

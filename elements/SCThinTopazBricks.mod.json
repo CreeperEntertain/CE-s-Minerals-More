@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Stone cutting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "stoneCuttingInputStack": {
+      "value": "TAG:cemm:topaz_blocks"
+    },
+    "stoneCuttingReturnStack": {
+      "value": "CUSTOM:ThinTopazBricks"
+    },
+    "name": "sc_thin_topaz_bricks",
+    "namespace": "mod"
+  }
+}

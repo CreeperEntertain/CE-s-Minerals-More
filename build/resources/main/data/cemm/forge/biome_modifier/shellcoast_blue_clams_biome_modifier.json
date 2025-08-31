@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:shellcoast",
+  "features": "cemm:shellcoast_blue_clams",
+  "step": "vegetal_decoration"
+}

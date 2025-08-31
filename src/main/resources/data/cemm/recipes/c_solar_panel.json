@@ -1,0 +1,30 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    " e "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ruthenium_pellet"
+    },
+    "b": {
+      "item": "minecraft:glass"
+    },
+    "c": {
+      "item": "cemm:tellurium_pellet"
+    },
+    "d": {
+      "item": "cemm:board"
+    },
+    "e": {
+      "item": "cemm:copper_wire"
+    }
+  },
+  "result": {
+    "item": "cemm:solar_panel",
+    "count": 1
+  }
+}

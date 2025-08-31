@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/cyan_ice_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/cyan_ice_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/cyan_ice_slab_full"
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/patterned_grimstone_bricks",
+    "up": "cemm:block/patterned_grimstone_bricks",
+    "north": "cemm:block/diagonal_grimstone_bricks",
+    "east": "cemm:block/diagonal_grimstone_bricks",
+    "south": "cemm:block/diagonal_grimstone_bricks",
+    "west": "cemm:block/diagonal_grimstone_bricks",
+    "particle": "cemm:block/patterned_grimstone_bricks"
+  },
+  "render_type": "solid"
+}

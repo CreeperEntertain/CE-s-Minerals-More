@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 1.0,
+    "cookingTime": 400,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:Bismuthinite"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:BismuthCrystal"
+    },
+    "name": "bs_bismuth_crystal",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "bbb",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:copper_wire"
+    },
+    "b": {
+      "item": "cemm:galvanized_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:rotor",
+    "count": 1
+  }
+}

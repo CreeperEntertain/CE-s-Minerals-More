@@ -1,0 +1,71 @@
+{
+  "feature": "cemm:kerolite_formation_0_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 4
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "above_bottom": 8
+        },
+        "max_inclusive": {
+          "absolute": 128
+        }
+      }
+    },
+    {
+      "type": "minecraft:surface_relative_threshold_filter",
+      "heightmap": "WORLD_SURFACE_WG",
+      "min_inclusive": -192,
+      "max_inclusive": -8
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "cemm:chlorograss_block_dirt",
+          "cemm:chlorograss_block_stone",
+          "cemm:chlorograss_block_moss",
+          "cemm:chlorograss_block_andesite",
+          "cemm:chlorograss_block_granite",
+          "cemm:chlorograss_block_diorite",
+          "cemm:chlorograss_block_tuff",
+          "cemm:chlorograss_block_dripstone",
+          "cemm:firegrass_block_andesite",
+          "cemm:firegrass_block_diorite",
+          "cemm:firegrass_block_dirt",
+          "cemm:firegrass_block_dripstone",
+          "cemm:firegrass_block_granite",
+          "cemm:firegrass_block_moss",
+          "cemm:firegrass_block_stone",
+          "cemm:firegrass_block_tuff",
+          "minecraft:stone",
+          "minecraft:granite",
+          "minecraft:diorite",
+          "minecraft:andesite",
+          "minecraft:deepslate",
+          "minecraft:tuff",
+          "minecraft:dripstone_block",
+          "minecraft:dirt",
+          "minecraft:moss_block"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

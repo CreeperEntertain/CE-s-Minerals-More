@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/purpur_planks",
+    "top": "cemm:block/purpur_planks",
+    "side": "cemm:block/purpur_planks"
+  },
+  "render_type": "solid"
+}

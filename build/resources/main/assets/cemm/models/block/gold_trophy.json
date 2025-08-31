@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/gold_frame",
+    "up": "cemm:block/gold_frame",
+    "north": "cemm:block/gold_trophy",
+    "east": "cemm:block/gold_trophy",
+    "south": "cemm:block/gold_trophy",
+    "west": "cemm:block/gold_trophy",
+    "particle": "cemm:block/gold_frame"
+  },
+  "render_type": "solid"
+}

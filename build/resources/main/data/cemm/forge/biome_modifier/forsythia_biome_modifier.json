@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "sunflower_plains",
+    "flower_forest",
+    "meadow"
+  ],
+  "features": "cemm:forsythia",
+  "step": "vegetal_decoration"
+}

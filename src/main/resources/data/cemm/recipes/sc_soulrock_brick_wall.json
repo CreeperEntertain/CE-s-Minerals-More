@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:soulrock_bricks"
+  },
+  "result": "cemm:soulrock_brick_wall"
+}

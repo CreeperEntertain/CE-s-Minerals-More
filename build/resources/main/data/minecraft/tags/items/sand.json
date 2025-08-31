@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:monazite_sand",
+    "cemm:zircon_sand",
+    "minecraft:sand",
+    "minecraft:red_sand",
+    "minecraft:suspicious_sand",
+    "cemm:hardened_sand",
+    "cemm:raked_sand",
+    "cemm:quartz_sand",
+    "cemm:basalt_sand",
+    "cemm:volcanic_sand",
+    "cemm:alabaster_sand",
+    "cemm:coarse_sand"
+  ]
+}

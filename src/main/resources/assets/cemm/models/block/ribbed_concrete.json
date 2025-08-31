@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/rough_concrete",
+    "up": "cemm:block/rough_concrete",
+    "north": "cemm:block/ribbed_concrete",
+    "east": "cemm:block/ribbed_concrete",
+    "south": "cemm:block/ribbed_concrete",
+    "west": "cemm:block/ribbed_concrete",
+    "particle": "cemm:block/rough_concrete"
+  },
+  "render_type": "solid"
+}

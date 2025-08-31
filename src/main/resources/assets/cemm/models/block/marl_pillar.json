@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/marl_pillar_top",
+    "up": "cemm:block/marl_pillar_top",
+    "north": "cemm:block/marl_pillar",
+    "east": "cemm:block/marl_pillar",
+    "south": "cemm:block/marl_pillar",
+    "west": "cemm:block/marl_pillar",
+    "particle": "cemm:block/marl_pillar_top"
+  },
+  "render_type": "solid"
+}

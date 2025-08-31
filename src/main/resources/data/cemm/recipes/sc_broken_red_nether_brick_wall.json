@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:broken_red_nether_bricks"
+  },
+  "result": "cemm:broken_red_nether_brick_wall"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#cemm:contains_rhyolite",
+  "features": "cemm:rhyolite_ore_feature",
+  "step": "top_layer_modification"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/dead_spider_succulent_bottom",
+    "up": "cemm:block/dead_spider_succulent_bulb_top",
+    "north": "cemm:block/dead_spider_succulent_bulb_side_alt",
+    "east": "cemm:block/dead_spider_succulent_bulb_side",
+    "south": "cemm:block/dead_spider_succulent_bulb_side_alt",
+    "west": "cemm:block/dead_spider_succulent_bulb_side",
+    "particle": "cemm:block/dead_spider_succulent_bottom"
+  },
+  "render_type": "solid"
+}

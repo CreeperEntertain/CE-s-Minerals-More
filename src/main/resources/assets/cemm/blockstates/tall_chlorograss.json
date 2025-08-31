@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/tall_chlorograss"
+    },
+    "half=lower": {
+      "model": "cemm:block/tall_chlorograss_bottom"
+    }
+  }
+}

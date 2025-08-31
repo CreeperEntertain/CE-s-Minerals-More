@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/red_polypore",
+  "textures": {
+    "all": "cemm:block/red_polypore",
+    "particle": "cemm:block/red_polypore",
+    "0": "cemm:block/red_polypore"
+  },
+  "render_type": "cutout_mipped"
+}

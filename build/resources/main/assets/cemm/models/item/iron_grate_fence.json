@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:block/iron_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

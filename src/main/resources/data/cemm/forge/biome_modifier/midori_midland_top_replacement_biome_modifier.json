@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:midori_quarry_midland",
+  "features": "cemm:midori_midland_top_replacement",
+  "step": "lakes"
+}

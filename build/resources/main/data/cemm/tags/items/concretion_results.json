@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:redstone_geode",
+    "cemm:amethyst_geode",
+    "cemm:topaz_geode",
+    "cemm:aquamarine_geode",
+    "cemm:ammonite_fossil",
+    "cemm:brachiopod_fossil",
+    "cemm:orthocone_fossil",
+    "cemm:trilobite_fossil"
+  ]
+}

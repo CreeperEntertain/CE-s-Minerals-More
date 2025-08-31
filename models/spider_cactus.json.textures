@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "spider_cactus_side",
+        "2": "warped_moss_block",
+        "Top": "spider_cactus_top"
+      },
+      "name": "default"
+    }
+  }
+}

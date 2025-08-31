@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:novaculite_bricks"
+  },
+  "result": "cemm:novaculite_brick_wall"
+}

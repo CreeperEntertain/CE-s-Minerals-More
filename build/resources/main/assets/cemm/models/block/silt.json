@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/silt",
+    "particle": "cemm:block/silt"
+  },
+  "render_type": "solid"
+}

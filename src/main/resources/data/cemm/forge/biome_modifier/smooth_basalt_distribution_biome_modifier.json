@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ash_barrens",
+  "features": "cemm:smooth_basalt_distribution",
+  "step": "surface_structures"
+}

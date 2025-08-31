@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/overworld_soapstone",
+    "top": "cemm:block/overworld_soapstone",
+    "side": "cemm:block/overworld_soapstone"
+  },
+  "render_type": "solid"
+}

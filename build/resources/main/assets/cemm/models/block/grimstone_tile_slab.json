@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/grimstone_tiles",
+    "top": "cemm:block/grimstone_tiles",
+    "side": "cemm:block/grimstone_tiles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "misc",
+  "experience": 0.1,
+  "cookingtime": 600,
+  "ingredient": {
+    "tag": "minecraft:logs"
+  },
+  "result": "cemm:charred_log"
+}

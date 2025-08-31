@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dying_algae"
+      },
+      "name": "default"
+    }
+  }
+}

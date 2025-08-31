@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/mossy_small_dark_mud_brick_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/mossy_small_dark_mud_brick_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/mossy_small_dark_mud_brick_slab_full"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "feature": "cemm:mountain_laurel_meadow_generation",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 8
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 3
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "cemm:dirty_cobblestone",
+          "cemm:overgrown_dirty_cobblestone",
+          "cemm:overgrown_dirt",
+          "cemm:overgrown_rooted_dirt",
+          "cemm:overgrown_coarse_dirt",
+          "cemm:scorched_dirt",
+          "cemm:grassed_scorched_dirt",
+          "cemm:overgrown_scorched_dirt",
+          "cemm:dirty_mud",
+          "cemm:overgrown_dirty_mud",
+          "cemm:grassed_dirty_mud",
+          "minecraft:dirt",
+          "minecraft:coarse_dirt",
+          "minecraft:podzol",
+          "minecraft:rooted_dirt",
+          "cemm:grassed_dried_mud",
+          "minecraft:grass_block"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

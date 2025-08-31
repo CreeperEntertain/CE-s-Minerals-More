@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:masuyite"
+  },
+  "result": "cemm:masuyite_stairs"
+}

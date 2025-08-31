@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:mixed_nether_bricks"
+  },
+  "result": "cemm:mixed_nether_brick_stairs"
+}

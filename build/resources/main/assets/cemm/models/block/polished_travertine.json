@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/polished_travertine",
+    "particle": "cemm:block/polished_travertine"
+  },
+  "render_type": "solid"
+}

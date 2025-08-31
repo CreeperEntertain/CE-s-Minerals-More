@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert"
+  ],
+  "features": "cemm:tinakisite_boulder_2_feature",
+  "step": "surface_structures"
+}

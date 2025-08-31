@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/end_spruce_planks",
+    "top": "cemm:block/end_spruce_planks",
+    "side": "cemm:block/end_spruce_planks"
+  },
+  "render_type": "solid"
+}

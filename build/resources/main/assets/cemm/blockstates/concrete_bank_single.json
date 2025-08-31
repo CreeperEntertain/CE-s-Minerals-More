@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/concrete_bank_single"
+    },
+    "facing=east": {
+      "model": "cemm:block/concrete_bank_single",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/concrete_bank_single",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/concrete_bank_single",
+      "y": 270
+    }
+  }
+}

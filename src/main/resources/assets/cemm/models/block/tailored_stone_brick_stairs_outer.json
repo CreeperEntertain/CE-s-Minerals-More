@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/tailored_stone_bricks",
+    "top": "cemm:block/tailored_stone_bricks",
+    "side": "cemm:block/tailored_stone_bricks"
+  },
+  "render_type": "solid"
+}

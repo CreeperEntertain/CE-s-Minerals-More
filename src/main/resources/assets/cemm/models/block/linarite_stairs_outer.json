@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/linarite",
+    "top": "cemm:block/linarite",
+    "side": "cemm:block/linarite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:granite_herringbone_bricks"
+  },
+  "result": "cemm:granite_herringbone_brick_slab"
+}

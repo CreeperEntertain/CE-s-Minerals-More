@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/calcite_tiles",
+    "top": "cemm:block/calcite_tiles",
+    "side": "cemm:block/calcite_tiles"
+  },
+  "render_type": "solid"
+}

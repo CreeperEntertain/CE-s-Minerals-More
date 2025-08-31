@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/industrial_copper",
+    "top": "cemm:block/industrial_copper",
+    "side": "cemm:block/industrial_copper"
+  },
+  "render_type": "solid"
+}

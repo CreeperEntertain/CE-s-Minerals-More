@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:purpur_spikes_midland",
+  "features": "cemm:purpur_spikes_midland_purpur_stone",
+  "step": "raw_generation"
+}

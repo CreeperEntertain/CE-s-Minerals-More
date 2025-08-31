@@ -1,0 +1,69 @@
+{
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-08-21 21:27:21 +0200"
+    },
+    "done": true
+  },
+  "cemm:welcome_to_the_game": {
+    "criteria": {
+      "welcome_to_the_game_0": "2024-08-21 21:27:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2024-08-21 21:27:22 +0200"
+    },
+    "done": false
+  },
+  "cemm:cemm_additions": {
+    "criteria": {
+      "cemm_additions_0": "2024-08-21 21:27:21 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-08-21 21:31:27 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

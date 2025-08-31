@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/syringia"
+    },
+    "half=lower": {
+      "model": "cemm:block/syringia_bottom"
+    }
+  }
+}

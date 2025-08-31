@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cherry_grove",
+    "river",
+    "frozen_river"
+  ],
+  "features": "cemm:chinese_lantern",
+  "step": "vegetal_decoration"
+}

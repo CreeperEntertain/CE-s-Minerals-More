@@ -1,0 +1,22 @@
+{
+  "replace": false,
+  "values": [
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "snowy_taiga",
+    "taiga",
+    "plains",
+    "snowy_plains",
+    "sunflower_plains",
+    "cemm:amber_forest",
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "beach",
+    "snowy_beach",
+    "cemm:chalk_steppes"
+  ]
+}

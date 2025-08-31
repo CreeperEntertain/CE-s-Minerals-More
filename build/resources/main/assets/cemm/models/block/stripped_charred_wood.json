@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/stripped_charred_log",
+    "particle": "cemm:block/stripped_charred_log"
+  },
+  "render_type": "solid"
+}

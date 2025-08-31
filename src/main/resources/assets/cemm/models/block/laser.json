@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/laser",
+  "textures": {
+    "all": "cemm:block/laser",
+    "particle": "cemm:block/laser",
+    "0": "cemm:block/laser"
+  },
+  "render_type": "solid"
+}

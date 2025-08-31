@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:sakura_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:sakura_shutters",
+    "count": 2
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ash_barrens",
+  "features": "cemm:sprayer_flower",
+  "step": "vegetal_decoration"
+}

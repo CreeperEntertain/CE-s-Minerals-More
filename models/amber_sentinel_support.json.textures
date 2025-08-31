@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "amber_sentinel_support_bottom",
+        "Support Side": "amber_sentinel_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

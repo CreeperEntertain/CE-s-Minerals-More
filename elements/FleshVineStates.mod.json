@@ -1,0 +1,32 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "FleshVine",
+    "blockstateList": [
+      {
+        "texture": "flesh_vine_end",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "flesh_vine",
+        "renderType": 1,
+        "customModelName": "Cross model",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 3.0,
+            "my": 10.0,
+            "mz": 3.0,
+            "Mx": 13.0,
+            "My": 16.0,
+            "Mz": 13.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

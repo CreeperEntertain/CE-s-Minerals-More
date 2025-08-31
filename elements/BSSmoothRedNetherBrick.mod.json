@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "TAG:forge:red_nether_bricks"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:SmoothRedNetherBrick"
+    },
+    "name": "bs_smooth_red_nether_brick",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/cobbled_lavaslate",
+    "top": "cemm:block/cobbled_lavaslate",
+    "side": "cemm:block/cobbled_lavaslate"
+  },
+  "render_type": "solid"
+}

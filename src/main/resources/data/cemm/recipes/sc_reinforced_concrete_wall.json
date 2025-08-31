@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:reinforced_concrete"
+  },
+  "result": "cemm:reinforced_concrete_wall"
+}

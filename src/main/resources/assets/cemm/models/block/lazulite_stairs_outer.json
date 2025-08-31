@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/lazulite",
+    "top": "cemm:block/lazulite",
+    "side": "cemm:block/lazulite"
+  },
+  "render_type": "solid"
+}

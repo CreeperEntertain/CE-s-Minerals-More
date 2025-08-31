@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "soul_sand_valley",
+  "features": "cemm:ectoplasm_specs_generation",
+  "step": "underground_decoration"
+}

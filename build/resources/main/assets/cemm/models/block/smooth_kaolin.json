@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/smooth_kaolin",
+    "particle": "cemm:block/smooth_kaolin"
+  },
+  "render_type": "solid"
+}

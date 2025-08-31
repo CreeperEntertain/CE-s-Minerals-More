@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/larkspur"
+    },
+    "half=lower": {
+      "model": "cemm:block/larkspur_bottom"
+    }
+  }
+}

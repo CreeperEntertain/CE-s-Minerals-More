@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/anthracite",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/anthracite"
+    },
+    "axis=z": {
+      "model": "cemm:block/anthracite",
+      "x": 90
+    }
+  }
+}

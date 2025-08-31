@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/blue_urn",
+  "textures": {
+    "all": "cemm:block/blue_urn",
+    "particle": "cemm:block/blue_urn",
+    "0": "cemm:block/blue_urn"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/concrete_slab_square_hole"
+    },
+    "type=top": {
+      "model": "cemm:block/concrete_slab_square_hole_top"
+    },
+    "type=double": {
+      "model": "cemm:block/concrete_slab_square_hole_full"
+    }
+  }
+}

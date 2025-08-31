@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:rough_blackstone",
+    "cemm:rocky_blackstone",
+    "minecraft:blackstone",
+    "minecraft:polished_blackstone"
+  ]
+}

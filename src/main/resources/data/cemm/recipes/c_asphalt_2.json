@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:asphalt_slab"
+    },
+    {
+      "item": "cemm:asphalt_slab"
+    }
+  ],
+  "result": {
+    "item": "cemm:asphalt",
+    "count": 1
+  }
+}

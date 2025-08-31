@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.0,
+    "scaling": "never",
+    "effects": "hurt",
+    "normalDeathMessage": "%1$s dissolved",
+    "itemDeathMessage": "%1$s disintegrated %2$s using %3$s",
+    "playerDeathMessage": "%1$s was ripped to molecules whilst running from %2$s"
+  }
+}

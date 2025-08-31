@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/smooth_purpur_stone",
+    "top": "cemm:block/smooth_purpur_stone",
+    "side": "cemm:block/smooth_purpur_stone"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/dark_oak_large_jointed_planks",
+    "particle": "cemm:block/dark_oak_large_jointed_planks"
+  },
+  "render_type": "solid"
+}

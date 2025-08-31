@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:lunarbark_stick"
+    },
+    {
+      "item": "cemm:misery_drops"
+    },
+    {
+      "item": "cemm:lunarbark_stick"
+    },
+    {
+      "item": "cemm:polymorous_drops"
+    },
+    {
+      "item": "cemm:lunarbark_stick"
+    }
+  ],
+  "result": {
+    "item": "cemm:nightrod",
+    "count": 1
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "lunarbark_support_bottom",
+        "Support Side": "lunarbark_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

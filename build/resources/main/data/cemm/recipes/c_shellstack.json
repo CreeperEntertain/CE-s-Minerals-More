@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:orthocone_shell"
+    }
+  },
+  "result": {
+    "item": "cemm:shellstack",
+    "count": 1
+  }
+}

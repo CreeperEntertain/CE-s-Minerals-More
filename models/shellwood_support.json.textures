@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "shellwood_support_bottom",
+        "Support Side": "shellwood_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

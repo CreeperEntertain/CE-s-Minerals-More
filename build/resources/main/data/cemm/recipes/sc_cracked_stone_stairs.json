@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cracked_stone"
+  },
+  "result": "cemm:cracked_stone_stairs"
+}

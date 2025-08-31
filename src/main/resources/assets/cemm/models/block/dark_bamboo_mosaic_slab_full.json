@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/dark_bamboo_mosaic",
+    "top": "cemm:block/dark_bamboo_mosaic",
+    "side": "cemm:block/dark_bamboo_mosaic"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/weathered_end_stone",
+    "top": "cemm:block/weathered_end_stone",
+    "side": "cemm:block/weathered_end_stone"
+  },
+  "render_type": "solid"
+}

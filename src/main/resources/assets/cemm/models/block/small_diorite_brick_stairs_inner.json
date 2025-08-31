@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/small_diorite_bricks",
+    "top": "cemm:block/small_diorite_bricks",
+    "side": "cemm:block/small_diorite_bricks"
+  },
+  "render_type": "solid"
+}

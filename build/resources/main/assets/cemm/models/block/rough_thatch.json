@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/hay_block_top",
+    "particle": "cemm:block/hay_block_top"
+  },
+  "render_type": "solid"
+}

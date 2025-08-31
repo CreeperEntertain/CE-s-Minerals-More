@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/murdochite",
+    "top": "cemm:block/murdochite",
+    "side": "cemm:block/murdochite"
+  },
+  "render_type": "solid"
+}

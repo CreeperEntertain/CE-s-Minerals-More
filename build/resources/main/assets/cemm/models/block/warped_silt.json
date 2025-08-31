@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/silt",
+    "up": "cemm:block/warped_grass_top",
+    "north": "cemm:block/warped_silt",
+    "east": "cemm:block/warped_silt",
+    "south": "cemm:block/warped_silt",
+    "west": "cemm:block/warped_silt",
+    "particle": "cemm:block/silt"
+  },
+  "render_type": "solid"
+}

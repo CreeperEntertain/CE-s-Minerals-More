@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/soulrock",
+    "top": "cemm:block/soulrock",
+    "side": "cemm:block/soulrock"
+  },
+  "render_type": "solid"
+}

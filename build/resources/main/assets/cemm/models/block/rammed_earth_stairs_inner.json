@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/rammed_earth",
+    "top": "cemm:block/rammed_earth",
+    "side": "cemm:block/rammed_earth"
+  },
+  "render_type": "solid"
+}

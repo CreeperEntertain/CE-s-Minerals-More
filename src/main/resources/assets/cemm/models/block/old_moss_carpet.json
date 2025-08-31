@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/old_moss_carpet",
+  "textures": {
+    "all": "cemm:block/old_moss",
+    "particle": "cemm:block/old_moss",
+    "0": "cemm:block/old_moss"
+  },
+  "render_type": "solid"
+}

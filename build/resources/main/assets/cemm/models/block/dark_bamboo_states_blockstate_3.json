@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/thick_dark_bamboo",
+  "textures": {
+    "all": "cemm:block/thick_dark_bamboo",
+    "particle": "cemm:block/dark_bamboo_block",
+    "0": "cemm:block/thick_dark_bamboo"
+  },
+  "render_type": "cutout_mipped"
+}

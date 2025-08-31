@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:charred_log",
+    "cemm:charred_wood",
+    "cemm:cut_charred_wood",
+    "cemm:stripped_charred_log",
+    "cemm:stripped_charred_wood"
+  ]
+}
