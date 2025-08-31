@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_amethyst"
+  },
+  "result": "cemm:polished_amethyst_wall"
+}

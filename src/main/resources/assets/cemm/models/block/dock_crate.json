@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/crate_bottom",
+    "up": "cemm:block/crate_top",
+    "north": "cemm:block/crate_side",
+    "east": "cemm:block/crate_side",
+    "south": "cemm:block/crate_side",
+    "west": "cemm:block/crate_side",
+    "particle": "cemm:block/crate_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/winter_oak_log_top",
+    "up": "cemm:block/winter_oak_log_top",
+    "north": "cemm:block/winter_oak_log_side",
+    "east": "cemm:block/winter_oak_log_side",
+    "south": "cemm:block/winter_oak_log_side",
+    "west": "cemm:block/winter_oak_log_side",
+    "particle": "cemm:block/winter_oak_log_top"
+  },
+  "render_type": "solid"
+}

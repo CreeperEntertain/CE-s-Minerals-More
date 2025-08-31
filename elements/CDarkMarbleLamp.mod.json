@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 2,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "Blocks.GLOWSTONE"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      },
+      {
+        "value": "Items.REDSTONE"
+      },
+      {
+        "value": "CUSTOM:DarkMarble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:DarkMarbleLamp"
+    },
+    "name": "c_dark_marble_lamp",
+    "namespace": "mod"
+  }
+}

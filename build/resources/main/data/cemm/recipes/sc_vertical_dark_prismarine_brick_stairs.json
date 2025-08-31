@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:vertical_dark_prismarine_bricks"
+  },
+  "result": "cemm:vertical_dark_prismarine_brick_stairs"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/shinewood_planks",
+    "top": "cemm:block/shinewood_planks",
+    "side": "cemm:block/shinewood_planks"
+  },
+  "render_type": "solid"
+}

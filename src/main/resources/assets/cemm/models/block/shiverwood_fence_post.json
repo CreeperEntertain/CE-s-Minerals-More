@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "cemm:block/shiverwood_planks",
+    "particle": "cemm:block/shiverwood_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/mossy_cliffcobble_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/mossy_cliffcobble_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/mossy_cliffcobble_slab_full"
+    }
+  }
+}

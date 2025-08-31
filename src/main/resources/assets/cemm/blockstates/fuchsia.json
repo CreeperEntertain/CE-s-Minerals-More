@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/fuchsia"
+    },
+    "half=lower": {
+      "model": "cemm:block/fuchsia_bottom"
+    }
+  }
+}

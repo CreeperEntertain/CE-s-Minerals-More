@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_kanoite",
+    "top": "cemm:block/polished_kanoite",
+    "side": "cemm:block/polished_kanoite"
+  },
+  "render_type": "solid"
+}

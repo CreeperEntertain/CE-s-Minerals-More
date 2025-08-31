@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/breccia_new",
+    "top": "cemm:block/breccia_new",
+    "side": "cemm:block/breccia_new"
+  },
+  "render_type": "solid"
+}

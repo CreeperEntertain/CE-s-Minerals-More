@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ba"
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:dark_andesite_cobbles"
+    },
+    "b": {
+      "tag": "cemm:dark_andesite"
+    }
+  },
+  "result": {
+    "item": "cemm:rocky_dark_andesite",
+    "count": 4
+  }
+}

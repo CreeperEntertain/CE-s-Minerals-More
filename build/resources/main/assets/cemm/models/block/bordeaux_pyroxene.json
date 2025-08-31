@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/pyroxene",
+    "top": "cemm:block/red_overgrowth_overlay",
+    "side": "cemm:block/pyroxene",
+    "overlay": "cemm:block/red_overgrowth_overlay_side",
+    "particle": "cemm:block/pyroxene"
+  },
+  "render_type": "cutout_mipped"
+}

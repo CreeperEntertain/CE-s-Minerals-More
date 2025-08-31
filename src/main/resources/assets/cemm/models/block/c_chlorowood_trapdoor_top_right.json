@@ -1,0 +1,8 @@
+{
+  "parent": "block/door_top_right",
+  "textures": {
+    "bottom": "cemm:blocks/chlorowood_door_bottom",
+    "top": "cemm:blocks/chlorowood_door_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/dark_bamboo_block_top",
+    "up": "cemm:block/dark_bamboo_block_top",
+    "north": "cemm:block/dark_bamboo_block",
+    "east": "cemm:block/dark_bamboo_block",
+    "south": "cemm:block/dark_bamboo_block",
+    "west": "cemm:block/dark_bamboo_block",
+    "particle": "cemm:block/dark_bamboo_block_top"
+  },
+  "render_type": "solid"
+}

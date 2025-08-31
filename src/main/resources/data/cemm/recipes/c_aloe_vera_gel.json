@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:aloe_vera"
+    }
+  },
+  "result": {
+    "item": "cemm:aloe_vera_gel",
+    "count": 1
+  }
+}

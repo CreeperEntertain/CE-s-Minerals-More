@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/large_dark_bricks",
+    "top": "cemm:block/large_dark_bricks",
+    "side": "cemm:block/large_dark_bricks"
+  },
+  "render_type": "solid"
+}

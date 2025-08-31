@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a a",
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dark_bamboo"
+    }
+  },
+  "result": {
+    "item": "cemm:dark_bamboo_ladder",
+    "count": 1
+  }
+}

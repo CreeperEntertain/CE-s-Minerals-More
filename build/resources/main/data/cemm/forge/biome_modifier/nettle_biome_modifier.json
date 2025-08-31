@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "windswept_forest",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga",
+    "taiga"
+  ],
+  "features": "cemm:nettle",
+  "step": "vegetal_decoration"
+}

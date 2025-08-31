@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:snow_ingredients"
+    },
+    "b": {
+      "item": "minecraft:sand"
+    }
+  },
+  "result": {
+    "item": "cemm:snowed_sand",
+    "count": 1
+  }
+}

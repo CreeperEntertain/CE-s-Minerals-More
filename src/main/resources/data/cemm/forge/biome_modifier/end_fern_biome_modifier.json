@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:end_forest",
+  "features": "cemm:end_fern",
+  "step": "vegetal_decoration"
+}

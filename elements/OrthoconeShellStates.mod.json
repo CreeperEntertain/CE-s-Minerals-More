@@ -1,0 +1,32 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "OrthoconeShell",
+    "blockstateList": [
+      {
+        "texture": "shell_pillar_side",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "shell_pillar:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 2.0,
+            "my": 0.0,
+            "mz": 2.0,
+            "Mx": 14.0,
+            "My": 16.0,
+            "Mz": 14.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

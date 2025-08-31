@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:mossy_cliffcobbles"
+  },
+  "result": "cemm:mossy_cliffcobble_slab"
+}

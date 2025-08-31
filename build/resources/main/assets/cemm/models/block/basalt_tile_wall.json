@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/basalt_tiles",
+    "particle": "cemm:block/basalt_tiles"
+  },
+  "render_type": "solid"
+}

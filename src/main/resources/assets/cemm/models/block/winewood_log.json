@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/winewood_log_top",
+    "up": "cemm:block/winewood_log_top",
+    "north": "cemm:block/winewood_log_side",
+    "east": "cemm:block/winewood_log_side",
+    "south": "cemm:block/winewood_log_side",
+    "west": "cemm:block/winewood_log_side",
+    "particle": "cemm:block/winewood_log_top"
+  },
+  "render_type": "solid"
+}

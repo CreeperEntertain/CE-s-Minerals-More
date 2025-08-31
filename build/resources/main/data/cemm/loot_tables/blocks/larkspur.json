@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:block",
+  "random_sequence": "cemm:blocks/larkspur",
+  "pools": [
+    {
+      "rolls": 1.0,
+      "conditions": [
+        {
+          "condition": "minecraft:survives_explosion"
+        }
+      ],
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "cemm:larkspur",
+          "conditions": [
+            {
+              "block": "cemm:larkspur",
+              "condition": "minecraft:block_state_property",
+              "properties": {
+                "half": "lower"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "birch_forest",
+    "plains",
+    "crimson_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "warped_forest",
+    "windswept_forest"
+  ],
+  "features": "cemm:additional_niter_generation",
+  "step": "surface_structures"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/chlorowood_log_top",
+    "up": "cemm:block/chlorowood_log_top",
+    "north": "cemm:block/chlorowood_log",
+    "east": "cemm:block/chlorowood_log",
+    "south": "cemm:block/chlorowood_log",
+    "west": "cemm:block/chlorowood_log",
+    "particle": "cemm:block/chlorowood_log_top"
+  },
+  "render_type": "solid"
+}

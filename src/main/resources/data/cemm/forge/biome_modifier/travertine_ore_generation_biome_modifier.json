@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "badlands",
+    "eroded_badlands",
+    "wooded_badlands",
+    "desert"
+  ],
+  "features": "cemm:travertine_ore_generation",
+  "step": "underground_ores"
+}

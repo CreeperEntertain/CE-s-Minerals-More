@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "rough_concrete",
+        "1": "reinforced_concrete_top"
+      },
+      "name": "default"
+    }
+  }
+}

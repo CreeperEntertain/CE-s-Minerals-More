@@ -1,0 +1,15 @@
+{
+  "_fv": 60,
+  "_type": "itemextension",
+  "definition": {
+    "item": {
+      "value": "Items.POISONOUS_POTATO"
+    },
+    "enableFuel": false,
+    "fuelPower": {
+      "fixedValue": 1600.0
+    },
+    "hasDispenseBehavior": false,
+    "compostLayerChance": 1.0
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/end_wax_ore",
+    "particle": "cemm:block/end_wax_ore"
+  },
+  "render_type": "solid"
+}

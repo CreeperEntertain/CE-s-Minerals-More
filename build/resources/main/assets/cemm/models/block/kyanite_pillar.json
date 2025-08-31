@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/kyanite_pillar_top",
+    "up": "cemm:block/kyanite_pillar_top",
+    "north": "cemm:block/kyanite_pillar",
+    "east": "cemm:block/kyanite_pillar",
+    "south": "cemm:block/kyanite_pillar",
+    "west": "cemm:block/kyanite_pillar",
+    "particle": "cemm:block/kyanite_pillar_top"
+  },
+  "render_type": "solid"
+}

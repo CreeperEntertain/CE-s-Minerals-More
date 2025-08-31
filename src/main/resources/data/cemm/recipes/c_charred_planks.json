@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:charred_logs"
+    }
+  },
+  "result": {
+    "item": "cemm:charred_planks",
+    "count": 1
+  }
+}

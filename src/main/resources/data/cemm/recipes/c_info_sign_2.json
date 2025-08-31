@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stick"
+    },
+    "b": {
+      "item": "cemm:light_dust"
+    }
+  },
+  "result": {
+    "item": "cemm:info_sign_00_empty",
+    "count": 1
+  }
+}

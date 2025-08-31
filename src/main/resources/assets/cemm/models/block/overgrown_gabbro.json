@@ -1,0 +1,11 @@
+{
+  "parent": "block/grass_block",
+  "textures": {
+    "bottom": "cemm:block/gabbro",
+    "top": "cemm:block/azalea_top",
+    "side": "cemm:block/gabbro",
+    "overlay": "cemm:block/overgrowth_overlay",
+    "particle": "cemm:block/gabbro"
+  },
+  "render_type": "cutout_mipped"
+}

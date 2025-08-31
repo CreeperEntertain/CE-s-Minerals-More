@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "cemm:topaz_blocks"
+  },
+  "result": "cemm:topaz_tiles"
+}

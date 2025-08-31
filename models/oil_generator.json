@@ -1,0 +1,166 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"particle": "aluminum_frame",
+		"Frame": "aluminum_frame",
+		"Beam Connector": "aluminum_beam_connector",
+		"Cable": "cable"
+	},
+	"elements": [
+		{
+			"name": "1",
+			"from": [0, 0, 0],
+			"to": [16, 1, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 1], "texture": "#Frame"},
+				"east": {"uv": [0, 0, 16, 1], "texture": "#Frame"},
+				"south": {"uv": [0, 0, 16, 1], "texture": "#Frame"},
+				"west": {"uv": [0, 0, 16, 1], "texture": "#Frame"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#Frame"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#Frame"}
+			}
+		},
+		{
+			"name": "2",
+			"from": [2, 1, 2],
+			"to": [14, 13, 14],
+			"faces": {
+				"north": {"uv": [2, 3, 14, 15], "texture": "#Beam Connector"},
+				"east": {"uv": [2, 3, 14, 15], "texture": "#Beam Connector"},
+				"south": {"uv": [2, 3, 14, 15], "texture": "#Beam Connector"},
+				"west": {"uv": [2, 3, 14, 15], "texture": "#Beam Connector"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#Beam Connector"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#Beam Connector"}
+			}
+		},
+		{
+			"name": "3",
+			"from": [1, 12, 1],
+			"to": [5, 15, 5],
+			"faces": {
+				"north": {"uv": [5, 5, 9, 8], "texture": "#Beam Connector"},
+				"east": {"uv": [5, 5, 9, 8], "texture": "#Beam Connector"},
+				"south": {"uv": [5, 5, 9, 8], "texture": "#Beam Connector"},
+				"west": {"uv": [5, 5, 9, 8], "texture": "#Beam Connector"},
+				"up": {"uv": [5, 5, 9, 9], "texture": "#Beam Connector"},
+				"down": {"uv": [5, 5, 9, 9], "texture": "#Beam Connector"}
+			}
+		},
+		{
+			"name": "4",
+			"from": [13, 12, 9],
+			"to": [15, 14, 15],
+			"faces": {
+				"north": {"uv": [5, 5, 7, 7], "texture": "#Beam Connector"},
+				"east": {"uv": [5, 5, 11, 7], "texture": "#Beam Connector"},
+				"south": {"uv": [5, 5, 7, 7], "texture": "#Beam Connector"},
+				"west": {"uv": [5, 5, 11, 7], "texture": "#Beam Connector"},
+				"up": {"uv": [5, 5, 7, 11], "texture": "#Beam Connector"},
+				"down": {"uv": [5, 5, 7, 11], "texture": "#Beam Connector"}
+			}
+		},
+		{
+			"name": "5",
+			"from": [5, 5, 0],
+			"to": [11, 11, 2],
+			"faces": {
+				"north": {"uv": [10, 0, 16, 6], "texture": "#Cable"},
+				"east": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"},
+				"south": {"uv": [10, 6, 16, 12], "texture": "#Cable"},
+				"west": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"},
+				"up": {"uv": [0, 0, 6, 2], "texture": "#Cable"},
+				"down": {"uv": [0, 0, 6, 2], "rotation": 180, "texture": "#Cable"}
+			}
+		},
+		{
+			"name": "6",
+			"from": [0, 5, 5],
+			"to": [2, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"},
+				"east": {"uv": [10, 6, 16, 12], "texture": "#Cable"},
+				"south": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"},
+				"west": {"uv": [10, 0, 16, 6], "texture": "#Cable"},
+				"up": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"},
+				"down": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"}
+			}
+		},
+		{
+			"name": "7",
+			"from": [5, 5, 14],
+			"to": [11, 11, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [10, 6, 16, 12], "texture": "#Cable"},
+				"east": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"},
+				"south": {"uv": [10, 0, 16, 6], "texture": "#Cable"},
+				"west": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"},
+				"up": {"uv": [0, 0, 6, 2], "rotation": 180, "texture": "#Cable"},
+				"down": {"uv": [0, 0, 6, 2], "texture": "#Cable"}
+			}
+		},
+		{
+			"name": "8",
+			"from": [14, 5, 5],
+			"to": [16, 11, 11],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 2], "rotation": 270, "texture": "#Cable"},
+				"east": {"uv": [10, 0, 16, 6], "texture": "#Cable"},
+				"south": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"},
+				"west": {"uv": [10, 6, 16, 12], "texture": "#Cable"},
+				"up": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"},
+				"down": {"uv": [0, 0, 6, 2], "rotation": 90, "texture": "#Cable"}
+			}
+		},
+		{
+			"name": "9",
+			"from": [5, 13, 5],
+			"to": [11, 16, 11],
+			"rotation": {"angle": 0, "axis": "z", "origin": [8, 8, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 6, 3], "texture": "#Cable"},
+				"east": {"uv": [0, 0, 6, 3], "texture": "#Cable"},
+				"south": {"uv": [0, 0, 6, 3], "texture": "#Cable"},
+				"west": {"uv": [0, 0, 6, 3], "texture": "#Cable"},
+				"up": {"uv": [10, 0, 16, 6], "rotation": 90, "texture": "#Cable"},
+				"down": {"uv": [10, 6, 16, 12], "rotation": 90, "texture": "#Cable"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 225, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3, 0],
+			"scale": [0.25, 0.25, 0.25]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 14.5, 0]
+		},
+		"fixed": {
+			"scale": [0.5, 0.5, 0.5]
+		}
+	}
+}

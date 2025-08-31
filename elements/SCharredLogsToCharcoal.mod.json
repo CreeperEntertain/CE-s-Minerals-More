@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "TAG:minecraft:charred_logs"
+    },
+    "smeltingReturnStack": {
+      "value": "Items.COAL#1"
+    },
+    "name": "s_charred_logs_to_charcoal",
+    "namespace": "mod"
+  }
+}

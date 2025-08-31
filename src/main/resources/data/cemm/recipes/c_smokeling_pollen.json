@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:smokeling"
+    },
+    {
+      "item": "cemm:smokeling"
+    },
+    {
+      "item": "cemm:smokeling"
+    },
+    {
+      "item": "minecraft:bowl"
+    }
+  ],
+  "result": {
+    "item": "cemm:smokeling_pollen",
+    "count": 1
+  }
+}

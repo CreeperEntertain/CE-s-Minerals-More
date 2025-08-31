@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/dense_dune_grass",
+    "particle": "cemm:block/dense_dune_grass"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/cabbage_01",
+  "textures": {
+    "all": "cemm:block/cabbage_leaf_01",
+    "particle": "cemm:block/cabbage_leaf_01",
+    "leaves": "cemm:block/cabbage_leaf_01"
+  },
+  "render_type": "cutout_mipped"
+}

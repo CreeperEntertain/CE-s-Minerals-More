@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:diorite_bricks"
+  },
+  "result": "cemm:diorite_brick_wall"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/wattle_bricks",
+    "particle": "cemm:block/wattle_bricks"
+  },
+  "render_type": "solid"
+}

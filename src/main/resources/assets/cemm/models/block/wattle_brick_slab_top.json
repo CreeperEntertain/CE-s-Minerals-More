@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/wattle_bricks",
+    "top": "cemm:block/wattle_bricks",
+    "side": "cemm:block/wattle_bricks"
+  },
+  "render_type": "solid"
+}

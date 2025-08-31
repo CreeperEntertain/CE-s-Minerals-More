@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:dripstone_tile"
+  },
+  "result": "cemm:dripstone_tile_wall"
+}

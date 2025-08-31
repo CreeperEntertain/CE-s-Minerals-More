@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:pumice"
+    }
+  },
+  "result": {
+    "item": "cemm:pumice_slab",
+    "count": 6
+  }
+}

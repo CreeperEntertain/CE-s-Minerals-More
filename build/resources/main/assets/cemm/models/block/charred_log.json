@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/charred_log_top",
+    "up": "cemm:block/charred_log_top",
+    "north": "cemm:block/charred_log",
+    "east": "cemm:block/charred_log",
+    "south": "cemm:block/charred_log",
+    "west": "cemm:block/charred_log",
+    "particle": "cemm:block/charred_log_top"
+  },
+  "render_type": "solid"
+}

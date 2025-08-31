@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "aba",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:gold_nugget"
+    },
+    "b": {
+      "item": "cemm:blackstone_tile"
+    }
+  },
+  "result": {
+    "item": "cemm:gilded_blackstone_tile",
+    "count": 1
+  }
+}

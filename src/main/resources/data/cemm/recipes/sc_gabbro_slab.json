@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:gabbro"
+  },
+  "result": "cemm:gabbro_slab"
+}

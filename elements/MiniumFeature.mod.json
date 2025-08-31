@@ -1,0 +1,46 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_ORES",
+    "restrictionBiomes": [
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "bamboo_jungle"
+      },
+      {
+        "value": "bamboo_jungle_hills"
+      },
+      {
+        "value": "jungle"
+      },
+      {
+        "value": "jungle_hills"
+      },
+      {
+        "value": "mutated_jungle"
+      },
+      {
+        "value": "mutated_jungle_edge"
+      },
+      {
+        "value": "jungle_edge"
+      },
+      {
+        "value": "mangrove_swamp"
+      },
+      {
+        "value": "swamp"
+      },
+      {
+        "value": "mutated_swampland"
+      }
+    ],
+    "generateCondition": {
+      "name": "PlainsGenerationCheck"
+    },
+    "featurexml": "<xml><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\">\n<value name=\"feature\"><block type=\"feature_ore\">\n<mutation inputs=\"4\"></mutation>\n<field name=\"discardOnAirChance\">0</field>\n<field name=\"size\">16</field><value name=\"target0\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.STONE#0</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Minium</field></block></value>\n</block></value><value name=\"target1\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.MUD</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Minium</field></block></value>\n</block></value><value name=\"target2\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DIRT#0</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Minium</field></block></value>\n</block></value><value name=\"target3\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.GRASS</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Minium</field></block></value>\n</block></value></block></value>\n<next><block type=\"placement_count\">\n\t<value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">6</field></block></value>\n<next>\n<block type=\"placement_in_square\"><next>\n<block type=\"placement_height_triangular\">\n\t<value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">64</field></block></value>\n\t<value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">128</field></block></value>\n<next>\n<block type=\"placement_biome_filter\"></block>\n</next></block></next></block></next></block></next></block></xml>\n"
+  }
+}

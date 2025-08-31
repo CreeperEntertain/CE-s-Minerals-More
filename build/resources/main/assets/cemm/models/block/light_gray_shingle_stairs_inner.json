@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/light_gray_shingles",
+    "top": "cemm:block/light_gray_shingles",
+    "side": "cemm:block/light_gray_shingles"
+  },
+  "render_type": "solid"
+}

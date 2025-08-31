@@ -1,0 +1,55 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "UNDERGROUND_ORES",
+    "restrictionBiomes": [
+      {
+        "value": "frozen_river"
+      },
+      {
+        "value": "river"
+      },
+      {
+        "value": "beaches"
+      },
+      {
+        "value": "cold_beach"
+      },
+      {
+        "value": "cold_ocean"
+      },
+      {
+        "value": "deep_cold_ocean"
+      },
+      {
+        "value": "deep_frozen_ocean"
+      },
+      {
+        "value": "deep_lukewarm_ocean"
+      },
+      {
+        "value": "deep_ocean"
+      },
+      {
+        "value": "deep_warm_ocean"
+      },
+      {
+        "value": "frozen_ocean"
+      },
+      {
+        "value": "lukewarm_ocean"
+      },
+      {
+        "value": "ocean"
+      },
+      {
+        "value": "warm_ocean"
+      }
+    ],
+    "generateCondition": {
+      "name": "PlainsGenerationCheck"
+    },
+    "featurexml": "<xml><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\">\n<value name=\"feature\"><block type=\"feature_ore\">\n<mutation inputs=\"20\"></mutation>\n<field name=\"discardOnAirChance\">0</field>\n<field name=\"size\">20</field><value name=\"target0\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.GRAVEL</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target1\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.SAND#0</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target2\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DIRT#0</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target3\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DIRT#1</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target4\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DIRT#2</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target5\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.ROOTED_DIRT</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target6\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.GRASS</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target7\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DEAD_TUBE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target8\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DEAD_BRAIN_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target9\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DEAD_BUBBLE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target10\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DEAD_FIRE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target11\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.DEAD_HORN_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target12\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.TUBE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target13\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.BRAIN_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target14\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.BUBBLE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target15\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.FIRE_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target16\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.HORN_CORAL_BLOCK</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target17\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.PRISMARINE#0</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target18\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.PRISMARINE#1</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value><value name=\"target19\"><block type=\"ore_target\">\n\t<value name=\"target\"><block type=\"rule_test_blockstate_match\">\n\t\t<value name=\"blockstate\"><block type=\"mcitem_allblocks\"><field name=\"value\">Blocks.PRISMARINE#2</field></block></value>\n\t</block></value>\n\t<value name=\"state\"><block type=\"mcitem_allblocks\"><field name=\"value\">CUSTOM:Murdochite</field></block></value>\n</block></value></block></value>\n<next><block type=\"placement_count\">\n\t<value name=\"count\"><block type=\"int_provider_constant\"><field name=\"value\">25</field></block></value>\n<next>\n<block type=\"placement_in_square\"><next>\n<block type=\"placement_height_uniform\">\n\t<value name=\"min\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">0</field></block></value>\n\t<value name=\"max\"><block type=\"vertical_anchor_absolute\"><field name=\"value\">256</field></block></value>\n<next>\n<block type=\"placement_biome_filter\"></block>\n</next></block></next></block></next></block></next></block></xml>\n"
+  }
+}

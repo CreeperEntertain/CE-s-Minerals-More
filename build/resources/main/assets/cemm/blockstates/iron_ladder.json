@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/iron_ladder"
+    },
+    "facing=east": {
+      "model": "cemm:block/iron_ladder",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/iron_ladder",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/iron_ladder",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/iron_ladder",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/iron_ladder",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "beach",
+  "features": "cemm:sea_buckthorn",
+  "step": "vegetal_decoration"
+}

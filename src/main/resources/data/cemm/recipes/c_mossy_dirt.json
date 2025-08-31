@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "tag": "cemm:dirt_ingredients"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    }
+  ],
+  "result": {
+    "item": "cemm:mossy_dirt",
+    "count": 1
+  }
+}

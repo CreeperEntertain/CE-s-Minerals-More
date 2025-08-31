@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/mossy_large_wattle_bricks",
+    "top": "cemm:block/mossy_large_wattle_bricks",
+    "side": "cemm:block/mossy_large_wattle_bricks"
+  },
+  "render_type": "solid"
+}

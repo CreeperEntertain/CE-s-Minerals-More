@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:cracked_red_nether_tiles"
+  },
+  "result": "cemm:cracked_red_nether_tile_slab"
+}

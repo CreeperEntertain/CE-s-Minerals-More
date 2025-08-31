@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/cherry_large_planks",
+    "top": "cemm:block/cherry_large_planks",
+    "side": "cemm:block/cherry_large_planks"
+  },
+  "render_type": "solid"
+}

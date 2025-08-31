@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/crying_obsidian",
+    "top": "cemm:block/crying_obsidian",
+    "side": "cemm:block/crying_obsidian"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 50,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "CUSTOM:StoneTiles"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:CrackedStoneTiles"
+    },
+    "name": "bf_cracked_stone_tiles",
+    "namespace": "mod"
+  }
+}

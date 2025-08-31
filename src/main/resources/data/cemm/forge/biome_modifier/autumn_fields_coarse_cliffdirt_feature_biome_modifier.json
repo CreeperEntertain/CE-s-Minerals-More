@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:autumn_fields",
+    "cemm:howling_peaks"
+  ],
+  "features": "cemm:autumn_fields_coarse_cliffdirt_feature",
+  "step": "lakes"
+}

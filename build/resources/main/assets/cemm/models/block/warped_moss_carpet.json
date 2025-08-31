@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/warped_moss_carpet",
+  "textures": {
+    "all": "cemm:block/warped_moss_block",
+    "particle": "cemm:block/warped_moss_block",
+    "0": "cemm:block/warped_moss_block"
+  },
+  "render_type": "solid"
+}

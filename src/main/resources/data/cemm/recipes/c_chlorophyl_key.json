@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "  a",
+    " a ",
+    "b  "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chlorophyl_ingot"
+    },
+    "b": {
+      "item": "cemm:galvanized_steel_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:chlorophyl_key",
+    "count": 1
+  }
+}

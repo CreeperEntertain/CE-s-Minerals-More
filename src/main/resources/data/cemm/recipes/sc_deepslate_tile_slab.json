@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:deepslate_tiles"
+  },
+  "result": "cemm:deepslate_tile_slab"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/alabaster_mosaic",
+    "particle": "cemm:block/alabaster_mosaic"
+  },
+  "render_type": "solid"
+}

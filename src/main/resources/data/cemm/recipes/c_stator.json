@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bcb",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:galvanized_steel_ingot"
+    },
+    "b": {
+      "item": "cemm:copper_wire"
+    },
+    "c": {
+      "item": "cemm:magnet"
+    }
+  },
+  "result": {
+    "item": "cemm:stator",
+    "count": 1
+  }
+}

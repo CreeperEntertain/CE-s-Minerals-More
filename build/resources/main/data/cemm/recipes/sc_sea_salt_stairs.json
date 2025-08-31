@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:sea_salt_block"
+  },
+  "result": "cemm:sea_salt_stairs"
+}

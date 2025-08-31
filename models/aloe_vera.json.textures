@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Aloe Vera": "aloe_vera"
+      },
+      "name": "default"
+    }
+  }
+}

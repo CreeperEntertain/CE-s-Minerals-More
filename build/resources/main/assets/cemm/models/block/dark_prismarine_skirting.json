@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/dark_prismarine_skirting_up_down",
+    "up": "cemm:block/dark_prismarine_skirting_up_down",
+    "north": "cemm:block/dark_prismarine_skirting",
+    "east": "cemm:block/dark_prismarine_skirting",
+    "south": "cemm:block/dark_prismarine_skirting",
+    "west": "cemm:block/dark_prismarine_skirting",
+    "particle": "cemm:block/dark_prismarine_skirting_up_down"
+  },
+  "render_type": "solid"
+}

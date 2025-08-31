@@ -1,0 +1,11 @@
+{
+  "_fv": 60,
+  "_type": "painting",
+  "definition": {
+    "texture": "painting_hell.png",
+    "width": 32,
+    "height": 16,
+    "title": "Hell",
+    "author": "Minecraft Dungeons"
+  }
+}

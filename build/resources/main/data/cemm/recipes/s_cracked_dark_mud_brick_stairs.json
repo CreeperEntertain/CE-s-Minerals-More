@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "experience": 0.1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "cemm:dark_mud_tile_stairs"
+  },
+  "result": "cemm:cracked_dark_mud_brick_stairs"
+}

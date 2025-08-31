@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/microcline",
+    "particle": "cemm:block/microcline"
+  },
+  "render_type": "solid"
+}

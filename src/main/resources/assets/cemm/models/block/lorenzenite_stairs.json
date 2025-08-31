@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/lorenzenite",
+    "top": "cemm:block/lorenzenite",
+    "side": "cemm:block/lorenzenite"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:sanded_jaspilite",
+    "count": 1
+  }
+}

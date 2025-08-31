@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cliffdirt",
+    "particle": "cemm:block/cliffdirt"
+  },
+  "render_type": "solid"
+}

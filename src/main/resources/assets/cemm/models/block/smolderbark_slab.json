@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/smolderbark_planks",
+    "top": "cemm:block/smolderbark_planks",
+    "side": "cemm:block/smolderbark_planks"
+  },
+  "render_type": "solid"
+}

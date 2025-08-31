@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/wrecked_nether_tiles",
+    "top": "cemm:block/wrecked_nether_tiles",
+    "side": "cemm:block/wrecked_nether_tiles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:bloodstone"
+        },
+        "state": {
+          "Name": "cemm:bloodstone_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:lavaslate"
+        },
+        "state": {
+          "Name": "cemm:lavaslate_gold_ore"
+        }
+      }
+    ]
+  }
+}

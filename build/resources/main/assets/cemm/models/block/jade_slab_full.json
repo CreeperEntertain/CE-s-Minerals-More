@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/jade",
+    "top": "cemm:block/jade",
+    "side": "cemm:block/jade"
+  },
+  "render_type": "solid"
+}

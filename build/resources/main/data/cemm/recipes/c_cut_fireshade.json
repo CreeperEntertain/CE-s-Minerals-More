@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " a ",
+    "a a",
+    " a "
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:fireshade_log"
+    }
+  },
+  "result": {
+    "item": "cemm:cut_fireshade",
+    "count": 4
+  }
+}

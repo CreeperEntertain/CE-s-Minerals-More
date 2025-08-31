@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "bamboo_jungle",
+    "plains",
+    "jungle",
+    "sparse_jungle",
+    "mangrove_swamp",
+    "swamp"
+  ],
+  "features": "cemm:minium_feature",
+  "step": "underground_ores"
+}

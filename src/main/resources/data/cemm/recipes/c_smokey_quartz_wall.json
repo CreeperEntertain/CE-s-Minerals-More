@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smokey_quartz_block"
+    }
+  },
+  "result": {
+    "item": "cemm:smokey_quartz_wall",
+    "count": 6
+  }
+}

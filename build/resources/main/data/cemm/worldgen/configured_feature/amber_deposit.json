@@ -1,0 +1,75 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 10,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:cliffstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:smooth_cliffstone"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:dark_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:rough_dark_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:rocky_dark_andesite"
+          }
+        },
+        "state": {
+          "Name": "cemm:amber_deposit"
+        }
+      }
+    ]
+  }
+}

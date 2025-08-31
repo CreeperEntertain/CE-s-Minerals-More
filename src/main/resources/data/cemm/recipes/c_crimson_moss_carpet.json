@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:crimson_moss_block"
+    }
+  },
+  "result": {
+    "item": "cemm:crimson_moss_carpet",
+    "count": 8
+  }
+}

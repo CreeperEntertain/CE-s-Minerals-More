@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/aerinite",
+    "particle": "cemm:block/aerinite"
+  },
+  "render_type": "solid"
+}

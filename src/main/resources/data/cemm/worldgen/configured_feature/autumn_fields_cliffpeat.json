@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 48,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:cliffpeat"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:grassed_cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:grassed_cliffpeat"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:snowy_grassed_cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:snowy_grassed_cliffpeat"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:snowed_grassed_cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:snowed_grassed_cliffpeat"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "cemm:coarse_cliffdirt"
+        },
+        "state": {
+          "Name": "cemm:coarse_cliffpeat"
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:monazite_desert",
+    "cemm:zirconian_desert",
+    "desert",
+    "plains",
+    "cemm:red_wastes"
+  ],
+  "features": "cemm:dead_bush_feature",
+  "step": "surface_structures"
+}

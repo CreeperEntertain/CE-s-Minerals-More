@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cast_copper_bricks"
+  },
+  "result": "cemm:cast_copper_brick_wall"
+}

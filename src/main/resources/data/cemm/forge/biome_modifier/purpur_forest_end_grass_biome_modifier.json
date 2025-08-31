@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#forge:purpur_forest",
+  "features": "cemm:purpur_forest_end_grass",
+  "step": "surface_structures"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:gilded_blackstone_paving"
+  },
+  "result": "cemm:gilded_blackstone_paving_wall"
+}

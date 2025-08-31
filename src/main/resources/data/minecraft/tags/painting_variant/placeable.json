@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:painting_cool_guy",
+    "cemm:painting_arch_illager_portrait",
+    "cemm:painting_aunt",
+    "cemm:painting_banner",
+    "cemm:painting_blue_fields",
+    "cemm:painting_bookshelf",
+    "cemm:painting_canyon_sunrise",
+    "cemm:painting_coastline",
+    "cemm:painting_coinstack",
+    "cemm:painting_creeper_portrait",
+    "cemm:painting_creeper_skull",
+    "cemm:painting_crocodile",
+    "cemm:painting_dog",
+    "cemm:painting_evoker",
+    "cemm:painting_glooming_cave_landscape",
+    "cemm:painting_gloomy_cave_portrait",
+    "cemm:painting_gravestone",
+    "cemm:painting_hell",
+    "cemm:painting_torch_in_rain",
+    "cemm:painting_lighthouse",
+    "cemm:painting_mountain",
+    "cemm:painting_mushroom",
+    "cemm:painting_redstone",
+    "cemm:painting_settlement",
+    "cemm:painting_skull",
+    "cemm:painting_sleeping_key",
+    "cemm:painting_tropical"
+  ]
+}

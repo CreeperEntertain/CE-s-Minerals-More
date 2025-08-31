@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "square_concrete_hole.png": "square_concrete_hole",
+        "reinforced_concrete.png": "reinforced_concrete_side"
+      },
+      "name": "default"
+    }
+  }
+}

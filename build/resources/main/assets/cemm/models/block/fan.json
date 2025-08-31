@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/fan_top",
+    "up": "cemm:block/fan_top",
+    "north": "cemm:block/fan_front",
+    "east": "cemm:block/blast_furnace_side",
+    "south": "cemm:block/blast_furnace_side",
+    "west": "cemm:block/blast_furnace_side",
+    "particle": "cemm:block/fan_top"
+  },
+  "render_type": "solid"
+}

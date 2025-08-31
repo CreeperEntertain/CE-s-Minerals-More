@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:rough_gilded_blackstone",
+    "cemm:gilded_blackstone_bricks",
+    "cemm:chiseled_gilded_blackstone",
+    "cemm:polished_gilded_blackstone",
+    "cemm:gilded_blackstone_paving",
+    "cemm:gilded_blackstone_tiles",
+    "cemm:thin_gilded_blackstone_bricks",
+    "cemm:small_gilded_blackstone_bricks",
+    "cemm:gilded_blackstone_pillar",
+    "minecraft:gilded_blackstone"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 60,
+  "_type": "endbiome",
+  "definition": {
+    "biome": "MidoriQuarryHighland",
+    "generationType": "Highlands",
+    "weight": 1.25,
+    "midlands": "MidoriQuarryMidland",
+    "barrens": "MidoriQuarryBarrens",
+    "mixins": [
+      "BiomeSourceMixin",
+      "TheEndBiomeSourceMixin",
+      "ClimateSamplerMixin",
+      "NoiseConfigMixin",
+      "ChunkNoiseSamplerMixin",
+      "NoiseGeneratorSettingsAccess"
+    ]
+  }
+}

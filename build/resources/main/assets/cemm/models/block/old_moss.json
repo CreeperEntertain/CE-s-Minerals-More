@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/old_moss",
+    "particle": "cemm:block/old_moss"
+  },
+  "render_type": "solid"
+}

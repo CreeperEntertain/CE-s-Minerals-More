@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/yellow_processed_framed_glass",
+    "particle": "cemm:block/yellow_processed_framed_glass"
+  },
+  "render_type": "translucent"
+}

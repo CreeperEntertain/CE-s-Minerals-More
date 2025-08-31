@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:polished_dripstone"
+    },
+    {
+      "tag": "minecraft:dirt"
+    },
+    {
+      "item": "cemm:polished_dripstone"
+    }
+  ],
+  "result": {
+    "item": "cemm:old_polished_dripstone",
+    "count": 2
+  }
+}

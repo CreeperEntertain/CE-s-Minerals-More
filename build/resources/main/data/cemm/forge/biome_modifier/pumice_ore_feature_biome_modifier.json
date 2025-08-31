@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#cemm:contains_pumice",
+  "features": "cemm:pumice_ore_feature",
+  "step": "underground_ores"
+}

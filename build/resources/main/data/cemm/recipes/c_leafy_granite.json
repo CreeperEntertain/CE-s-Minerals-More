@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "minecraft:leaves"
+    },
+    "b": {
+      "item": "minecraft:granite"
+    }
+  },
+  "result": {
+    "item": "cemm:leafy_granite",
+    "count": 1
+  }
+}

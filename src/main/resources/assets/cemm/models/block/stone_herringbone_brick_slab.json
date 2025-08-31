@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/stone_herring_bone_bricks",
+    "top": "cemm:block/stone_herring_bone_bricks",
+    "side": "cemm:block/stone_herring_bone_bricks"
+  },
+  "render_type": "solid"
+}

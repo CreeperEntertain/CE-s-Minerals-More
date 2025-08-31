@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/jungle_skirting_up_down",
+    "up": "cemm:block/jungle_skirting_up_down",
+    "north": "cemm:block/jungle_shutters",
+    "east": "cemm:block/jungle_shutters",
+    "south": "cemm:block/jungle_shutters",
+    "west": "cemm:block/jungle_shutters",
+    "particle": "cemm:block/jungle_skirting_up_down"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dried_mud_brick_stairs"
+    },
+    "b": {
+      "tag": "forge:mossy_ingredients"
+    }
+  },
+  "result": {
+    "item": "cemm:mossy_dried_mud_brick_stairs",
+    "count": 1
+  }
+}

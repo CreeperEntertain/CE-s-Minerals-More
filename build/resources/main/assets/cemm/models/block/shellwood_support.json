@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/shellwood_support",
+  "textures": {
+    "all": "cemm:block/shellwood_support_side",
+    "particle": "cemm:block/shellwood_support_side",
+    "Support Bottom": "cemm:block/shellwood_support_bottom",
+    "Support Side": "cemm:block/shellwood_support_side"
+  },
+  "render_type": "solid"
+}

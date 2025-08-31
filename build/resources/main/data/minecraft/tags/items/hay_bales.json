@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:dry_hay_bale",
+    "minecraft:hay_block",
+    "cemm:thatch",
+    "cemm:smooth_thatch",
+    "cemm:rough_thatch",
+    "cemm:dry_thatch",
+    "cemm:smooth_dry_thatch",
+    "cemm:rough_dry_thatch"
+  ]
+}

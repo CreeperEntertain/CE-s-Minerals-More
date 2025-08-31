@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/cliffstone_fossils",
+    "particle": "cemm:block/cliffstone_fossils"
+  },
+  "render_type": "solid"
+}

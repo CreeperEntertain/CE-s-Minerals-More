@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/spike_coral",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/spike_coral"
+    },
+    "axis=z": {
+      "model": "cemm:block/spike_coral",
+      "x": 90
+    }
+  }
+}

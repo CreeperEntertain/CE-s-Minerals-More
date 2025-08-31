@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "soul_sand_valley",
+  "features": "cemm:soulsand_valley_soulrock_distribution",
+  "step": "local_modifications"
+}

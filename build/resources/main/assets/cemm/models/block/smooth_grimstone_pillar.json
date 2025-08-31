@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/smooth_grimstone_pillar_top",
+    "up": "cemm:block/smooth_grimstone_pillar_top",
+    "north": "cemm:block/smooth_grimstone_pillar",
+    "east": "cemm:block/smooth_grimstone_pillar",
+    "south": "cemm:block/smooth_grimstone_pillar",
+    "west": "cemm:block/smooth_grimstone_pillar",
+    "particle": "cemm:block/smooth_grimstone_pillar_top"
+  },
+  "render_type": "solid"
+}

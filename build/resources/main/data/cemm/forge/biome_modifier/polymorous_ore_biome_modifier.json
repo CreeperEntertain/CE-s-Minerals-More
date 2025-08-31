@@ -1,0 +1,18 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:void_flats",
+    "cemm:void_pillars",
+    "cemm:void_forest",
+    "cemm:void_pits",
+    "cemm:acid_ocean",
+    "cemm:bordeaux_boscage",
+    "cemm:bromian_thicket",
+    "cemm:meteor_fields",
+    "cemm:salt_fields",
+    "cemm:the_emptiness",
+    "cemm:vibrating_timberland"
+  ],
+  "features": "cemm:polymorous_ore",
+  "step": "underground_ores"
+}

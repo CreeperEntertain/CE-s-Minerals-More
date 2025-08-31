@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/fireshade_support",
+  "textures": {
+    "all": "cemm:block/fireshade_support_side",
+    "particle": "cemm:block/fireshade_support_side",
+    "Support Bottom": "cemm:block/fireshade_support_bottom",
+    "Support Side": "cemm:block/fireshade_support_side"
+  },
+  "render_type": "solid"
+}

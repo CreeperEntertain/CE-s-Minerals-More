@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/end_wax_bricks",
+    "top": "cemm:block/end_wax_bricks",
+    "side": "cemm:block/end_wax_bricks"
+  },
+  "render_type": "solid"
+}

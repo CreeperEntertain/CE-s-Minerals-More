@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:graywacke"
+  },
+  "result": "cemm:thin_graywacke_bricks"
+}

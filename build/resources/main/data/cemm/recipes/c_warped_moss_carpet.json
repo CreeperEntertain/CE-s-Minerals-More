@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:warped_moss_block"
+    }
+  },
+  "result": {
+    "item": "cemm:warped_moss_carpet",
+    "count": 8
+  }
+}

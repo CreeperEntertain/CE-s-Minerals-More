@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/patterned_ravenstone_bricks",
+    "top": "cemm:block/patterned_ravenstone_bricks",
+    "side": "cemm:block/patterned_ravenstone_bricks"
+  },
+  "render_type": "solid"
+}

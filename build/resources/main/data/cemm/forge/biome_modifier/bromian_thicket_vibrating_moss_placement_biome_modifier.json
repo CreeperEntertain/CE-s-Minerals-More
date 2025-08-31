@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bromian_thicket",
+  "features": "cemm:bromian_thicket_vibrating_moss_placement",
+  "step": "local_modifications"
+}

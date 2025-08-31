@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:terrazzo_tiles"
+  },
+  "result": "cemm:terrazzo_tile_slab"
+}

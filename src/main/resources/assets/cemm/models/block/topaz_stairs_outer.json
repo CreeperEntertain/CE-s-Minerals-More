@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/topaz",
+    "top": "cemm:block/topaz",
+    "side": "cemm:block/topaz"
+  },
+  "render_type": "solid"
+}

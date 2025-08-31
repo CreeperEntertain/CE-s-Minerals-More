@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smelting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "smeltingInputStack": {
+      "value": "CUSTOM:Murkstone"
+    },
+    "smeltingReturnStack": {
+      "value": "CUSTOM:SmoothMurkstone"
+    },
+    "name": "s_smooth_murkstone",
+    "namespace": "mod"
+  }
+}

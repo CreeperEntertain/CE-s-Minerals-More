@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:travertine_bricks"
+  },
+  "result": "cemm:travertine_brick_stairs"
+}

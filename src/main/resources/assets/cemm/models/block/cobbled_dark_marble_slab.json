@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/cobbled_dark_marble",
+    "top": "cemm:block/cobbled_dark_marble",
+    "side": "cemm:block/cobbled_dark_marble"
+  },
+  "render_type": "solid"
+}

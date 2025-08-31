@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/decayed_bone_block_bottom",
+    "up": "cemm:block/decayed_bone_block_bottom",
+    "north": "cemm:block/decayed_bone_block_side",
+    "east": "cemm:block/decayed_bone_block_side",
+    "south": "cemm:block/decayed_bone_block_side",
+    "west": "cemm:block/decayed_bone_block_side",
+    "particle": "cemm:block/decayed_bone_block_bottom"
+  },
+  "render_type": "solid"
+}

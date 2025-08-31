@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/bone_pillar_side_top_2",
+    "up": "cemm:block/bone_pillar_side_top",
+    "north": "cemm:block/bone_pillar_top",
+    "east": "cemm:block/bone_pillar_side_top_1",
+    "south": "cemm:block/bone_pillar_middle_top",
+    "west": "cemm:block/bone_pillar_side_top_3",
+    "particle": "cemm:block/bone_pillar_side_top_2"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/midori",
+    "particle": "cemm:block/midori"
+  },
+  "render_type": "solid"
+}

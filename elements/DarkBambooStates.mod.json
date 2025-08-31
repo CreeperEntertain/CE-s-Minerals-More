@@ -1,0 +1,124 @@
+{
+  "_fv": 60,
+  "_type": "blockstates",
+  "definition": {
+    "block": "DarkBamboo",
+    "blockstateList": [
+      {
+        "texture": "thin_dark_bamboo_crown",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "thin_dark_bamboo_crown:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 6.0,
+            "my": 0.0,
+            "mz": 6.0,
+            "Mx": 10.0,
+            "My": 16.0,
+            "Mz": 10.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "medium_dark_bamboo",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "medium_dark_bamboo:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 7.0,
+            "my": 0.0,
+            "mz": 7.0,
+            "Mx": 10.0,
+            "My": 16.0,
+            "Mz": 10.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "medium_dark_bamboo_crown",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "medium_dark_bamboo_crown:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 6.0,
+            "my": 0.0,
+            "mz": 6.0,
+            "Mx": 11.0,
+            "My": 16.0,
+            "Mz": 11.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "thick_dark_bamboo",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "thick_dark_bamboo:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 6.0,
+            "my": 0.0,
+            "mz": 6.0,
+            "Mx": 10.0,
+            "My": 16.0,
+            "Mz": 10.0,
+            "subtract": false
+          }
+        ]
+      },
+      {
+        "texture": "thick_dark_bamboo_crown",
+        "textureTop": "",
+        "textureLeft": "",
+        "textureFront": "",
+        "textureRight": "",
+        "textureBack": "",
+        "particleTexture": "",
+        "renderType": 2,
+        "customModelName": "thick_dark_bamboo_crown:default",
+        "luminance": 0,
+        "boundingBoxes": [
+          {
+            "mx": 5.0,
+            "my": 0.0,
+            "mz": 5.0,
+            "Mx": 11.0,
+            "My": 16.0,
+            "Mz": 11.0,
+            "subtract": false
+          }
+        ]
+      }
+    ]
+  }
+}

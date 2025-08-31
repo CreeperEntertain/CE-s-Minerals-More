@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/tall_saltfern"
+    },
+    "half=lower": {
+      "model": "cemm:block/tall_saltfern_bottom"
+    }
+  }
+}

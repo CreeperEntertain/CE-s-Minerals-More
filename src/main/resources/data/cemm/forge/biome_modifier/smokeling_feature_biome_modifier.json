@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:bromian_thicket",
+    "cemm:vibrating_timberland"
+  ],
+  "features": "cemm:smokeling_feature",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:quartz_cave",
+  "features": "cemm:mountain_quartz_feature_2",
+  "step": "underground_decoration"
+}

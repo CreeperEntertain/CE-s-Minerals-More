@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "polished_murkstone.png": "polished_murkstone",
+        "ammonite_pillar.png": "ammonite_pillar"
+      },
+      "name": "default"
+    }
+  }
+}

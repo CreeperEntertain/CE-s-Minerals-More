@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:dark_mud_mosaic_slab"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    }
+  ],
+  "result": {
+    "item": "cemm:mossy_dark_mud_mosaic_slab",
+    "count": 1
+  }
+}

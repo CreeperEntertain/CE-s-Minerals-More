@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:blackstone_tiles"
+    }
+  },
+  "result": {
+    "item": "cemm:missing_blackstone_tiles",
+    "count": 1
+  }
+}

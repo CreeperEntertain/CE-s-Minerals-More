@@ -1,0 +1,25 @@
+{
+  "_fv": 60,
+  "_type": "feature",
+  "definition": {
+    "generationStep": "SURFACE_STRUCTURES",
+    "restrictionBiomes": [
+      {
+        "value": "mutated_forest"
+      },
+      {
+        "value": "meadow"
+      },
+      {
+        "value": "plains"
+      },
+      {
+        "value": "mutated_plains"
+      }
+    ],
+    "generateCondition": {
+      "name": "GrapeGeneratorGeneration"
+    },
+    "featurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"feature_container\" deletable=\"false\" x=\"40\" y=\"40\"><value name=\"feature\"><block type=\"feature_custom_structure\"><field name=\"structure\">grape_generator</field><field name=\"x\">0</field><field name=\"y\">0</field><field name=\"z\">0</field><field name=\"random_rotation\">FALSE</field><field name=\"random_mirror\">FALSE</field><value name=\"ignored_blocks\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"2\"></mutation><field name=\"block0\">Blocks.STRUCTURE_BLOCK</field><field name=\"block1\">Blocks.AIR</field></block></value></block></value><next><block type=\"placement_rarity\"><field name=\"rarity\">50</field><next><block type=\"placement_count\"><value name=\"count\"><block type=\"int_provider_uniform\"><field name=\"min\">2</field><field name=\"max\">10</field></block></value><next><block type=\"placement_in_square\"><next><block type=\"placement_heightmap\"><field name=\"heightmap\">OCEAN_FLOOR_WG</field><next><block type=\"placement_block_predicate_filter\"><value name=\"condition\"><block type=\"block_predicate_matching_blocks\"><field name=\"x\">0</field><field name=\"y\">0</field><field name=\"z\">0</field><value name=\"blockSet\"><block type=\"block_holderset_list\"><mutation xmlns=\"http://www.w3.org/1999/xhtml\" inputs=\"7\"></mutation><field name=\"block0\">Blocks.GRASS</field><field name=\"block1\">Blocks.DIRT#0</field><field name=\"block2\">Blocks.DIRT#1</field><field name=\"block3\">Blocks.DIRT#2</field><field name=\"block4\">Blocks.ROOTED_DIRT</field><field name=\"block5\">Blocks.MOSS_BLOCK</field><field name=\"block6\">Blocks.MUD</field></block></value></block></value><next><block type=\"placement_biome_filter\"></block></next></block></next></block></next></block></next></block></next></block></next></block></xml>"
+  }
+}

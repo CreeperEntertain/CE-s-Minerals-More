@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/alabaster_tiles",
+    "top": "cemm:block/alabaster_tiles",
+    "side": "cemm:block/alabaster_tiles"
+  },
+  "render_type": "solid"
+}

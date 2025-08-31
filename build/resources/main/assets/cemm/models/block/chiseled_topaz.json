@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/chiseled_topaz",
+    "particle": "cemm:block/chiseled_topaz"
+  },
+  "render_type": "solid"
+}

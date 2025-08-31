@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smooth_murkstone"
+  },
+  "result": "cemm:smooth_murkstone_wall"
+}

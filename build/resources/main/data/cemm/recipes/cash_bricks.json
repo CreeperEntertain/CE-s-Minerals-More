@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:hardened_ash"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_bricks",
+    "count": 4
+  }
+}

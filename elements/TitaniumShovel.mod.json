@@ -1,0 +1,34 @@
+{
+  "_fv": 60,
+  "_type": "tool",
+  "definition": {
+    "toolType": "Spade",
+    "renderType": 0,
+    "blockingRenderType": 0,
+    "texture": "titanium_shovel",
+    "customModelName": "Normal",
+    "blockingModelName": "Normal blocking",
+    "name": "Titanium Shovel",
+    "specialInformation": {
+      "fixedValue": []
+    },
+    "creativeTab": {
+      "value": "CUSTOM:IcaronTab"
+    },
+    "harvestLevel": 5,
+    "efficiency": 24.0,
+    "attackSpeed": 1.0,
+    "enchantability": 22,
+    "damageVsEntity": 5.5,
+    "usageCount": 4982,
+    "blocksAffected": [],
+    "repairItems": [
+      {
+        "value": "CUSTOM:TitaniumIngot"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": true,
+    "damageOnCrafting": true
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/smooth_stone_tiles",
+    "top": "cemm:block/smooth_stone_tiles",
+    "side": "cemm:block/smooth_stone_tiles"
+  },
+  "render_type": "solid"
+}

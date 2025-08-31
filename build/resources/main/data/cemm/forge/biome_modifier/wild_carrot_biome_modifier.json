@@ -1,0 +1,16 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "birch_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "windswept_forest",
+    "taiga",
+    "old_growth_pine_taiga",
+    "old_growth_spruce_taiga"
+  ],
+  "features": "cemm:wild_carrot",
+  "step": "vegetal_decoration"
+}

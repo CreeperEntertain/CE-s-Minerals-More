@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    },
+    {
+      "item": "cemm:asphalt_layer_1"
+    }
+  ],
+  "result": {
+    "item": "cemm:asphalt",
+    "count": 1
+  }
+}

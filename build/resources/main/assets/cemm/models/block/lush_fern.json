@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/lush_fern",
+  "textures": {
+    "all": "cemm:block/lush_fern",
+    "particle": "cemm:block/lush_fern",
+    "Dense Fern": "cemm:block/dense_fern",
+    "2": "cemm:block/fern",
+    "Lush Fern": "cemm:block/lush_fern"
+  },
+  "render_type": "cutout"
+}

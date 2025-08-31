@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:end_wax_bricks"
+  },
+  "result": "cemm:end_wax_brick_slab"
+}

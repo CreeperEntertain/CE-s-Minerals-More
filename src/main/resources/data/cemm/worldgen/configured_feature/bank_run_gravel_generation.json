@@ -1,0 +1,18 @@
+{
+  "type": "cemm:bank_run_gravel_generation",
+  "config": {
+    "size": 16,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "cemm:bank_run_replacables"
+        },
+        "state": {
+          "Name": "cemm:bank_run_gravel"
+        }
+      }
+    ]
+  }
+}

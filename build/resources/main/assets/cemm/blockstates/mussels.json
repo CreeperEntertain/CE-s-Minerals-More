@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/mussels"
+    },
+    "facing=east": {
+      "model": "cemm:block/mussels",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/mussels",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/mussels",
+      "y": 270
+    }
+  }
+}

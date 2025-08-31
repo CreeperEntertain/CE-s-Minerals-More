@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:smooth_stone_mosaic_wall"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    }
+  ],
+  "result": {
+    "item": "cemm:mossy_smooth_stone_mosaic_wall",
+    "count": 1
+  }
+}

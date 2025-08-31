@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/broken_dark_marble_tile"
+    },
+    "facing=east": {
+      "model": "cemm:block/broken_dark_marble_tile",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/broken_dark_marble_tile",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/broken_dark_marble_tile",
+      "y": 270
+    }
+  }
+}

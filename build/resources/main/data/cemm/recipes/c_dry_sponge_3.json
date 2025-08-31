@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:wet_sponge"
+    },
+    "b": {
+      "item": "cemm:red_salt"
+    }
+  },
+  "result": {
+    "item": "minecraft:sponge",
+    "count": 1
+  }
+}

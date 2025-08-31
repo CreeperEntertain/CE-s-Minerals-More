@@ -1,0 +1,21 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "stony_shore",
+    "mushroom_fields",
+    "birch_forest",
+    "crimson_forest",
+    "dark_forest",
+    "flower_forest",
+    "forest",
+    "old_growth_birch_forest",
+    "warped_forest",
+    "windswept_forest",
+    "meadow",
+    "snowy_plains",
+    "sunflower_plains"
+  ],
+  "features": "cemm:magnetite",
+  "step": "underground_ores"
+}

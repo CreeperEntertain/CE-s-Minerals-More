@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "thermal_generator_side",
+        "Top": "thermal_generator_top",
+        "Bottom": "jump_pad_bottom",
+        "Top Outer": "thermal_pipes_outer_top",
+        "Outer Side": "aluminum_scaffolding"
+      },
+      "name": "default"
+    }
+  }
+}

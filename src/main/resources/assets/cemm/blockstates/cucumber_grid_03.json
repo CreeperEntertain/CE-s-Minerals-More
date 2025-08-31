@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/cucumber_grid_03"
+    },
+    "facing=east": {
+      "model": "cemm:block/cucumber_grid_03",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/cucumber_grid_03",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/cucumber_grid_03",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/small_wattle_bricks",
+    "top": "cemm:block/small_wattle_bricks",
+    "side": "cemm:block/small_wattle_bricks"
+  },
+  "render_type": "solid"
+}

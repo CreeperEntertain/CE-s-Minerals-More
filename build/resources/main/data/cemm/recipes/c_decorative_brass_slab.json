@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:cracked_brass_tile_slab"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    },
+    {
+      "item": "cemm:cracked_brass_tile_slab"
+    }
+  ],
+  "result": {
+    "item": "cemm:decorative_brass_slab",
+    "count": 2
+  }
+}

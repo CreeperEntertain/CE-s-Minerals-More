@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/jointed_spruce_planks"
+    },
+    "facing=east": {
+      "model": "cemm:block/jointed_spruce_planks",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/jointed_spruce_planks",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/jointed_spruce_planks",
+      "y": 270
+    }
+  }
+}

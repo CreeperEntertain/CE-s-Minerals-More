@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_red_nether_brick",
+    "top": "cemm:block/polished_red_nether_brick",
+    "side": "cemm:block/polished_red_nether_brick"
+  },
+  "render_type": "solid"
+}

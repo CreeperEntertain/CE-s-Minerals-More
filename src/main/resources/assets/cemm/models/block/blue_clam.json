@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/blue_clam",
+  "textures": {
+    "all": "cemm:block/blue_clam_bottom",
+    "particle": "cemm:block/blue_clam_bottom",
+    "blue_clam_top.png": "cemm:block/blue_clam_top",
+    "blue_clam_bottom.png": "cemm:block/blue_clam_bottom",
+    "blue_clam_side.png": "cemm:block/blue_clam_side"
+  },
+  "render_type": "solid"
+}

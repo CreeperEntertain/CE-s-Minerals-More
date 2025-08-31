@@ -1,0 +1,33 @@
+{
+  "feature": "cemm:spider_cavern_warpstone_spikes",
+  "placement": [
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 0,
+          "max_inclusive": 25
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:height_range",
+      "height": {
+        "type": "minecraft:uniform",
+        "min_inclusive": {
+          "above_bottom": 4
+        },
+        "max_inclusive": {
+          "below_top": 11
+        }
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

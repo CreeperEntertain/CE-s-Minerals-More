@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/magnesium_block",
+    "particle": "cemm:block/magnesium_block"
+  },
+  "render_type": "solid"
+}

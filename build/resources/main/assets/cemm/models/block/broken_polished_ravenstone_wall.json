@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_side",
+  "textures": {
+    "wall": "cemm:block/broken_polished_ravenstone",
+    "particle": "cemm:block/broken_polished_ravenstone"
+  },
+  "render_type": "solid"
+}

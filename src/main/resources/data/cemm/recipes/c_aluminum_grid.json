@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:coated_aluminum_bar"
+    }
+  },
+  "result": {
+    "item": "cemm:aluminum_scaffolding",
+    "count": 2
+  }
+}

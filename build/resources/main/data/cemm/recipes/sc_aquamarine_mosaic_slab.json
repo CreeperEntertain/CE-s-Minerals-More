@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:aquamarine_mosaic"
+  },
+  "result": "cemm:aquamarine_mosaic_slab"
+}

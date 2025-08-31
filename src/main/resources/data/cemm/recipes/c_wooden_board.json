@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:spruce_shutters"
+    }
+  },
+  "result": {
+    "item": "cemm:wooden_board",
+    "count": 2
+  }
+}

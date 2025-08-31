@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "cemm:item/thick_chains"
+  },
+  "render_type": "translucent"
+}

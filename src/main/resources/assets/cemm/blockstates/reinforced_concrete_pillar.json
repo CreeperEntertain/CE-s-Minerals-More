@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/reinforced_concrete_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/reinforced_concrete_pillar"
+    },
+    "axis=z": {
+      "model": "cemm:block/reinforced_concrete_pillar",
+      "x": 90
+    }
+  }
+}

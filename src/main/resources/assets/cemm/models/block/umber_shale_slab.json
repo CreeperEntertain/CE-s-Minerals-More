@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/umber_shale",
+    "top": "cemm:block/umber_shale",
+    "side": "cemm:block/umber_shale"
+  },
+  "render_type": "solid"
+}

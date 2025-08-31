@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cdc",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:zinc_ingot"
+    },
+    "c": {
+      "item": "minecraft:copper_ingot"
+    },
+    "d": {
+      "item": "cemm:copper_wire"
+    }
+  },
+  "result": {
+    "item": "cemm:cable_redirect",
+    "count": 1
+  }
+}

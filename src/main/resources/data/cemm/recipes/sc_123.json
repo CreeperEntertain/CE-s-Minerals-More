@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:kerolite"
+  },
+  "result": "cemm:kerolite_slab"
+}

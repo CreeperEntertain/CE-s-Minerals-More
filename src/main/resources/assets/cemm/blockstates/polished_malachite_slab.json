@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/polished_malachite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/polished_malachite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/polished_malachite_slab_full"
+    }
+  }
+}

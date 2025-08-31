@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:pietersite"
+  },
+  "result": "cemm:polished_pietersite_slab"
+}

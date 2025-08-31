@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/rough_midori",
+    "up": "cemm:block/rough_midori",
+    "north": "cemm:block/purpur_stone_midori_cover",
+    "east": "cemm:block/purpur_stone_midori_cover",
+    "south": "cemm:block/purpur_stone_midori_cover",
+    "west": "cemm:block/purpur_stone_midori_cover",
+    "particle": "cemm:block/purpur_stone_top"
+  },
+  "render_type": "solid"
+}

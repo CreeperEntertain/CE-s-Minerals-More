@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:ruby_bricks"
+  },
+  "result": "cemm:ruby_brick_slab"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:rough_marble"
+  },
+  "result": "cemm:rough_marble_wall"
+}

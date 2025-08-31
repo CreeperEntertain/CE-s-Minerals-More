@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:tailored_stone"
+    }
+  },
+  "result": {
+    "item": "cemm:stone_pedestal",
+    "count": 2
+  }
+}

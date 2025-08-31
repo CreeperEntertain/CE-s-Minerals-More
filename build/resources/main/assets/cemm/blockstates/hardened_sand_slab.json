@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/hardened_sand_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/hardened_sand_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/hardened_sand_slab_full"
+    }
+  }
+}

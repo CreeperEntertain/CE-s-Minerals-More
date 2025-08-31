@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/layered_end_stone",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/layered_end_stone"
+    },
+    "axis=z": {
+      "model": "cemm:block/layered_end_stone",
+      "x": 90
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/end_wax_block",
+    "top": "cemm:block/end_wax_block",
+    "side": "cemm:block/end_wax_block"
+  },
+  "render_type": "solid"
+}

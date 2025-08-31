@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#cemm:contains_gneiss",
+  "features": "cemm:gneiss_ore_feature",
+  "step": "underground_ores"
+}

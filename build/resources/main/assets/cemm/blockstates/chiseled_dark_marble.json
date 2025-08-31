@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/chiseled_dark_marble"
+    },
+    "facing=east": {
+      "model": "cemm:block/chiseled_dark_marble",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/chiseled_dark_marble",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/chiseled_dark_marble",
+      "y": 270
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:jade_mosaic"
+  },
+  "result": "cemm:jade_mosaic_slab"
+}

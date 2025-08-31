@@ -1,0 +1,33 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "cde",
+    "afa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:plastic_sheets"
+    },
+    "b": {
+      "item": "cemm:copper_wire"
+    },
+    "c": {
+      "item": "cemm:board"
+    },
+    "d": {
+      "item": "minecraft:dispenser"
+    },
+    "e": {
+      "item": "cemm:magnet"
+    },
+    "f": {
+      "item": "cemm:zinc_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:block_placer",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/broken_polished_ravenstone_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/broken_polished_ravenstone_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/broken_polished_ravenstone_slab_full"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/aquamarine_mosaic",
+    "top": "cemm:block/aquamarine_mosaic",
+    "side": "cemm:block/aquamarine_mosaic"
+  },
+  "render_type": "solid"
+}

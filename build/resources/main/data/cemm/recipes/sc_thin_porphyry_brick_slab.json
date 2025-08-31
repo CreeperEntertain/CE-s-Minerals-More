@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:thin_porphyry_bricks"
+  },
+  "result": "cemm:thin_porphyry_brick_slab"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:flint"
+    },
+    {
+      "item": "cemm:galvanized_steel_ingot"
+    }
+  ],
+  "result": {
+    "item": "minecraft:flint_and_steel",
+    "count": 1
+  }
+}

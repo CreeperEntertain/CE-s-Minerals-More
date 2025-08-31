@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/vertical_dark_prismarine_bricks",
+    "top": "cemm:block/vertical_dark_prismarine_bricks",
+    "side": "cemm:block/vertical_dark_prismarine_bricks"
+  },
+  "render_type": "solid"
+}

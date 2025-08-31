@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/end_spruce_log_top",
+    "up": "cemm:block/end_spruce_log_top",
+    "north": "cemm:block/end_spruce_log_side",
+    "east": "cemm:block/end_spruce_log_side",
+    "south": "cemm:block/end_spruce_log_side",
+    "west": "cemm:block/end_spruce_log_side",
+    "particle": "cemm:block/end_spruce_log_top"
+  },
+  "render_type": "solid"
+}

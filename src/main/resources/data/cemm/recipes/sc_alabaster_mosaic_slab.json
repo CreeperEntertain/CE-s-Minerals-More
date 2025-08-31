@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:alabaster_mosaic"
+  },
+  "result": "cemm:alabaster_mosaic_slab"
+}

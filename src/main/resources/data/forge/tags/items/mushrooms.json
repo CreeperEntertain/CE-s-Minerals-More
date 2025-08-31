@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:nyline_fungus",
+    "minecraft:warped_fungus",
+    "minecraft:crimson_fungus",
+    "minecraft:brown_mushroom",
+    "minecraft:red_mushroom",
+    "cemm:red_polypore",
+    "cemm:grounded_red_polypore"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:snow_block"
+    }
+  },
+  "result": {
+    "item": "minecraft:ice",
+    "count": 2
+  }
+}

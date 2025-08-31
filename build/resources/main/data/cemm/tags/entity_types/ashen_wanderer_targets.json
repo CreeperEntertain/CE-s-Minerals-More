@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "wither_skeleton",
+    "skeleton",
+    "silverfish",
+    "magma_cube",
+    "hoglin",
+    "zoglin",
+    "piglin",
+    "piglin_brute",
+    "zombified_piglin"
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/rocky_stone",
+    "particle": "cemm:block/rocky_stone"
+  },
+  "render_type": "solid"
+}

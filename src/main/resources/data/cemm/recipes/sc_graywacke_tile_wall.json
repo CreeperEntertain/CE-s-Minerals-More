@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:graywacke_tiles"
+  },
+  "result": "cemm:graywacke_tile_wall"
+}

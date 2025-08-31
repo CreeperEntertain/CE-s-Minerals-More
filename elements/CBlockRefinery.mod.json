@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:ChiseledRoughMarble"
+      },
+      {
+        "value": "CUSTOM:ChiseledRoughMarble"
+      },
+      {
+        "value": "CUSTOM:ChiseledRoughMarble"
+      },
+      {
+        "value": "CUSTOM:CarvedRoughMarble"
+      },
+      {
+        "value": "Blocks.SMITHING_TABLE"
+      },
+      {
+        "value": "CUSTOM:CarvedRoughMarble"
+      },
+      {
+        "value": "CUSTOM:CarvedRoughMarble"
+      },
+      {
+        "value": "CUSTOM:RoughMarble"
+      },
+      {
+        "value": "CUSTOM:CarvedRoughMarble"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:BlockRefinery"
+    },
+    "name": "c_block_refinery",
+    "namespace": "mod"
+  }
+}

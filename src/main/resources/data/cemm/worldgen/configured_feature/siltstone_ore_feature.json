@@ -1,0 +1,36 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 36,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:stone"
+        },
+        "state": {
+          "Name": "cemm:siltstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "cemm:grassblocks"
+        },
+        "state": {
+          "Name": "cemm:overgrown_siltstone"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "tag_match",
+          "tag": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "cemm:siltstone"
+        }
+      }
+    ]
+  }
+}

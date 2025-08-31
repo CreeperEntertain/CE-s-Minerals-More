@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:mud_bricks"
+    },
+    {
+      "tag": "forge:mossy_ingredients"
+    }
+  ],
+  "result": {
+    "item": "cemm:mossy_mud_bricks",
+    "count": 1
+  }
+}

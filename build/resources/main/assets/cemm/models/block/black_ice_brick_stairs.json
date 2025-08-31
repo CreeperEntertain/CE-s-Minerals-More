@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/black_ice_bricks",
+    "top": "cemm:block/black_ice_bricks",
+    "side": "cemm:block/black_ice_bricks"
+  },
+  "render_type": "solid"
+}

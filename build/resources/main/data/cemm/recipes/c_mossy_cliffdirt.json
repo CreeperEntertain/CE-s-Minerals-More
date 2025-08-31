@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cliffdirt"
+    },
+    "b": {
+      "tag": "forge:mossy_ingredients"
+    }
+  },
+  "result": {
+    "item": "cemm:mossy_cliffdirt",
+    "count": 1
+  }
+}

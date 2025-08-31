@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:smooth_jaspilite"
+    }
+  },
+  "result": {
+    "item": "cemm:smooth_jaspilite_stairs",
+    "count": 1
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:howling_peaks",
+  "features": "cemm:howling_peaks_rough_dark_andesite",
+  "step": "underground_structures"
+}

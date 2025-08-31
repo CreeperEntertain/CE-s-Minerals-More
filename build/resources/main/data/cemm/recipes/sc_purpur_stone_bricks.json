@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:smooth_purpur_stone"
+  },
+  "result": "cemm:purpur_stone_bricks"
+}

@@ -1,0 +1,27 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/cable"
+    },
+    "facing=east": {
+      "model": "cemm:block/cable",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/cable",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/cable",
+      "y": 270
+    },
+    "facing=up": {
+      "model": "cemm:block/cable",
+      "x": 270
+    },
+    "facing=down": {
+      "model": "cemm:block/cable",
+      "x": 90
+    }
+  }
+}

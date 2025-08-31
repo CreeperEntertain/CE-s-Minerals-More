@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/windswept_support",
+  "textures": {
+    "all": "cemm:block/windswept_support_side",
+    "particle": "cemm:block/windswept_support_side",
+    "Support Bottom": "cemm:block/windswept_support_bottom",
+    "Support Side": "cemm:block/windswept_support_side"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/soulrock_bricks",
+    "top": "cemm:block/soulrock_bricks",
+    "side": "cemm:block/soulrock_bricks"
+  },
+  "render_type": "solid"
+}

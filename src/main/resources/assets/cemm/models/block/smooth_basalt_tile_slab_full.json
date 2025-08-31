@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/smooth_basalt_tiles",
+    "top": "cemm:block/smooth_basalt_tiles",
+    "side": "cemm:block/smooth_basalt_tiles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/rough_concrete",
+    "top": "cemm:block/rough_concrete",
+    "side": "cemm:block/rough_concrete"
+  },
+  "render_type": "solid"
+}

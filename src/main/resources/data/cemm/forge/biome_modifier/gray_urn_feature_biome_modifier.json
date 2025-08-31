@@ -1,0 +1,13 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:ash_barrens",
+    "nether_wastes",
+    "crimson_forest",
+    "warped_forest",
+    "soul_sand_valley",
+    "cemm:spider_cavern"
+  ],
+  "features": "cemm:gray_urn_feature",
+  "step": "underground_structures"
+}

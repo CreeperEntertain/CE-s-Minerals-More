@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:ash_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:ash_brick_stairs",
+    "count": 4
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:spider_succulent_bulb",
+    "cemm:spider_succulent",
+    "cemm:dead_spider_succulent_bulb",
+    "cemm:dead_spider_succulent"
+  ]
+}

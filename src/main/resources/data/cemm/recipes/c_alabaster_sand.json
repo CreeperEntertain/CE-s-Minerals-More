@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:alabaster"
+    }
+  },
+  "result": {
+    "item": "cemm:alabaster_sand",
+    "count": 2
+  }
+}

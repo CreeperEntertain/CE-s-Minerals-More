@@ -1,0 +1,48 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 3,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WinterOakLog"
+      },
+      {
+        "value": "CUSTOM:WinterOakLog"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:WinterOakLog"
+      },
+      {
+        "value": "CUSTOM:WinterOakLog"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WinterOakWood"
+    },
+    "name": "c_winter_oak_wood",
+    "namespace": "mod"
+  }
+}
