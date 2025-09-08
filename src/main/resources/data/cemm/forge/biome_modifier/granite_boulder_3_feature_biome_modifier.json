@@ -1,0 +1,31 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "plains",
+    "taiga",
+    "swamp",
+    "sunflower_plains",
+    "sparse_jungle",
+    "snowy_taiga",
+    "snowy_plains",
+    "snowy_beach",
+    "old_growth_spruce_taiga",
+    "old_growth_pine_taiga",
+    "old_growth_birch_forest",
+    "meadow",
+    "mangrove_swamp",
+    "lush_caves",
+    "jungle",
+    "ice_spikes",
+    "grove",
+    "forest",
+    "flower_forest",
+    "dripstone_caves",
+    "dark_forest",
+    "birch_forest",
+    "beach",
+    "bamboo_jungle"
+  ],
+  "features": "cemm:granite_boulder_3_feature",
+  "step": "surface_structures"
+}

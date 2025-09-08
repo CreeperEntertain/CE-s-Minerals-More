@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/orpiment",
+    "top": "cemm:block/orpiment",
+    "side": "cemm:block/orpiment"
+  },
+  "render_type": "solid"
+}

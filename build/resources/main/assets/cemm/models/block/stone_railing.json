@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/stonerailing",
+  "textures": {
+    "all": "cemm:block/stone",
+    "particle": "cemm:block/stone",
+    "missing": "cemm:block/stone",
+    "Stone": "cemm:block/stone"
+  },
+  "render_type": "solid"
+}

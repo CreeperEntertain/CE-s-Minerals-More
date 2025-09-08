@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "desert",
+  "features": "cemm:desert_monazite_zircon_sand_spots",
+  "step": "underground_ores"
+}

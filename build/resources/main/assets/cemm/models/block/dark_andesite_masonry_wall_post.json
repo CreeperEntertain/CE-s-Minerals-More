@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/dark_andesite_masonry",
+    "particle": "cemm:block/dark_andesite_masonry"
+  },
+  "render_type": "solid"
+}

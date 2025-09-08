@@ -1,0 +1,15 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:raw_ruby",
+    "cemm:raw_ruby_bricks",
+    "cemm:polished_raw_ruby",
+    "cemm:chiseled_raw_ruby_bricks",
+    "cemm:chiseled_raw_ruby",
+    "cemm:raw_ruby_pillar",
+    "cemm:ruby_block",
+    "cemm:ruby_bricks",
+    "cemm:chiseled_ruby_block",
+    "cemm:ruby_pillar"
+  ]
+}

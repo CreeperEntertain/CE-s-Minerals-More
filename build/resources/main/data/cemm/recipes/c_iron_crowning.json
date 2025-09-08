@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:iron_grates"
+    }
+  },
+  "result": {
+    "item": "cemm:iron_crowning",
+    "count": 1
+  }
+}

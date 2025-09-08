@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/raw_kyanite_bricks",
+    "particle": "cemm:block/raw_kyanite_bricks"
+  },
+  "render_type": "solid"
+}

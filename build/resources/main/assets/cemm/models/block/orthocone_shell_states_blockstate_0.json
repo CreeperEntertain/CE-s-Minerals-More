@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/shell_pillar",
+  "textures": {
+    "all": "cemm:block/shell_pillar_side",
+    "particle": "cemm:block/half_shell_pillar_side",
+    "shell_pillar_side.png": "cemm:block/shell_pillar_side",
+    "shell_pillar_top.png": "cemm:block/shell_pillar_top"
+  },
+  "render_type": "solid"
+}

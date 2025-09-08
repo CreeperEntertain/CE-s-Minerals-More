@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:winter_oak_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:chiseled_winter_oak_planks",
+    "count": 1
+  }
+}

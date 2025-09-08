@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/smooth_kyanite_block",
+    "top": "cemm:block/smooth_kyanite_block",
+    "side": "cemm:block/smooth_kyanite_block"
+  },
+  "render_type": "solid"
+}

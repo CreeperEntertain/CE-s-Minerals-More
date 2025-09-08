@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/novaculite_pillar_top",
+    "up": "cemm:block/novaculite_pillar_top",
+    "north": "cemm:block/novaculite_pillar",
+    "east": "cemm:block/novaculite_pillar",
+    "south": "cemm:block/novaculite_pillar",
+    "west": "cemm:block/novaculite_pillar",
+    "particle": "cemm:block/novaculite_pillar_top"
+  },
+  "render_type": "solid"
+}

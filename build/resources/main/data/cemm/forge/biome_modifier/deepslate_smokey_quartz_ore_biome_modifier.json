@@ -1,0 +1,18 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:claystone_mountains",
+    "plains",
+    "frozen_peaks",
+    "jagged_peaks",
+    "stony_peaks",
+    "grove",
+    "windswept_forest",
+    "windswept_gravelly_hills",
+    "windswept_hills",
+    "windswept_savanna",
+    "cemm:quartz_cave"
+  ],
+  "features": "cemm:deepslate_smokey_quartz_ore",
+  "step": "underground_ores"
+}

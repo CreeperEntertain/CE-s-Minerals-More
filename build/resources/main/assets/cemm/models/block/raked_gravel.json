@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/gravel",
+    "up": "cemm:block/raked_gravel",
+    "north": "cemm:block/gravel",
+    "east": "cemm:block/gravel",
+    "south": "cemm:block/gravel",
+    "west": "cemm:block/gravel",
+    "particle": "cemm:block/gravel"
+  },
+  "render_type": "solid"
+}

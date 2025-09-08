@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:netherrack_replace_blobs",
+  "config": {
+    "target": {
+      "Name": "minecraft:deepslate",
+      "Properties": {
+        "axis": "y"
+      }
+    },
+    "state": {
+      "Name": "cemm:deepslate_smokey_quartz_ore"
+    },
+    "radius": 5
+  }
+}

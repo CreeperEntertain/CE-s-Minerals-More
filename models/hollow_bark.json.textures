@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "hollow_bark_top",
+        "1": "hollow_bark_side"
+      },
+      "name": "default"
+    }
+  }
+}

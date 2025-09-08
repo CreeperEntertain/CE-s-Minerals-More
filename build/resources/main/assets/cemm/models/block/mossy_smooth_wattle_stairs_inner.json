@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/mossy_smooth_wattle",
+    "top": "cemm:block/mossy_smooth_wattle",
+    "side": "cemm:block/mossy_smooth_wattle"
+  },
+  "render_type": "solid"
+}

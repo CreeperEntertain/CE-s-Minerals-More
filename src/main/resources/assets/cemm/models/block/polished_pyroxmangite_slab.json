@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/polished_pyroxmangite",
+    "top": "cemm:block/polished_pyroxmangite",
+    "side": "cemm:block/polished_pyroxmangite"
+  },
+  "render_type": "solid"
+}

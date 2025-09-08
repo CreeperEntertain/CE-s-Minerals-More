@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "taiga",
+    "cherry_grove",
+    "cemm:amber_forest"
+  ],
+  "features": "cemm:paeonia",
+  "step": "vegetal_decoration"
+}

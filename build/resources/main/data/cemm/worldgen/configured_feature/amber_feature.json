@@ -1,0 +1,58 @@
+{
+  "type": "cemm:amber_feature",
+  "config": {
+    "tries": 96,
+    "xz_spread": 16,
+    "y_spread": 5,
+    "feature": {
+      "feature": {
+        "type": "minecraft:simple_block",
+        "config": {
+          "to_place": {
+            "type": "minecraft:simple_state_provider",
+            "state": {
+              "Name": "cemm:amber",
+              "Properties": {
+                "waterlogged": "false",
+                "facing": "north"
+              }
+            }
+          }
+        }
+      },
+      "placement": [
+        {
+          "type": "minecraft:block_predicate_filter",
+          "predicate": {
+            "type": "minecraft:all_of",
+            "predicates": [
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:air",
+                  "minecraft:water"
+                ]
+              },
+              {
+                "type": "minecraft:matching_blocks",
+                "blocks": [
+                  "minecraft:sand",
+                  "minecraft:gravel",
+                  "minecraft:clay",
+                  "minecraft:dirt",
+                  "cemm:mariposite",
+                  "cemm:hyaloclastite"
+                ],
+                "offset": [
+                  0,
+                  -1,
+                  0
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

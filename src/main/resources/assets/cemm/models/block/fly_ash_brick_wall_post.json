@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/fly_ash_bricks",
+    "particle": "cemm:block/fly_ash_bricks"
+  },
+  "render_type": "solid"
+}

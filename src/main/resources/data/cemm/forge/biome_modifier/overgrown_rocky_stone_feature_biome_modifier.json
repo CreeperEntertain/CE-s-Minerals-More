@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "#is_overworld",
+  "features": "cemm:overgrown_rocky_stone_feature",
+  "step": "underground_ores"
+}

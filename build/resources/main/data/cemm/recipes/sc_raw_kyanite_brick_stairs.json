@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:raw_kyanite_bricks"
+  },
+  "result": "cemm:raw_kyanite_brick_stairs"
+}

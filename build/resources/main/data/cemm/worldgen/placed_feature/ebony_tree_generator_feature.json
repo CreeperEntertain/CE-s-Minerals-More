@@ -1,0 +1,74 @@
+{
+  "feature": "cemm:ebony_tree_generator_feature",
+  "placement": [
+    {
+      "type": "minecraft:rarity_filter",
+      "chance": 33
+    },
+    {
+      "type": "minecraft:count",
+      "count": {
+        "type": "uniform",
+        "value": {
+          "min_inclusive": 1,
+          "max_inclusive": 4
+        }
+      }
+    },
+    {
+      "type": "minecraft:in_square"
+    },
+    {
+      "type": "minecraft:heightmap",
+      "heightmap": "OCEAN_FLOOR_WG"
+    },
+    {
+      "type": "minecraft:block_predicate_filter",
+      "predicate": {
+        "type": "minecraft:matching_blocks",
+        "blocks": [
+          "cemm:monazite_sand",
+          "cemm:zircon_sand",
+          "minecraft:sand",
+          "minecraft:red_sand",
+          "cemm:chlorograss_block_dirt",
+          "cemm:chlorograss_block_stone",
+          "cemm:chlorograss_block_moss",
+          "cemm:chlorograss_block_andesite",
+          "cemm:chlorograss_block_granite",
+          "cemm:chlorograss_block_diorite",
+          "cemm:chlorograss_block_tuff",
+          "cemm:chlorograss_block_dripstone",
+          "cemm:firegrass_block_andesite",
+          "cemm:firegrass_block_diorite",
+          "cemm:firegrass_block_dirt",
+          "cemm:firegrass_block_dripstone",
+          "cemm:firegrass_block_granite",
+          "cemm:firegrass_block_moss",
+          "cemm:firegrass_block_stone",
+          "cemm:firegrass_block_tuff",
+          "minecraft:grass_block",
+          "minecraft:dirt",
+          "minecraft:coarse_dirt",
+          "minecraft:podzol",
+          "minecraft:rooted_dirt",
+          "minecraft:moss_block",
+          "minecraft:mud",
+          "cemm:jaspilite",
+          "cemm:scoria",
+          "cemm:red_shale",
+          "cemm:orpiment",
+          "cemm:smooth_jaspilite"
+        ],
+        "offset": [
+          0,
+          -1,
+          0
+        ]
+      }
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}

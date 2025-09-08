@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/ravenstone",
+    "top": "cemm:block/ravenstone",
+    "side": "cemm:block/ravenstone"
+  },
+  "render_type": "solid"
+}

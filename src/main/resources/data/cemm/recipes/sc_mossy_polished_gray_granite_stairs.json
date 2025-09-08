@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:mossy_polished_gray_granite"
+  },
+  "result": "cemm:mossy_polished_gray_granite_stairs"
+}

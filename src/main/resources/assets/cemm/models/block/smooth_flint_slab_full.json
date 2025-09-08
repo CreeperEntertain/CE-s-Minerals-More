@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/smooth_flint",
+    "top": "cemm:block/smooth_flint",
+    "side": "cemm:block/smooth_flint"
+  },
+  "render_type": "solid"
+}

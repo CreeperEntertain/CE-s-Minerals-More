@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/frosted_rock",
+    "particle": "cemm:block/frosted_rock"
+  },
+  "render_type": "solid"
+}

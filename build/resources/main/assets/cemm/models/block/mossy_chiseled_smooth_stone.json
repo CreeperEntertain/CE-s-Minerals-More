@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/mossy_smooth_stone_pillar_up_down",
+    "particle": "cemm:block/mossy_smooth_stone_pillar_up_down"
+  },
+  "render_type": "solid"
+}

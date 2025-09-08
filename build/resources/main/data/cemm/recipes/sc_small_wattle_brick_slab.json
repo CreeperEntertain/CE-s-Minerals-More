@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:small_wattle_bricks"
+  },
+  "result": "cemm:small_wattle_brick_slab"
+}

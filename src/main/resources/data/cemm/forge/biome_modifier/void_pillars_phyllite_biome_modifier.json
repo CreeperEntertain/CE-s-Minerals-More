@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:void_pillars",
+  "features": "cemm:void_pillars_phyllite",
+  "step": "underground_decoration"
+}

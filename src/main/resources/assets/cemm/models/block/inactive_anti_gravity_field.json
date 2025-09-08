@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/inactive_anti_gravity_field",
+  "textures": {
+    "all": "cemm:block/megachloron_portal_top",
+    "particle": "cemm:block/megachloron_portal_top",
+    "Anti Gravity Field Bottom": "cemm:block/megachloron_portal_top",
+    "Anti Gravity Field Top": "cemm:block/anti_gravity_field_top",
+    "Jump Pad Side": "cemm:block/jump_pad_side"
+  },
+  "render_type": "solid"
+}

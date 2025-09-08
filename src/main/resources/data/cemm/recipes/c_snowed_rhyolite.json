@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:snow_ingredients"
+    },
+    "b": {
+      "item": "cemm:rhyolite"
+    }
+  },
+  "result": {
+    "item": "cemm:snowed_rhyolite",
+    "count": 1
+  }
+}

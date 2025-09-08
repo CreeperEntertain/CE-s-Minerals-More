@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "cemm:block/chlorowood_planks",
+    "particle": "cemm:block/chlorowood_planks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/aquamarine_bricks",
+    "top": "cemm:block/aquamarine_bricks",
+    "side": "cemm:block/aquamarine_bricks"
+  },
+  "render_type": "solid"
+}

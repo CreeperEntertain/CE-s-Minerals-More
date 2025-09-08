@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/warped_bouquet",
+  "textures": {
+    "all": "cemm:block/warped_bouquet_block",
+    "particle": "cemm:block/warped_bouquet_block",
+    "0": "cemm:block/warped_bouquet"
+  },
+  "render_type": "cutout"
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 60,
+  "_type": "particle",
+  "definition": {
+    "texture": "ember.png",
+    "animate": false,
+    "frameDuration": 1,
+    "width": 0.1,
+    "height": 0.4,
+    "scale": 0.2,
+    "speedFactor": 2.0,
+    "gravity": -0.1,
+    "maxAge": 125,
+    "maxAgeDiff": 50,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.0,
+    "canCollide": false,
+    "alwaysShow": true,
+    "renderType": "LIT"
+  }
+}

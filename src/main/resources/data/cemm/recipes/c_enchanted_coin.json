@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aba",
+    "bab",
+    "aba"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:magic_dust"
+    },
+    "b": {
+      "item": "cemm:cobalt_coin"
+    }
+  },
+  "result": {
+    "item": "cemm:enchanted_coin",
+    "count": 1
+  }
+}

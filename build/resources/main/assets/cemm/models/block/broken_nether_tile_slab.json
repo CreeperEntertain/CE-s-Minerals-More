@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/broken_nether_tiles",
+    "top": "cemm:block/broken_nether_tiles",
+    "side": "cemm:block/broken_nether_tiles"
+  },
+  "render_type": "solid"
+}

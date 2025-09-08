@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:polished_dripstone"
+  },
+  "result": "cemm:polished_dripstone_stairs"
+}

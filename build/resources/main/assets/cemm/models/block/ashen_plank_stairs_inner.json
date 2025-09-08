@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/ashen_planks",
+    "top": "cemm:block/ashen_planks",
+    "side": "cemm:block/ashen_planks"
+  },
+  "render_type": "solid"
+}

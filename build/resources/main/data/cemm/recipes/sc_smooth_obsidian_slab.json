@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:smooth_obsidian"
+  },
+  "result": "cemm:smooth_obsidian_slab"
+}

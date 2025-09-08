@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:freezing_snow"
+  },
+  "result": "cemm:freezing_snow_wall"
+}

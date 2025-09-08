@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/sea_salt_carpet",
+  "textures": {
+    "all": "cemm:block/sea_salt_block",
+    "particle": "cemm:block/sea_salt_block",
+    "missing": "cemm:block/sea_salt_block"
+  },
+  "render_type": "solid"
+}

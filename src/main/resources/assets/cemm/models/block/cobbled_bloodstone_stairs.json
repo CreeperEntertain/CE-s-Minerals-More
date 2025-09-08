@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cobbled_bloodstone",
+    "top": "cemm:block/cobbled_bloodstone",
+    "side": "cemm:block/cobbled_bloodstone"
+  },
+  "render_type": "solid"
+}

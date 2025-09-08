@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/topaz_mosaic_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/topaz_mosaic_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/topaz_mosaic_slab_full"
+    }
+  }
+}

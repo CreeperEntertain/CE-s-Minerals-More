@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:jungle_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:jungle_shutters",
+    "count": 2
+  }
+}

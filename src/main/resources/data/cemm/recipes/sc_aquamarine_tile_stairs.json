@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:aquamarine_tiles"
+  },
+  "result": "cemm:aquamarine_tile_stairs"
+}

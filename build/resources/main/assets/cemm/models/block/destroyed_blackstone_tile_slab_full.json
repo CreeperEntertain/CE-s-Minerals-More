@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/destroyed_blackstone_tiles",
+    "top": "cemm:block/destroyed_blackstone_tiles",
+    "side": "cemm:block/destroyed_blackstone_tiles"
+  },
+  "render_type": "solid"
+}

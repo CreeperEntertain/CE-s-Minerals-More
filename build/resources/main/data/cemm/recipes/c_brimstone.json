@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:brimstone_block"
+    }
+  },
+  "result": {
+    "item": "cemm:brimstone",
+    "count": 9
+  }
+}

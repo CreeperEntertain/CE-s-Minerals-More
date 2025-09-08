@@ -1,0 +1,34 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "item": "minecraft:sand"
+    },
+    {
+      "tag": "cemm:reinforced_concrete_binders"
+    },
+    {
+      "tag": "cemm:reinforced_concrete_binders"
+    },
+    {
+      "tag": "cemm:reinforced_concrete_binders"
+    },
+    {
+      "tag": "cemm:reinforced_concrete_binders"
+    }
+  ],
+  "result": {
+    "item": "cemm:plaster",
+    "count": 4
+  }
+}

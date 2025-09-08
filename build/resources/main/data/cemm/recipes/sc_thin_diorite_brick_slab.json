@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:thin_diorite_bricks"
+  },
+  "result": "cemm:thin_diorite_brick_slab"
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:broken_nether_tiles"
+  },
+  "result": "cemm:broken_nether_tile_stairs"
+}

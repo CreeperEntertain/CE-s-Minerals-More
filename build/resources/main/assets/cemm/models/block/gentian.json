@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/gentian",
+  "textures": {
+    "all": "cemm:block/gentian",
+    "particle": "cemm:block/gentian",
+    "Gentian": "cemm:block/gentian"
+  },
+  "render_type": "cutout"
+}

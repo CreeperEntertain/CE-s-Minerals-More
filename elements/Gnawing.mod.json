@@ -1,0 +1,12 @@
+{
+  "_fv": 60,
+  "_type": "damagetype",
+  "definition": {
+    "exhaustion": 0.1,
+    "scaling": "always",
+    "effects": "thorns",
+    "normalDeathMessage": "%1$s was eaten",
+    "itemDeathMessage": "%2$s devoured %1$s using %3$s",
+    "playerDeathMessage": "%1$s could not escape the hunger of %2$s"
+  }
+}

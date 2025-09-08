@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/cobbled_dripstone",
+    "top": "cemm:block/cobbled_dripstone",
+    "side": "cemm:block/cobbled_dripstone"
+  },
+  "render_type": "solid"
+}

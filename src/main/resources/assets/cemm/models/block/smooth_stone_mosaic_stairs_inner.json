@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/smooth_stone_mosaic",
+    "top": "cemm:block/smooth_stone_mosaic",
+    "side": "cemm:block/smooth_stone_mosaic"
+  },
+  "render_type": "solid"
+}

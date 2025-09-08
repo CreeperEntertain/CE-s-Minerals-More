@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ashen_log",
+    "up": "cemm:block/ashen_log",
+    "north": "cemm:block/ashen_log",
+    "east": "cemm:block/ashen_log",
+    "south": "cemm:block/ashen_log",
+    "west": "cemm:block/ashen_log",
+    "particle": "cemm:block/ashen_log"
+  },
+  "render_type": "solid"
+}

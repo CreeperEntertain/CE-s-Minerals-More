@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:dark_andesite_tile"
+  },
+  "result": "cemm:dark_andesite_tile_slab"
+}

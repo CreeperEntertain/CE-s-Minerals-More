@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/plaster",
+    "up": "cemm:block/plaster",
+    "north": "cemm:block/mandering_plaster",
+    "east": "cemm:block/mandering_plaster",
+    "south": "cemm:block/mandering_plaster",
+    "west": "cemm:block/mandering_plaster",
+    "particle": "cemm:block/plaster"
+  },
+  "render_type": "solid"
+}

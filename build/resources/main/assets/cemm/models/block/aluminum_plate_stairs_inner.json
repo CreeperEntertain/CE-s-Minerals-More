@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/aluminum_plates",
+    "top": "cemm:block/aluminum_plates",
+    "side": "cemm:block/aluminum_plates"
+  },
+  "render_type": "solid"
+}

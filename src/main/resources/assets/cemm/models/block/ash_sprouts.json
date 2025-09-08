@@ -1,0 +1,8 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "cemm:block/ash_sprouts",
+    "particle": "cemm:block/ash_sprouts"
+  },
+  "render_type": "cutout"
+}

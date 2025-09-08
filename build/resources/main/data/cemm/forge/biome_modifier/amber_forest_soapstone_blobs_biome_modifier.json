@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:amber_forest",
+  "features": "cemm:amber_forest_soapstone_blobs",
+  "step": "underground_ores"
+}

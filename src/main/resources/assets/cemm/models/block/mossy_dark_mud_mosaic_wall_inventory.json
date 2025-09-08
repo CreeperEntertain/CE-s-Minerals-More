@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/mossy_dark_mud_mosaic",
+    "particle": "cemm:block/mossy_dark_mud_mosaic"
+  },
+  "render_type": "solid"
+}

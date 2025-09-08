@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/polished_topaz",
+    "top": "cemm:block/polished_topaz",
+    "side": "cemm:block/polished_topaz"
+  },
+  "render_type": "solid"
+}

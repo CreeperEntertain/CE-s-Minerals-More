@@ -1,0 +1,8 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "cemm:block/winewood_planks",
+    "particle": "cemm:block/winewood_planks"
+  },
+  "render_type": "solid"
+}

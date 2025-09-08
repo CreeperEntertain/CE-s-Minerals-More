@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:dark_mud_tiles"
+  },
+  "result": "cemm:dark_mud_tile_slab"
+}

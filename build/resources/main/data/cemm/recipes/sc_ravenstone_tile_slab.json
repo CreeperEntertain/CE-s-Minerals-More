@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:ravenstone_tiles"
+  },
+  "result": "cemm:ravenstone_tile_slab"
+}

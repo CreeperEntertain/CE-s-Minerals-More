@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/iron_lamp_bottom",
+    "up": "cemm:block/iron_lamp_top",
+    "north": "cemm:block/iron_lamp_side",
+    "east": "cemm:block/iron_lamp_side",
+    "south": "cemm:block/iron_lamp_side",
+    "west": "cemm:block/iron_lamp_side",
+    "particle": "cemm:block/iron_lamp_bottom"
+  },
+  "render_type": "solid"
+}

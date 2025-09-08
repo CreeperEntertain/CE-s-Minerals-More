@@ -1,0 +1,12 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Side": "jump_pad_side",
+        "Top": "jump_pad_top",
+        "Bottom": "jump_pad_bottom"
+      },
+      "name": "default"
+    }
+  }
+}

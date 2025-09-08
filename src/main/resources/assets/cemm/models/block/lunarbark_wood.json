@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/lunarbark_stem",
+    "up": "cemm:block/lunarbark_stem",
+    "north": "cemm:block/lunarbark_stem",
+    "east": "cemm:block/lunarbark_stem",
+    "south": "cemm:block/lunarbark_stem",
+    "west": "cemm:block/lunarbark_stem",
+    "particle": "cemm:block/lunarbark_stem"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/aquamarine_pillar_top",
+    "up": "cemm:block/aquamarine_pillar_top",
+    "north": "cemm:block/aquamarine_pillar",
+    "east": "cemm:block/aquamarine_pillar",
+    "south": "cemm:block/aquamarine_pillar",
+    "west": "cemm:block/aquamarine_pillar",
+    "particle": "cemm:block/aquamarine_pillar_top"
+  },
+  "render_type": "solid"
+}

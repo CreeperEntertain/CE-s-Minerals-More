@@ -1,0 +1,491 @@
+{
+  "credit": "Made with Blockbench",
+  "elements": [
+    {
+      "name": "1",
+      "from": [
+        3,
+        0.25,
+        3
+      ],
+      "to": [
+        13,
+        0.25,
+        13
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            10,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "up": {
+          "uv": [
+            9,
+            3,
+            14,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "down": {
+          "uv": [
+            9,
+            3,
+            14,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        }
+      }
+    },
+    {
+      "name": "2",
+      "from": [
+        2,
+        0,
+        8
+      ],
+      "to": [
+        14,
+        16,
+        8
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            6,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0,
+            16
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            6,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0,
+            16
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            0,
+            12
+          ],
+          "rotation": 270,
+          "texture": "#Swamp Sedge"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            0,
+            12
+          ],
+          "rotation": 90,
+          "texture": "#Swamp Sedge"
+        }
+      }
+    },
+    {
+      "name": "3",
+      "from": [
+        8,
+        0,
+        2
+      ],
+      "to": [
+        8,
+        16,
+        14
+      ],
+      "rotation": {
+        "angle": -45,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            0,
+            16
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            6,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0,
+            16
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            6,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            0,
+            12
+          ],
+          "rotation": 180,
+          "texture": "#Swamp Sedge"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            0,
+            12
+          ],
+          "rotation": 180,
+          "texture": "#Swamp Sedge"
+        }
+      }
+    },
+    {
+      "name": "4",
+      "from": [
+        5,
+        0,
+        8
+      ],
+      "to": [
+        11,
+        10,
+        8
+      ],
+      "faces": {
+        "north": {
+          "uv": [
+            6,
+            3,
+            9,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "east": {
+          "uv": [
+            0,
+            0,
+            0,
+            10
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "south": {
+          "uv": [
+            6,
+            3,
+            9,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "west": {
+          "uv": [
+            0,
+            0,
+            0,
+            10
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            6,
+            0
+          ],
+          "texture": "#Swamp Sedge"
+        }
+      }
+    },
+    {
+      "name": "5",
+      "from": [
+        8,
+        0,
+        5
+      ],
+      "to": [
+        8,
+        10,
+        11
+      ],
+      "rotation": {
+        "angle": 0,
+        "axis": "y",
+        "origin": [
+          8,
+          0,
+          8
+        ]
+      },
+      "faces": {
+        "north": {
+          "uv": [
+            0,
+            0,
+            0,
+            10
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "east": {
+          "uv": [
+            6,
+            3,
+            9,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "south": {
+          "uv": [
+            0,
+            0,
+            0,
+            10
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "west": {
+          "uv": [
+            6,
+            3,
+            9,
+            8
+          ],
+          "texture": "#Swamp Sedge"
+        },
+        "up": {
+          "uv": [
+            0,
+            0,
+            6,
+            0
+          ],
+          "rotation": 270,
+          "texture": "#Swamp Sedge"
+        },
+        "down": {
+          "uv": [
+            0,
+            0,
+            6,
+            0
+          ],
+          "rotation": 90,
+          "texture": "#Swamp Sedge"
+        }
+      }
+    }
+  ],
+  "display": {
+    "thirdperson_righthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "thirdperson_lefthand": {
+      "rotation": [
+        75,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        2.5,
+        0
+      ],
+      "scale": [
+        0.375,
+        0.375,
+        0.375
+      ]
+    },
+    "firstperson_righthand": {
+      "rotation": [
+        0,
+        45,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "firstperson_lefthand": {
+      "rotation": [
+        0,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.4,
+        0.4,
+        0.4
+      ]
+    },
+    "ground": {
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    },
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "head": {
+      "translation": [
+        0,
+        14.5,
+        0
+      ]
+    },
+    "fixed": {
+      "scale": [
+        0.5,
+        0.5,
+        0.5
+      ]
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "half_shell_pillar_side.png": "half_shell_pillar_side",
+        "shell_pillar_top.png": "shell_pillar_top"
+      },
+      "name": "default"
+    }
+  }
+}

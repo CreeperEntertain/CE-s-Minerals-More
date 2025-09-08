@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/framed_wattle_square",
+    "up": "cemm:block/framed_wattle_square",
+    "north": "cemm:block/framed_wattle_vertical",
+    "east": "cemm:block/framed_wattle_vertical",
+    "south": "cemm:block/framed_wattle_vertical",
+    "west": "cemm:block/framed_wattle_vertical",
+    "particle": "cemm:block/framed_wattle_square"
+  },
+  "render_type": "solid"
+}

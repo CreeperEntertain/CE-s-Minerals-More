@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/decaying_algae_carpet",
+  "textures": {
+    "all": "cemm:block/decaying_algae",
+    "particle": "cemm:block/decaying_algae",
+    "0": "cemm:block/decaying_algae"
+  },
+  "render_type": "solid"
+}

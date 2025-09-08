@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "a a"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:stone"
+    }
+  },
+  "result": {
+    "item": "cemm:stone_railing",
+    "count": 10
+  }
+}

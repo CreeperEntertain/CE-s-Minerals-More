@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/amber_sentinel_log_top",
+    "particle": "cemm:block/amber_sentinel_log_top"
+  },
+  "render_type": "solid"
+}

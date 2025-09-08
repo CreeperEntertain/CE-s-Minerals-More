@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "tag": "cemm:blackstone"
+  },
+  "result": "cemm:chiseled_blackstone"
+}

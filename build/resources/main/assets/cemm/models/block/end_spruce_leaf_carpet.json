@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/end_spruce_carpet",
+  "textures": {
+    "all": "cemm:block/end_spruce_leaf_carpet",
+    "particle": "cemm:block/end_spruce_leaf_carpet",
+    "0": "cemm:block/end_spruce_leaf_carpet"
+  },
+  "render_type": "cutout_mipped"
+}

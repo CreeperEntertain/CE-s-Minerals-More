@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/jade_pillar_top",
+    "up": "cemm:block/jade_pillar_top",
+    "north": "cemm:block/jade_pillar",
+    "east": "cemm:block/jade_pillar",
+    "south": "cemm:block/jade_pillar",
+    "west": "cemm:block/jade_pillar",
+    "particle": "cemm:block/jade_pillar_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/dark_prismarine_skirting",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/dark_prismarine_skirting"
+    },
+    "axis=z": {
+      "model": "cemm:block/dark_prismarine_skirting",
+      "x": 90
+    }
+  }
+}

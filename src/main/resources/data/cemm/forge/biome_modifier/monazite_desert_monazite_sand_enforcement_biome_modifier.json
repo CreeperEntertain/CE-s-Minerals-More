@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:monazite_desert",
+  "features": "cemm:monazite_desert_monazite_sand_enforcement",
+  "step": "underground_structures"
+}

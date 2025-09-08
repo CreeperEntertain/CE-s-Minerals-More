@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cracked_brass_tile",
+    "top": "cemm:block/cracked_brass_tile",
+    "side": "cemm:block/cracked_brass_tile"
+  },
+  "render_type": "solid"
+}

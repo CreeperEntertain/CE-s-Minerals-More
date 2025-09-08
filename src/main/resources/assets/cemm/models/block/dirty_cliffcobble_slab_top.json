@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/dirty_cliffcobbles",
+    "top": "cemm:block/dirty_cliffcobbles",
+    "side": "cemm:block/dirty_cliffcobbles"
+  },
+  "render_type": "solid"
+}

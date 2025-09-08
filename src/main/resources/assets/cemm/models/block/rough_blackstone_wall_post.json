@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/rough_blackstone",
+    "particle": "cemm:block/rough_blackstone"
+  },
+  "render_type": "solid"
+}

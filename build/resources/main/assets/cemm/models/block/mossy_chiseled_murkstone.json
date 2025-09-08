@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/mossy_polished_murkstone",
+    "up": "cemm:block/mossy_polished_murkstone",
+    "north": "cemm:block/mossy_chiseled_murkstone",
+    "east": "cemm:block/mossy_chiseled_murkstone",
+    "south": "cemm:block/mossy_chiseled_murkstone",
+    "west": "cemm:block/mossy_chiseled_murkstone",
+    "particle": "cemm:block/mossy_polished_murkstone"
+  },
+  "render_type": "solid"
+}

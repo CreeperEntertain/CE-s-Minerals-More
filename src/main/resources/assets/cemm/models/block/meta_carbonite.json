@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/meta_carbonite",
+    "particle": "cemm:block/meta_carbonite"
+  },
+  "render_type": "solid"
+}

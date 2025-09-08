@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:doric_calcite_column",
+    "cemm:ionic_calcite_column",
+    "cemm:corinthian_calcite_column"
+  ]
+}

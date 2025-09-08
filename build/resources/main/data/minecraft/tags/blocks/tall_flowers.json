@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:foxglove",
+    "cemm:hibiscus",
+    "minecraft:sunflower",
+    "minecraft:lilac",
+    "minecraft:rose_bush",
+    "minecraft:peony",
+    "minecraft:pitcher_plant",
+    "cemm:amber_sentinel_sapling",
+    "cemm:vanilla_vine",
+    "cemm:larkspur",
+    "cemm:blue_sage"
+  ]
+}

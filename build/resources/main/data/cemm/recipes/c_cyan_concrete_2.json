@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aba",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:limestone_pieces"
+    },
+    "b": {
+      "item": "minecraft:cyan_dye"
+    }
+  },
+  "result": {
+    "item": "minecraft:cyan_concrete",
+    "count": 2
+  }
+}

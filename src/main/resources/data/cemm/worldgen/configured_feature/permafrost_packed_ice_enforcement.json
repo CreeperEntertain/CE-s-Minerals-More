@@ -1,0 +1,45 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 64,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:dirt"
+        },
+        "state": {
+          "Name": "minecraft:packed_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:coarse_dirt"
+        },
+        "state": {
+          "Name": "minecraft:packed_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:grass_block"
+        },
+        "state": {
+          "Name": "cemm:snowed_packed_ice"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "block_match",
+          "block": "minecraft:moss_block"
+        },
+        "state": {
+          "Name": "cemm:snowed_packed_ice"
+        }
+      }
+    ]
+  }
+}

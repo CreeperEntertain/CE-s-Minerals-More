@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/burnt_nether_tiles",
+    "top": "cemm:block/burnt_nether_tiles",
+    "side": "cemm:block/burnt_nether_tiles"
+  },
+  "render_type": "solid"
+}

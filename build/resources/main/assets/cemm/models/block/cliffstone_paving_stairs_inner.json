@@ -1,0 +1,9 @@
+{
+  "parent": "block/inner_stairs",
+  "textures": {
+    "bottom": "cemm:block/cliffstone_paving",
+    "top": "cemm:block/cliffstone_paving",
+    "side": "cemm:block/cliffstone_paving"
+  },
+  "render_type": "solid"
+}

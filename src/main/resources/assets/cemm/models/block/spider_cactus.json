@@ -1,0 +1,11 @@
+{
+  "parent": "cemm:custom/spider_cactus",
+  "textures": {
+    "all": "cemm:block/spider_cactus_side",
+    "particle": "cemm:block/spider_cactus_side",
+    "Side": "cemm:block/spider_cactus_side",
+    "2": "cemm:block/warped_moss_block",
+    "Top": "cemm:block/spider_cactus_top"
+  },
+  "render_type": "cutout_mipped"
+}

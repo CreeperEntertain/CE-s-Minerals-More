@@ -1,0 +1,22 @@
+{
+  "_fv": 60,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Blasting",
+    "recipeRetstackSize": 1,
+    "group": "",
+    "cookingBookCategory": "MISC",
+    "xpReward": 0.1,
+    "cookingTime": 100,
+    "craftingBookCategory": "MISC",
+    "recipeShapeless": false,
+    "blastingInputStack": {
+      "value": "Blocks.STONE#5"
+    },
+    "blastingReturnStack": {
+      "value": "CUSTOM:SmoothAndesite"
+    },
+    "name": "bs_smooth_andesite",
+    "namespace": "mod"
+  }
+}

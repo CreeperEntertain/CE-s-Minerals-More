@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "dark_bamboo_ladder"
+      },
+      "name": "default"
+    }
+  }
+}

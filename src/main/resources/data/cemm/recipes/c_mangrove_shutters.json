@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:mangrove_panelling"
+    }
+  },
+  "result": {
+    "item": "cemm:mangrove_shutters",
+    "count": 2
+  }
+}

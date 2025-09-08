@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/ravenstone_obelisk",
+    "up": "cemm:block/ravenstone_obelisk",
+    "north": "cemm:block/ravenstone_eye_05",
+    "east": "cemm:block/ravenstone_obelisk",
+    "south": "cemm:block/ravenstone_obelisk",
+    "west": "cemm:block/ravenstone_obelisk",
+    "particle": "cemm:block/ravenstone_obelisk"
+  },
+  "render_type": "solid"
+}

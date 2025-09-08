@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:hot_springs",
+    "cemm:gypsum_cave"
+  ],
+  "features": "cemm:novaculite_hot_springs_blobs",
+  "step": "fluid_springs"
+}

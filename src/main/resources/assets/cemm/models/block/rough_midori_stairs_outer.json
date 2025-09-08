@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/rough_midori",
+    "top": "cemm:block/rough_midori",
+    "side": "cemm:block/rough_midori"
+  },
+  "render_type": "solid"
+}

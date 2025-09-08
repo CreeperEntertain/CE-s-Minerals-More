@@ -1,0 +1,14 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "beach",
+    "snowy_beach",
+    "desert",
+    "savanna",
+    "savanna_plateau",
+    "windswept_savanna",
+    "cemm:shellcoast"
+  ],
+  "features": "cemm:dune_grass",
+  "step": "vegetal_decoration"
+}

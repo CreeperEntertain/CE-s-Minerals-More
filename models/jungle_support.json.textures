@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "Support Bottom": "jungle_support_bottom",
+        "Support Side": "jungle_support_side"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "ab",
+    "ca"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:solidified_oil"
+    },
+    "b": {
+      "tag": "minecraft:sand"
+    },
+    "c": {
+      "tag": "minecraft:gravel"
+    }
+  },
+  "result": {
+    "item": "cemm:asphalt",
+    "count": 4
+  }
+}

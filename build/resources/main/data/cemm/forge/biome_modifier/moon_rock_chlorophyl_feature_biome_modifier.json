@@ -1,0 +1,11 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:chlorophyl",
+    "cemm:megachloron_surface",
+    "cemm:autumn_fields",
+    "cemm:howling_peaks"
+  ],
+  "features": "cemm:moon_rock_chlorophyl_feature",
+  "step": "underground_decoration"
+}

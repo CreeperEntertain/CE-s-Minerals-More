@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:quartz_cave",
+  "features": "cemm:quartz_sand_distribution",
+  "step": "underground_ores"
+}

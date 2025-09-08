@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:travertine_tiles"
+  },
+  "result": "cemm:travertine_tile_wall"
+}

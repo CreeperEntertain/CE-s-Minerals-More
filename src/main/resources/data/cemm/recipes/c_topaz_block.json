@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:topaz"
+    }
+  },
+  "result": {
+    "item": "cemm:topaz_block",
+    "count": 1
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/sludge_top",
+    "up": "cemm:block/old_moss",
+    "north": "cemm:block/old_mossed_sludge_side",
+    "east": "cemm:block/old_mossed_sludge_side",
+    "south": "cemm:block/old_mossed_sludge_side",
+    "west": "cemm:block/old_mossed_sludge_side",
+    "particle": "cemm:block/sludge_top"
+  },
+  "render_type": "solid"
+}

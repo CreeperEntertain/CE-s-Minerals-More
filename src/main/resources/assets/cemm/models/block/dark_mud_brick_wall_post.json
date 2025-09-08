@@ -1,0 +1,8 @@
+{
+  "parent": "block/template_wall_post",
+  "textures": {
+    "wall": "cemm:block/dark_mud_bricks",
+    "particle": "cemm:block/dark_mud_bricks"
+  },
+  "render_type": "solid"
+}

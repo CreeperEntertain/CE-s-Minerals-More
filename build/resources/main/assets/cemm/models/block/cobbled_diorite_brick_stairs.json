@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/cobbled_diorite_bricks",
+    "top": "cemm:block/cobbled_diorite_bricks",
+    "side": "cemm:block/cobbled_diorite_bricks"
+  },
+  "render_type": "solid"
+}

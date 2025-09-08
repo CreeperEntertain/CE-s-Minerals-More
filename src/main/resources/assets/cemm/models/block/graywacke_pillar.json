@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/graywacke_pillar_top",
+    "up": "cemm:block/graywacke_pillar_top",
+    "north": "cemm:block/graywacke_pillar",
+    "east": "cemm:block/graywacke_pillar",
+    "south": "cemm:block/graywacke_pillar",
+    "west": "cemm:block/graywacke_pillar",
+    "particle": "cemm:block/graywacke_pillar_top"
+  },
+  "render_type": "solid"
+}

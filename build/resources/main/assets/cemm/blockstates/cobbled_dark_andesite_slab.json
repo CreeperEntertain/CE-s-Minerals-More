@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/cobbled_dark_andesite_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/cobbled_dark_andesite_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/cobbled_dark_andesite_slab_full"
+    }
+  }
+}

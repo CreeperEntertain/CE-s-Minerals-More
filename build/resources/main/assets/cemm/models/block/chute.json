@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/chute",
+  "textures": {
+    "all": "cemm:block/chute",
+    "particle": "cemm:block/chute",
+    "0": "cemm:block/chute"
+  },
+  "render_type": "solid"
+}

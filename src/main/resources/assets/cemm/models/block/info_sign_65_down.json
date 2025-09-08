@@ -1,0 +1,10 @@
+{
+  "parent": "cemm:custom/is65down",
+  "textures": {
+    "all": "cemm:block/info_sign_empty",
+    "particle": "cemm:block/info_sign_empty",
+    "Front": "cemm:block/info_sign_square_down",
+    "Back": "cemm:block/info_sign_empty"
+  },
+  "render_type": "solid"
+}

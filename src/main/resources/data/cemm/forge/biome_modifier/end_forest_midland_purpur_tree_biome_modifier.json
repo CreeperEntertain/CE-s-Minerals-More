@@ -1,0 +1,9 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "cemm:end_forest_midland",
+    "cemm:purpur_forest_midland"
+  ],
+  "features": "cemm:end_forest_midland_purpur_tree",
+  "step": "surface_structures"
+}

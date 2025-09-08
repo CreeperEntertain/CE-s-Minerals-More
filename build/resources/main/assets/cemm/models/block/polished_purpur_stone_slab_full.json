@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/polished_purpur_stone",
+    "top": "cemm:block/polished_purpur_stone",
+    "side": "cemm:block/polished_purpur_stone"
+  },
+  "render_type": "solid"
+}

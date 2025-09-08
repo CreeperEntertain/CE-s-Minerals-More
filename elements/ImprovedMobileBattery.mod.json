@@ -1,0 +1,52 @@
+{
+  "_fv": 60,
+  "_type": "item",
+  "definition": {
+    "renderType": 1,
+    "texture": "improved_mobile_battery",
+    "customModelName": "improvedmobilebattery:default",
+    "customProperties": {},
+    "states": [],
+    "name": "Improved Mobile Battery",
+    "rarity": "RARE",
+    "creativeTab": {
+      "value": "CUSTOM:TechnicalBlocks"
+    },
+    "stackSize": 1,
+    "enchantability": 0,
+    "useDuration": 0,
+    "toolType": 1.0,
+    "damageCount": 0,
+    "recipeRemainder": {
+      "value": ""
+    },
+    "destroyAnyBlock": false,
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false,
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "specialInformation": {
+      "fixedValue": [
+        "Stores up to 100000 energy"
+      ]
+    },
+    "guiBoundTo": "<NONE>",
+    "inventorySize": 9,
+    "inventoryStackSize": 64,
+    "onRightClickedInAir": {
+      "name": "DisplayMobileBatteryCharge"
+    },
+    "enableRanged": false,
+    "shootConstantly": false,
+    "isFood": false,
+    "nutritionalValue": 4,
+    "saturation": 0.3,
+    "eatResultItem": {
+      "value": ""
+    },
+    "isMeat": false,
+    "isAlwaysEdible": false,
+    "animation": "block"
+  }
+}

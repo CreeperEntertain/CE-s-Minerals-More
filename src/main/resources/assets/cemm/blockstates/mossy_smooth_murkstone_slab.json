@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/mossy_smooth_murkstone_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/mossy_smooth_murkstone_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/mossy_smooth_murkstone_slab_full"
+    }
+  }
+}

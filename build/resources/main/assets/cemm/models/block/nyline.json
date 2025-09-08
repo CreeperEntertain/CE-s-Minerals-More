@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/meta_carbonite",
+    "up": "cemm:block/nyline",
+    "north": "cemm:block/nyline_side",
+    "east": "cemm:block/nyline_side",
+    "south": "cemm:block/nyline_side",
+    "west": "cemm:block/nyline_side",
+    "particle": "cemm:block/meta_carbonite"
+  },
+  "render_type": "solid"
+}

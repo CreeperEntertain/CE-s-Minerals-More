@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/cracked_mixed_stone_bricks_up_down",
+    "top": "cemm:block/cracked_mixed_stone_bricks_up_down",
+    "side": "cemm:block/cracked_mixed_stone_bricks_up_down"
+  },
+  "render_type": "solid"
+}

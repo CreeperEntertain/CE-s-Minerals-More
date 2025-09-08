@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:small_cracked_blackstone_bricks"
+    }
+  },
+  "result": {
+    "item": "cemm:wrecked_small_blackstone_bricks",
+    "count": 1
+  }
+}

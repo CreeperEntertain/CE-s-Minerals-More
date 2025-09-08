@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:aquamarine_bricks"
+  },
+  "result": "cemm:aquamarine_brick_wall"
+}

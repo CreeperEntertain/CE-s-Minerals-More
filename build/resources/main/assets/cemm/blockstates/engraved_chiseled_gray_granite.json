@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/engraved_chiseled_gray_granite",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/engraved_chiseled_gray_granite"
+    },
+    "axis=z": {
+      "model": "cemm:block/engraved_chiseled_gray_granite",
+      "x": 90
+    }
+  }
+}

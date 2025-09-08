@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/orange_terracotta_pillar_up_down",
+    "up": "cemm:block/orange_terracotta_pillar_up_down",
+    "north": "cemm:block/orange_terracotta_pillar",
+    "east": "cemm:block/orange_terracotta_pillar",
+    "south": "cemm:block/orange_terracotta_pillar",
+    "west": "cemm:block/orange_terracotta_pillar",
+    "particle": "cemm:block/orange_terracotta_pillar_up_down"
+  },
+  "render_type": "solid"
+}

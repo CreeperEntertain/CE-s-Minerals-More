@@ -1,0 +1,10 @@
+{
+  "type": "forge:add_features",
+  "biomes": [
+    "river",
+    "beach",
+    "stony_shore"
+  ],
+  "features": "cemm:wild_beetroot",
+  "step": "vegetal_decoration"
+}

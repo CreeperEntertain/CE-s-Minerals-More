@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "cemm:block/raw_dripstone_pillar",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "cemm:block/raw_dripstone_pillar"
+    },
+    "axis=z": {
+      "model": "cemm:block/raw_dripstone_pillar",
+      "x": 90
+    }
+  }
+}

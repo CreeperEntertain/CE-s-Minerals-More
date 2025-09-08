@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bauxite"
+    }
+  },
+  "result": {
+    "item": "cemm:bauxite_block",
+    "count": 1
+  }
+}

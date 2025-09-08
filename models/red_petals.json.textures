@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "red_petals",
+        "missing": "red_petals"
+      },
+      "name": "default"
+    }
+  }
+}

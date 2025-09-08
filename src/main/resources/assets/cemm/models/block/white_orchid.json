@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/white_orchid",
+    "particle": "cemm:block/white_orchid"
+  },
+  "render_type": "cutout"
+}

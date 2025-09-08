@@ -1,0 +1,97 @@
+{
+  "type": "minecraft:ore",
+  "config": {
+    "size": 8,
+    "discard_chance_on_air_exposure": 0,
+    "targets": [
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:soul_sand"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "minecraft:soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:stony_soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:rocky_soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:infested_soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:coarse_soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:dirty_soul_soil"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      },
+      {
+        "target": {
+          "predicate_type": "blockstate_match",
+          "block_state": {
+            "Name": "cemm:soulrock"
+          }
+        },
+        "state": {
+          "Name": "cemm:soul_gold_ore"
+        }
+      }
+    ]
+  }
+}

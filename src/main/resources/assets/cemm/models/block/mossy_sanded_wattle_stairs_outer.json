@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/mossy_sanded_wattle",
+    "top": "cemm:block/mossy_sanded_wattle",
+    "side": "cemm:block/mossy_sanded_wattle"
+  },
+  "render_type": "solid"
+}

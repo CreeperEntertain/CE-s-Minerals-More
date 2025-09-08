@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/olivine",
+    "top": "cemm:block/olivine",
+    "side": "cemm:block/olivine"
+  },
+  "render_type": "solid"
+}

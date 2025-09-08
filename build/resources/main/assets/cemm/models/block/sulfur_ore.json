@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/sulfur_ore",
+    "particle": "cemm:block/sulfur_ore"
+  },
+  "render_type": "solid"
+}

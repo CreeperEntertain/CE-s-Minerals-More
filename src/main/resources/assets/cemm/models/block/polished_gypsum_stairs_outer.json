@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/polished_gypsum",
+    "top": "cemm:block/polished_gypsum",
+    "side": "cemm:block/polished_gypsum"
+  },
+  "render_type": "solid"
+}

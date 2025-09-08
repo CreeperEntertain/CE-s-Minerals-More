@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "cemm:block/ebony_supports"
+    },
+    "facing=east": {
+      "model": "cemm:block/ebony_supports",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "cemm:block/ebony_supports",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "cemm:block/ebony_supports",
+      "y": 270
+    }
+  }
+}

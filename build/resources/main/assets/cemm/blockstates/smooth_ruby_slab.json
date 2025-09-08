@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "cemm:block/smooth_ruby_slab"
+    },
+    "type=top": {
+      "model": "cemm:block/smooth_ruby_slab_top"
+    },
+    "type=double": {
+      "model": "cemm:block/smooth_ruby_slab_full"
+    }
+  }
+}

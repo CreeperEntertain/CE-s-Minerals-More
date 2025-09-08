@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smoking",
+  "category": "misc",
+  "experience": 0,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:hay_block"
+  },
+  "result": "cemm:dry_hay_bale"
+}

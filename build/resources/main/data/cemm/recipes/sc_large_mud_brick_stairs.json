@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:large_mud_bricks"
+  },
+  "result": "cemm:large_mud_brick_stairs"
+}

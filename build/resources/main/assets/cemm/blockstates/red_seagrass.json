@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "blockstate=0": {
+      "model": "cemm:block/red_seagrass"
+    },
+    "blockstate=1": {
+      "model": "cemm:block/red_seagrass_states_blockstate_0"
+    },
+    "blockstate=2": {
+      "model": "cemm:block/red_seagrass_states_blockstate_1"
+    }
+  }
+}

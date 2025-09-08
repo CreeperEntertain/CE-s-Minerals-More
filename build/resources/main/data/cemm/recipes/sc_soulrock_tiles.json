@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:soulrock"
+  },
+  "result": "cemm:soulrock_tiles"
+}

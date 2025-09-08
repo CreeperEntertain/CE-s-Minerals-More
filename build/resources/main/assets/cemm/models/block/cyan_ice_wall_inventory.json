@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/cyan_ice",
+    "particle": "cemm:block/cyan_ice"
+  },
+  "render_type": "solid"
+}

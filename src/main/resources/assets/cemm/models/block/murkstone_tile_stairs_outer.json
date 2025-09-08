@@ -1,0 +1,9 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "cemm:block/murkstone_tiles",
+    "top": "cemm:block/murkstone_tiles",
+    "side": "cemm:block/murkstone_tiles"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/malachite",
+    "top": "cemm:block/malachite",
+    "side": "cemm:block/malachite"
+  },
+  "render_type": "solid"
+}

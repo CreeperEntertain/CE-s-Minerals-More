@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:bordeaux_boscage",
+  "features": "cemm:bordeaux_boscage_quartzite_underground_placement",
+  "step": "local_modifications"
+}

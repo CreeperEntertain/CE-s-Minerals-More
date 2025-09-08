@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/orange_marble",
+    "particle": "cemm:block/orange_marble"
+  },
+  "render_type": "solid"
+}

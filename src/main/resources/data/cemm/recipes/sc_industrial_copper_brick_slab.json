@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:industrial_copper_bricks"
+  },
+  "result": "cemm:industrial_copper_slab"
+}

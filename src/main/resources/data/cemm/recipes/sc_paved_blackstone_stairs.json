@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:blackstone_paving"
+  },
+  "result": "cemm:paved_blackstone_stairs"
+}

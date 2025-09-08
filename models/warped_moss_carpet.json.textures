@@ -1,0 +1,10 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "0": "warped_moss_block"
+      },
+      "name": "default"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/bloodstone",
+    "top": "cemm:block/bloodstone",
+    "side": "cemm:block/bloodstone"
+  },
+  "render_type": "solid"
+}

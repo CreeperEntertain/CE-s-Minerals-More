@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "b"
+  ],
+  "key": {
+    "a": {
+      "tag": "cemm:snow_ingredients"
+    },
+    "b": {
+      "item": "cemm:tough_black_ice"
+    }
+  },
+  "result": {
+    "item": "cemm:snowed_tough_black_ice",
+    "count": 1
+  }
+}

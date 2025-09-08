@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/purpurite",
+    "top": "cemm:block/purpurite",
+    "side": "cemm:block/purpurite"
+  },
+  "render_type": "solid"
+}

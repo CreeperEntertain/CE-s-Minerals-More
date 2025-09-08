@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/aluminum_beam_connector",
+    "particle": "cemm:block/aluminum_beam_connector"
+  },
+  "render_type": "solid"
+}

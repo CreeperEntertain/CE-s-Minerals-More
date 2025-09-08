@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/missing_blackstone_bricks",
+    "top": "cemm:block/missing_blackstone_bricks",
+    "side": "cemm:block/missing_blackstone_bricks"
+  },
+  "render_type": "solid"
+}

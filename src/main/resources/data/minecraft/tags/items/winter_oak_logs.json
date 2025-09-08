@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:winter_oak_log",
+    "cemm:stripped_winter_oak_log",
+    "cemm:winter_oak_wood",
+    "cemm:stripped_winter_oak_wood",
+    "cemm:cut_winter_oak",
+    "cemm:cut_stripped_winter_oak"
+  ]
+}

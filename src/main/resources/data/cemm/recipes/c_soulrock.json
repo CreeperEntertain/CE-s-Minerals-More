@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aa",
+    "aa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "item": "cemm:cobbled_soulrock",
+    "count": 1
+  }
+}

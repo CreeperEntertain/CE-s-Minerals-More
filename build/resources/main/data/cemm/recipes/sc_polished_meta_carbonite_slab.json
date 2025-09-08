@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 2,
+  "ingredient": {
+    "item": "cemm:polished_meta_carbonite"
+  },
+  "result": "cemm:polished_meta_carbonite_slab"
+}

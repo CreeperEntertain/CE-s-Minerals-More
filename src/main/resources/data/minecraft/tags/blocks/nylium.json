@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "cemm:warped_moss_block",
+    "cemm:warped_silt",
+    "cemm:rocky_warped_silt",
+    "cemm:crimson_moss_block",
+    "cemm:soot"
+  ]
+}

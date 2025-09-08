@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:hellscape",
+  "features": "cemm:hellscape_fireshade_trees",
+  "step": "top_layer_modification"
+}

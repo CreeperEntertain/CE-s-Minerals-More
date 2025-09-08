@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:claystone_mountains",
+  "features": "cemm:claystone_mountains_claystone_enforcement",
+  "step": "underground_structures"
+}

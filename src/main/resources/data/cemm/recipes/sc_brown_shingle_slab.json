@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:brown_shingles"
+  },
+  "result": "cemm:brown_shingle_slab"
+}

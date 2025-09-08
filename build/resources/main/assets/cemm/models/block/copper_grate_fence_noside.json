@@ -1,0 +1,7 @@
+{
+  "parent": "block/template_glass_pane_noside",
+  "textures": {
+    "pane": "cemm:block/copper_scaffolding_top"
+  },
+  "render_type": "cutout_mipped"
+}

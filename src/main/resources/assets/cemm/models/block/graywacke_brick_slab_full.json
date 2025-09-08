@@ -1,0 +1,9 @@
+{
+  "parent": "block/cube_bottom_top",
+  "textures": {
+    "bottom": "cemm:block/graywacke_bricks",
+    "top": "cemm:block/graywacke_bricks",
+    "side": "cemm:block/graywacke_bricks"
+  },
+  "render_type": "solid"
+}

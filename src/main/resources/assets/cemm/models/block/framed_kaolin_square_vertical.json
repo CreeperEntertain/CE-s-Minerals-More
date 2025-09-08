@@ -1,0 +1,8 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "cemm:block/framed_kaolin_vertial",
+    "particle": "cemm:block/framed_kaolin_vertial"
+  },
+  "render_type": "solid"
+}

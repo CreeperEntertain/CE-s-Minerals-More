@@ -1,0 +1,8 @@
+{
+  "parent": "block/wall_inventory",
+  "textures": {
+    "wall": "cemm:block/broken_nether_bricks",
+    "particle": "cemm:block/broken_nether_bricks"
+  },
+  "render_type": "solid"
+}

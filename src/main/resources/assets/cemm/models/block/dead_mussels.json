@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/dead_mussels",
+  "textures": {
+    "all": "cemm:block/dead_mussel",
+    "particle": "cemm:block/dead_mussel",
+    "0": "cemm:block/dead_mussel"
+  },
+  "render_type": "cutout_mipped"
+}

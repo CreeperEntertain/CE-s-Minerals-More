@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:cobbled_warpstone"
+  },
+  "result": "cemm:cobbled_warpstone_stairs"
+}

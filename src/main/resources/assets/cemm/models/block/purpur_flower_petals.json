@@ -1,0 +1,9 @@
+{
+  "parent": "cemm:custom/purpur_petals",
+  "textures": {
+    "all": "cemm:block/purpur_flower_petals",
+    "particle": "cemm:block/purpur_flower_petals",
+    "0": "cemm:block/purpur_flower_petals"
+  },
+  "render_type": "cutout"
+}

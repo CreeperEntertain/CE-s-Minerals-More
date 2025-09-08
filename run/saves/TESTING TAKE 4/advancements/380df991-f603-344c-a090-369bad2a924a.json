@@ -1,0 +1,73 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-08-31 08:46:38 +0200"
+    },
+    "done": true
+  },
+  "cemm:welcome_to_the_game": {
+    "criteria": {
+      "welcome_to_the_game_0": "2025-08-31 08:46:38 +0200"
+    },
+    "done": true
+  },
+  "cemm:cemm_additions": {
+    "criteria": {
+      "cemm_additions_0": "2025-08-31 08:46:38 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:dark_forest": "2025-08-31 08:46:39 +0200",
+      "minecraft:river": "2025-08-31 08:48:21 +0200",
+      "minecraft:forest": "2025-08-31 08:59:38 +0200",
+      "minecraft:windswept_forest": "2025-08-31 08:59:31 +0200",
+      "minecraft:old_growth_birch_forest": "2025-08-31 08:48:40 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-08-31 08:48:29 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}

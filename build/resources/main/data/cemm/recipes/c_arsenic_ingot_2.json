@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a",
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:arsenic_pellet"
+    }
+  },
+  "result": {
+    "item": "cemm:arsenic_ingot",
+    "count": 1
+  }
+}

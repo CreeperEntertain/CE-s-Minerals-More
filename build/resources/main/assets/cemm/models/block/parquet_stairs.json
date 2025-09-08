@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/parquet",
+    "top": "cemm:block/parquet",
+    "side": "cemm:block/parquet"
+  },
+  "render_type": "solid"
+}

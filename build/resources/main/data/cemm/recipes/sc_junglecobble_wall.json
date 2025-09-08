@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "count": 1,
+  "ingredient": {
+    "item": "cemm:junglecobbles"
+  },
+  "result": "cemm:junglecobble_wall"
+}

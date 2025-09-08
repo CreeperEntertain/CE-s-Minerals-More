@@ -1,0 +1,8 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "cemm:block/red_polypore_ground",
+    "particle": "cemm:block/red_polypore"
+  },
+  "render_type": "cutout"
+}

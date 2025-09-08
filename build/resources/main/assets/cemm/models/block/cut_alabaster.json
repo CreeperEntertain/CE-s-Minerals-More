@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/polished_alabaster",
+    "up": "cemm:block/alabaster",
+    "north": "cemm:block/cut_alabaster",
+    "east": "cemm:block/cut_alabaster",
+    "south": "cemm:block/cut_alabaster",
+    "west": "cemm:block/cut_alabaster",
+    "particle": "cemm:block/polished_alabaster"
+  },
+  "render_type": "solid"
+}

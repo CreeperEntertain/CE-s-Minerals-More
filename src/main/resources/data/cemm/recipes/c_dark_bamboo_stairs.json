@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a  ",
+    "aa ",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dark_bamboo_planks"
+    }
+  },
+  "result": {
+    "item": "cemm:dark_bamboo_stairs",
+    "count": 4
+  }
+}

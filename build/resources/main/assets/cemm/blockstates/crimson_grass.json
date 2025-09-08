@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=upper": {
+      "model": "cemm:block/crimson_grass"
+    },
+    "half=lower": {
+      "model": "cemm:block/crimson_grass_bottom"
+    }
+  }
+}

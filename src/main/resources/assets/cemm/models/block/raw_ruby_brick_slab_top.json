@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "cemm:block/raw_ruby_bricks",
+    "top": "cemm:block/raw_ruby_bricks",
+    "side": "cemm:block/raw_ruby_bricks"
+  },
+  "render_type": "solid"
+}

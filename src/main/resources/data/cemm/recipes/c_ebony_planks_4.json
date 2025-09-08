@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cut_ebony"
+    }
+  },
+  "result": {
+    "item": "cemm:ebony_planks",
+    "count": 4
+  }
+}

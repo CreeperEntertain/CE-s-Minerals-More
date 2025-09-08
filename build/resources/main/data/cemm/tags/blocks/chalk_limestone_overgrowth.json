@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:grass_block",
+    "cemm:grassed_chalk",
+    "cemm:grassed_limestone",
+    "cemm:grassed_scorched_dirt",
+    "cemm:grassed_dirty_mud",
+    "cemm:grassed_dried_mud"
+  ]
+}

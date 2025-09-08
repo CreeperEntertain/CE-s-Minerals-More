@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:purpur_spikes_midland",
+  "features": "cemm:midori_midland_midori_features",
+  "step": "raw_generation"
+}

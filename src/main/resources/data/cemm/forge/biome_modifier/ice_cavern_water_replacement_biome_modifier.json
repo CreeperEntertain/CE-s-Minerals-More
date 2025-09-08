@@ -1,0 +1,6 @@
+{
+  "type": "forge:add_features",
+  "biomes": "cemm:ice_cave",
+  "features": "cemm:ice_cavern_water_replacement",
+  "step": "vegetal_decoration"
+}

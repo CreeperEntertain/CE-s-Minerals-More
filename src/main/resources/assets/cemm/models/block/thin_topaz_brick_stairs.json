@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/thin_topaz_bricks",
+    "top": "cemm:block/thin_topaz_bricks",
+    "side": "cemm:block/thin_topaz_bricks"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cemm:block/stripped_amber_sentinel_log_top",
+    "up": "cemm:block/stripped_amber_sentinel_log_top",
+    "north": "cemm:block/stripped_amber_sentinel_log",
+    "east": "cemm:block/stripped_amber_sentinel_log",
+    "south": "cemm:block/stripped_amber_sentinel_log",
+    "west": "cemm:block/stripped_amber_sentinel_log",
+    "particle": "cemm:block/stripped_amber_sentinel_log_top"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "block/stairs",
+  "textures": {
+    "bottom": "cemm:block/decorative_brass",
+    "top": "cemm:block/decorative_brass",
+    "side": "cemm:block/decorative_brass"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "cemm:blackstone_tiles"
+    },
+    {
+      "item": "cemm:blackstone_tiles"
+    },
+    {
+      "item": "minecraft:nether_wart_block"
+    },
+    {
+      "item": "cemm:blackstone_tiles"
+    },
+    {
+      "item": "cemm:blackstone_tiles"
+    }
+  ],
+  "result": {
+    "item": "cemm:consumed_blackstone_tiles",
+    "count": 4
+  }
+}

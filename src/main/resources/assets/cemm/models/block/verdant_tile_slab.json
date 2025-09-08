@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "bottom": "cemm:block/verdant_tiles",
+    "top": "cemm:block/verdant_tiles",
+    "side": "cemm:block/verdant_tiles"
+  },
+  "render_type": "solid"
+}
